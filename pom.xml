@@ -10,7 +10,7 @@
   	<mybatis.version>3.4.6</mybatis.version>
   	<log4j2.version>2.11.0</log4j2.version>
   	<slf4j.version>1.7.25</slf4j.version>
-  	<jackson.version>2.9.4</jackson.version>
+  	<jackson.version>2.9.5</jackson.version>
   	<mariadb.version>2.2.3</mariadb.version>
   	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -164,6 +164,50 @@
   			<version>${slf4j.version}</version>
   		</dependency>
   		
+  		<dependency>
+  			<groupId>javax.servlet</groupId>
+  			<artifactId>javax.servlet-api</artifactId>
+  			<version>4.0.0</version>
+  			<scope>provided</scope>
+  		</dependency>
+  		<dependency>
+  			<groupId>javax.servlet.jsp</groupId>
+  			<artifactId>javax.servlet.jsp-api</artifactId>
+  			<version>2.3.1</version>
+  			<scope>provided</scope>
+  		</dependency>
+  		<dependency>
+  			<groupId>javax.el</groupId>
+  			<artifactId>javax.el-api</artifactId>
+  			<version>3.0.0</version>
+  			<scope>provided</scope>
+  		</dependency>
+  		
+  		<dependency>
+  			<groupId>com.fasterxml.jackson.core</groupId>
+  			<artifactId>jackson-core</artifactId>
+  			<version>${jackson.version}</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>com.fasterxml.jackson.core</groupId>
+  			<artifactId>jackson-databind</artifactId>
+  			<version>${jackson.version}</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>com.fasterxml.jackson.dataformat</groupId>
+  			<artifactId>jackson-dataformat-cbor</artifactId>
+  			<version>${jackson.version}</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>com.fasterxml.jackson.dataformat</groupId>
+  			<artifactId>jackson-dataformat-smile</artifactId>
+  			<version>${jackson.version}</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>com.fasterxml.jackson.dataformat</groupId>
+  			<artifactId>jackson-dataformat-xml</artifactId>
+  			<version>${jackson.version}</version>
+  		</dependency>
   		
   		<dependency>
   			<groupId>junit</groupId>
