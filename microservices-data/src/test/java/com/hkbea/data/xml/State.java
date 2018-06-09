@@ -4,12 +4,14 @@ import java.util.Set;
 
 public class State {
 
-	private Long id;
+	private int id;
 	
 	private String name;
 	
 	private String code;
 
+	private int parentId;
+	
 	private Set<City> cities;
 	
 	public State(String name, String code) {
@@ -18,18 +20,18 @@ public class State {
 		this.code = code;
 	}
 
-	public State(Long id, String name, String code) {
+	public State(int id, String name, String code) {
 		super();
 		this.id = id;
 		this.name = name;
 		this.code = code;
 	}
 
-	public Long getId() {
+	public int getId() {
 		return id;
 	}
 
-	public void setId(Long id) {
+	public void setId(int id) {
 		this.id = id;
 	}
 
@@ -56,4 +58,13 @@ public class State {
 	public void setCities(Set<City> cities) {
 		this.cities = cities;
 	}
+
+	public int getParentId() {
+		return parentId;
+	}
+
+	public void setParentId(int parentId) {
+		this.parentId = parentId;
+	}
+	
 }
