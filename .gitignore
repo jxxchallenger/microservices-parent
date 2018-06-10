@@ -38,3 +38,4 @@ hs_err_pid*
 .project
 .settings/
 test-output/
+test-suite/

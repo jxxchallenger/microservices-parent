@@ -10,7 +10,7 @@
     <!-- <Root level="trace">  
       <AppenderRef ref="Console"/>  
     </Root> -->  
-    <Root level="debug">  
+    <Root level="trace">  
       <AppenderRef ref="Console"/>  
     </Root>  
   </Loggers>    
