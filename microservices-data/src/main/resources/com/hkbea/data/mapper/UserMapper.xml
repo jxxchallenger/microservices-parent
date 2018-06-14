@@ -68,4 +68,25 @@
 			#{createTime, jdbcType=TIMESTAMP}
 		)
 	</insert>
+	
+	<insert id="insert3">
+		INSERT INTO sys_user(
+			user_name, 
+			user_password, 
+			user_email, 
+			user_info, 
+			head_img, 
+			create_time)
+		VALUES(
+			#{userName},
+			#{userPassword},
+			#{userEmail},
+			#{userInfo},
+			#{headImg},
+			now()
+		)
+		<selectKey keyProperty="id" keyColumn="id" resultType="long" order="AFTER">
+			SELECT LAST_INSERT_ID()
+		</selectKey>
+	</insert>
 </mapper>
