@@ -1,3795 +1,3795 @@
-INSERT INTO city(id, name, code, state_id) VALUES(100055000, '通辽', '5', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100053000, '乌海', '3', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100057000, '呼伦贝尔', '7', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100062000, '阿拉善', '29', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100056000, '鄂尔多斯', '6', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100061000, '锡林郭勒', '25', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100051000, '呼和浩特', '1', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100058000, '巴彦淖尔', '8', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100060000, '兴安', '22', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100052000, '包头', '2', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100059000, '乌兰察布', '9', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100054000, '赤峰', '4', 100050000);
-INSERT INTO city(id, name, code, state_id) VALUES(100261000, '拉萨', '1', 100260000);
-INSERT INTO city(id, name, code, state_id) VALUES(100266000, '阿里', '25', 100260000);
-INSERT INTO city(id, name, code, state_id) VALUES(100267000, '林芝', '26', 100260000);
-INSERT INTO city(id, name, code, state_id) VALUES(100262000, '昌都', '21', 100260000);
-INSERT INTO city(id, name, code, state_id) VALUES(100264000, '日喀则', '23', 100260000);
-INSERT INTO city(id, name, code, state_id) VALUES(100265000, '那曲', '24', 100260000);
-INSERT INTO city(id, name, code, state_id) VALUES(100263000, '山南', '22', 100260000);
-INSERT INTO city(id, name, code, state_id) VALUES(100042000, '大同', '2', 100040000);
-INSERT INTO city(id, name, code, state_id) VALUES(100049000, '忻州', '9', 100040000);
-INSERT INTO city(id, name, code, state_id) VALUES(100050000, '临汾', '10', 100040000);
-INSERT INTO city(id, name, code, state_id) VALUES(100045000, '晋城', '5', 100040000);
-INSERT INTO city(id, name, code, state_id) VALUES(100047000, '晋中', '7', 100040000);
-INSERT INTO city(id, name, code, state_id) VALUES(100051000, '吕梁', '11', 100040000);
-INSERT INTO city(id, name, code, state_id) VALUES(100046000, '朔州', '6', 100040000);
-INSERT INTO city(id, name, code, state_id) VALUES(100041000, '太原', '1', 100040000);
-INSERT INTO city(id, name, code, state_id) VALUES(100044000, '长治', '4', 100040000);
-INSERT INTO city(id, name, code, state_id) VALUES(100043000, '阳泉', '3', 100040000);
-INSERT INTO city(id, name, code, state_id) VALUES(100048000, '运城', '8', 100040000);
-INSERT INTO city(id, name, code, state_id) VALUES(100235000, '长寿', '21', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100239000, '大足', '25', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100254000, '石柱', '40', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100247000, '忠县', '33', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100226000, '沙坪坝', '6', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100256000, '酉阳', '42', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100245000, '垫江', '31', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100237000, '潼南', '23', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100243000, '城口', '29', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100228000, '南岸', '8', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100244000, '丰都', '30', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100250000, '奉节', '36', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100230000, '两江新区', '85', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100242000, '梁平', '28', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100231000, '万盛', '10', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100233000, '渝北', '12', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100223000, '渝中', '3', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100249000, '云阳', '35', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100234000, '巴南', '13', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100232000, '双桥', '11', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100241000, '璧山', '27', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100258000, '江津', '81', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100236000, '綦江', '22', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100252000, '巫溪', '38', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100227000, '九龙坡', '7', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100261000, '南川', '84', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100260000, '永川', '83', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100253000, '黔江', '39', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100221000, '万州', '1', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100222000, '涪陵', '2', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100240000, '荣昌', '26', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100251000, '巫山', '37', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100259000, '合川', '82', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100238000, '铜梁', '24', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100229000, '北碚', '9', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100248000, '开县', '34', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100246000, '武隆', '32', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100225000, '江北', '5', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100255000, '秀山', '41', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100257000, '彭水', '43', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100224000, '大渡口', '4', 100220000);
-INSERT INTO city(id, name, code, state_id) VALUES(100320000, '喀什', '31', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100329000, '北屯', '95', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100311000, '乌鲁木齐', '1', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100313000, '吐鲁番', '21', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100327000, '图木舒克', '93', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100322000, '伊犁', '40', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100314000, '哈密', '22', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100315000, '昌吉', '23', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100319000, '克孜勒苏', '30', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100317000, '巴音郭楞', '28', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100325000, '石河子', '91', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100321000, '和田', '32', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100326000, '阿拉尔', '92', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100318000, '阿克苏', '29', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100324000, '阿勒泰', '43', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100328000, '五家渠', '94', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100323000, '塔城', '42', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100316000, '博尔塔拉', '27', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100312000, '克拉玛依', '2', 100310000);
-INSERT INTO city(id, name, code, state_id) VALUES(100092000, '卢湾', '3', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100107000, '青浦', '29', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100108000, '崇明', '30', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100093000, '徐汇', '4', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100097000, '闸北', '8', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100099000, '杨浦', '11', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100104000, '金山', '16', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100094000, '长宁', '5', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100105000, '松江', '17', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100098000, '虹口', '9', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100095000, '静安', '6', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100096000, '普陀', '7', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100103000, '浦东新区', '15', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100102000, '嘉定', '14', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100091000, '黄浦', '1', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100100000, '闵行', '12', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100106000, '奉贤', '26', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100101000, '宝山', '13', 100090000);
-INSERT INTO city(id, name, code, state_id) VALUES(100137000, '南平', '7', 100130000);
-INSERT INTO city(id, name, code, state_id) VALUES(100133000, '莆田', '3', 100130000);
-INSERT INTO city(id, name, code, state_id) VALUES(100134000, '三明', '4', 100130000);
-INSERT INTO city(id, name, code, state_id) VALUES(100139000, '宁德', '9', 100130000);
-INSERT INTO city(id, name, code, state_id) VALUES(100132000, '厦门', '2', 100130000);
-INSERT INTO city(id, name, code, state_id) VALUES(100136000, '漳州', '6', 100130000);
-INSERT INTO city(id, name, code, state_id) VALUES(100131000, '福州', '1', 100130000);
-INSERT INTO city(id, name, code, state_id) VALUES(100135000, '泉州', '5', 100130000);
-INSERT INTO city(id, name, code, state_id) VALUES(100138000, '龙岩', '8', 100130000);
-INSERT INTO city(id, name, code, state_id) VALUES(100162000, '莱芜', '12', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100153000, '淄博', '3', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100159000, '泰安', '9', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100160000, '威海', '10', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100158000, '济宁', '8', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100166000, '滨州', '16', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100161000, '日照', '11', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100163000, '临沂', '13', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100154000, '枣庄', '4', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100155000, '东营', '5', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100157000, '潍坊', '7', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100151000, '济南', '1', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100156000, '烟台', '6', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100152000, '青岛', '2', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100164000, '德州', '14', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100165000, '聊城', '15', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100167000, '菏泽', '17', 100150000);
-INSERT INTO city(id, name, code, state_id) VALUES(100118000, '衢州', '8', 100110000);
-INSERT INTO city(id, name, code, state_id) VALUES(100114000, '嘉兴', '4', 100110000);
-INSERT INTO city(id, name, code, state_id) VALUES(100121000, '丽水', '11', 100110000);
-INSERT INTO city(id, name, code, state_id) VALUES(100112000, '宁波', '2', 100110000);
-INSERT INTO city(id, name, code, state_id) VALUES(100117000, '金华', '7', 100110000);
-INSERT INTO city(id, name, code, state_id) VALUES(100113000, '温州', '3', 100110000);
-INSERT INTO city(id, name, code, state_id) VALUES(100115000, '湖州', '5', 100110000);
-INSERT INTO city(id, name, code, state_id) VALUES(100111000, '杭州', '1', 100110000);
-INSERT INTO city(id, name, code, state_id) VALUES(100120000, '台州', '10', 100110000);
-INSERT INTO city(id, name, code, state_id) VALUES(100119000, '舟山', '9', 100110000);
-INSERT INTO city(id, name, code, state_id) VALUES(100116000, '绍兴', '6', 100110000);
-INSERT INTO city(id, name, code, state_id) VALUES(100064000, '抚顺', '4', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100062000, '大连', '2', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100068000, '营口', '8', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100061000, '沈阳', '1', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100072000, '铁岭', '12', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100074000, '葫芦岛', '14', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100065000, '本溪', '5', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100066000, '丹东', '6', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100070000, '辽阳', '10', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100063000, '鞍山', '3', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100067000, '锦州', '7', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100073000, '朝阳', '13', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100071000, '盘锦', '11', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100069000, '阜新', '9', 100060000);
-INSERT INTO city(id, name, code, state_id) VALUES(100261000, '文山', '26', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100266000, '迪庆', '34', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100253000, '玉溪', '4', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100251000, '昆明', '1', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100263000, '大理', '29', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100252000, '曲靖', '3', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100259000, '楚雄', '23', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100257000, '普洱', '8', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100264000, '德宏', '31', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100265000, '怒江', '33', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100262000, '西双版纳', '28', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100254000, '保山', '5', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100255000, '昭通', '6', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100256000, '丽江', '7', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100258000, '临沧', '9', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100260000, '红河', '25', 100250000);
-INSERT INTO city(id, name, code, state_id) VALUES(100093000, '大兴安岭', '27', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100091000, '黑河', '11', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100089000, '七台河', '9', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100088000, '佳木斯', '8', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100085000, '双鸭山', '5', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100081000, '哈尔滨', '1', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100083000, '鸡西', '3', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100092000, '绥化', '12', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100090000, '牡丹江', '10', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100082000, '齐齐哈尔', '2', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100086000, '大庆', '6', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100087000, '伊春', '7', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100084000, '鹤岗', '4', 100080000);
-INSERT INTO city(id, name, code, state_id) VALUES(100304000, '固原', '4', 100300000);
-INSERT INTO city(id, name, code, state_id) VALUES(100303000, '吴忠', '3', 100300000);
-INSERT INTO city(id, name, code, state_id) VALUES(100302000, '石嘴山', '2', 100300000);
-INSERT INTO city(id, name, code, state_id) VALUES(100305000, '中卫', '5', 100300000);
-INSERT INTO city(id, name, code, state_id) VALUES(100301000, '银川', '1', 100300000);
-INSERT INTO city(id, name, code, state_id) VALUES(100332000, '东区', 'HEA', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100341000, '葵青区', 'NKT', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100347000, '荃湾区', 'NTW', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100346000, '大埔区', 'NTP', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100331000, '中西区', 'HCW', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100336000, '深水埗区', 'KSS', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100333000, '九龙城区', 'KKC', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100344000, '沙田区', 'NST', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100339000, '油尖旺区', 'KYT', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100338000, '湾仔区', 'HWC', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100340000, '离岛区', 'NIS', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100345000, '屯门区', 'NTM', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100342000, '北区', 'NNO', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100343000, '西贡区', 'NSK', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100334000, '观塘区', 'KKT', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100337000, '黄大仙区', 'KWT', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100348000, '元朗区', 'NYL', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100335000, '南区', 'HSO', 100330000);
-INSERT INTO city(id, name, code, state_id) VALUES(100033000, '秦皇岛', '3', 100030000);
-INSERT INTO city(id, name, code, state_id) VALUES(100032000, '唐山', '2', 100030000);
-INSERT INTO city(id, name, code, state_id) VALUES(100031000, '石家庄', '1', 100030000);
-INSERT INTO city(id, name, code, state_id) VALUES(100036000, '保定', '6', 100030000);
-INSERT INTO city(id, name, code, state_id) VALUES(100040000, '廊坊', '10', 100030000);
-INSERT INTO city(id, name, code, state_id) VALUES(100035000, '邢台', '5', 100030000);
-INSERT INTO city(id, name, code, state_id) VALUES(100038000, '承德', '8', 100030000);
-INSERT INTO city(id, name, code, state_id) VALUES(100034000, '邯郸', '4', 100030000);
-INSERT INTO city(id, name, code, state_id) VALUES(100037000, '张家口', '7', 100030000);
-INSERT INTO city(id, name, code, state_id) VALUES(100039000, '沧州', '9', 100030000);
-INSERT INTO city(id, name, code, state_id) VALUES(100041000, '衡水', '11', 100030000);
-INSERT INTO city(id, name, code, state_id) VALUES(100273000, '宝鸡', '3', 100270000);
-INSERT INTO city(id, name, code, state_id) VALUES(100274000, '咸阳', '4', 100270000);
-INSERT INTO city(id, name, code, state_id) VALUES(100271000, '西安', '1', 100270000);
-INSERT INTO city(id, name, code, state_id) VALUES(100277000, '汉中', '7', 100270000);
-INSERT INTO city(id, name, code, state_id) VALUES(100278000, '榆林', '8', 100270000);
-INSERT INTO city(id, name, code, state_id) VALUES(100275000, '渭南', '5', 100270000);
-INSERT INTO city(id, name, code, state_id) VALUES(100276000, '延安', '6', 100270000);
-INSERT INTO city(id, name, code, state_id) VALUES(100272000, '铜川', '2', 100270000);
-INSERT INTO city(id, name, code, state_id) VALUES(100280000, '商洛', '10', 100270000);
-INSERT INTO city(id, name, code, state_id) VALUES(100279000, '安康', '9', 100270000);
-INSERT INTO city(id, name, code, state_id) VALUES(100282000, '嘉峪关', '2', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100291000, '定西', '11', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100283000, '金昌', '3', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100294000, '甘南', '30', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100292000, '陇南', '12', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100293000, '临夏', '29', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100284000, '白银', '4', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100289000, '酒泉', '9', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100287000, '张掖', '7', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100288000, '平凉', '8', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100281000, '兰州市', '1', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100286000, '武威', '6', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100285000, '天水', '5', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100290000, '庆阳', '10', 100280000);
-INSERT INTO city(id, name, code, state_id) VALUES(100213000, '三沙', '3', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100214000, '五指山', '91', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100225000, '昌江', 'A31', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100221000, '屯昌', 'A26', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100222000, '澄迈', 'A27', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100211000, '海口', '1', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100212000, '三亚', '2', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100217000, '文昌', '95', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100219000, '东方', '97', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100229000, '琼中', 'A36', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100220000, '定安', 'A25', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100226000, '乐东', 'A33', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100224000, '白沙', 'A30', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100227000, '陵水', 'A34', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100216000, '儋州', '93', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100223000, '临高', 'A28', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100228000, '保亭', 'A35', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100218000, '万宁', '96', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100215000, '琼海', '92', 100210000);
-INSERT INTO city(id, name, code, state_id) VALUES(100235000, '德阳', '6', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100246000, '雅安', '18', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100242000, '眉山', '14', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100240000, '乐山', '11', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100231000, '成都', '1', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100251000, '凉山', '34', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100233000, '攀枝花', '4', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100243000, '宜宾', '15', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100245000, '达州', '17', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100237000, '广元', '8', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100247000, '巴中', '19', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100249000, '阿坝', '32', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100236000, '绵阳', '7', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100244000, '广安', '16', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100232000, '自贡', '3', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100238000, '遂宁', '9', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100239000, '内江', '10', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100248000, '资阳', '20', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100234000, '泸州', '5', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100241000, '南充', '13', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100250000, '甘孜', '33', 100230000);
-INSERT INTO city(id, name, code, state_id) VALUES(100133000, '六安', '15', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100132000, '宿州', '13', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100121000, '合肥', '1', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100128000, '安庆', '8', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100125000, '马鞍山', '5', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100127000, '铜陵', '7', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100134000, '亳州', '16', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100123000, '蚌埠', '3', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100122000, '芜湖', '2', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100130000, '滁州', '11', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100135000, '池州', '17', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100136000, '宣城', '18', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100129000, '黄山', '10', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100131000, '阜阳', '12', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100124000, '淮南', '4', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100126000, '淮北', '6', 100120000);
-INSERT INTO city(id, name, code, state_id) VALUES(100246000, '黔西南', '23', 100240000);
-INSERT INTO city(id, name, code, state_id) VALUES(100249000, '黔南', '27', 100240000);
-INSERT INTO city(id, name, code, state_id) VALUES(100242000, '六盘水', '2', 100240000);
-INSERT INTO city(id, name, code, state_id) VALUES(100243000, '遵义', '3', 100240000);
-INSERT INTO city(id, name, code, state_id) VALUES(100244000, '安顺', '4', 100240000);
-INSERT INTO city(id, name, code, state_id) VALUES(100248000, '黔东南', '26', 100240000);
-INSERT INTO city(id, name, code, state_id) VALUES(100241000, '贵阳', '1', 100240000);
-INSERT INTO city(id, name, code, state_id) VALUES(100247000, '毕节', '24', 100240000);
-INSERT INTO city(id, name, code, state_id) VALUES(100245000, '铜仁', '22', 100240000);
-INSERT INTO city(id, name, code, state_id) VALUES(100019000, '通州', '12', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100024000, '怀柔', '27', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100018000, '房山', '11', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100014000, '丰台', '6', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100017000, '门头沟', '9', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100013000, '朝阳', '5', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100023000, '平谷', '26', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100016000, '海淀', '8', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100022000, '大兴', '24', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100021000, '昌平', '21', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100011000, '东城', '1', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100025000, '密云', '28', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100012000, '西城', '2', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100020000, '顺义', '13', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100026000, '延庆', '29', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100015000, '石景山', '7', 100010000);
-INSERT INTO city(id, name, code, state_id) VALUES(100145000, '新余', '5', 100140000);
-INSERT INTO city(id, name, code, state_id) VALUES(100148000, '吉安', '8', 100140000);
-INSERT INTO city(id, name, code, state_id) VALUES(100142000, '景德镇', '2', 100140000);
-INSERT INTO city(id, name, code, state_id) VALUES(100149000, '宜春', '9', 100140000);
-INSERT INTO city(id, name, code, state_id) VALUES(100143000, '萍乡', '3', 100140000);
-INSERT INTO city(id, name, code, state_id) VALUES(100144000, '九江', '4', 100140000);
-INSERT INTO city(id, name, code, state_id) VALUES(100147000, '赣州', '7', 100140000);
-INSERT INTO city(id, name, code, state_id) VALUES(100141000, '南昌', '1', 100140000);
-INSERT INTO city(id, name, code, state_id) VALUES(100146000, '鹰潭', '6', 100140000);
-INSERT INTO city(id, name, code, state_id) VALUES(100150000, '抚州', '10', 100140000);
-INSERT INTO city(id, name, code, state_id) VALUES(100151000, '上饶', '11', 100140000);
-INSERT INTO city(id, name, code, state_id) VALUES(100031000, '北辰', '13', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100028000, '东丽', '10', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100024000, '南开', '4', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100027000, '滨海新区', '26', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100035000, '宝坻', '24', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100023000, '河西', '3', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100026000, '红桥', '6', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100030000, '津南', '12', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100022000, '河东', '2', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100033000, '武清', '22', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100034000, '静海', '23', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100025000, '河北', '5', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100032000, '宁河', '21', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100021000, '和平', '1', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100029000, '西青', '11', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100036000, '蓟县', '25', 100020000);
-INSERT INTO city(id, name, code, state_id) VALUES(100073000, '四平', '3', 100070000);
-INSERT INTO city(id, name, code, state_id) VALUES(100079000, '延边', '24', 100070000);
-INSERT INTO city(id, name, code, state_id) VALUES(100078000, '白城', '8', 100070000);
-INSERT INTO city(id, name, code, state_id) VALUES(100071000, '长春', '1', 100070000);
-INSERT INTO city(id, name, code, state_id) VALUES(100075000, '通化', '5', 100070000);
-INSERT INTO city(id, name, code, state_id) VALUES(100074000, '辽源', '4', 100070000);
-INSERT INTO city(id, name, code, state_id) VALUES(100072000, '吉林', '2', 100070000);
-INSERT INTO city(id, name, code, state_id) VALUES(100076000, '白山', '6', 100070000);
-INSERT INTO city(id, name, code, state_id) VALUES(100077000, '松原', '7', 100070000);
-INSERT INTO city(id, name, code, state_id) VALUES(100102000, '无锡', '2', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100110000, '扬州', '10', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100112000, '泰州', '12', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100105000, '苏州', '5', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100111000, '镇江', '11', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100101000, '南京', '1', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100106000, '南通', '6', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100107000, '连云港', '7', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100104000, '常州', '4', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100108000, '淮安', '8', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100109000, '盐城', '9', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100103000, '徐州', '3', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100113000, '宿迁', '13', 100100000);
-INSERT INTO city(id, name, code, state_id) VALUES(100174000, '宜昌', '5', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100185000, '潜江', '95', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100184000, '仙桃', '94', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100186000, '天门', '96', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100179000, '荆州', '10', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100175000, '襄阳', '6', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100181000, '咸宁', '12', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100172000, '黄石', '2', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100187000, '神农架', 'A21', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100173000, '十堰', '3', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100180000, '黄冈', '11', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100176000, '鄂州', '7', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100177000, '荆门', '8', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100171000, '武汉', '1', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100182000, '随州', '13', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100178000, '孝感', '9', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100183000, '恩施', '28', 100170000);
-INSERT INTO city(id, name, code, state_id) VALUES(100202000, '梅州', '14', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100206000, '清远', '18', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100211000, '云浮', '53', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100204000, '河源', '16', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100199000, '茂名', '9', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100198000, '湛江', '8', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100193000, '深圳', '3', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100196000, '佛山', '6', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100207000, '东莞', '19', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100208000, '中山', '20', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100195000, '汕头', '5', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100201000, '惠州', '13', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100209000, '潮州', '51', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100205000, '阳江', '17', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100194000, '珠海', '4', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100192000, '韶关', '2', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100203000, '汕尾', '15', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100191000, '广州', '1', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100210000, '揭阳', '52', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100197000, '江门', '7', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100200000, '肇庆', '12', 100190000);
-INSERT INTO city(id, name, code, state_id) VALUES(100201000, '南宁', '1', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100207000, '钦州', '7', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100204000, '梧州', '4', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100211000, '贺州', '11', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100209000, '玉林', '9', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100212000, '河池', '12', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100214000, '崇左', '14', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100213000, '来宾', '13', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100205000, '北海', '5', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100206000, '防城港', '6', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100210000, '百色', '10', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100202000, '柳州', '2', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100203000, '桂林', '3', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100208000, '贵港', '8', 100200000);
-INSERT INTO city(id, name, code, state_id) VALUES(100187000, '常德', '7', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100191000, '永州', '11', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100189000, '益阳', '9', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100188000, '张家界', '8', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100182000, '株洲', '2', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100184000, '衡阳', '4', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100192000, '怀化', '12', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100181000, '长沙', '1', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100193000, '娄底', '13', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100185000, '邵阳', '5', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100190000, '郴州', '10', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100186000, '岳阳', '6', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100183000, '湘潭', '3', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100194000, '湘西', '31', 100180000);
-INSERT INTO city(id, name, code, state_id) VALUES(100345000, '风顺堂区', 'LAZ', 100340000);
-INSERT INTO city(id, name, code, state_id) VALUES(100341000, '花地玛堂区', 'OLF', 100340000);
-INSERT INTO city(id, name, code, state_id) VALUES(100346000, '氹仔', 'TPA', 100340000);
-INSERT INTO city(id, name, code, state_id) VALUES(100344000, '望德堂区', 'LAW', 100340000);
-INSERT INTO city(id, name, code, state_id) VALUES(100343000, '大堂区', 'CAT', 100340000);
-INSERT INTO city(id, name, code, state_id) VALUES(100347000, '路环', 'CLN', 100340000);
-INSERT INTO city(id, name, code, state_id) VALUES(100342000, '圣安多尼堂区', 'ANT', 100340000);
-INSERT INTO city(id, name, code, state_id) VALUES(100173000, '南阳', '13', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100169000, '濮阳', '9', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100167000, '新乡', '7', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100172000, '三门峡', '12', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100168000, '焦作', '8', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100175000, '信阳', '15', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100164000, '平顶山', '4', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100177000, '驻马店', '17', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100163000, '洛阳', '3', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100161000, '郑州', '1', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100162000, '开封', '2', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100176000, '周口', '16', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100166000, '鹤壁', '6', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100170000, '许昌', '10', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100165000, '安阳', '5', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100171000, '漯河', '11', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100178000, '济源', '18', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100174000, '商丘', '14', 100160000);
-INSERT INTO city(id, name, code, state_id) VALUES(100334000, '彰化县', '14', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100342000, '花莲县', '23', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100330000, '桃园县', '10', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100337000, '嘉义县', '17', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100325000, '台南市', '5', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100336000, '云林县', '16', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100323000, '基隆市', '3', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100331000, '新竹县', '11', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100321000, '台北市', '1', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100324000, '台中市', '4', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100326000, '新竹市', '6', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100338000, '台南县', '18', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100339000, '高雄县', '19', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100341000, '台东县', '22', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100333000, '台中县', '13', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100327000, '嘉义市', '7', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100329000, '宜兰县', '9', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100328000, '台北县', '8', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100332000, '苗栗县', '12', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100322000, '高雄市', '2', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100335000, '南投县', '15', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100343000, '澎湖县', '21', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100340000, '屏东县', '20', 100320000);
-INSERT INTO city(id, name, code, state_id) VALUES(100296000, '果洛', '26', 100290000);
-INSERT INTO city(id, name, code, state_id) VALUES(100294000, '黄南', '23', 100290000);
-INSERT INTO city(id, name, code, state_id) VALUES(100297000, '玉树', '27', 100290000);
-INSERT INTO city(id, name, code, state_id) VALUES(100298000, '海西', '28', 100290000);
-INSERT INTO city(id, name, code, state_id) VALUES(100292000, '海东', '21', 100290000);
-INSERT INTO city(id, name, code, state_id) VALUES(100293000, '海北', '22', 100290000);
-INSERT INTO city(id, name, code, state_id) VALUES(100291000, '西宁', '1', 100290000);
-INSERT INTO city(id, name, code, state_id) VALUES(100295000, '海南', '25', 100290000);
-INSERT INTO city(id, name, code, state_id) VALUES(101020000, '莱什', 'LE', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(101022000, '斯库台', 'SH', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(101014000, '都拉斯', 'DR', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(101021000, '培拉特', 'BR', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(101018000, '科尔察', 'KO', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(101016000, '费里', 'FR', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(101011000, '爱尔巴桑', 'EL', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(101017000, '吉诺卡斯特', 'GJ', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(101015000, '发罗拉', 'VL', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(101019000, '库克斯', 'KU', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(101012000, '迪勃拉', 'DI', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(101013000, '地拉那', 'TR', 101010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102043000, '赛伊达', 'SAI', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102051000, '提亚雷特', 'TIA', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102032000, '吉杰尔', 'JIJ', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102031000, '赫利赞', 'REL', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102014000, '艾因·蒂姆尚特', 'ATE', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102015000, '安纳巴', 'AAE', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102048000, '特贝萨', 'TEB', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102021000, '比斯克拉', 'BIS', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102058000, '伊利齐', 'ILL', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102037000, '麦迪亚', 'MED', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102057000, '谢里夫', 'CHL', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102023000, '布利达', 'BLI', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102054000, '瓦尔格拉', 'OUA', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102011000, '阿德拉尔', 'ADR', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102022000, '布尔吉·布阿雷里吉', 'BOR', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102046000, '塔里夫', 'ETA', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102041000, '纳阿马', 'NAA', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102013000, '艾因·德夫拉', 'ADE', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102056000, '西迪贝勒阿贝斯', 'SBA', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102053000, '瓦德', 'EOU', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102044000, '斯基克达', 'SKI', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102045000, '苏克·阿赫拉斯', 'SAH', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102018000, '贝贾亚', 'BJA', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102047000, '塔曼拉塞特', 'TAM', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102016000, '奥兰', 'ORA', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102025000, '布依拉', 'BOA', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102028000, '盖尔达耶', 'GHA', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102052000, '廷杜夫', 'TIN', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102030000, '罕西拉', 'KHE', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102024000, '布迈德斯', 'BOU', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102019000, '贝沙尔', 'BEC', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102017000, '巴特纳', 'BAT', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102049000, '特莱姆森', 'TLE', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102055000, '乌姆布阿基', 'OEB', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102033000, '杰勒法', 'DJE', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102034000, '君士坦丁', 'CZL', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102042000, '塞蒂夫', 'SET', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102040000, '姆西拉', 'MSI', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102036000, '马斯卡拉', 'MUA', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102038000, '密拉', 'MIL', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102050000, '提济乌祖', 'IOU', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102012000, '阿尔及尔', 'ALG', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102026000, '蒂巴扎', 'TIP', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102035000, '拉格瓦特', 'LAG', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102020000, '贝伊德', 'EBA', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102029000, '盖尔马', 'GUE', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102039000, '莫斯塔加纳姆', 'MOS', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(102027000, '蒂斯姆西勒特', 'TIS', 102010000);
-INSERT INTO city(id, name, code, state_id) VALUES(103011000, '赫拉特', 'HEA', 103010000);
-INSERT INTO city(id, name, code, state_id) VALUES(103014000, '马扎里沙里夫', 'MZR', 103010000);
-INSERT INTO city(id, name, code, state_id) VALUES(103012000, '喀布尔', 'KBL', 103010000);
-INSERT INTO city(id, name, code, state_id) VALUES(103013000, '坎大哈', 'KDH', 103010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104032000, '门多萨', 'MDZ', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104039000, '圣路易斯', 'LUQ', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104036000, '圣菲', 'SFN', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104020000, '科连特斯', 'CNQ', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104015000, '布宜诺斯艾利斯', 'BUE', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104029000, '罗萨里奥', 'ROS', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104022000, '肯考迪娅', 'COC', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104024000, '拉普拉塔', 'LPG', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104033000, '内乌肯', 'NQN', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104040000, '圣罗莎', 'RSA', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104044000, '乌斯怀亚', 'USH', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104031000, '马德普拉塔', 'MDQ', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104011000, '巴拉那', 'PRA', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104041000, '圣米格尔-德图库曼', 'SMC', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104012000, '别德马', 'VDM', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104035000, '圣地亚哥-德尔埃斯特罗', 'SDE', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104028000, '里瓦达维亚海军准将城', 'CRD', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104037000, '圣胡安', 'UAQ', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104023000, '拉里奥哈', 'IRJ', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104013000, '波萨达斯', 'PSS', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104038000, '圣拉斐尔', 'AFA', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104027000, '里奥夸尔托', 'RCU', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104042000, '圣尼古拉斯', 'SNS', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104018000, '卡塔马卡', 'CTC', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104017000, '胡胡伊', 'JUJ', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104026000, '里奥加耶戈斯', 'RGL', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104025000, '雷西斯滕匹亚', 'RES', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104014000, '布兰卡港', 'BHI', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104043000, '特雷利乌', 'REL', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104034000, '萨尔塔', 'SLA', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104019000, '科尔多瓦', 'COR', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104030000, '罗森', 'RWO', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104021000, '克劳斯城', 'VLK', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(104016000, '福莫萨', 'FMA', 104010000);
-INSERT INTO city(id, name, code, state_id) VALUES(105013000, '迪拜', 'DU', 105010000);
-INSERT INTO city(id, name, code, state_id) VALUES(105011000, '阿布扎比', 'AZ', 105010000);
-INSERT INTO city(id, name, code, state_id) VALUES(105012000, '艾因', 'AL', 105010000);
-INSERT INTO city(id, name, code, state_id) VALUES(105014000, '沙迦', 'SH', 105010000);
-INSERT INTO city(id, name, code, state_id) VALUES(107015000, '穆桑达姆省', 'MU', 107010000);
-INSERT INTO city(id, name, code, state_id) VALUES(107017000, '中部地区', 'WU', 107010000);
-INSERT INTO city(id, name, code, state_id) VALUES(107013000, '东部地区', 'SH', 107010000);
-INSERT INTO city(id, name, code, state_id) VALUES(107011000, '巴提奈地区', 'BA', 107010000);
-INSERT INTO city(id, name, code, state_id) VALUES(107018000, '佐法尔省', 'ZU', 107010000);
-INSERT INTO city(id, name, code, state_id) VALUES(107014000, '马斯喀特省', 'MA', 107010000);
-INSERT INTO city(id, name, code, state_id) VALUES(107016000, '内地地区', 'DA', 107010000);
-INSERT INTO city(id, name, code, state_id) VALUES(107012000, '达希莱地区', 'ZA', 107010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108012000, '哈奇马斯', 'XAC', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108019000, '纳希切万', 'NX', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108020000, '普利亚拉克斯', 'PRI', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108022000, '苏姆盖特', 'SMC', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108013000, '卡尔巴卡尔', 'KAL', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108023000, '锡尔万', 'SIR', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108017000, '穆甘-萨连', 'MSA', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108024000, '占贾', 'GA', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108016000, '密尔-卡拉巴赫', 'MQA', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108015000, '连科兰', 'LAN', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108018000, '纳戈尔诺－卡拉巴赫', 'NQA', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108014000, '卡扎赫', 'QAZ', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108011000, '阿布歇隆', 'ABS', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(108021000, '舍基', 'SA', 108010000);
-INSERT INTO city(id, name, code, state_id) VALUES(110012000, '古尔代盖', 'GBY', 110010000);
-INSERT INTO city(id, name, code, state_id) VALUES(110015000, '亚历山大', 'ALY', 110010000);
-INSERT INTO city(id, name, code, state_id) VALUES(110011000, '阿斯旺', 'ASW', 110010000);
-INSERT INTO city(id, name, code, state_id) VALUES(110013000, '开罗', 'CAI', 110010000);
-INSERT INTO city(id, name, code, state_id) VALUES(110014000, '苏布拉开马', 'SKH', 110010000);
-INSERT INTO city(id, name, code, state_id) VALUES(111013000, '奥罗米亚', 'OR', 111010000);
-INSERT INTO city(id, name, code, state_id) VALUES(111017000, '哈勒里民族', 'HR', 111010000);
-INSERT INTO city(id, name, code, state_id) VALUES(111012000, '阿姆哈拉', 'AH', 111010000);
-INSERT INTO city(id, name, code, state_id) VALUES(111021000, '亚的斯亚贝巴', 'AA', 111010000);
-INSERT INTO city(id, name, code, state_id) VALUES(111015000, '德雷达瓦', 'DD', 111010000);
-INSERT INTO city(id, name, code, state_id) VALUES(111014000, '宾香古尔', 'BG', 111010000);
-INSERT INTO city(id, name, code, state_id) VALUES(111018000, '南方各族', 'SN', 111010000);
-INSERT INTO city(id, name, code, state_id) VALUES(111019000, '索马里', 'SM', 111010000);
-INSERT INTO city(id, name, code, state_id) VALUES(111016000, '甘贝拉各族', 'GB', 111010000);
-INSERT INTO city(id, name, code, state_id) VALUES(111020000, '提格雷', 'TG', 111010000);
-INSERT INTO city(id, name, code, state_id) VALUES(111011000, '阿法尔', 'AF', 111010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112035000, '沃特福德', 'WF', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112018000, '卡范', 'CV', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112023000, '朗福德', 'LF', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112031000, '莫内根', 'MG', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112013000, '都柏林', 'DB', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112016000, '基尔代尔', 'KD', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112028000, '罗斯康芒', 'RC', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112034000, '韦克斯福德', 'WX', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112022000, '克莱尔', 'CL', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112030000, '米斯', 'MT', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112032000, '斯莱戈', 'SL', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112014000, '多内加尔', 'DG', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112011000, '奥法利', 'OF', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112019000, '卡洛', 'CW', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112020000, '凯里', 'KR', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112017000, '基尔肯尼', 'KK', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112033000, '威克洛', 'WK', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112036000, '西米斯', 'WM', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112025000, '崂斯', 'LA', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112026000, '利默里克', 'LM', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112021000, '科克', 'CK', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112024000, '劳斯', 'LT', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112015000, '戈尔韦', 'GW', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112029000, '梅奥', 'MY', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112012000, '蒂珀雷里', 'TP', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(112027000, '利特里姆', 'LR', 112010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113013000, '拉普拉', '70', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113015000, '帕尔努', '67', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113018000, '瓦尔加', '82', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113025000, '依达－维鲁', '44', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113019000, '维良地', '84', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113023000, '耶尔韦', '51', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113011000, '贝尔瓦', '65', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113021000, '沃鲁', '86', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113014000, '里亚内', '57', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113017000, '塔尔图', '78', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113024000, '耶盖瓦', '49', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113020000, '维鲁', '59', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113012000, '哈留', '37', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113022000, '希尤', '39', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(113016000, '萨雷', '74', 113010000);
-INSERT INTO city(id, name, code, state_id) VALUES(114012000, '奥尔迪诺', '5', 114010000);
-INSERT INTO city(id, name, code, state_id) VALUES(114017000, '圣胡利娅－德洛里亚', '6', 114010000);
-INSERT INTO city(id, name, code, state_id) VALUES(114011000, '安道尔城', '7', 114010000);
-INSERT INTO city(id, name, code, state_id) VALUES(114014000, '卡尼略', '2', 114010000);
-INSERT INTO city(id, name, code, state_id) VALUES(114015000, '莱塞斯卡尔德－恩戈尔达', '8', 114010000);
-INSERT INTO city(id, name, code, state_id) VALUES(114013000, '恩坎普', '3', 114010000);
-INSERT INTO city(id, name, code, state_id) VALUES(114016000, '马萨纳', '4', 114010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115015000, '比耶', 'BIE', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115028000, '扎伊尔', 'ZAI', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115024000, '南隆达', 'LSU', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115011000, '北宽扎', 'CNO', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115025000, '万博', 'HUA', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115018000, '宽多库邦戈', 'CCU', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115021000, '莫希科', 'MOX', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115022000, '纳米贝', 'NAM', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115023000, '南宽扎', 'CUS', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115026000, '威拉', 'HUI', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115016000, '卡宾达', 'CAB', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115017000, '库内内', 'CNN', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115027000, '威热', 'UIG', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115012000, '北隆达', 'LNO', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115014000, '本格拉', 'BGU', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115013000, '本戈', 'BGO', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115020000, '马兰热', 'MAL', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(115019000, '罗安达', 'LUA', 115010000);
-INSERT INTO city(id, name, code, state_id) VALUES(118021000, '堪培拉', 'CBR', 118020000);
-INSERT INTO city(id, name, code, state_id) VALUES(118046000, '默里布里奇', 'MYB', 118040000);
-INSERT INTO city(id, name, code, state_id) VALUES(118047000, '皮里港', 'PPI', 118040000);
-INSERT INTO city(id, name, code, state_id) VALUES(118045000, '林肯港', 'PLO', 118040000);
-INSERT INTO city(id, name, code, state_id) VALUES(118044000, '怀阿拉', 'WAY', 118040000);
-INSERT INTO city(id, name, code, state_id) VALUES(118048000, '维克托港', 'VHA', 118040000);
-INSERT INTO city(id, name, code, state_id) VALUES(118043000, '甘比亚山', 'MGB', 118040000);
-INSERT INTO city(id, name, code, state_id) VALUES(118041000, '阿德莱德', 'ADL', 118040000);
-INSERT INTO city(id, name, code, state_id) VALUES(118042000, '奥古斯塔港', 'PUG', 118040000);
-INSERT INTO city(id, name, code, state_id) VALUES(118073000, '弗里曼特尔港', 'FRE', 118070000);
-INSERT INTO city(id, name, code, state_id) VALUES(118076000, '曼哲拉', 'MDU', 118070000);
-INSERT INTO city(id, name, code, state_id) VALUES(118072000, '班伯里', 'BUY', 118070000);
-INSERT INTO city(id, name, code, state_id) VALUES(118075000, '卡尔古利', 'KGI', 118070000);
-INSERT INTO city(id, name, code, state_id) VALUES(118071000, '奥尔巴尼', 'ALH', 118070000);
-INSERT INTO city(id, name, code, state_id) VALUES(118077000, '珀斯', 'PER', 118070000);
-INSERT INTO city(id, name, code, state_id) VALUES(118074000, '杰拉尔顿', 'GET', 118070000);
-INSERT INTO city(id, name, code, state_id) VALUES(118036000, '图文巴', 'TWB', 118030000);
-INSERT INTO city(id, name, code, state_id) VALUES(118031000, '布里斯班', 'BNE', 118030000);
-INSERT INTO city(id, name, code, state_id) VALUES(118033000, '凯恩斯', 'CNS', 118030000);
-INSERT INTO city(id, name, code, state_id) VALUES(118032000, '黄金海岸', 'OOL', 118030000);
-INSERT INTO city(id, name, code, state_id) VALUES(118035000, '汤斯维尔', 'TSV', 118030000);
-INSERT INTO city(id, name, code, state_id) VALUES(118034000, '日光海岸', 'CUD', 118030000);
-INSERT INTO city(id, name, code, state_id) VALUES(118011000, '北帕默斯顿', 'PAL', 118010000);
-INSERT INTO city(id, name, code, state_id) VALUES(118012000, '达尔文', 'DRW', 118010000);
-INSERT INTO city(id, name, code, state_id) VALUES(118062000, '墨尔本', 'MEL', 118060000);
-INSERT INTO city(id, name, code, state_id) VALUES(118061000, '吉朗', 'GEX', 118060000);
-INSERT INTO city(id, name, code, state_id) VALUES(118082000, '伍伦贡', 'WOL', 118080000);
-INSERT INTO city(id, name, code, state_id) VALUES(118083000, '悉尼', 'HBS', 118080000);
-INSERT INTO city(id, name, code, state_id) VALUES(118081000, '纽卡斯尔', 'NTL', 118080000);
-INSERT INTO city(id, name, code, state_id) VALUES(118054000, '朗塞斯顿', 'LST', 118050000);
-INSERT INTO city(id, name, code, state_id) VALUES(118051000, '伯尼港', 'BWT', 118050000);
-INSERT INTO city(id, name, code, state_id) VALUES(118053000, '霍巴特', 'HBA', 118050000);
-INSERT INTO city(id, name, code, state_id) VALUES(118052000, '德文波特', 'DPO', 118050000);
-INSERT INTO city(id, name, code, state_id) VALUES(119015000, '萨尔茨堡', 'SZG', 119010000);
-INSERT INTO city(id, name, code, state_id) VALUES(119013000, '福拉尔贝格', 'VOR', 119010000);
-INSERT INTO city(id, name, code, state_id) VALUES(119012000, '蒂罗尔', 'TYR', 119010000);
-INSERT INTO city(id, name, code, state_id) VALUES(119017000, '施蒂利亚', 'STY', 119010000);
-INSERT INTO city(id, name, code, state_id) VALUES(119016000, '上奥地利', 'UAU', 119010000);
-INSERT INTO city(id, name, code, state_id) VALUES(119014000, '克恩顿', 'CAT', 119010000);
-INSERT INTO city(id, name, code, state_id) VALUES(119011000, '布尔根兰', 'BUR', 119010000);
-INSERT INTO city(id, name, code, state_id) VALUES(119018000, '维也纳', 'VDD', 119010000);
-INSERT INTO city(id, name, code, state_id) VALUES(119019000, '下奥地利', 'LAU', 119010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122014000, '东塞皮克', 'ES', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122016000, '恩加', 'EN', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122029000, '新爱尔兰', 'NI', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122027000, '西部高地', 'WH', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122015000, '东新不列颠', 'EB', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122019000, '马努斯', 'MN', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122012000, '布干维尔', 'BV', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122013000, '东部高地', 'EH', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122022000, '莫罗贝', 'MR', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122025000, '桑道恩', 'SA', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122011000, '北部', 'NO', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122026000, '西部', 'WE', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122020000, '米尔恩湾', 'MB', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122028000, '西新不列颠', 'WB', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122017000, '海湾', 'GU', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122018000, '马当', 'MD', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122021000, '莫尔兹比港', 'NC', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122023000, '南部高地', 'SH', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(122024000, '钦布', 'SI', 122010000);
-INSERT INTO city(id, name, code, state_id) VALUES(124012000, '费萨拉巴德', 'LYP', 124010000);
-INSERT INTO city(id, name, code, state_id) VALUES(124018000, '木尔坦', 'MUX', 124010000);
-INSERT INTO city(id, name, code, state_id) VALUES(124011000, '白沙瓦', 'PEW', 124010000);
-INSERT INTO city(id, name, code, state_id) VALUES(124014000, '海德拉巴', 'HDD', 124010000);
-INSERT INTO city(id, name, code, state_id) VALUES(124016000, '拉合尔', 'LHE', 124010000);
-INSERT INTO city(id, name, code, state_id) VALUES(124019000, '伊斯兰堡', 'ISB', 124010000);
-INSERT INTO city(id, name, code, state_id) VALUES(124017000, '拉瓦尔品第', 'RWP', 124010000);
-INSERT INTO city(id, name, code, state_id) VALUES(124013000, '故吉软瓦拉', 'GUJ', 124010000);
-INSERT INTO city(id, name, code, state_id) VALUES(124015000, '卡拉奇', 'KCT', 124010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125011000, '阿曼拜', 'AM', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125012000, '阿耶斯总统省', 'PH', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125022000, '涅恩布库', 'NE', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125018000, '卡萨帕', 'CZ', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125025000, '圣佩德罗', 'SP', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125015000, '瓜伊拉', 'GU', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125023000, '上巴拉圭', 'AG', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125019000, '康塞普西翁', 'CC', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125024000, '上巴拉那', 'AN', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125027000, '伊塔普亚', 'IT', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125026000, '亚松森特别区', 'AS', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125014000, '博克龙', 'BO', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125013000, '巴拉瓜里', 'PA', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125017000, '卡嫩迪尤', 'CN', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125021000, '米西奥内斯', 'MI', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125016000, '卡瓜苏', 'CG', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125020000, '科迪勒拉', 'CD', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(125028000, '中央', 'CE', 125010000);
-INSERT INTO city(id, name, code, state_id) VALUES(126012000, '西岸', 'WE', 126010000);
-INSERT INTO city(id, name, code, state_id) VALUES(126011000, '加沙地带', 'GZ', 126010000);
-INSERT INTO city(id, name, code, state_id) VALUES(127016000, '穆哈拉格', '2', 127010000);
-INSERT INTO city(id, name, code, state_id) VALUES(127018000, '伊萨城', '8', 127010000);
-INSERT INTO city(id, name, code, state_id) VALUES(127013000, '哈马德', '12', 127010000);
-INSERT INTO city(id, name, code, state_id) VALUES(127014000, '里法', '9', 127010000);
-INSERT INTO city(id, name, code, state_id) VALUES(127017000, '西部', '10', 127010000);
-INSERT INTO city(id, name, code, state_id) VALUES(127019000, '中部', '7', 127010000);
-INSERT INTO city(id, name, code, state_id) VALUES(127015000, '麦纳麦', '3', 127010000);
-INSERT INTO city(id, name, code, state_id) VALUES(127012000, '哈德', '1', 127010000);
-INSERT INTO city(id, name, code, state_id) VALUES(127011000, '北部', '5', 127010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129034000, '圣保罗', 'SP', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129031000, '塞阿拉', 'CE', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129012000, '阿拉戈斯', 'AL', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129036000, '托坎廷斯', 'TO', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129037000, '亚马孙', 'AM', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129032000, '塞尔希培', 'SE', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129030000, '皮奥伊', 'PI', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129029000, '帕拉伊巴', 'PB', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129033000, '圣埃斯皮里图', 'ES', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129014000, '巴拉那', 'PR', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129035000, '圣卡塔琳娜', 'SC', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129015000, '巴西利亚', 'BSB', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129022000, '罗赖马', 'RR', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129026000, '南里奥格兰德', 'RS', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129024000, '马托格罗索', 'MT', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129027000, '南马托格罗索', 'MS', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129028000, '帕拉', 'PA', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129020000, '朗多尼亚', 'RO', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129025000, '米纳斯吉拉斯', 'MG', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129018000, '伯南布哥', 'PE', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129013000, '阿马帕', 'AP', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129011000, '阿克里', 'AC', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129021000, '里约热内卢', 'RJ', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129023000, '马拉尼昂', 'MA', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129016000, '巴伊亚', 'BA', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129017000, '北里奥格兰德', 'RN', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(129019000, '戈亚斯', 'GO', 129010000);
-INSERT INTO city(id, name, code, state_id) VALUES(130012000, '戈梅利', 'HO', 130010000);
-INSERT INTO city(id, name, code, state_id) VALUES(130014000, '明斯克市', 'MI', 130010000);
-INSERT INTO city(id, name, code, state_id) VALUES(130016000, '维捷布斯克', 'VI', 130010000);
-INSERT INTO city(id, name, code, state_id) VALUES(130011000, '布列斯特', 'BR', 130010000);
-INSERT INTO city(id, name, code, state_id) VALUES(130013000, '格罗德诺', 'HR', 130010000);
-INSERT INTO city(id, name, code, state_id) VALUES(130015000, '莫吉廖夫', 'MA', 130010000);
-INSERT INTO city(id, name, code, state_id) VALUES(132017000, '索非亚', 'SOF', 132010000);
-INSERT INTO city(id, name, code, state_id) VALUES(132013000, '鲁塞', 'ROU', 132010000);
-INSERT INTO city(id, name, code, state_id) VALUES(132019000, '瓦尔纳', 'VAR', 132010000);
-INSERT INTO city(id, name, code, state_id) VALUES(132016000, '普罗夫迪夫', 'PDV', 132010000);
-INSERT INTO city(id, name, code, state_id) VALUES(132015000, '蒙塔纳', 'OZA', 132010000);
-INSERT INTO city(id, name, code, state_id) VALUES(132012000, '卡斯科伏', 'KHO', 132010000);
-INSERT INTO city(id, name, code, state_id) VALUES(132018000, '索非亚市', 'GSO', 132010000);
-INSERT INTO city(id, name, code, state_id) VALUES(132011000, '布尔加斯', 'BOJ', 132010000);
-INSERT INTO city(id, name, code, state_id) VALUES(132014000, '洛维奇', 'LVP', 132010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134023000, '祖', 'ZO', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134021000, '韦梅', 'OU', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134011000, '阿黎博里', 'AL', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134018000, '库福', 'KO', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134019000, '莫诺', 'MO', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134015000, '博尔古', 'BO', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134012000, '阿塔科拉', 'AK', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134016000, '大西洋', 'AQ', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134020000, '丘陵', 'CO', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134017000, '高原', 'PL', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134014000, '波希康市', 'BOH', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134013000, '滨海', 'LI', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(134022000, '峡谷', 'DO', 134010000);
-INSERT INTO city(id, name, code, state_id) VALUES(135017000, '列日', 'WLG', 135010000);
-INSERT INTO city(id, name, code, state_id) VALUES(135011000, '埃诺', 'WHT', 135010000);
-INSERT INTO city(id, name, code, state_id) VALUES(135019000, '卢森堡', 'WLX', 135010000);
-INSERT INTO city(id, name, code, state_id) VALUES(135021000, '西佛兰德', 'VWV', 135010000);
-INSERT INTO city(id, name, code, state_id) VALUES(135014000, '布鲁塞尔', 'BRU', 135010000);
-INSERT INTO city(id, name, code, state_id) VALUES(135013000, '布拉班特-瓦隆', 'WBR', 135010000);
-INSERT INTO city(id, name, code, state_id) VALUES(135020000, '那慕尔', 'WNA', 135010000);
-INSERT INTO city(id, name, code, state_id) VALUES(135018000, '林堡', 'VLI', 135010000);
-INSERT INTO city(id, name, code, state_id) VALUES(135012000, '安特卫普', 'VAN', 135010000);
-INSERT INTO city(id, name, code, state_id) VALUES(135015000, '东佛兰德', 'VOV', 135010000);
-INSERT INTO city(id, name, code, state_id) VALUES(135016000, '佛兰芒-布拉班特', 'VBR', 135010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138028000, '格鲁琼兹', 'GRU', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138022000, '大波兰地区戈茹夫', 'GOW', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138011000, '埃尔布隆格', 'ELB', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138018000, '比亚维斯托克', 'BIA', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138045000, '绿山城', 'IEG', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138048000, '普热梅希尔', 'PRZ', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138063000, '沃姆扎', 'QOY', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138071000, '耶莱尼亚古拉', 'JEG', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138040000, '莱格尼察', 'LEG', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138034000, '凯尔采', 'KLC', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138042000, '卢布林', 'LUL', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138033000, '卡托维兹', 'KTW', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138052000, '什切青', 'SZZ', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138029000, '海乌姆', 'CHO', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138057000, '索斯诺维茨', 'SWC', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138016000, '比托姆', 'BYT', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138072000, '扎布热', 'ZAB', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138017000, '比亚瓦波德拉斯卡', 'BAP', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138041000, '莱什诺', 'LEZ', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138039000, '拉多姆', 'RDM', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138044000, '罗兹', 'LOD', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138046000, '米什洛维采', 'MYL', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138019000, '波莱', 'OPO', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138062000, '瓦乌布日赫', 'WZH', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138058000, '塔尔努夫', 'TAR', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138014000, '比得哥什', 'BZG', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138027000, '格利维采', 'GWC', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138050000, '切哈努夫', 'CIE', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138051000, '热舒夫', 'RZE', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138069000, '新松奇', 'NOW', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138023000, '弗罗茨瓦夫', 'WRO', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138032000, '卡利什', 'KAL', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138024000, '弗沃茨瓦韦克', 'WLO', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138053000, '斯凯尔涅维采', 'SKI', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138056000, '索波特', 'SOP', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138043000, '鲁达', 'RDS', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138067000, '谢德尔采', 'SDC', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138066000, '希维托赫洛维采', 'SWT', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138025000, '格但斯克', 'GDN', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138054000, '斯武普斯克', 'SLP', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138030000, '华沙', 'WAW', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138037000, '克拉科夫', 'KRK', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138015000, '彼得库夫', 'PIO', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138036000, '科沙林', 'OSZ', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138061000, '托伦', 'TOR', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138013000, '奥斯特罗文卡', 'OSS', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138060000, '特切', 'TYY', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138068000, '谢拉兹', 'SIR', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138020000, '波兹南', 'POZ', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138055000, '苏瓦乌基', 'SWL', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138026000, '格丁尼亚', 'GDY', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138064000, '希米亚诺维采', 'SOW', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138012000, '奥尔什丁', 'OLS', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138035000, '科宁', 'KON', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138049000, '普沃茨克', 'PLO', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138073000, '扎莫希奇', 'ZAM', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138031000, '霍茹夫', 'CHZ', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138047000, '皮瓦', 'PIL', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138059000, '塔尔诺布热格', 'QEP', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138065000, '希维诺乌伊希切', 'SWI', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138070000, '雅沃兹诺', 'JAW', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138038000, '克罗斯诺', 'KRO', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(138021000, '达布罗瓦戈尼察', 'DAB', 138010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139021000, '圣克鲁斯', 'SRZ', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139016000, '科恰班巴', 'CBB', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139013000, '贝尼', 'BEN', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139020000, '萨卡巴', 'SAC', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139018000, '潘多', 'PAN', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139014000, '波多西', 'POI', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139011000, '奥尔托', 'ALT', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139022000, '塔里哈', 'TJA', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139017000, '拉巴斯', 'LPB', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139012000, '奥鲁罗', 'ORU', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139015000, '基拉科洛', 'QUI', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(139019000, '丘基萨卡', 'CHU', 139010000);
-INSERT INTO city(id, name, code, state_id) VALUES(140013000, '多米斯拉夫格勒', 'FTO', 140010000);
-INSERT INTO city(id, name, code, state_id) VALUES(140016000, '图兹拉－波德里涅', 'FTU', 140010000);
-INSERT INTO city(id, name, code, state_id) VALUES(140020000, '泽尼察－多博伊', 'FZE', 140010000);
-INSERT INTO city(id, name, code, state_id) VALUES(140017000, '乌纳－萨纳', 'FUS', 140010000);
-INSERT INTO city(id, name, code, state_id) VALUES(140021000, '中波斯尼亚', 'FSB', 140010000);
-INSERT INTO city(id, name, code, state_id) VALUES(140011000, '波萨维纳', 'FPO', 140010000);
-INSERT INTO city(id, name, code, state_id) VALUES(140012000, '波斯尼亚－波德里涅', 'FBP', 140010000);
-INSERT INTO city(id, name, code, state_id) VALUES(140018000, '西波斯尼亚', 'FHB', 140010000);
-INSERT INTO city(id, name, code, state_id) VALUES(140019000, '西黑塞哥维那', 'FZH', 140010000);
-INSERT INTO city(id, name, code, state_id) VALUES(140015000, '萨拉热窝', 'FSA', 140010000);
-INSERT INTO city(id, name, code, state_id) VALUES(140014000, '黑塞哥维那－涅雷特瓦', 'FHN', 140010000);
-INSERT INTO city(id, name, code, state_id) VALUES(142013000, '卡约', 'CY', 142010000);
-INSERT INTO city(id, name, code, state_id) VALUES(142011000, '伯利兹', 'BZ', 142010000);
-INSERT INTO city(id, name, code, state_id) VALUES(142012000, '橘园', 'OW', 142010000);
-INSERT INTO city(id, name, code, state_id) VALUES(142014000, '科罗萨尔', 'CR', 142010000);
-INSERT INTO city(id, name, code, state_id) VALUES(142015000, '斯坦港', 'SC', 142010000);
-INSERT INTO city(id, name, code, state_id) VALUES(142016000, '托莱多', 'TO', 142010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144027000, '孔西', 'KOS', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144050000, '锡西里', 'SIS', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144054000, '宗德韦奥戈', 'ZOW', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144021000, '济罗', 'ZIR', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144051000, '亚加', 'YAG', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144046000, '图伊', 'TUY', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144013000, '巴瓦', 'BAN', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144039000, '帕索雷', 'PAS', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144011000, '巴雷', 'BAL', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144035000, '纳乌里', 'NAH', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144053000, '伊奥巴', 'IOA', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144019000, '冈祖尔古', 'GAN', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144043000, '苏鲁', 'SOR', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144031000, '雷拉巴', 'LER', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144052000, '亚滕加', 'YAT', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144014000, '巴泽加', 'BAZ', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144047000, '乌埃', 'HOU', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144044000, '苏姆', 'SOM', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144030000, '库里滕加', 'KOT', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144049000, '乌达兰', 'OUD', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144023000, '凯内杜古', 'KEN', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144040000, '塞诺', 'SEN', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144024000, '科蒙加里', 'KOO', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144032000, '罗卢姆', 'LOR', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144041000, '桑吉', 'SAG', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144012000, '巴姆', 'BAM', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144034000, '纳门滕加', 'NAM', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144036000, '纳亚拉', 'NAY', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144038000, '努姆比埃尔', 'NOU', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144028000, '库尔佩罗戈', 'KOL', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144045000, '塔波阿', 'TAP', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144022000, '卡焦戈', 'KAD', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144015000, '波尼', 'PON', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144020000, '古尔马', 'GOU', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144048000, '乌布里滕加', 'OUB', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144055000, '宗多马', 'ZOD', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144029000, '库尔维奥戈', 'KOW', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144016000, '布尔古', 'BLG', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144042000, '桑马滕加', 'SAM', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144033000, '穆翁', 'MOU', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144018000, '布古里巴', 'BOR', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144017000, '布尔基恩德', 'BOK', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144025000, '科莫埃', 'COM', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144026000, '孔皮恩加', 'KOP', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(144037000, '尼亚尼亚', 'GNA', 144010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145027000, '锡比托凯', 'CI', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145021000, '鲁塔纳', 'RT', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145011000, '布班扎', 'BB', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145017000, '基特加', 'GI', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145022000, '鲁伊吉', 'RY', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145013000, '布琼布拉城市', 'BM', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145020000, '坎库佐', 'CA', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145025000, '穆瓦洛', 'MW', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145023000, '马坎巴', 'MA', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145018000, '卡鲁济', 'KR', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145016000, '基龙多', 'KI', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145024000, '穆拉姆维亚', 'MU', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145026000, '穆因加', 'MY', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145015000, '恩戈齐', 'NG', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145014000, '布琼布拉乡村', 'BU', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145019000, '卡扬扎', 'KY', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(145012000, '布鲁里', 'BR', 145010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147017000, '平壤', 'FNJ', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147019000, '沙里院', 'SAR', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147012000, '惠山', 'HYE', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147018000, '清津', 'CHO', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147013000, '江界', 'KAN', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147022000, '元山', 'WON', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147014000, '开城', 'KSN', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147016000, '南浦', 'NAM', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147020000, '咸兴', 'HAM', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147011000, '海州', 'HAE', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147015000, '罗先', 'NAS', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(147021000, '新义州', 'SII', 147010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148016000, '哥本哈根', 'CPH', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148012000, '北日德兰', 'VSV', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148019000, '罗斯基勒', 'RKE', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148014000, '菲特烈堡', 'FRE', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148015000, '菲茵', 'FY', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148011000, '奥胡斯', 'AR', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148013000, '博恩霍尔姆', 'BO', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148021000, '斯多斯特姆', 'ST', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148022000, '维堡', 'VIB', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148020000, '南日德兰', 'VBI', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148023000, '维厄勒', 'VEJ', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148018000, '灵克宾', 'RKG', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148017000, '里伯', 'RIB', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(148024000, '西希兰', 'VS', 148010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149032000, '基尔', 'KEL', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149050000, '特里尔', 'TRI', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149052000, '维尔茨堡', 'WUG', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149015000, '柏林', 'BE', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149019000, '波鸿', 'BOM', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149021000, '不伦瑞克', 'BRW', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149040000, '兰茨胡特', 'LDH', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149029000, '哈雷', 'HAE', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149014000, '奥格斯堡', 'AGB', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149033000, '吉森', 'GBN', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149027000, '法兰克福', 'FFO', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149034000, '卡尔斯鲁厄', 'KAE', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149051000, '威斯巴登', 'WIB', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149024000, '德累斯顿', 'DRS', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149013000, '安斯巴格', 'ANS', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149026000, '杜塞尔多夫', 'DUS', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149020000, '不来梅', 'HB', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149035000, '卡塞尔', 'KAS', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149023000, '代特莫尔特', 'DET', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149045000, '明斯特', 'MUN', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149047000, '纽伦堡', 'NUE', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149048000, '什未林', 'SWH', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149039000, '莱比锡', 'LEJ', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149012000, '爱尔福特', 'ERF', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149044000, '美因兹', 'MAI', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149016000, '拜伊罗特', 'BYU', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149017000, '比勒费尔德', 'BFE', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149049000, '斯图加特', 'STR', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149046000, '慕尼黑', 'MUC', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149038000, '科隆', 'CGN', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149022000, '达姆施塔特', 'DAR', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149036000, '开姆尼斯', 'CHE', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149041000, '吕讷堡', 'LBG', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149031000, '汉诺威', 'HAJ', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149043000, '曼海姆', 'MHG', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149018000, '波茨坦', 'POT', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149028000, '弗赖堡', 'FBG', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149042000, '马格德堡', 'MAG', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149011000, '阿恩斯贝格', 'ARN', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149030000, '汉堡', 'HH', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149025000, '德绍', 'DES', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(149037000, '科布伦次', 'KOB', 149010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150020000, '利基卡', 'LI', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150011000, '阿伊莱乌', 'AL', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150019000, '劳滕', 'LA', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150018000, '科瓦利马', 'KO', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150022000, '马努法伊', 'MF', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150014000, '安贝诺', 'AM', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150012000, '阿伊纳罗', 'AN', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150021000, '马纳图托', 'MT', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150016000, '博博纳罗', 'BO', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150015000, '包考', 'BA', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150023000, '维克克', 'VI', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150013000, '埃尔梅拉', 'ER', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(150017000, '帝力', 'DI', 150010000);
-INSERT INTO city(id, name, code, state_id) VALUES(151013000, '高原区', 'P', 151010000);
-INSERT INTO city(id, name, code, state_id) VALUES(151011000, '滨海区', 'M', 151010000);
-INSERT INTO city(id, name, code, state_id) VALUES(151012000, '草原区', 'S', 151010000);
-INSERT INTO city(id, name, code, state_id) VALUES(151014000, '卡拉区', 'K', 151010000);
-INSERT INTO city(id, name, code, state_id) VALUES(151015000, '中部区', 'C', 151010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154044000, '科斯特罗马', 'KOS', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154018000, '奥伦堡', 'ORE', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154092000, '伊尔库茨克', 'IKT', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154019000, '巴尔瑙尔', 'BAX', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154027000, '布拉戈维申斯克', 'BQS', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154084000, '乌兰乌德', 'UUD', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154026000, '伯力', 'COK', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154076000, '斯塔夫罗波尔', 'STA', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154085000, '乌里扬诺夫斯克', 'ULY', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154035000, '弗拉季高加索', 'VLA', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154036000, '戈尔诺－阿尔泰斯克', 'GOA', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154045000, '克拉斯诺达尔', 'KRR', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154062000, '南萨哈林斯克', 'JSA', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154069000, '萨拉托夫', 'SAR', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154080000, '托木斯克', 'TOM', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154064000, '帕拉纳', 'PAL', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154034000, '弗拉基米尔', 'VMR', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154055000, '马加丹', 'MAG', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154063000, '诺夫哥罗德', 'VUS', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154024000, '比罗比詹', 'BBZ', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154025000, '别尔哥罗德', 'BEL', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154068000, '秋明', 'TYU', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154089000, '雅库茨克', 'JAK', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154021000, '彼得罗巴甫洛夫斯克', 'PKC', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154082000, '沃洛格达', 'VLG', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154029000, '车里雅宾斯克', 'CHE', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154042000, '喀山', 'KZN', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154053000, '梁赞', 'RYA', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154072000, '萨马拉', 'SAM', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154088000, '新西伯利亚', 'NVS', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154074000, '圣彼得堡', 'SPE', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154093000, '伊热夫斯克', 'IJK', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154081000, '沃罗涅什', 'VOR', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154060000, '纳尔奇克', 'NAL', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154030000, '赤塔', 'CHI', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154058000, '摩尔曼斯克', 'MMK', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154057000, '迈科普', 'MAY', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154054000, '马哈奇卡拉', 'MCX', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154031000, '顿河畔罗斯托夫', 'ROS', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154078000, '特维尔', 'TVE', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154028000, '布良斯克', 'BRY', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154032000, '鄂木斯克', 'OMS', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154039000, '汉特－曼西斯克', 'KHM', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154046000, '克拉斯诺亚尔斯克', 'KYA', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154086000, '乌斯季奥尔登斯基', 'UOB', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154013000, '阿金斯科耶', 'AGI', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154067000, '切尔克斯克', 'CKS', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154071000, '萨列哈尔德', 'SLY', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154079000, '图拉', 'TUL', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154061000, '纳里扬马尔', 'NNM', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154041000, '加里宁格勒', 'KGD', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154049000, '库德姆卡尔', 'KUD', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154016000, '埃利斯塔', 'ESL', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154022000, '彼得罗扎沃茨克', 'PES', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154070000, '萨兰斯克', 'SKX', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154037000, '格罗兹尼', 'GRV', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154033000, '伏尔加格勒', 'VOG', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154052000, '利佩茨克', 'LIP', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154065000, '普斯科夫', 'PSK', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154011000, '阿巴坎', 'ABA', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154094000, '伊万诺沃', 'IVO', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154015000, '阿斯特拉罕', 'AST', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154048000, '克孜勒', 'KYZ', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154056000, '马加斯', 'IN', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154051000, '库尔斯克', 'URS', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154091000, '叶卡捷林堡', 'JEK', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154066000, '切博克萨雷', 'CSY', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154014000, '阿纳德尔', 'DYR', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154059000, '莫斯科', 'MOW', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154090000, '雅罗斯拉夫尔', 'JAR', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154040000, '基洛夫', 'KIR', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154083000, '乌法', 'UFA', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154017000, '奥廖尔', 'ORL', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154047000, '克麦罗沃', 'KEM', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154095000, '约什卡尔奥拉', 'YOL', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154050000, '库尔干', 'KRO', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154087000, '下诺夫哥罗德', 'GOJ', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154073000, '瑟克特夫卡尔', 'SCW', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154038000, '海参崴', 'VVO', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154023000, '彼尔姆', 'PER', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154012000, '阿尔汉格尔斯克', 'ARK', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154075000, '斯摩棱斯克', 'LNX', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154020000, '奔萨', 'PNZ', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154043000, '卡卢加', 'KLF', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(154077000, '坦波夫', 'TAM', 154010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155015000, '瓜亚斯', 'G', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155020000, '洛哈', 'L', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155029000, '苏昆毕奥斯', 'U', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155025000, '帕斯塔萨', 'Y', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155027000, '钦博拉索', 'H', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155024000, '纳波，奥雷利亚纳', 'D', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155031000, '因巴布拉', 'I', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155018000, '卡尼亚尔', 'F', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155028000, '萨莫拉－钦奇佩', 'Z', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155019000, '科托帕希', 'X', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155013000, '埃斯梅拉尔达斯', 'E', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155023000, '莫罗纳－圣地亚哥', 'S', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155026000, '皮钦查', 'P', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155016000, '加拉帕戈斯', 'W', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155021000, '洛斯里奥斯', 'R', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155017000, '卡尔奇', 'C', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155022000, '马纳比', 'M', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155011000, '阿苏艾', 'A', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155012000, '埃尔奥罗', 'O', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155014000, '玻利瓦尔', 'B', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(155030000, '通古拉瓦', 'T', 155010000);
-INSERT INTO city(id, name, code, state_id) VALUES(156011000, '安塞巴', 'KE', 156010000);
-INSERT INTO city(id, name, code, state_id) VALUES(156016000, '中部', 'MA', 156010000);
-INSERT INTO city(id, name, code, state_id) VALUES(156013000, '加什·巴尔卡', 'BR', 156010000);
-INSERT INTO city(id, name, code, state_id) VALUES(156015000, '南红海', 'DK', 156010000);
-INSERT INTO city(id, name, code, state_id) VALUES(156014000, '南部', 'DE', 156010000);
-INSERT INTO city(id, name, code, state_id) VALUES(156012000, '北红海', 'SK', 156010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157019000, '卡昂', 'CFR', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157025000, '马赛', 'MRS', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157013000, '艾克斯', 'QXB', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157015000, '巴黎', 'PAR', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157021000, '里昂', 'LIO', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157031000, '图卢兹', 'TLS', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157014000, '奥尔良', 'ORR', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157016000, '贝桑松', 'BSN', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157029000, '尼斯', 'NCE', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157022000, '里尔', 'LLE', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157030000, '沙隆', 'CSM', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157033000, '亚眠', 'AMI', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157012000, '阿雅克修', 'AJA', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157011000, '阿尔勒', 'ARL', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157020000, '雷恩', 'RNS', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157024000, '鲁昂', 'URO', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157027000, '蒙彼利埃', 'MPL', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157032000, '瓦朗斯', 'VAA', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157023000, '利摩日', 'LIG', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157028000, '南特', 'NTE', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157017000, '第戎', 'DIJ', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157018000, '弗雷瑞斯', 'FRJ', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(157026000, '梅斯', 'MZM', 157010000);
-INSERT INTO city(id, name, code, state_id) VALUES(163012000, '卡卢坎', 'CAO', 163010000);
-INSERT INTO city(id, name, code, state_id) VALUES(163013000, '马尼拉', 'MNL', 163010000);
-INSERT INTO city(id, name, code, state_id) VALUES(163014000, '宿务', 'CEB', 163010000);
-INSERT INTO city(id, name, code, state_id) VALUES(163011000, '达沃', 'DOR', 163010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165014000, '博尔沃', 'PRV', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165027000, '图尔库', 'TKU', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165022000, '拉彭兰塔', 'LPP', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165029000, '万塔', 'VAT', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165011000, '埃斯波', 'ESP', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165030000, '约恩苏', 'JOE', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165012000, '奥卢', 'OLU', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165019000, '科特卡', 'KTK', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165021000, '拉赫蒂', 'LHI', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165028000, '瓦萨', 'VAA', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165013000, '波里', 'POR', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165015000, '海门林纳', 'HMY', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165016000, '赫尔辛基', 'HEL', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165026000, '坦佩雷', 'TMP', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165024000, '玛丽港', 'MHQ', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165025000, '米凯利', 'MIK', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165018000, '科科拉', 'KOK', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165023000, '罗瓦涅米', 'RVN', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165017000, '卡亚尼', 'KAJ', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(165020000, '库奥皮奥', 'KUO', 165010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166026000, '圣克鲁斯', 'CR', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166027000, '圣米戈尔', 'SM', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166025000, '圣卡塔琳娜', 'CA', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166013000, '博阿维斯塔岛', 'BV', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166024000, '圣菲利普', 'SF', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166016000, '福古岛', 'FO', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166015000, '大里贝拉', 'RG', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166029000, '圣维森特岛', 'SV', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166020000, '萨尔岛', 'SL', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166011000, '保尔', 'PA', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166022000, '圣地亚哥岛', 'IA', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166023000, '圣多明戈', 'SD', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166021000, '圣安唐岛', 'SA', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166017000, '马尤岛', 'MA', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166030000, '塔拉法尔', 'TA', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166018000, '莫斯特罗', 'MO', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166028000, '圣尼古拉岛', 'SN', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166012000, '波多诺伏', 'PN', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166019000, '普拉亚', 'PR', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(166014000, '布拉瓦岛', 'BR', 166010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171033000, '普图马约', 'PUT', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171027000, '科尔多巴', 'COR', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171028000, '昆迪纳马卡', 'CAM', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171038000, '苏克雷', 'SUC', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171029000, '利萨拉尔达', 'RIS', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171037000, '圣安德烈斯-普罗维登西亚', 'SAP', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171020000, '瓜伊尼亚', 'GNA', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171034000, '乔科', 'CHO', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171012000, '安提奥基亚', 'ANT', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171031000, '梅塔', 'MET', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171039000, '托利马', 'TOL', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171017000, '大西洋', 'ATL', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171030000, '马格达雷那', 'MAG', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171040000, '维查达', 'VIC', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171014000, '波哥大首都区', 'BDC', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171026000, '考卡山谷', 'VDC', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171042000, '乌伊拉', 'HUI', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171023000, '卡克塔', 'CAQ', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171016000, '博亚卡', 'BOY', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171018000, '瓜维亚雷', 'GVR', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171035000, '塞萨尔', 'CES', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171019000, '瓜希拉', 'GJR', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171013000, '北桑坦德', 'NDS', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171043000, '亚马孙', 'AMZ', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171021000, '金迪奥', 'QUI', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171036000, '桑坦德', 'SAN', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171025000, '考卡', 'CAU', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171024000, '卡萨纳雷', 'CAS', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171022000, '卡尔达斯', 'CAL', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171011000, '阿劳卡', 'ARA', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171015000, '博利瓦尔', 'BOL', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171032000, '纳里尼奥', 'NAR', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(171041000, '沃佩斯', 'VAU', 171010000);
-INSERT INTO city(id, name, code, state_id) VALUES(172017000, '圣何塞', 'SJ', 172010000);
-INSERT INTO city(id, name, code, state_id) VALUES(172014000, '卡塔戈', 'C', 172010000);
-INSERT INTO city(id, name, code, state_id) VALUES(172015000, '利蒙', 'L', 172010000);
-INSERT INTO city(id, name, code, state_id) VALUES(172012000, '埃雷迪亚', 'H', 172010000);
-INSERT INTO city(id, name, code, state_id) VALUES(172011000, '阿拉胡埃拉', 'A', 172010000);
-INSERT INTO city(id, name, code, state_id) VALUES(172016000, '蓬塔雷纳斯', 'P', 172010000);
-INSERT INTO city(id, name, code, state_id) VALUES(172013000, '瓜纳卡斯特', 'G', 172010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176019000, '拉斯图纳斯', '10', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176027000, '谢戈德阿维拉', '8', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176013000, '比亚克拉拉', '5', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176018000, '卡马圭', '9', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176026000, '西恩富戈斯', '6', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176011000, '奥尔金', '11', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176014000, '格拉玛', '12', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176017000, '哈瓦那城', '3', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176025000, '圣斯皮里图斯', '7', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176021000, '马亚里', 'MAY', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176023000, '青年岛特区', '99', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176016000, '哈瓦那', '2', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176020000, '马坦萨斯', '4', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176015000, '关塔那摩', '14', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176012000, '比那尔德里奥', '1', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176024000, '圣地亚哥', '13', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(176022000, '曼萨尼罗', 'MZO', 176010000);
-INSERT INTO city(id, name, code, state_id) VALUES(179013000, '波默伦-苏佩纳姆', 'PM', 179010000);
-INSERT INTO city(id, name, code, state_id) VALUES(179011000, '埃塞奎博群岛-西德梅拉拉', 'EW', 179010000);
-INSERT INTO city(id, name, code, state_id) VALUES(179012000, '巴里马-瓦伊尼', 'BW', 179010000);
-INSERT INTO city(id, name, code, state_id) VALUES(179018000, '马海卡-伯比斯', 'MB', 179010000);
-INSERT INTO city(id, name, code, state_id) VALUES(179019000, '上德梅拉拉-伯比斯', 'UD', 179010000);
-INSERT INTO city(id, name, code, state_id) VALUES(179017000, '库尤尼-马扎鲁尼', 'CM', 179010000);
-INSERT INTO city(id, name, code, state_id) VALUES(179014000, '波塔罗-锡帕鲁尼', 'PI', 179010000);
-INSERT INTO city(id, name, code, state_id) VALUES(179015000, '德梅拉拉-马海卡', 'DM', 179010000);
-INSERT INTO city(id, name, code, state_id) VALUES(179020000, '上塔库图-上埃塞奎博', 'UT', 179010000);
-INSERT INTO city(id, name, code, state_id) VALUES(179016000, '东伯比斯-科兰太因', 'EC', 179010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180022000, '北哈萨克斯坦', 'SEV', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180020000, '巴尔喀什', 'BXH', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180035000, '列宁诺戈尔斯克', 'LEN', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180033000, '库尔恰托夫', 'KUR', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180031000, '克孜勒奥尔达', 'KZY', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180045000, '突厥斯坦', 'TUR', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180027000, '卡拉干达', 'KAR', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180032000, '肯套', 'KEN', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180017000, '阿斯塔纳市', 'AST', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180012000, '阿克莫拉', 'AKM', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180013000, '阿克苏', 'AKS', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180021000, '巴甫洛达尔', 'PAV', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180047000, '扎纳奥津', 'ZHA', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180038000, '南哈萨克斯坦', 'KGT', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180046000, '西哈萨克斯坦', 'ZAP', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180023000, '东哈萨克斯坦', 'VOS', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180011000, '阿尔卡累克', 'AYK', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180016000, '阿雷斯', 'ARY', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180039000, '萨兰', 'SAR', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180015000, '阿拉木图', 'ALA', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180041000, '沙赫京斯克', 'SAK', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180024000, '济良诺夫斯克', 'ZYR', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180025000, '江布尔', 'DMB', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180028000, '卡拉扎尔', 'KZO', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180036000, '鲁德内', 'RUD', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180040000, '塞梅伊', 'SEM', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180043000, '铁克利', 'TEK', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180014000, '阿克托别', 'AKT', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180044000, '铁米尔套', 'TEM', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180029000, '卡普恰盖', 'KAP', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180034000, '利萨科夫斯克', 'LKK', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180042000, '斯捷普诺戈尔斯克', 'STE', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180030000, '科斯塔奈', 'KST', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180026000, '杰兹卡兹甘', 'DZH', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180018000, '阿特劳', 'ATY', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180019000, '埃基巴斯图兹', 'EKB', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(180037000, '曼格斯套', 'MAN', 180010000);
-INSERT INTO city(id, name, code, state_id) VALUES(182074000, '抱川市', 'POC', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182092000, '南杨州市', 'NYU', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182101000, '议政府市', 'UIJ', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182078000, '高阳市', 'GYG', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182080000, '广州市', 'KWU', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182082000, '河南市', 'HNM', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182079000, '光明市', 'GMG', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182075000, '城南市', 'SEO', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182089000, '利川市', 'ICE', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182083000, '华城市', 'HCH', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182097000, '乌山市', 'OSN', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182088000, '骊州郡', 'YJU', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182090000, '涟川郡', 'YCN', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182098000, '扬平郡', 'YPG', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182071000, '安城市', 'ASG', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182087000, '军浦市', 'GUN', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182095000, '始兴市', 'SHE', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182091000, '龙仁市', 'YNG', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182094000, '坡州市', 'PJU', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182081000, '果川市', 'GCN', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182100000, '仪旺市', 'UWN', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182076000, '东豆川市', 'DDC', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182086000, '九里市', 'GRI', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182099000, '杨州市', 'YYU', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182073000, '安养市', 'ANY', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182093000, '平泽市', 'PTK', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182084000, '加平郡', 'GPG', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182096000, '水原市', 'SUO', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182077000, '富川市', 'BCN', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182072000, '安山市', 'ASN', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182085000, '金浦市', 'GMP', 182070000);
-INSERT INTO city(id, name, code, state_id) VALUES(182100000, '马山市', 'MAS', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182107000, '咸安郡', 'HAN', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182099000, '梁山市', 'YSN', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182105000, '统营市', 'TYG', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182096000, '晋州市', 'HIN', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182092000, '昌原市', 'CHW', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182103000, '山淸郡', 'SCH', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182098000, '巨济市', 'KJE', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182108000, '咸阳郡', 'HYG', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182101000, '密阳市', 'MIR', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182091000, '昌宁郡', 'CNG', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182093000, '固城郡', 'GSO', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182097000, '居昌郡', 'GCH', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182104000, '泗川市', 'SAH', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182094000, '河东郡', 'HDG', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182109000, '宜宁郡', 'URG', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182110000, '鎭海市', 'CHF', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182102000, '南海郡', 'NHE', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182106000, '陜川郡', 'HCE', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182095000, '金海市', 'KMH', 182090000);
-INSERT INTO city(id, name, code, state_id) VALUES(182112000, '高兴郡', 'GHG', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182116000, '海南郡', 'HAE', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182122000, '罗州市', 'NJU', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182113000, '谷城郡', 'GSE', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182115000, '光阳市', 'KAN', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182126000, '潭阳郡', 'DYA', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182118000, '康津郡', 'GJN', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182124000, '求礼郡', 'GRE', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182129000, '新安郡', 'SAN', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182127000, '务安郡', 'MAN', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182132000, '珍岛郡', 'JDO', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182131000, '长兴郡', 'JHG', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182111000, '宝城郡', 'BSG', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182119000, '丽水市', 'YOS', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182121000, '灵岩郡', 'YAM', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182123000, '木浦市', 'MOK', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182125000, '顺天市', 'SYS', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182128000, '咸平郡', 'HPG', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182117000, '和顺郡', 'HSN', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182120000, '灵光郡', 'YGG', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182114000, '莞岛郡', 'WND', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182130000, '长城郡', 'JSN', 182110000);
-INSERT INTO city(id, name, code, state_id) VALUES(182114000, '鎭安郡', 'JAN', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182109000, '群山市', 'KUV', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182113000, '长水郡', 'JSU', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182105000, '井邑市', 'JEO', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182102000, '扶安郡', 'PUS', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182107000, '南原市', 'NWN', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182106000, '茂朱郡', 'MJU', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182111000, '完州郡', 'WAJ', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182103000, '高敞郡', 'GCG', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182104000, '金堤市', 'GJE', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182110000, '任实郡', 'ISL', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182101000, '淳昌郡', 'SCG', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182108000, '全州市', 'JNJ', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182112000, '益山市', 'IKS', 182100000);
-INSERT INTO city(id, name, code, state_id) VALUES(182176000, '燕岐郡', 'YGI', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182169000, '青阳郡', 'CYG', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182170000, '瑞山市', 'SSA', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182175000, '牙山市', 'ASA', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182167000, '礼山郡', 'YOS', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182168000, '论山市', 'NSN', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182171000, '舒川郡', 'SCE', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182174000, '天安市', 'CHO', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182163000, '公州市', 'GOJ', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182161000, '保宁市', 'BOR', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182164000, '洪城郡', 'HSE', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182165000, '鸡龙市', 'GYE', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182166000, '锦山郡', 'GSA', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182172000, '泰安郡', 'TAN', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182173000, '唐津郡', 'TJI', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182162000, '扶余郡', 'BYO', 182160000);
-INSERT INTO city(id, name, code, state_id) VALUES(182070000, '宁越郡', 'YWL', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182067000, '江陵市', 'KAG', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182068000, '旌善郡', 'JSE', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182062000, '东海市', 'TGH', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182066000, '华川郡', 'HCH', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182074000, '太白市', 'TBK', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182065000, '洪川郡', 'HCN', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182078000, '原州市', 'WJU', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182071000, '平昌郡', 'POG', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182073000, '束草市', 'SHO', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182069000, '麟蹄郡', 'IJE', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182076000, '襄阳郡', 'YNY', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182077000, '杨口郡', 'YGU', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182064000, '横城郡', 'HSG', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182075000, '铁原郡', 'CWN', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182061000, '春川市', 'CHC', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182072000, '三陟市', 'SUK', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182063000, '高城郡', 'GSG', 182060000);
-INSERT INTO city(id, name, code, state_id) VALUES(182084000, '龟尾市', 'KUM', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182094000, '荣州市', 'YEJ', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182082000, '奉化郡', 'BHA', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182100000, '英阳郡', 'YYG', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182099000, '义城郡', 'USG', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182086000, '军威郡', 'GWI', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182096000, '蔚珍郡', 'UJN', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182103000, '郁陵郡', 'ULG', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182097000, '闻庆市', 'MGG', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182081000, '安东市', 'ADG', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182090000, '淸道郡', 'CDO', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182089000, '漆谷郡', 'CGK', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182091000, '靑松郡', 'CSG', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182098000, '星州郡', 'SEJ', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182102000, '永川市', 'YCH', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182088000, '浦项市', 'KPO', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182093000, '庆州市', 'GJU', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182092000, '庆山市', 'GYS', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182095000, '尙州市', 'SJU', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182083000, '高灵郡', 'GRG', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182085000, '金泉市', 'KMC', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182087000, '醴泉郡', 'YEC', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182101000, '盈德郡', 'YDK', 182080000);
-INSERT INTO city(id, name, code, state_id) VALUES(182160000, '永同郡', 'YDG', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182162000, '忠州市', 'CHU', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182151000, '报恩郡', 'BEN', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182158000, '沃川郡', 'OCN', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182154000, '堤川市', 'JCH', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182155000, '槐山郡', 'GSN', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182156000, '淸原郡', 'CWO', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182161000, '鎭川郡', 'JCN', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182153000, '丹阳郡', 'DYG', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182159000, '阴城郡', 'ESG', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182152000, '曾坪郡', 'JYG', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182157000, '淸州市', 'CJJ', 182150000);
-INSERT INTO city(id, name, code, state_id) VALUES(182012000, '大邱', 'TAE', 182010000);
-INSERT INTO city(id, name, code, state_id) VALUES(182011000, '达城郡', 'DSG', 182010000);
-INSERT INTO city(id, name, code, state_id) VALUES(182013000, '寿城区', 'SUS', 182010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183028000, '莱顿', 'LID', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183036000, '乌得勒支', 'UTC', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183014000, '阿纳姆', 'ARN', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183030000, '鹿特丹', 'RTM', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183026000, '海牙', 'HAG', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183017000, '埃德', 'EDE', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183034000, '奈梅亨', 'NIJ', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183018000, '埃门', 'EMM', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183021000, '蒂尔堡', 'TLB', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183013000, '阿姆斯特丹', 'AMS', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183012000, '阿默斯福特', 'AME', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183015000, '阿珀尔多伦', 'APE', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183019000, '埃因霍芬', 'EIN', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183035000, '斯海尔托亨博思', 'HTB', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183038000, '佐特尔梅', 'ZTM', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183020000, '布雷达', 'BRD', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183024000, '格罗宁根', 'GRQ', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183032000, '马斯特里赫特', 'MST', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183029000, '莱利斯塔德', 'LEY', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183011000, '阿尔梅勒', 'AER', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183027000, '霍夫多尔普', 'HFD', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183033000, '米德尔堡', 'MDL', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183022000, '多德雷赫特', 'DOR', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183031000, '吕伐登', 'LWR', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183023000, '恩斯赫德', 'ENS', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183016000, '阿森', 'ASS', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183025000, '哈勒姆', 'HRA', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(183037000, '兹沃勒', 'ZWO', 183010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186013000, '奥科特佩克', 'OC', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186025000, '乔罗马', 'CHO', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186021000, '科潘', 'CP', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186012000, '埃尔帕拉伊索', 'PA', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186014000, '奥兰乔', 'OL', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186019000, '科隆', 'CL', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186022000, '拉巴斯', 'PZ', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186023000, '伦皮拉', 'LE', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186028000, '因蒂布卡', 'IN', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186024000, '乔卢特卡', 'CH', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186027000, '圣巴巴拉', 'SB', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186017000, '海湾群岛', 'IB', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186011000, '阿特兰蒂达', 'AT', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186020000, '科马亚瓜', 'CM', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186015000, '弗朗西斯科-莫拉桑', 'FM', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186018000, '科尔特斯', 'CR', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186026000, '山谷', 'VA', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186016000, '格拉西亚斯-阿迪奥斯', 'GD', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(186029000, '约罗', 'YO', 186010000);
-INSERT INTO city(id, name, code, state_id) VALUES(187011000, '菲尼克斯群岛', 'PHO', 187010000);
-INSERT INTO city(id, name, code, state_id) VALUES(187012000, '吉尔伯特群岛', 'GIL', 187010000);
-INSERT INTO city(id, name, code, state_id) VALUES(187013000, '莱恩群岛', 'LIN', 187010000);
-INSERT INTO city(id, name, code, state_id) VALUES(188014000, '塔朱拉区', 'T', 188010000);
-INSERT INTO city(id, name, code, state_id) VALUES(188011000, '阿里萨比赫区', 'S', 188010000);
-INSERT INTO city(id, name, code, state_id) VALUES(188013000, '迪基勒区', 'K', 188010000);
-INSERT INTO city(id, name, code, state_id) VALUES(188012000, '奥博克区', 'O', 188010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189015000, '贾拉拉巴德', 'J', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189023000, '塔拉斯', 'T', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189026000, '伊塞克湖', 'Y', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189025000, '乌兹根', 'UG', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189020000, '迈利赛', 'MS', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189013000, '比什凯克市', 'GB', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189016000, '卡拉巴尔塔', 'KBA', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189011000, '奥什', 'O', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189019000, '科克扬加克', 'KJ', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189021000, '纳伦', 'N', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189022000, '苏卢克图', 'SU', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189014000, '楚河', 'C', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189018000, '坎特', 'KAN', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189012000, '巴特肯', 'B', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189017000, '卡拉库尔', 'KKO', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(189024000, '塔什库梅尔', 'TK', 189010000);
-INSERT INTO city(id, name, code, state_id) VALUES(190012000, '恩泽雷科雷', 'NZR', 190010000);
-INSERT INTO city(id, name, code, state_id) VALUES(190015000, '康康', 'KNK', 190010000);
-INSERT INTO city(id, name, code, state_id) VALUES(190017000, '拉贝', 'LAB', 190010000);
-INSERT INTO city(id, name, code, state_id) VALUES(190013000, '法拉纳', 'FRN', 190010000);
-INSERT INTO city(id, name, code, state_id) VALUES(190016000, '科纳克里', 'CNK', 190010000);
-INSERT INTO city(id, name, code, state_id) VALUES(190011000, '博凯', 'BOK', 190010000);
-INSERT INTO city(id, name, code, state_id) VALUES(190018000, '玛木', 'MAM', 190010000);
-INSERT INTO city(id, name, code, state_id) VALUES(190014000, '金迪亚', 'KND', 190010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192028000, '伦敦', 'LOD', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192037000, '维多利亚', 'VIC', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192021000, '怀特霍斯', 'YXY', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192034000, '舍布鲁克', 'SBE', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192014000, '巴里', 'BAR', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192038000, '温哥华', 'VAN', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192017000, '弗雷德里顿', 'FRE', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192042000, '夏洛特敦', 'CHA', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192030000, '萨德伯里', 'SUD', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192029000, '蒙特利尔', 'MTR', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192013000, '奥沙瓦', 'OSH', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192033000, '桑德贝', 'THU', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192020000, '哈密尔顿', 'HAM', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192043000, '耶洛奈夫', 'YZF', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192022000, '基劳纳', 'KWL', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192027000, '里贾纳', 'REG', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192041000, '渥太华', 'OTT', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192044000, '伊魁特', 'IQL', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192026000, '魁北克', 'QUE', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192039000, '温尼伯', 'WNP', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192012000, '埃德蒙顿', 'EDM', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192018000, '圭尔夫', 'GLP', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192019000, '哈利法克斯', 'HAL', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192015000, '布列塔尼角', 'CBR', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192031000, '萨斯卡通', 'SAK', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192011000, '阿伯茨福', 'ABB', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192024000, '金斯敦', 'KGN', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192025000, '卡里加里', 'CAL', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192035000, '圣卡塔琳娜', 'SCA', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192036000, '圣约翰斯', 'SJB', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192040000, '温莎', 'WDR', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192016000, '多伦多', 'TOR', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192032000, '三河城', 'TRR', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(192023000, '基奇纳', 'BRP', 192010000);
-INSERT INTO city(id, name, code, state_id) VALUES(193013000, '北部', 'NO', 193010000);
-INSERT INTO city(id, name, code, state_id) VALUES(193017000, '上东部', 'UE', 193010000);
-INSERT INTO city(id, name, code, state_id) VALUES(193012000, '奥布阿西', 'OBU', 193010000);
-INSERT INTO city(id, name, code, state_id) VALUES(193016000, '东部', 'EA', 193010000);
-INSERT INTO city(id, name, code, state_id) VALUES(193020000, '西部', 'WE', 193010000);
-INSERT INTO city(id, name, code, state_id) VALUES(193014000, '布朗阿哈福', 'BA', 193010000);
-INSERT INTO city(id, name, code, state_id) VALUES(193018000, '上西部', 'UW', 193010000);
-INSERT INTO city(id, name, code, state_id) VALUES(193019000, '沃尔特', 'VO', 193010000);
-INSERT INTO city(id, name, code, state_id) VALUES(193021000, '中部', 'CE', 193010000);
-INSERT INTO city(id, name, code, state_id) VALUES(193015000, '大阿克拉', 'GA', 193010000);
-INSERT INTO city(id, name, code, state_id) VALUES(193011000, '阿散蒂', 'AS', 193010000);
-INSERT INTO city(id, name, code, state_id) VALUES(194012000, '奥果韦-伊温多', 'OI', 194010000);
-INSERT INTO city(id, name, code, state_id) VALUES(194016000, '尼扬加', 'NY', 194010000);
-INSERT INTO city(id, name, code, state_id) VALUES(194015000, '河口', 'ES', 194010000);
-INSERT INTO city(id, name, code, state_id) VALUES(194011000, '奥果韦-洛洛', 'OL', 194010000);
-INSERT INTO city(id, name, code, state_id) VALUES(194014000, '恩古涅', 'NG', 194010000);
-INSERT INTO city(id, name, code, state_id) VALUES(194017000, '上奥果韦', 'HO', 194010000);
-INSERT INTO city(id, name, code, state_id) VALUES(194013000, '滨海奥果韦', 'OM', 194010000);
-INSERT INTO city(id, name, code, state_id) VALUES(194018000, '沃勒-恩特姆', 'WN', 194010000);
-INSERT INTO city(id, name, code, state_id) VALUES(194019000, '中奥果韦', 'MO', 194010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195018000, '磅同', 'KZK', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195022000, '柴桢', 'SVR', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195031000, '菩萨', 'PO', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195012000, '白马市', 'KB', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195034000, '暹粒', 'REP', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195025000, '贡布', 'KMT', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195014000, '拜林市', 'PL', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195024000, '戈公', 'KKZ', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195027000, '桔井', 'KH', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195032000, '上丁', 'TNX', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195013000, '柏威夏', 'PR', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195017000, '磅士卑', 'KO', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195026000, '金边市', 'PNH', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195016000, '磅清扬', 'KZC', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195033000, '西哈努克市', 'KA', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195020000, '波罗勉', 'PG', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195023000, '干丹', 'KL', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195011000, '奥多棉吉', 'OC', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195021000, '茶胶', 'TK', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195028000, '腊塔纳基里', 'RBE', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195029000, '马德望', 'BA', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195030000, '蒙多基里', 'MWV', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195015000, '班迭棉吉', 'BM', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(195019000, '磅湛', 'KM', 195010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196012000, '比尔森', 'PL', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196018000, '南摩拉维亚', 'JC', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196013000, '布拉格直辖市', 'PR', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196017000, '摩拉维亚-西里西亚', 'MO', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196015000, '卡罗维发利', 'KA', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196020000, '维索基纳', 'VY', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196011000, '奥洛穆茨', 'OL', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196019000, '帕尔杜比采', 'PA', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196023000, '兹林', 'ZL', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196014000, '赫拉德茨-克拉洛韦', 'KR', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196021000, '乌斯季', 'US', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196016000, '利贝雷克', 'LI', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(196022000, '中捷克', 'ST', 196010000);
-INSERT INTO city(id, name, code, state_id) VALUES(197018000, '西马绍纳兰', 'MW', 197010000);
-INSERT INTO city(id, name, code, state_id) VALUES(197015000, '马尼卡兰', 'ML', 197010000);
-INSERT INTO city(id, name, code, state_id) VALUES(197019000, '中部', 'MD', 197010000);
-INSERT INTO city(id, name, code, state_id) VALUES(197012000, '布拉瓦约', 'BU', 197010000);
-INSERT INTO city(id, name, code, state_id) VALUES(197016000, '马斯温戈', 'MV', 197010000);
-INSERT INTO city(id, name, code, state_id) VALUES(197011000, '北马塔贝莱兰', 'MN', 197010000);
-INSERT INTO city(id, name, code, state_id) VALUES(197013000, '东马绍纳兰', 'ME', 197010000);
-INSERT INTO city(id, name, code, state_id) VALUES(197017000, '南马塔贝莱兰', 'MS', 197010000);
-INSERT INTO city(id, name, code, state_id) VALUES(197020000, '中马绍纳兰', 'MC', 197010000);
-INSERT INTO city(id, name, code, state_id) VALUES(197014000, '哈拉雷', 'HA', 197010000);
-INSERT INTO city(id, name, code, state_id) VALUES(198013000, '北端', 'EXN', 198010000);
-INSERT INTO city(id, name, code, state_id) VALUES(198019000, '西南', 'SOU', 198010000);
-INSERT INTO city(id, name, code, state_id) VALUES(198020000, '中央', 'CEN', 198010000);
-INSERT INTO city(id, name, code, state_id) VALUES(198014000, '滨海', 'LIT', 198010000);
-INSERT INTO city(id, name, code, state_id) VALUES(198012000, '北部', 'NOR', 198010000);
-INSERT INTO city(id, name, code, state_id) VALUES(198016000, '南部', 'SUD', 198010000);
-INSERT INTO city(id, name, code, state_id) VALUES(198015000, '东部', 'EST', 198010000);
-INSERT INTO city(id, name, code, state_id) VALUES(198017000, '西北', 'NOT', 198010000);
-INSERT INTO city(id, name, code, state_id) VALUES(198018000, '西部', 'OUE', 198010000);
-INSERT INTO city(id, name, code, state_id) VALUES(198011000, '阿达马瓦', 'ADA', 198010000);
-INSERT INTO city(id, name, code, state_id) VALUES(199014000, '豪尔', 'KR', 199010000);
-INSERT INTO city(id, name, code, state_id) VALUES(199012000, '多哈', 'DW', 199010000);
-INSERT INTO city(id, name, code, state_id) VALUES(199019000, '朱迈利耶', 'JM', 199010000);
-INSERT INTO city(id, name, code, state_id) VALUES(199013000, '古韦里耶', 'GW', 199010000);
-INSERT INTO city(id, name, code, state_id) VALUES(199017000, '沃克拉', 'WK', 199010000);
-INSERT INTO city(id, name, code, state_id) VALUES(199016000, '赖扬', 'RN', 199010000);
-INSERT INTO city(id, name, code, state_id) VALUES(199018000, '乌姆锡拉勒', 'UL', 199010000);
-INSERT INTO city(id, name, code, state_id) VALUES(199011000, '北部', 'MS', 199010000);
-INSERT INTO city(id, name, code, state_id) VALUES(199015000, '杰里扬拜特奈', 'JB', 199010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203029000, '中科莫埃', 'MC', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203016000, '弗罗马格尔', 'FR', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203018000, '马拉韦', 'MR', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203019000, '南邦达马', 'SB', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203022000, '萨瓦纳', 'SV', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203020000, '南科莫埃', 'SC', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203017000, '湖泊', 'LC', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203011000, '阿涅比', 'AG', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203015000, '恩济－科莫埃', 'NC', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203025000, '下萨桑德拉', 'BS', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203023000, '山地', 'DH', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203028000, '中卡瓦利', 'MV', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203012000, '巴芬', 'BF', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203013000, '邦达马河谷', 'VB', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203014000, '登盖莱', 'DE', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203021000, '萨桑德拉', 'HT', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203027000, '赞赞', 'ZA', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203024000, '沃罗杜古', 'WR', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(203026000, '泻湖', 'LG', 203010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205014000, '波热加-斯拉沃尼亚', '11', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205028000, '希贝尼克-克宁', '15', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205013000, '滨海和山区', '8', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205026000, '维罗维蒂察-波德拉维纳', '10', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205011000, '奥西耶克-巴拉尼亚', '14', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205025000, '瓦拉日丁', '5', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205016000, '杜布罗夫斯克-内雷特瓦', '19', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205020000, '利卡-塞尼', '9', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205027000, '武科瓦尔-斯里耶姆', '16', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205017000, '卡尔洛瓦茨', '4', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205024000, '斯普利特-达尔马提亚', '17', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205029000, '锡萨克-莫斯拉维纳', '3', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205022000, '萨格勒布', '1', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205030000, '伊斯特拉', '18', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205015000, '布罗德-波萨维纳', '12', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205019000, '克拉皮纳-扎戈列', '2', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205031000, '扎达尔', '13', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205023000, '萨格勒布市', '21', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205021000, '梅吉穆列', '20', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205012000, '别洛瓦尔-比洛戈拉', '7', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(205018000, '科普里夫尼察-克里热夫齐', '6', 205010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206014000, '博美特', 'BOM', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206030000, '莱基皮亚', 'LAI', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206042000, '内罗毕', 'NA', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206048000, '塔纳河', 'TRI', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206050000, '特兰斯-恩佐亚', 'TNZ', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206047000, '桑布卢', 'UAS', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206033000, '马萨布布', 'RBT', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206036000, '蒙巴萨', 'MOM', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206044000, '尼亚米拉', 'NYM', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206028000, '夸勒', 'KWA', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206053000, '瓦辛基苏', 'UGI', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206049000, '泰塔塔维塔', 'TTA', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206056000, '夏亚', 'SIA', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206024000, '加里萨', 'GAS', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206035000, '梅鲁', 'MER', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206025000, '卡卡梅加', 'KAK', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206022000, '基图伊', 'KIT', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206032000, '马瓜尼', 'MAK', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206045000, '年达鲁阿', 'NYN', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206018000, '基安布', 'KIA', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206041000, '南迪', 'NAN', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206020000, '基里尼亚加', 'KIR', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206017000, '霍马湾', 'HOB', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206039000, '纳库鲁', 'NUU', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206046000, '涅里', 'NYE', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206012000, '巴林戈', 'BAR', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206013000, '邦戈马', 'BUN', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206019000, '基里菲', 'KIL', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206043000, '尼蒂', 'NIT', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206015000, '布希亚', 'BUS', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206016000, '恩布', 'EMB', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206052000, '瓦吉尔', 'WJR', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206027000, '凯里乔', 'KEY', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206034000, '曼德拉', 'MAN', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206040000, '纳罗克', 'NAR', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206023000, '基西', 'KII', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206054000, '韦希加', 'VIH', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206055000, '西波克特', 'WPO', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206026000, '卡耶亚多', 'KAJ', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206031000, '马查科斯', 'MAC', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206038000, '穆兰卡', 'MUR', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206011000, '埃尔格约-马拉奎特', 'EMA', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206058000, '中央', 'CE', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206029000, '拉木', 'LAU', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206037000, '米戈利', 'MIG', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206051000, '图尔卡纳', 'TUR', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206057000, '伊希约洛', 'ISI', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(206021000, '基苏木', 'KIS', 206010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208016000, '采西斯', 'CES', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208031000, '陶格夫皮尔斯', 'DGR', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208028000, '普雷利', 'PRE', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208014000, '巴尔维', 'BAL', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208020000, '克拉斯拉瓦', 'KRA', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208034000, '瓦尔米耶拉', 'VLM', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208018000, '古尔贝内', 'GUL', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208029000, '萨尔杜斯', 'SAL', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208022000, '雷泽克内', 'RZR', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208036000, '叶尔加瓦', 'JGR', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208021000, '库尔迪加', 'KUL', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208027000, '马多纳', 'MAD', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208024000, '利耶帕亚', 'LPK', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208015000, '包斯卡', 'BAU', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208030000, '塔尔西', 'TAL', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208023000, '里加', 'RGA', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208035000, '文茨皮尔斯', 'VSL', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208019000, '杰卡布皮尔斯', 'JEK', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208026000, '卢扎', 'LUD', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208012000, '爱兹克劳克雷', 'AIZ', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208011000, '阿卢克斯内', 'ALU', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208033000, '瓦尔加', 'VLK', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208025000, '林巴济', 'LIM', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208013000, '奥格雷', 'OGR', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208017000, '多贝莱', 'DOB', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(208032000, '图库马', 'TUK', 208010000);
-INSERT INTO city(id, name, code, state_id) VALUES(209017000, '马塞卢', 'A', 209010000);
-INSERT INTO city(id, name, code, state_id) VALUES(209013000, '古廷', 'G', 209010000);
-INSERT INTO city(id, name, code, state_id) VALUES(209011000, '伯里亚', 'D', 209010000);
-INSERT INTO city(id, name, code, state_id) VALUES(209012000, '布塔布泰', 'B', 209010000);
-INSERT INTO city(id, name, code, state_id) VALUES(209019000, '莫霍特隆', 'J', 209010000);
-INSERT INTO city(id, name, code, state_id) VALUES(209020000, '塔巴采卡', 'K', 209010000);
-INSERT INTO city(id, name, code, state_id) VALUES(209016000, '马费滕', 'E', 209010000);
-INSERT INTO city(id, name, code, state_id) VALUES(209014000, '加查斯内克', 'H', 209010000);
-INSERT INTO city(id, name, code, state_id) VALUES(209015000, '莱里贝', 'C', 209010000);
-INSERT INTO city(id, name, code, state_id) VALUES(209018000, '莫哈莱斯胡克', 'F', 209010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210018000, '琅勃拉邦', 'LP', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210016000, '甘蒙', 'KH', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210022000, '沙拉湾', 'SL', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210027000, '占巴塞', 'CH', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210023000, '沙湾拿吉', 'SV', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210015000, '丰沙里', 'PH', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210013000, '博乔', 'BK', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210021000, '色贡', 'XE', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210020000, '赛宋本行政特区', 'XN', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210019000, '琅南塔', 'LM', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210017000, '华潘', 'HO', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210011000, '阿速坡', 'AT', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210014000, '川圹', 'XI', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210025000, '万象', 'VI', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210026000, '乌多姆赛', 'OU', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210012000, '波里坎赛', 'BL', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(210024000, '沙耶武里', 'XA', 210010000);
-INSERT INTO city(id, name, code, state_id) VALUES(211014000, '黎巴嫩山', 'JL', 211010000);
-INSERT INTO city(id, name, code, state_id) VALUES(211015000, '奈拜提耶市', 'NA', 211010000);
-INSERT INTO city(id, name, code, state_id) VALUES(211016000, '南部', 'JA', 211010000);
-INSERT INTO city(id, name, code, state_id) VALUES(211011000, '北部', 'AS', 211010000);
-INSERT INTO city(id, name, code, state_id) VALUES(211012000, '贝卡', 'BI', 211010000);
-INSERT INTO city(id, name, code, state_id) VALUES(211013000, '贝鲁特', 'BA', 211010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212025000, '蒙特塞拉多', 'MO', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212023000, '马吉比', 'MG', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212024000, '马里兰', 'MY', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212027000, '锡诺', 'SI', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212011000, '巴波卢', 'GBA', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212017000, '大角山', 'CM', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212016000, '大吉德', 'GG', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212013000, '博波卢', 'BOP', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212022000, '洛法', 'LO', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212012000, '邦', 'BG', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212015000, '大巴萨', 'GB', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212021000, '里弗塞斯', 'RI', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212018000, '大克鲁', 'GK', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212014000, '博米', 'BM', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212020000, '吉河', 'RG', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212026000, '宁巴', 'NI', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(212019000, '菲什敦', 'FT', 212010000);
-INSERT INTO city(id, name, code, state_id) VALUES(214015000, '帕涅韦日斯', 'PA', 214010000);
-INSERT INTO city(id, name, code, state_id) VALUES(214017000, '特尔希艾', 'TE', 214010000);
-INSERT INTO city(id, name, code, state_id) VALUES(214012000, '考纳斯', 'KA', 214010000);
-INSERT INTO city(id, name, code, state_id) VALUES(214016000, '陶拉格', 'TA', 214010000);
-INSERT INTO city(id, name, code, state_id) VALUES(214013000, '克莱佩达', 'KL', 214010000);
-INSERT INTO city(id, name, code, state_id) VALUES(214019000, '乌田纳', 'UT', 214010000);
-INSERT INTO city(id, name, code, state_id) VALUES(214014000, '马里扬泊列', 'MA', 214010000);
-INSERT INTO city(id, name, code, state_id) VALUES(214018000, '维尔纽斯', 'VI', 214010000);
-INSERT INTO city(id, name, code, state_id) VALUES(214011000, '阿利图斯', 'AL', 214010000);
-INSERT INTO city(id, name, code, state_id) VALUES(214020000, '希奥利艾', 'SI', 214010000);
-INSERT INTO city(id, name, code, state_id) VALUES(214021000, '亚克曼', 'AKM', 214010000);
-INSERT INTO city(id, name, code, state_id) VALUES(217012000, '格雷文马赫', 'GG', 217010000);
-INSERT INTO city(id, name, code, state_id) VALUES(217011000, '迪基希', 'DD', 217010000);
-INSERT INTO city(id, name, code, state_id) VALUES(217013000, '卢森堡', 'LL', 217010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218026000, '乌姆塔拉', 'UM', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218015000, '基布耶', 'KY', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218014000, '基本古', 'KG', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218013000, '恩延扎', 'NY', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218018000, '吉孔戈罗', 'GK', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218017000, '基加利市', 'KV', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218021000, '卡布加', 'KA', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218019000, '吉塞尼', 'GS', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218023000, '鲁汉戈', 'RH', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218025000, '尚古古', 'CY', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218022000, '卢瓦马加纳', 'RW', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218012000, '布塔雷', 'BU', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218020000, '吉塔拉马', 'GT', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218011000, '比温巴', 'BY', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218016000, '基加利-恩加利', 'KR', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(218024000, '鲁亨盖里', 'RU', 218010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219047000, '瓦斯卢伊', 'VA', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219028000, '康斯坦察', 'CT', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219027000, '久尔久', 'GG', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219035000, '皮特什蒂', 'PI', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219020000, '布勒伊拉', 'BL', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219025000, '福克沙尼', 'FO', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219029000, '克拉约瓦', 'DO', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219026000, '加拉茨', 'GL', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219039000, '圣格奥尔基', 'SG', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219034000, '梅尔库里亚丘克', 'MC', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219042000, '苏恰瓦', 'SU', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219021000, '布泽乌', 'BZ', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219051000, '扎勒乌', 'ZA', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219015000, '巴亚马雷', 'BM', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219045000, '特尔古日乌', 'TJ', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219024000, '蒂米什瓦拉', 'TI', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219030000, '克勒拉希', 'CR', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219048000, '锡比乌', 'SO', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219013000, '奥拉迪亚', 'OR', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219018000, '布加勒斯特', 'BC', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219012000, '阿拉德', 'AR', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219049000, '雅西', 'IS', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219019000, '布拉索夫', 'BS', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219041000, '斯洛博齐亚', 'SB', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219033000, '雷希察', 'RE', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219014000, '巴克乌', 'BA', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219037000, '普洛耶什蒂', 'PL', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219043000, '特尔戈维什泰', 'TA', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219022000, '德罗贝塔-塞维林堡', 'DT', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219036000, '皮亚特拉尼亚姆茨', 'PN', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219046000, '图尔恰', 'TU', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219038000, '萨图·马雷', 'SM', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219011000, '阿尔巴尤利亚', 'AL', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219044000, '特尔古穆列什', 'TM', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219017000, '博托沙尼', 'BO', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219023000, '德瓦', 'DE', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219032000, '勒姆尼库沃尔恰', 'VI', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219040000, '斯拉蒂纳', 'ST', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219031000, '克卢日纳波卡', 'CN', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219050000, '亚厉山德里亚', 'AD', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(219016000, '比斯特里察', 'BN', 219010000);
-INSERT INTO city(id, name, code, state_id) VALUES(220015000, '图阿马西拉', 'TM', 220010000);
-INSERT INTO city(id, name, code, state_id) VALUES(220012000, '菲亚纳兰楚阿', 'FN', 220010000);
-INSERT INTO city(id, name, code, state_id) VALUES(220016000, '图利亚拉', 'TL', 220010000);
-INSERT INTO city(id, name, code, state_id) VALUES(220011000, '安齐拉纳纳', 'AS', 220010000);
-INSERT INTO city(id, name, code, state_id) VALUES(220013000, '马哈赞加', 'MJ', 220010000);
-INSERT INTO city(id, name, code, state_id) VALUES(220014000, '塔那那利佛', 'AN', 220010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221020000, '福阿穆拉库', 'FMU', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221024000, '马累岛', 'MAA', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221016000, '北尼兰杜', 'NAD', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221021000, '哈杜马蒂', 'HDH', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221028000, '南马洛斯马杜卢', 'MAU', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221023000, '马累', 'MAL', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221029000, '南米拉杜马杜卢', 'MLU', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221011000, '阿杜', 'ADD', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221022000, '科卢马杜卢', 'KLH', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221030000, '南尼兰杜', 'NAU', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221018000, '法迪福卢', 'FAA', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221025000, '穆拉库', 'MUA', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221027000, '南蒂拉杜马蒂', 'THU', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221015000, '北米拉杜马杜卢', 'MLD', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221012000, '北阿里', 'AAD', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221017000, '北苏瓦迪瓦', 'HAD', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221019000, '费利杜', 'FEA', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221014000, '北马洛斯马杜卢', 'MAD', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221013000, '北蒂拉杜马蒂', 'THD', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221031000, '南苏瓦迪瓦', 'HAU', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(221026000, '南阿里', 'AAU', 221010000);
-INSERT INTO city(id, name, code, state_id) VALUES(223011000, '北部区', 'N', 223010000);
-INSERT INTO city(id, name, code, state_id) VALUES(223012000, '南部区', 'S', 223010000);
-INSERT INTO city(id, name, code, state_id) VALUES(223013000, '中央区', 'C', 223010000);
-INSERT INTO city(id, name, code, state_id) VALUES(224114000, '居銮', 'KLA', 224110000);
-INSERT INTO city(id, name, code, state_id) VALUES(224112000, '丰盛港', 'MEP', 224110000);
-INSERT INTO city(id, name, code, state_id) VALUES(224111000, '笨珍', 'POW', 224110000);
-INSERT INTO city(id, name, code, state_id) VALUES(224113000, '哥打丁宜', 'KTI', 224110000);
-INSERT INTO city(id, name, code, state_id) VALUES(224117000, '昔加末', 'SGM', 224110000);
-INSERT INTO city(id, name, code, state_id) VALUES(224115000, '峇株巴辖', 'BAT', 224110000);
-INSERT INTO city(id, name, code, state_id) VALUES(224116000, '麻坡', 'MUA', 224110000);
-INSERT INTO city(id, name, code, state_id) VALUES(224118000, '新山', 'JHB', 224110000);
-INSERT INTO city(id, name, code, state_id) VALUES(224125000, '林茂', 'REM', 224120000);
-INSERT INTO city(id, name, code, state_id) VALUES(224122000, '淡边', 'TAI', 224120000);
-INSERT INTO city(id, name, code, state_id) VALUES(224124000, '瓜拉庇劳', 'KPI', 224120000);
-INSERT INTO city(id, name, code, state_id) VALUES(224123000, '芙蓉', 'SRB', 224120000);
-INSERT INTO city(id, name, code, state_id) VALUES(224127000, '日叻务', 'JEL', 224120000);
-INSERT INTO city(id, name, code, state_id) VALUES(224126000, '仁保', 'JEP', 224120000);
-INSERT INTO city(id, name, code, state_id) VALUES(224121000, '波德申', 'PDI', 224120000);
-INSERT INTO city(id, name, code, state_id) VALUES(224093000, '淡马鲁', 'TEM', 224090000);
-INSERT INTO city(id, name, code, state_id) VALUES(224098000, '立卑', 'KUL', 224090000);
-INSERT INTO city(id, name, code, state_id) VALUES(224095000, '关丹', 'KUA', 224090000);
-INSERT INTO city(id, name, code, state_id) VALUES(224092000, '北根', 'PEK', 224090000);
-INSERT INTO city(id, name, code, state_id) VALUES(224094000, '而连突', 'JER', 224090000);
-INSERT INTO city(id, name, code, state_id) VALUES(224101000, '云冰', 'TOM', 224090000);
-INSERT INTO city(id, name, code, state_id) VALUES(224097000, '劳勿', 'RAU', 224090000);
-INSERT INTO city(id, name, code, state_id) VALUES(224100000, '文冬', 'BEN', 224090000);
-INSERT INTO city(id, name, code, state_id) VALUES(224091000, '百乐', 'BER', 224090000);
-INSERT INTO city(id, name, code, state_id) VALUES(224096000, '金马仑高原', 'CAH', 224090000);
-INSERT INTO city(id, name, code, state_id) VALUES(224099000, '马兰', 'MAR', 224090000);
-INSERT INTO city(id, name, code, state_id) VALUES(224021000, '加央', 'KGR', 224020000);
-INSERT INTO city(id, name, code, state_id) VALUES(224049000, '万拉峇鲁', 'BMA', 224040000);
-INSERT INTO city(id, name, code, state_id) VALUES(224041000, '巴东得腊', 'PGT', 224040000);
-INSERT INTO city(id, name, code, state_id) VALUES(224047000, '华玲', 'BLZ', 224040000);
-INSERT INTO city(id, name, code, state_id) VALUES(224042000, '笨筒', 'PEN', 224040000);
-INSERT INTO city(id, name, code, state_id) VALUES(224043000, '浮罗交怡', 'LGK', 224040000);
-INSERT INTO city(id, name, code, state_id) VALUES(224046000, '瓜拉姆达', 'KMU', 224040000);
-INSERT INTO city(id, name, code, state_id) VALUES(224044000, '哥打士打', 'KOR', 224040000);
-INSERT INTO city(id, name, code, state_id) VALUES(224045000, '古邦巴素', 'KPA', 224040000);
-INSERT INTO city(id, name, code, state_id) VALUES(224048000, '居林', 'KLM', 224040000);
-INSERT INTO city(id, name, code, state_id) VALUES(224146000, '瓜拉班尤', 'KPU', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224132000, '保佛', 'BEF', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224144000, '古打毛律', 'KBD', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224149000, '拿笃', 'LDU', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224152000, '西比陶', 'SPT', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224137000, '丹南', 'TEN', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224153000, '仙本那', 'SMM', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224139000, '斗亚兰', 'TUR', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224131000, '吧巴', 'PAP', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224140000, '哥打基纳巴鲁', 'BKI', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224133000, '比鲁兰', 'BEL', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224136000, '担布南', 'TAB', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224147000, '京那巴登岸', 'KBT', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224135000, '兵南邦', 'PMP', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224145000, '古纳', 'KUN', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224151000, '山打根', 'SDK', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224142000, '根地咬', 'KEG', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224138000, '斗湖', 'TAW', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224141000, '哥打马鲁都', 'KMU', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224148000, '兰脑', 'RNU', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224150000, '纳巴湾', 'NAB', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224134000, '必达士', 'PIT', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224143000, '古达', 'KUD', 224130000);
-INSERT INTO city(id, name, code, state_id) VALUES(224081000, '纳闽', 'LBU', 224080000);
-INSERT INTO city(id, name, code, state_id) VALUES(224082000, '维多利亚', 'VIC', 224080000);
-INSERT INTO city(id, name, code, state_id) VALUES(224051000, '巴西富地', 'PPU', 224050000);
-INSERT INTO city(id, name, code, state_id) VALUES(224054000, '道北', 'TUM', 224050000);
-INSERT INTO city(id, name, code, state_id) VALUES(224060000, '日里', 'JEL', 224050000);
-INSERT INTO city(id, name, code, state_id) VALUES(224055000, '登卓', 'BAC', 224050000);
-INSERT INTO city(id, name, code, state_id) VALUES(224057000, '瓜拉吉赖', 'KUG', 224050000);
-INSERT INTO city(id, name, code, state_id) VALUES(224058000, '话望生', 'GMU', 224050000);
-INSERT INTO city(id, name, code, state_id) VALUES(224052000, '巴西马', 'PMA', 224050000);
-INSERT INTO city(id, name, code, state_id) VALUES(224056000, '哥打巴鲁', 'KBR', 224050000);
-INSERT INTO city(id, name, code, state_id) VALUES(224059000, '马樟', 'MAC', 224050000);
-INSERT INTO city(id, name, code, state_id) VALUES(224053000, '丹那美拉', 'TMR', 224050000);
-INSERT INTO city(id, name, code, state_id) VALUES(224141000, '古晋', 'KCH', 224140000);
-INSERT INTO city(id, name, code, state_id) VALUES(224149000, '斯里阿曼', 'SAM', 224140000);
-INSERT INTO city(id, name, code, state_id) VALUES(224144000, '美里', 'MYY', 224140000);
-INSERT INTO city(id, name, code, state_id) VALUES(224148000, '三马拉汉', 'SMH', 224140000);
-INSERT INTO city(id, name, code, state_id) VALUES(224151000, '泗务', 'SBW', 224140000);
-INSERT INTO city(id, name, code, state_id) VALUES(224150000, '泗里街', 'SAR', 224140000);
-INSERT INTO city(id, name, code, state_id) VALUES(224145000, '民都鲁', 'BTU', 224140000);
-INSERT INTO city(id, name, code, state_id) VALUES(224147000, '木中', 'BTG', 224140000);
-INSERT INTO city(id, name, code, state_id) VALUES(224143000, '林梦', 'LMN', 224140000);
-INSERT INTO city(id, name, code, state_id) VALUES(224146000, '木胶', 'MKM', 224140000);
-INSERT INTO city(id, name, code, state_id) VALUES(224142000, '加帛', 'KPI', 224140000);
-INSERT INTO city(id, name, code, state_id) VALUES(224072000, '亚罗牙也', 'AOG', 224070000);
-INSERT INTO city(id, name, code, state_id) VALUES(224073000, '野新', 'JAS', 224070000);
-INSERT INTO city(id, name, code, state_id) VALUES(224071000, '马六甲市', 'MEL', 224070000);
-INSERT INTO city(id, name, code, state_id) VALUES(224101000, '安顺', 'TAS', 224100000);
-INSERT INTO city(id, name, code, state_id) VALUES(224103000, '和丰', 'SSP', 224100000);
-INSERT INTO city(id, name, code, state_id) VALUES(224102000, '丹绒马', 'TAM', 224100000);
-INSERT INTO city(id, name, code, state_id) VALUES(224104000, '紅土坎', 'LUM', 224100000);
-INSERT INTO city(id, name, code, state_id) VALUES(224105000, '华都牙也', 'BGA', 224100000);
-INSERT INTO city(id, name, code, state_id) VALUES(224106000, '江沙', 'KAR', 224100000);
-INSERT INTO city(id, name, code, state_id) VALUES(224108000, '怡保', 'IPH', 224100000);
-INSERT INTO city(id, name, code, state_id) VALUES(224107000, '太平', 'TPG', 224100000);
-INSERT INTO city(id, name, code, state_id) VALUES(224156000, '乌鲁冷岳', 'HUL', 224150000);
-INSERT INTO city(id, name, code, state_id) VALUES(224151000, '八打灵', 'PJA', 224150000);
-INSERT INTO city(id, name, code, state_id) VALUES(224154000, '瓜拉雪兰莪', 'KSL', 224150000);
-INSERT INTO city(id, name, code, state_id) VALUES(224157000, '乌鲁雪兰莪', 'HUS', 224150000);
-INSERT INTO city(id, name, code, state_id) VALUES(224158000, '雪邦', 'SEP', 224150000);
-INSERT INTO city(id, name, code, state_id) VALUES(224153000, '瓜拉冷岳', 'KLG', 224150000);
-INSERT INTO city(id, name, code, state_id) VALUES(224152000, '鹅麦', 'GOM', 224150000);
-INSERT INTO city(id, name, code, state_id) VALUES(224155000, '沙白安南', 'SBM', 224150000);
-INSERT INTO city(id, name, code, state_id) VALUES(224033000, '龙运', 'DGN', 224030000);
-INSERT INTO city(id, name, code, state_id) VALUES(224035000, '实兆', 'SET', 224030000);
-INSERT INTO city(id, name, code, state_id) VALUES(224031000, '甘马挽', 'KEM', 224030000);
-INSERT INTO city(id, name, code, state_id) VALUES(224032000, '瓜拉丁加奴', 'TGG', 224030000);
-INSERT INTO city(id, name, code, state_id) VALUES(224037000, '勿述', 'BES', 224030000);
-INSERT INTO city(id, name, code, state_id) VALUES(224034000, '马江', 'MAR', 224030000);
-INSERT INTO city(id, name, code, state_id) VALUES(224036000, '乌鲁', 'HUL', 224030000);
-INSERT INTO city(id, name, code, state_id) VALUES(224061000, '吉隆坡', 'KUL', 224060000);
-INSERT INTO city(id, name, code, state_id) VALUES(224012000, '槟城', 'PEN', 224010000);
-INSERT INTO city(id, name, code, state_id) VALUES(224013000, '大山脚', 'BMJ', 224010000);
-INSERT INTO city(id, name, code, state_id) VALUES(224011000, '北海', 'BWH', 224010000);
-INSERT INTO city(id, name, code, state_id) VALUES(224014000, '高渊', 'NTE', 224010000);
-INSERT INTO city(id, name, code, state_id) VALUES(225011000, '巴马科首都区', 'CD', 225010000);
-INSERT INTO city(id, name, code, state_id) VALUES(225014000, '卡伊', 'KY', 225010000);
-INSERT INTO city(id, name, code, state_id) VALUES(225013000, '加奥', 'GA', 225010000);
-INSERT INTO city(id, name, code, state_id) VALUES(225017000, '塞古', 'SG', 225010000);
-INSERT INTO city(id, name, code, state_id) VALUES(225012000, '基达尔', 'KD', 225010000);
-INSERT INTO city(id, name, code, state_id) VALUES(225018000, '通布图', 'TB', 225010000);
-INSERT INTO city(id, name, code, state_id) VALUES(225015000, '库利科罗', 'KL', 225010000);
-INSERT INTO city(id, name, code, state_id) VALUES(225019000, '锡卡索', 'SK', 225010000);
-INSERT INTO city(id, name, code, state_id) VALUES(225016000, '莫普提', 'MP', 225010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232022000, '西胡德', 'HC', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232014000, '东胡德', 'HG', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232012000, '阿萨巴', 'AS', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232023000, '因希里', 'IN', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232013000, '卜拉克纳', 'BR', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232021000, '提里斯-宰穆尔', 'TZ', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232015000, '戈尔戈勒', 'GO', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232018000, '努瓦克肖特特区', 'NO', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232011000, '阿德拉尔', 'AD', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232020000, '特拉扎', 'TR', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232016000, '吉迪马卡', 'GM', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232019000, '塔甘特', 'TA', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(232017000, '努瓦迪布湾', 'DN', 232010000);
-INSERT INTO city(id, name, code, state_id) VALUES(233103000, '克利夫兰', 'CLE', 233100000);
-INSERT INTO city(id, name, code, state_id) VALUES(233104000, '托莱多', 'TOL', 233100000);
-INSERT INTO city(id, name, code, state_id) VALUES(233101000, '代顿', 'DYT', 233100000);
-INSERT INTO city(id, name, code, state_id) VALUES(233105000, '辛辛那提', 'CVG', 233100000);
-INSERT INTO city(id, name, code, state_id) VALUES(233102000, '哥伦布', 'CZX', 233100000);
-INSERT INTO city(id, name, code, state_id) VALUES(233442000, '曼彻斯特', 'MHT', 233440000);
-INSERT INTO city(id, name, code, state_id) VALUES(233443000, '纳舒厄', 'ASH', 233440000);
-INSERT INTO city(id, name, code, state_id) VALUES(233441000, '康科德', 'CON', 233440000);
-INSERT INTO city(id, name, code, state_id) VALUES(233322000, '明尼阿波利斯', 'MES', 233320000);
-INSERT INTO city(id, name, code, state_id) VALUES(233321000, '罗切斯特', 'RST', 233320000);
-INSERT INTO city(id, name, code, state_id) VALUES(233323000, '圣保罗', 'STP', 233320000);
-INSERT INTO city(id, name, code, state_id) VALUES(233477000, '优玛', 'YUM', 233470000);
-INSERT INTO city(id, name, code, state_id) VALUES(233472000, '格兰代尔', 'GDA', 233470000);
-INSERT INTO city(id, name, code, state_id) VALUES(233473000, '梅萨', 'MQA', 233470000);
-INSERT INTO city(id, name, code, state_id) VALUES(233474000, '史卡兹代尔', 'STZ', 233470000);
-INSERT INTO city(id, name, code, state_id) VALUES(233476000, '图森', 'TUC', 233470000);
-INSERT INTO city(id, name, code, state_id) VALUES(233471000, '凤凰城', 'PHX', 233470000);
-INSERT INTO city(id, name, code, state_id) VALUES(233475000, '坦普', 'TPE', 233470000);
-INSERT INTO city(id, name, code, state_id) VALUES(233192000, '奥弗兰公园', 'OVL', 233190000);
-INSERT INTO city(id, name, code, state_id) VALUES(233199000, '威奇托', 'ICT', 233190000);
-INSERT INTO city(id, name, code, state_id) VALUES(233197000, '曼哈顿', 'MHK', 233190000);
-INSERT INTO city(id, name, code, state_id) VALUES(233198000, '托皮卡', 'TOP', 233190000);
-INSERT INTO city(id, name, code, state_id) VALUES(233193000, '哈钦森', 'HCH', 233190000);
-INSERT INTO city(id, name, code, state_id) VALUES(233195000, '莱文沃思', 'XIA', 233190000);
-INSERT INTO city(id, name, code, state_id) VALUES(233196000, '劳伦斯', 'LWC', 233190000);
-INSERT INTO city(id, name, code, state_id) VALUES(233191000, '阿比林', 'ABZ', 233190000);
-INSERT INTO city(id, name, code, state_id) VALUES(233194000, '堪萨斯城', 'KCK', 233190000);
-INSERT INTO city(id, name, code, state_id) VALUES(233081000, '阿伦敦', 'AEW', 233080000);
-INSERT INTO city(id, name, code, state_id) VALUES(233083000, '匹兹堡', 'PIT', 233080000);
-INSERT INTO city(id, name, code, state_id) VALUES(233082000, '费城', 'PHL', 233080000);
-INSERT INTO city(id, name, code, state_id) VALUES(233492000, '韦恩堡', 'FWA', 233490000);
-INSERT INTO city(id, name, code, state_id) VALUES(233493000, '印第安纳波利斯', 'IND', 233490000);
-INSERT INTO city(id, name, code, state_id) VALUES(233491000, '埃文斯维尔', 'EVV', 233490000);
-INSERT INTO city(id, name, code, state_id) VALUES(233353000, '林肯', 'LNK', 233350000);
-INSERT INTO city(id, name, code, state_id) VALUES(233351000, '奥马哈', 'OMA', 233350000);
-INSERT INTO city(id, name, code, state_id) VALUES(233352000, '贝尔维尤', 'XDE', 233350000);
-INSERT INTO city(id, name, code, state_id) VALUES(233222000, '路易斯维尔', 'LUI', 233220000);
-INSERT INTO city(id, name, code, state_id) VALUES(233223000, '欧文斯伯勒', 'OWB', 233220000);
-INSERT INTO city(id, name, code, state_id) VALUES(233221000, '列克星敦', 'LEX', 233220000);
-INSERT INTO city(id, name, code, state_id) VALUES(233151000, '华盛顿哥伦比亚特区', 'WAS', 233150000);
-INSERT INTO city(id, name, code, state_id) VALUES(233211000, '阿斯彭', 'ASE', 233210000);
-INSERT INTO city(id, name, code, state_id) VALUES(233214000, '大章克申', 'GJT', 233210000);
-INSERT INTO city(id, name, code, state_id) VALUES(233217000, '科罗拉多斯普林斯', 'COS', 233210000);
-INSERT INTO city(id, name, code, state_id) VALUES(233213000, '博尔德', 'WBU', 233210000);
-INSERT INTO city(id, name, code, state_id) VALUES(233215000, '丹佛', 'DEN', 233210000);
-INSERT INTO city(id, name, code, state_id) VALUES(233218000, '韦尔', 'VAC', 233210000);
-INSERT INTO city(id, name, code, state_id) VALUES(233216000, '柯林斯堡', 'FNL', 233210000);
-INSERT INTO city(id, name, code, state_id) VALUES(233212000, '奥罗拉', 'AUX', 233210000);
-INSERT INTO city(id, name, code, state_id) VALUES(233423000, '帕克斯堡', 'PKB', 233420000);
-INSERT INTO city(id, name, code, state_id) VALUES(233421000, '查尔斯顿', 'CRW', 233420000);
-INSERT INTO city(id, name, code, state_id) VALUES(233422000, '亨廷顿', 'HNU', 233420000);
-INSERT INTO city(id, name, code, state_id) VALUES(233462000, '帕特森', 'PAT', 233460000);
-INSERT INTO city(id, name, code, state_id) VALUES(233461000, '纽瓦克', 'NRK', 233460000);
-INSERT INTO city(id, name, code, state_id) VALUES(233463000, '泽西城', 'JEC', 233460000);
-INSERT INTO city(id, name, code, state_id) VALUES(233176000, '谢里登', 'SHR', 233170000);
-INSERT INTO city(id, name, code, state_id) VALUES(233173000, '拉勒米', 'LAR', 233170000);
-INSERT INTO city(id, name, code, state_id) VALUES(233171000, '埃文斯顿', 'EVD', 233170000);
-INSERT INTO city(id, name, code, state_id) VALUES(233175000, '夏延', 'CYS', 233170000);
-INSERT INTO city(id, name, code, state_id) VALUES(233172000, '卡斯珀', 'CPR', 233170000);
-INSERT INTO city(id, name, code, state_id) VALUES(233174000, '罗克斯普林斯', 'RKS', 233170000);
-INSERT INTO city(id, name, code, state_id) VALUES(233133000, '杰克逊维尔', 'JAX', 233130000);
-INSERT INTO city(id, name, code, state_id) VALUES(233132000, '基韦斯特', 'EYW', 233130000);
-INSERT INTO city(id, name, code, state_id) VALUES(233135000, '罗德岱堡', 'FLL', 233130000);
-INSERT INTO city(id, name, code, state_id) VALUES(233137000, '圣彼德斯堡市', 'PIE', 233130000);
-INSERT INTO city(id, name, code, state_id) VALUES(233138000, '塔拉哈西', 'TLH', 233130000);
-INSERT INTO city(id, name, code, state_id) VALUES(233134000, '卡纳维尔角', 'CPV', 233130000);
-INSERT INTO city(id, name, code, state_id) VALUES(233131000, '奥兰多', 'ORL', 233130000);
-INSERT INTO city(id, name, code, state_id) VALUES(233136000, '迈阿密', 'MIA', 233130000);
-INSERT INTO city(id, name, code, state_id) VALUES(233139000, '坦帕', 'TPA', 233130000);
-INSERT INTO city(id, name, code, state_id) VALUES(233161000, '斯波坎', 'GEG', 233160000);
-INSERT INTO city(id, name, code, state_id) VALUES(233163000, '西雅图', 'SEA', 233160000);
-INSERT INTO city(id, name, code, state_id) VALUES(233162000, '塔科马', 'TTW', 233160000);
-INSERT INTO city(id, name, code, state_id) VALUES(233031000, '安克雷奇', 'ANC', 233030000);
-INSERT INTO city(id, name, code, state_id) VALUES(233032000, '费尔班克斯', 'FAI', 233030000);
-INSERT INTO city(id, name, code, state_id) VALUES(233033000, '朱诺', 'JNU', 233030000);
-INSERT INTO city(id, name, code, state_id) VALUES(233482000, '奥罗拉', 'AUZ', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233483000, '布卢明顿', 'BLO', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233490000, '卡本代尔', 'MDH', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233491000, '罗克艾兰', 'RKI', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233492000, '罗克福德', 'RFD', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233497000, '沃其根', 'UGN', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233484000, '丹维尓', 'DVI', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233481000, '奥尔顿', 'ALN', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233485000, '迪卡尔布', 'DEK', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233486000, '迪凯持', 'DEC', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233487000, '东圣路易斯', 'ESL', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233495000, '森特勒利亚', 'CRA', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233489000, '盖尔斯堡', 'GSU', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233488000, '厄巴纳-香槟', 'CMI', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233493000, '诺黙尔', 'NOM', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233494000, '皮奥里亚', 'PLA', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233496000, '斯普林菲尔德', 'SPI', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233498000, '芝加哥', 'CHI', 233480000);
-INSERT INTO city(id, name, code, state_id) VALUES(233244000, '普罗维登斯', 'PVD', 233240000);
-INSERT INTO city(id, name, code, state_id) VALUES(233241000, '波塔基特', 'PAW', 233240000);
-INSERT INTO city(id, name, code, state_id) VALUES(233243000, '纽波特', 'NPO', 233240000);
-INSERT INTO city(id, name, code, state_id) VALUES(233245000, '韦斯特利', 'WST', 233240000);
-INSERT INTO city(id, name, code, state_id) VALUES(233242000, '克兰斯顿', 'CQH', 233240000);
-INSERT INTO city(id, name, code, state_id) VALUES(233247000, '沃威克', 'UZO', 233240000);
-INSERT INTO city(id, name, code, state_id) VALUES(233246000, '文索基特', 'SFN', 233240000);
-INSERT INTO city(id, name, code, state_id) VALUES(233433000, '希洛', 'ITO', 233430000);
-INSERT INTO city(id, name, code, state_id) VALUES(233432000, '檀香山', 'HNL', 233430000);
-INSERT INTO city(id, name, code, state_id) VALUES(233431000, '凯卢阿', 'KHH', 233430000);
-INSERT INTO city(id, name, code, state_id) VALUES(233511000, '奥古斯塔', 'AUT', 233510000);
-INSERT INTO city(id, name, code, state_id) VALUES(233513000, '梅肯', 'MCN', 233510000);
-INSERT INTO city(id, name, code, state_id) VALUES(233515000, '亚特兰大', 'TAT', 233510000);
-INSERT INTO city(id, name, code, state_id) VALUES(233512000, '哥伦布', 'CZX', 233510000);
-INSERT INTO city(id, name, code, state_id) VALUES(233514000, '沙瓦纳', 'SAV', 233510000);
-INSERT INTO city(id, name, code, state_id) VALUES(233233000, '新奥尔良', 'MSY', 233230000);
-INSERT INTO city(id, name, code, state_id) VALUES(233232000, '什里夫波特', 'SHV', 233230000);
-INSERT INTO city(id, name, code, state_id) VALUES(233231000, '巴吞鲁日', 'BTR', 233230000);
-INSERT INTO city(id, name, code, state_id) VALUES(233062000, '大福克斯', 'GFK', 233060000);
-INSERT INTO city(id, name, code, state_id) VALUES(233064000, '迈诺特', 'MOT', 233060000);
-INSERT INTO city(id, name, code, state_id) VALUES(233061000, '俾斯麦', 'BIS', 233060000);
-INSERT INTO city(id, name, code, state_id) VALUES(233063000, '法戈', 'FAR', 233060000);
-INSERT INTO city(id, name, code, state_id) VALUES(233073000, '格林斯伯勒', 'GBO', 233070000);
-INSERT INTO city(id, name, code, state_id) VALUES(233071000, '艾许维尔', 'AEV', 233070000);
-INSERT INTO city(id, name, code, state_id) VALUES(233072000, '杜罕', 'DHH', 233070000);
-INSERT INTO city(id, name, code, state_id) VALUES(233076000, '洛利杜罕都会区', 'RDU', 233070000);
-INSERT INTO city(id, name, code, state_id) VALUES(233075000, '罗利', 'RAG', 233070000);
-INSERT INTO city(id, name, code, state_id) VALUES(233074000, '教堂山', 'CHE', 233070000);
-INSERT INTO city(id, name, code, state_id) VALUES(233077000, '夏洛特', 'CRQ', 233070000);
-INSERT INTO city(id, name, code, state_id) VALUES(233311000, '班戈', 'BNQ', 233310000);
-INSERT INTO city(id, name, code, state_id) VALUES(233312000, '波特兰', 'POL', 233310000);
-INSERT INTO city(id, name, code, state_id) VALUES(233313000, '刘易斯顿', 'QLW', 233310000);
-INSERT INTO city(id, name, code, state_id) VALUES(233373000, '纽约市', 'QEE', 233370000);
-INSERT INTO city(id, name, code, state_id) VALUES(233372000, '罗切斯特', 'ROC', 233370000);
-INSERT INTO city(id, name, code, state_id) VALUES(233371000, '布法罗', 'FFO', 233370000);
-INSERT INTO city(id, name, code, state_id) VALUES(233021000, '伯明罕', 'BHM', 233020000);
-INSERT INTO city(id, name, code, state_id) VALUES(233022000, '蒙哥马利', 'MGM', 233020000);
-INSERT INTO city(id, name, code, state_id) VALUES(233023000, '莫比尔', 'MOB', 233020000);
-INSERT INTO city(id, name, code, state_id) VALUES(233111000, '俄克拉荷马城', 'OKC', 233110000);
-INSERT INTO city(id, name, code, state_id) VALUES(233112000, '诺曼', 'OUN', 233110000);
-INSERT INTO city(id, name, code, state_id) VALUES(233113000, '塔尔萨', 'TUL', 233110000);
-INSERT INTO city(id, name, code, state_id) VALUES(233413000, '切萨皮克', 'HTW', 233410000);
-INSERT INTO city(id, name, code, state_id) VALUES(233411000, '弗吉尼亚比奇', 'VAB', 233410000);
-INSERT INTO city(id, name, code, state_id) VALUES(233412000, '诺福克', 'ORF', 233410000);
-INSERT INTO city(id, name, code, state_id) VALUES(233041000, '爱达荷福尔斯', 'IDA', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233044000, '布莱克富特', 'BLK', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233045000, '科达伦', 'COE', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233047000, '莫斯科', 'MJL', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233046000, '刘易斯顿', 'LWS', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233050000, '岂彻姆', 'QKM', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233043000, '博伊西', 'BOI', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233051000, '森瓦利', 'SVY', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233052000, '亚美利加瀑布城', 'YAF', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233042000, '波卡特洛', 'PIH', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233048000, '墨菲', 'ZMU', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233049000, '楠帕', 'NPA', 233040000);
-INSERT INTO city(id, name, code, state_id) VALUES(233183000, '圣迭戈', 'SAN', 233180000);
-INSERT INTO city(id, name, code, state_id) VALUES(233182000, '洛杉矶', 'LAX', 233180000);
-INSERT INTO city(id, name, code, state_id) VALUES(233181000, '旧金山', 'SFO', 233180000);
-INSERT INTO city(id, name, code, state_id) VALUES(233184000, '圣何塞', 'SJC', 233180000);
-INSERT INTO city(id, name, code, state_id) VALUES(233398000, '士麦那', 'MQY', 233390000);
-INSERT INTO city(id, name, code, state_id) VALUES(233395000, '纳什维尔', 'BNA', 233390000);
-INSERT INTO city(id, name, code, state_id) VALUES(233391000, '布利斯托', 'BSJ', 233390000);
-INSERT INTO city(id, name, code, state_id) VALUES(233396000, '诺克斯维尔', 'TYS', 233390000);
-INSERT INTO city(id, name, code, state_id) VALUES(233392000, '查塔努加', 'CHA', 233390000);
-INSERT INTO city(id, name, code, state_id) VALUES(233397000, '三城区', 'YTC', 233390000);
-INSERT INTO city(id, name, code, state_id) VALUES(233399000, '斯普林希尔', 'RGI', 233390000);
-INSERT INTO city(id, name, code, state_id) VALUES(233393000, '金斯波特', 'TRI', 233390000);
-INSERT INTO city(id, name, code, state_id) VALUES(233400000, '约翰逊城', 'JCY', 233390000);
-INSERT INTO city(id, name, code, state_id) VALUES(233394000, '孟菲斯', 'MEM', 233390000);
-INSERT INTO city(id, name, code, state_id) VALUES(233122000, '波特兰', 'PDX', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233129000, '科瓦利斯', 'YCV', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233132000, '塞勒姆', 'SLE', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233130000, '库斯贝', 'COB', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233121000, '本德', 'BZO', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233124000, '达拉斯', 'DAC', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233126000, '格兰茨帕斯', 'XFX', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233125000, '蒂拉穆克', 'TLM', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233127000, '胡德里弗', 'HDX', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233131000, '梅德福', 'MFR', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233134000, '斯普林菲尔德', 'SPY', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233135000, '尤金', 'EUG', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233123000, '达尔斯', 'DLS', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233128000, '火山口湖', 'CTR', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233133000, '圣海伦斯', 'STH', 233120000);
-INSERT INTO city(id, name, code, state_id) VALUES(233053000, '锡达拉皮兹', 'CID', 233050000);
-INSERT INTO city(id, name, code, state_id) VALUES(233052000, '得梅因', 'DSM', 233050000);
-INSERT INTO city(id, name, code, state_id) VALUES(233051000, '达文波特', 'DVN', 233050000);
-INSERT INTO city(id, name, code, state_id) VALUES(233452000, '拉斯克鲁塞斯', 'LRU', 233450000);
-INSERT INTO city(id, name, code, state_id) VALUES(233454000, '圣菲', 'SAF', 233450000);
-INSERT INTO city(id, name, code, state_id) VALUES(233453000, '罗斯韦尔', 'ROW', 233450000);
-INSERT INTO city(id, name, code, state_id) VALUES(233451000, '阿尔伯克基', 'ABQ', 233450000);
-INSERT INTO city(id, name, code, state_id) VALUES(233294000, '哈蒂斯堡', 'HBG', 233290000);
-INSERT INTO city(id, name, code, state_id) VALUES(233291000, '比洛克西', 'BIX', 233290000);
-INSERT INTO city(id, name, code, state_id) VALUES(233293000, '格林维尔', 'GLH', 233290000);
-INSERT INTO city(id, name, code, state_id) VALUES(233297000, '维克斯堡', 'VKS', 233290000);
-INSERT INTO city(id, name, code, state_id) VALUES(233296000, '默里迪恩', 'MEI', 233290000);
-INSERT INTO city(id, name, code, state_id) VALUES(233295000, '杰克逊', 'JAN', 233290000);
-INSERT INTO city(id, name, code, state_id) VALUES(233292000, '格尔夫波特', 'GPT', 233290000);
-INSERT INTO city(id, name, code, state_id) VALUES(233273000, '米苏拉', 'MSO', 233270000);
-INSERT INTO city(id, name, code, state_id) VALUES(233272000, '大瀑布村', 'GTF', 233270000);
-INSERT INTO city(id, name, code, state_id) VALUES(233271000, '比灵斯', 'BGS', 233270000);
-INSERT INTO city(id, name, code, state_id) VALUES(233342000, '查尔斯顿', 'CHS', 233340000);
-INSERT INTO city(id, name, code, state_id) VALUES(233341000, '北查尔斯顿', 'NTS', 233340000);
-INSERT INTO city(id, name, code, state_id) VALUES(233343000, '哥伦比亚', 'COV', 233340000);
-INSERT INTO city(id, name, code, state_id) VALUES(233091000, '埃尔帕索', 'ELP', 233090000);
-INSERT INTO city(id, name, code, state_id) VALUES(233096000, '拉雷多', 'LRD', 233090000);
-INSERT INTO city(id, name, code, state_id) VALUES(233099000, '休斯敦', 'HOU', 233090000);
-INSERT INTO city(id, name, code, state_id) VALUES(233094000, '哥帕斯基斯蒂', 'CRP', 233090000);
-INSERT INTO city(id, name, code, state_id) VALUES(233095000, '交维斯顿', 'GLS', 233090000);
-INSERT INTO city(id, name, code, state_id) VALUES(233098000, '圣安东尼奥', 'SAT', 233090000);
-INSERT INTO city(id, name, code, state_id) VALUES(233097000, '麦亚伦', 'TXC', 233090000);
-INSERT INTO city(id, name, code, state_id) VALUES(233093000, '达拉斯', 'DAL', 233090000);
-INSERT INTO city(id, name, code, state_id) VALUES(233092000, '奥斯汀', 'AUS', 233090000);
-INSERT INTO city(id, name, code, state_id) VALUES(233282000, '杰佛逊市', 'JEF', 233280000);
-INSERT INTO city(id, name, code, state_id) VALUES(233285000, '斯普林菲尔德', 'SGF', 233280000);
-INSERT INTO city(id, name, code, state_id) VALUES(233284000, '圣路易斯', 'STL', 233280000);
-INSERT INTO city(id, name, code, state_id) VALUES(233283000, '堪萨斯城', 'MKC', 233280000);
-INSERT INTO city(id, name, code, state_id) VALUES(233281000, '哥伦比亚', 'COV', 233280000);
-INSERT INTO city(id, name, code, state_id) VALUES(233362000, '北拉斯维加斯', 'NVS', 233360000);
-INSERT INTO city(id, name, code, state_id) VALUES(233363000, '弗吉尼亚城', 'VGI', 233360000);
-INSERT INTO city(id, name, code, state_id) VALUES(233364000, '亨德森', 'HNZ', 233360000);
-INSERT INTO city(id, name, code, state_id) VALUES(233365000, '卡森城', 'CSN', 233360000);
-INSERT INTO city(id, name, code, state_id) VALUES(233366000, '拉斯维加斯', 'LAS', 233360000);
-INSERT INTO city(id, name, code, state_id) VALUES(233361000, '埃尔科', 'EKO', 233360000);
-INSERT INTO city(id, name, code, state_id) VALUES(233367000, '里诺', 'RNO', 233360000);
-INSERT INTO city(id, name, code, state_id) VALUES(233368000, '斯帕克斯', 'SPK', 233360000);
-INSERT INTO city(id, name, code, state_id) VALUES(233206000, '纽黑文', 'HVN', 233200000);
-INSERT INTO city(id, name, code, state_id) VALUES(233201000, '布里奇波特', 'BDR', 233200000);
-INSERT INTO city(id, name, code, state_id) VALUES(233207000, '韦斯特波特', 'WPT', 233200000);
-INSERT INTO city(id, name, code, state_id) VALUES(233205000, '米德尔顿', 'XIN', 233200000);
-INSERT INTO city(id, name, code, state_id) VALUES(233208000, '沃特伯里', 'WAT', 233200000);
-INSERT INTO city(id, name, code, state_id) VALUES(233203000, '格林尼治', 'GRH', 233200000);
-INSERT INTO city(id, name, code, state_id) VALUES(233209000, '新不列颠', 'NWT', 233200000);
-INSERT INTO city(id, name, code, state_id) VALUES(233202000, '达里恩', 'DAQ', 233200000);
-INSERT INTO city(id, name, code, state_id) VALUES(233204000, '哈特福德', 'HFD', 233200000);
-INSERT INTO city(id, name, code, state_id) VALUES(233412000, '希博伊根', 'SBM', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233406000, '拉辛', 'RAC', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233405000, '拉克罗斯', 'LSE', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233407000, '马尼托沃克', 'MTW', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233409000, '密尔沃基', 'MKE', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233411000, '沃索', 'AUW', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233408000, '迈迪逊', 'QMD', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233403000, '格林贝', 'GBK', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233402000, '奥什科什', 'OSH', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233404000, '基诺沙', 'ENW', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233410000, '欧克莱尓', 'EAU', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233401000, '阿普尓顿', 'ATW', 233400000);
-INSERT INTO city(id, name, code, state_id) VALUES(233331000, '阿伯丁', 'ABK', 233330000);
-INSERT INTO city(id, name, code, state_id) VALUES(233332000, '拉皮德城', 'RAP', 233330000);
-INSERT INTO city(id, name, code, state_id) VALUES(233333000, '苏福尔斯', 'FSD', 233330000);
-INSERT INTO city(id, name, code, state_id) VALUES(233011000, '费耶特维尔', 'FYV', 233010000);
-INSERT INTO city(id, name, code, state_id) VALUES(233012000, '史密斯堡', 'FSM', 233010000);
-INSERT INTO city(id, name, code, state_id) VALUES(233013000, '小石城', 'LIT', 233010000);
-INSERT INTO city(id, name, code, state_id) VALUES(233252000, '盖瑟斯堡', 'GAI', 233250000);
-INSERT INTO city(id, name, code, state_id) VALUES(233253000, '罗克维尔', 'RKV', 233250000);
-INSERT INTO city(id, name, code, state_id) VALUES(233251000, '巴尔的摩', 'BAL', 233250000);
-INSERT INTO city(id, name, code, state_id) VALUES(233315000, '沃伦', 'WAM', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233305000, '迪尔伯恩', 'DEO', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233308000, '怀恩多特', 'WYD', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233312000, '庞菷亚克', 'PTK', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233306000, '底特律', 'DET', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233313000, '萨吉诺', 'SGM', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233316000, '休伦港', 'PHN', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233314000, '苏圣玛丽', 'SSM', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233303000, '贝城', 'BCY', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233310000, '兰辛', 'LAN', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233309000, '卡拉马袓', 'AZO', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233307000, '弗林特', 'FNT', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233311000, '马斯基根', 'MKG', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233301000, '安娜堡', 'ARB', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233304000, '大急流城', 'GRR', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233302000, '巴特尔克里克', 'BTL', 233300000);
-INSERT INTO city(id, name, code, state_id) VALUES(233381000, '多佛', 'DOR', 233380000);
-INSERT INTO city(id, name, code, state_id) VALUES(233383000, '威明顿', 'ILG', 233380000);
-INSERT INTO city(id, name, code, state_id) VALUES(233382000, '纽瓦克', 'NWK', 233380000);
-INSERT INTO city(id, name, code, state_id) VALUES(233262000, '斯普林菲尔德', 'SFY', 233260000);
-INSERT INTO city(id, name, code, state_id) VALUES(233261000, '波士顿', 'BZD', 233260000);
-INSERT INTO city(id, name, code, state_id) VALUES(233263000, '伍斯特', 'ORH', 233260000);
-INSERT INTO city(id, name, code, state_id) VALUES(233507000, '西瓦利城', 'WVC', 233500000);
-INSERT INTO city(id, name, code, state_id) VALUES(233504000, '帕克城', 'PAC', 233500000);
-INSERT INTO city(id, name, code, state_id) VALUES(233506000, '圣乔治', 'SGU', 233500000);
-INSERT INTO city(id, name, code, state_id) VALUES(233508000, '盐湖城', 'SLC', 233500000);
-INSERT INTO city(id, name, code, state_id) VALUES(233503000, '欧仁', 'OEU', 233500000);
-INSERT INTO city(id, name, code, state_id) VALUES(233502000, '雷登', 'LTJ', 233500000);
-INSERT INTO city(id, name, code, state_id) VALUES(233501000, '奥格登', 'OGD', 233500000);
-INSERT INTO city(id, name, code, state_id) VALUES(233505000, '普罗沃', 'PVU', 233500000);
-INSERT INTO city(id, name, code, state_id) VALUES(233143000, '南伯灵顿', 'ZBR', 233140000);
-INSERT INTO city(id, name, code, state_id) VALUES(233141000, '伯灵顿', 'BTV', 233140000);
-INSERT INTO city(id, name, code, state_id) VALUES(233142000, '拉特兰', 'RUT', 233140000);
-INSERT INTO city(id, name, code, state_id) VALUES(234023000, '乌波卢岛', 'UPO', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234014000, '法塞莱莱阿加', 'FAA', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234013000, '艾加伊勒泰', 'AIT', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234020000, '图阿马萨加', 'TUA', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234011000, '阿纳', 'AAN', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234017000, '帕劳利', 'PAL', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234021000, '瓦奥福诺蒂', 'VAF', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234016000, '加加埃毛加', 'GMG', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234019000, '萨瓦伊岛', 'SAV', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234012000, '阿图阿', 'ATU', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234018000, '萨图帕伊泰阿', 'SAT', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234022000, '韦西加诺', 'VAI', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(234015000, '加盖福毛加', 'GFG', 234010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236011000, '巴彦洪格尔', '69', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236031000, '中戈壁', '59', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236025000, '前杭爱', 'UVO', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236021000, '科布多', '43', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236012000, '巴彦乌勒盖', '71', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236020000, '后杭爱', '73', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236015000, '东方', '61', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236022000, '肯特', '39', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236016000, '东戈壁', '63', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236014000, '达尔汗乌勒', '37', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236026000, '色楞格', '49', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236023000, '库苏古尔', '41', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236027000, '苏赫巴托尔', '51', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236024000, '南戈壁', 'UMN', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236032000, '中央', '47', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236028000, '乌布苏', '46', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236018000, '戈壁阿尔泰', '65', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236019000, '戈壁苏木贝尔', '64', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236029000, '乌兰巴托市', '1', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236030000, '扎布汗', '57', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236017000, '鄂尔浑', '35', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(236013000, '布尔干', '67', 236010000);
-INSERT INTO city(id, name, code, state_id) VALUES(238011000, '达卡', 'DAC', 238010000);
-INSERT INTO city(id, name, code, state_id) VALUES(238013000, '库尔纳', 'KHL', 238010000);
-INSERT INTO city(id, name, code, state_id) VALUES(238012000, '吉大港', 'CGP', 238010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240020000, '拉利伯塔德', 'LD', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240017000, '卡哈马卡', 'CJ', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240037000, '乌卡亚利', 'UC', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240016000, '胡宁', 'JU', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240024000, '马德雷德迪奥斯', 'MD', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240031000, '圣马丁', 'SM', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240039000, '伊卡', 'IC', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240028000, '普诺', 'PU', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240013000, '阿亚库乔', 'AY', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240022000, '利马', 'LI', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240032000, '苏拉纳', 'SUL', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240014000, '安卡什', 'AN', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240023000, '洛雷托', 'LO', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240035000, '瓦努科', 'HO', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240021000, '兰巴耶克', 'LY', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240026000, '帕斯科', 'PA', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240036000, '万卡维利卡', 'HV', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240015000, '胡利亚卡', 'JUL', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240027000, '皮乌拉', 'PI', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240011000, '阿雷基帕', 'AR', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240030000, '钦查阿尔塔', 'CHI', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240019000, '库斯科', 'CU', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240025000, '莫克瓜', 'MO', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240033000, '塔克纳', 'TA', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240018000, '卡亚俄', 'CL', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240034000, '通贝斯', 'TU', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240012000, '阿普里马克', 'AP', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240029000, '钦博特', 'CHM', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(240038000, '亚马孙', 'AM', 240010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241024000, '伊洛瓦底省', 'AY', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241016000, '克耶邦', 'KH', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241017000, '马圭省', 'MG', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241023000, '仰光省', 'YG', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241013000, '德林达依省', 'TN', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241011000, '勃固省', 'BG', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241014000, '克伦邦', 'KN', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241019000, '孟邦', 'MN', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241022000, '实皆省', 'SG', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241020000, '钦邦', 'CH', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241012000, '掸邦', 'SH', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241015000, '克钦邦', 'KC', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241021000, '若开邦', 'RK', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(241018000, '曼德勒省', 'MD', 241010000);
-INSERT INTO city(id, name, code, state_id) VALUES(243018000, '乌季达', 'OUJ', 243010000);
-INSERT INTO city(id, name, code, state_id) VALUES(243012000, '得土安', 'TET', 243010000);
-INSERT INTO city(id, name, code, state_id) VALUES(243019000, '西撒哈拉', 'WSH', 243010000);
-INSERT INTO city(id, name, code, state_id) VALUES(243014000, '卡萨布兰卡', 'CBL', 243010000);
-INSERT INTO city(id, name, code, state_id) VALUES(243015000, '拉巴特', 'RSA', 243010000);
-INSERT INTO city(id, name, code, state_id) VALUES(243017000, '梅克内斯', 'MKN', 243010000);
-INSERT INTO city(id, name, code, state_id) VALUES(243013000, '非斯', 'FES', 243010000);
-INSERT INTO city(id, name, code, state_id) VALUES(243011000, '丹吉尔', 'TGR', 243010000);
-INSERT INTO city(id, name, code, state_id) VALUES(243016000, '马拉喀什', 'MRK', 243010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246015000, '奥夫雷贡城', 'OBR', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246059000, '特拉斯卡拉', 'TLA', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246030000, '科利马', 'COL', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246058000, '坦皮科', 'TAM', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246022000, '杜兰戈', 'DUR', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246047000, '诺加莱斯', 'NOG', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246025000, '瓜纳华托', 'GUA', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246013000, '埃莫西约', 'HMO', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246031000, '克雷塔罗', 'QUE', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246027000, '华雷斯', 'JUZ', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246060000, '特皮克', 'TPQ', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246019000, '比利亚埃尔莫萨', 'VSA', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246067000, '韦拉克鲁斯', 'VER', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246069000, '新拉雷多', 'NLE', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246065000, '瓦哈卡', 'OAX', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246011000, '阿瓜斯卡连斯特', 'AGU', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246042000, '蒙克洛瓦', 'LOV', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246026000, '哈拉帕', 'JAL', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246043000, '蒙特雷', 'MTY', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246048000, '帕丘卡', 'PAC', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246021000, '蒂华纳', 'TIJ', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246055000, '塞拉亚', 'CLY', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246036000, '莱昂', 'LEN', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246064000, '托卢卡', 'TLC', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246068000, '乌鲁阿潘', 'UPN', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246062000, '图斯特拉-古铁雷斯', 'TGZ', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246056000, '圣路易斯波托亚', 'SLP', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246050000, '奇尔潘辛戈', 'CHI', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246061000, '特瓦坎', 'TCN', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246034000, '夸察夸拉克斯', 'COA', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246041000, '梅里达', 'MID', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246033000, '库利阿坎', 'CUL', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246057000, '塔帕丘拉', 'TAP', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246037000, '雷诺萨', 'REX', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246051000, '奇瓦瓦', 'CHH', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246044000, '莫雷利亚', 'MLM', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246063000, '托雷翁', 'TRC', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246016000, '奥里萨巴', 'ORI', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246020000, '波萨里卡', 'PRH', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246029000, '卡门', 'CAR', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246045000, '墨西哥城', 'MEX', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246032000, '库埃纳瓦卡', 'CVC', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246040000, '马塔莫罗斯', 'MAM', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246053000, '萨尔蒂约', 'SLW', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246046000, '墨西卡利', 'MXL', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246049000, '普埃布拉', 'PUE', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246018000, '巴亚尔塔港', 'PVR', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246052000, '切图马尔', 'CTM', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246054000, '萨卡特卡斯', 'ZAC', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246066000, '维多利亚城', 'VIC', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246070000, '伊拉普阿托', 'IRP', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246014000, '埃佩切', 'CAM', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246038000, '洛斯莫奇斯', 'LMM', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246017000, '巴利城', 'VHM', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246024000, '瓜达拉哈拉', 'GDL', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246035000, '拉巴斯', 'LAP', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246039000, '马萨特兰', 'MZT', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246012000, '阿卡普尔科', 'ACA', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246023000, '恩塞纳达', 'ESE', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(246028000, '华雷斯港', 'BJU', 246010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247013000, '奥卡万戈', 'KV', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247018000, '奥希科托', 'OO', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247023000, '库内内', 'KU', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247015000, '奥姆沙蒂', 'OT', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247017000, '奥沙纳', 'ON', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247012000, '奥汉圭纳', 'OW', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247022000, '卡普里维', 'CA', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247014000, '奥马赫科', 'OK', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247011000, '埃龙戈', 'ER', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247020000, '霍马斯', 'KH', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247021000, '卡拉斯', 'KR', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247016000, '奥乔宗蒂约巴', 'OJ', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(247019000, '哈达普', 'HA', 247010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248029000, '金伯利', 'KIM', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248023000, '东巴克利', 'BAE', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248045000, '萨索尔堡', 'SAS', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248016000, '比索', 'BIY', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248034000, '莱迪史密斯', 'LAY', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248053000, '韦尔科姆', 'WEL', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248035000, '兰德方丹', 'RFT', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248036000, '理查兹湾', 'RCB', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248032000, '库鲁曼', 'KMH', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248025000, '弗雷堡', 'VRU', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248040000, '穆里斯堡', 'MOO', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248058000, '谢普斯通港', 'PSS', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248051000, '托霍延杜', 'THY', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248055000, '乌姆塔塔', 'UTT', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248031000, '克莱克斯多普', 'KXE', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248014000, '彼德斯堡', 'PTG', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248047000, '特克索波', 'IXO', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248028000, '基雅尼', 'GIY', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248044000, '乔治', 'GRJ', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248050000, '图拉马哈谢', 'TLH', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248027000, '格罗布莱斯达尔', 'GBD', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248049000, '跳羚', 'SBU', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248043000, '纽卡斯尔', 'NCS', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248056000, '伍斯特', 'WOR', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248020000, '德阿尔', 'DAA', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248013000, '彼德马里茨堡', 'PZB', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248054000, '乌伦迪', 'ULD', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248038000, '米德尔堡', 'MDB', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248048000, '特隆普斯堡', 'TPB', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248046000, '瑟孔达', 'ZEC', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248039000, '姆库泽', 'MZQ', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248057000, '西博福特', 'BEW', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248015000, '比勒陀利亚', 'PRY', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248033000, '昆士敦', 'UTW', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248030000, '开普敦', 'CPT', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248060000, '约翰内斯堡', 'JNB', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248052000, '韦茨肖克', 'WSH', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248041000, '内尔斯普雷特', 'NLP', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248022000, '邓迪', 'DUN', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248012000, '艾利弗山', 'MAY', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248042000, '尼尔斯特隆', 'NYL', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248024000, '东伦敦', 'ELS', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248019000, '布隆克斯特斯普利特', 'BHT', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248011000, '阿平顿', 'UTN', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248059000, '伊丽莎白港', 'PLZ', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248037000, '利斯滕堡', 'RSB', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248021000, '德班', 'DUR', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248026000, '弗里尼欣', 'VGG', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248017000, '布雷达斯多普', 'BDD', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(248018000, '布隆方丹', 'BFN', 248010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252015000, '格尔纳利', 'KA', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252014000, '戈西', 'KO', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252022000, '佩里', 'BH', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252024000, '塞蒂', 'SE', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252013000, '甘达基', 'GA', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252018000, '蓝毗尼', 'LU', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252012000, '道拉吉里', 'DH', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252020000, '梅吉', 'ME', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252017000, '拉布蒂', 'RA', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252011000, '巴格马蒂', 'BA', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252016000, '贾纳克布尔', 'JA', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252021000, '纳拉亚尼', 'NA', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252019000, '马哈卡利', 'MA', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(252023000, '萨加玛塔', 'SA', 252010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253026000, '希诺特加', 'JI', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253023000, '奇南德加', 'CD', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253018000, '马德里斯', 'MD', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253019000, '马那瓜', 'MN', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253013000, '博阿科', 'BO', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253027000, '新塞哥维亚', 'NS', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253016000, '莱昂', 'LE', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253011000, '埃斯特利', 'ES', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253025000, '圣胡安河', 'SJ', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253015000, '卡拉索', 'CA', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253014000, '格拉纳达', 'GR', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253012000, '北大西洋', 'AN', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253021000, '马塔加尔帕', 'MT', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253020000, '马萨亚', 'MS', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253024000, '琼塔莱斯', 'CT', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253017000, '里瓦斯', 'RV', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(253022000, '南大西洋', 'AS', 253010000);
-INSERT INTO city(id, name, code, state_id) VALUES(254014000, '多索', 'DSS', 254010000);
-INSERT INTO city(id, name, code, state_id) VALUES(254017000, '尼亚美市', 'NIM', 254010000);
-INSERT INTO city(id, name, code, state_id) VALUES(254012000, '迪法', 'DIF', 254010000);
-INSERT INTO city(id, name, code, state_id) VALUES(254016000, '马拉迪', 'MFQ', 254010000);
-INSERT INTO city(id, name, code, state_id) VALUES(254011000, '阿加德兹', 'AJY', 254010000);
-INSERT INTO city(id, name, code, state_id) VALUES(254018000, '塔瓦', 'THZ', 254010000);
-INSERT INTO city(id, name, code, state_id) VALUES(254015000, '津德尔', 'ZND', 254010000);
-INSERT INTO city(id, name, code, state_id) VALUES(254013000, '蒂拉贝里', 'TIL', 254010000);
-INSERT INTO city(id, name, code, state_id) VALUES(255014000, '拉各斯', 'LOS', 255010000);
-INSERT INTO city(id, name, code, state_id) VALUES(255011000, '阿比亚', 'ABV', 255010000);
-INSERT INTO city(id, name, code, state_id) VALUES(255012000, '奥博莫绍', 'OGB', 255010000);
-INSERT INTO city(id, name, code, state_id) VALUES(255013000, '卡诺', 'KAN', 255010000);
-INSERT INTO city(id, name, code, state_id) VALUES(255015000, '伊巴丹', 'IBA', 255010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257011000, '阿克什胡斯', '2', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257014000, '北特伦德拉格', '17', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257017000, '东福尔', '1', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257015000, '布斯克吕', '6', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257027000, '特罗姆斯', '19', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257020000, '霍达兰', '12', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257029000, '西福尔', '7', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257024000, '诺尔兰', '18', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257022000, '默勒－鲁姆斯达尔', '15', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257016000, '东阿格德尔', '9', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257028000, '西阿格德尔', '10', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257021000, '罗加兰', '11', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257025000, '松恩－菲尤拉讷', '14', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257023000, '南特伦德拉格', '16', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257013000, '奥斯陆市', '3', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257026000, '泰勒马克', '8', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257018000, '芬马克', '20', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257012000, '奥普兰', '5', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(257019000, '海德马克', '4', 257010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261027000, '内皮尼亚尔南', 'PIS', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261038000, '下蒙德古', 'BMO', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261012000, '滨海皮尼亚尔', 'PLT', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261022000, '梅地奥特茹', 'MTE', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261028000, '蓬塔德尔加达', 'PDL', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261021000, '利巴特茹', 'LTE', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261032000, '上特拉斯山', 'ATM', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261013000, '波尔图', 'VDP', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261014000, '杜罗', 'MDR', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261039000, '中阿连特茹', 'ALC', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261016000, '法鲁', 'FAO', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261029000, '塞图巴尔半岛', 'PSE', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261031000, '上阿连特茹', 'AAT', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261020000, '里斯本', 'LIS', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261011000, '滨海阿连特茹', 'ALL', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261037000, '下伏日', 'BVO', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261036000, '下阿连特茹', 'BAL', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261018000, '卡瓦多', 'CAV', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261026000, '内皮尼亚尔北', 'PIN', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261033000, '塔梅加', 'TAM', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261019000, '科瓦贝拉', 'CLB', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261035000, '西部', 'OES', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261015000, '恩特拉杜罗伏日', 'EDV', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261030000, '山后', 'SES', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261025000, '内贝拉南', 'BIS', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261034000, '万福', 'AES', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261024000, '内贝拉北', 'BIN', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261017000, '丰沙尔', 'FUN', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(261023000, '米尼奥-利马', 'MLI', 261010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263012000, '爱知', '23', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263023000, '福冈', '40', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263042000, '秋田', '5', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263017000, '大阪', '27', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263020000, '徳岛', '36', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263016000, '茨城', '8', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263030000, '广岛', '34', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263043000, '群马', '10', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263019000, '岛根', '32', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263048000, '神奈川', '14', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263038000, '岐阜', '21', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263015000, '冲绳', '47', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263022000, '福岛', '7', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263027000, '高知', '39', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263018000, '大分', '44', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263056000, '滋贺', '25', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263050000, '香川', '37', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263037000, '鸟取', '31', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263021000, '东京', '13', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263032000, '京都', '26', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263025000, '富山', '16', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263055000, '长野', '20', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263013000, '北海道', '1', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263033000, '静冈', '22', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263044000, '三重', '24', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263046000, '山梨', '19', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263057000, '佐贺', '41', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263026000, '冈山', '33', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263041000, '青森', '2', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263053000, '岩手', '3', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263054000, '长崎', '42', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263024000, '福井', '18', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263045000, '山口', '35', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263035000, '鹿儿岛', '46', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263040000, '千叶', '12', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263034000, '枥木', '9', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263052000, '熊本', '43', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263047000, '山形', '6', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263039000, '埼玉', '11', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263031000, '和歌山', '30', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263049000, '石川', '17', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263028000, '宮城', '4', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263029000, '宫崎', '45', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263036000, '奈良', '29', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263014000, '兵库', '28', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263051000, '新潟', '15', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(263011000, '爱媛', '38', 263010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264029000, '延雪平', 'F', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264014000, '东约特兰', 'UGL', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264028000, '西约特兰', 'O', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264013000, '达拉纳', 'DLN', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264020000, '南曼兰', 'D', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264016000, '哥得兰', 'I', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264019000, '克鲁努贝里', 'G', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264021000, '斯德哥尔摩', 'AB', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264025000, '西博滕', 'AC', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264031000, '耶姆特兰', 'Z', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264011000, '北博滕', 'BD', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264018000, '卡尔马', 'H', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264026000, '西曼兰', 'U', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264030000, '耶夫勒堡', 'X', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264015000, '厄勒布鲁', 'T', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264024000, '乌普萨拉', 'C', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264023000, '韦姆兰', 'S', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264027000, '西诺尔兰', 'Y', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264012000, '布莱金厄', 'K', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264022000, '斯科耐', 'M', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(264017000, '哈兰', 'N', 264010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265023000, '日内瓦', 'GE', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265032000, '图尔高', 'TG', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265028000, '施维茨', 'SZ', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265014000, '伯尔尼', 'BE', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265016000, '弗里堡', 'FR', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265017000, '格拉鲁斯', 'GL', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265031000, '提契诺', 'TI', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265020000, '洛桑', 'LA', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265024000, '汝拉', 'JU', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265026000, '上瓦尔登', 'OW', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265019000, '卢塞恩', 'LU', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265025000, '沙夫豪森', 'SH', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265021000, '纳沙泰尔', 'NE', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265030000, '索洛图恩', 'SO', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265036000, '乌里', 'UR', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265034000, '外阿彭策尔', 'AR', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265033000, '瓦莱', 'VS', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265013000, '巴塞尔乡村', 'BL', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265037000, '下瓦尔登', 'NW', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265018000, '格劳宾登', 'GR', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265022000, '内阿彭策尔', 'AI', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265035000, '沃', 'VD', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265015000, '楚格', 'ZG', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265012000, '巴塞尔城市', 'BS', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265027000, '圣加仑', 'SG', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265011000, '阿尔高', 'AG', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(265029000, '苏黎世', 'ZH', 265010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266022000, '梅基卡诺斯', 'MEJ', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266029000, '索亚潘戈', 'SOY', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266011000, '阿波帕', 'APO', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266014000, '查拉特南戈', 'CH', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266015000, '德尔加多', 'DE', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266019000, '拉巴斯', 'PZ', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266021000, '拉乌尼翁', 'UN', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266028000, '松索纳特', 'SO', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266030000, '韦莱-恩萨斯', 'WN', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266033000, '中南', 'CS', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266024000, '圣安娜', 'SA', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266018000, '库斯卡特兰', 'CU', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266025000, '圣米格尔', 'SM', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266012000, '阿瓦查潘', 'AH', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266032000, '伊洛潘戈', 'IL', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266017000, '卡瓦尼亚斯', 'CA', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266013000, '滨海', 'LI', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266023000, '莫拉桑', 'MO', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266020000, '拉利伯塔德', 'LB', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266031000, '乌苏卢坦', 'US', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266027000, '圣维森特', 'SV', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266026000, '圣萨尔瓦多', 'SS', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(266016000, '基埃-恩特姆', 'KN', 266010000);
-INSERT INTO city(id, name, code, state_id) VALUES(268018000, '泽蒙', 'ZEM', 268010000);
-INSERT INTO city(id, name, code, state_id) VALUES(268014000, '尼什', 'INI', 268010000);
-INSERT INTO city(id, name, code, state_id) VALUES(268017000, '苏博蒂察', 'SUB', 268010000);
-INSERT INTO city(id, name, code, state_id) VALUES(268011000, '贝尔格莱德', 'BEG', 268010000);
-INSERT INTO city(id, name, code, state_id) VALUES(268013000, '克拉古涅瓦茨', 'KGV', 268010000);
-INSERT INTO city(id, name, code, state_id) VALUES(268016000, '普里什蒂纳', 'PRN', 268010000);
-INSERT INTO city(id, name, code, state_id) VALUES(268012000, '波德戈里察', 'POD', 268010000);
-INSERT INTO city(id, name, code, state_id) VALUES(268015000, '诺维萨德', 'NVS', 268010000);
-INSERT INTO city(id, name, code, state_id) VALUES(269013000, '南部', 'S', 269010000);
-INSERT INTO city(id, name, code, state_id) VALUES(269011000, '北部', 'N', 269010000);
-INSERT INTO city(id, name, code, state_id) VALUES(269012000, '东部', 'E', 269010000);
-INSERT INTO city(id, name, code, state_id) VALUES(269014000, '西部区', 'W', 269010000);
-INSERT INTO city(id, name, code, state_id) VALUES(270011000, '达喀尔', 'DA', 270010000);
-INSERT INTO city(id, name, code, state_id) VALUES(270020000, '圣路易', 'SL', 270010000);
-INSERT INTO city(id, name, code, state_id) VALUES(270016000, '考拉克', 'KA', 270010000);
-INSERT INTO city(id, name, code, state_id) VALUES(270015000, '久尔贝勒', 'DI', 270010000);
-INSERT INTO city(id, name, code, state_id) VALUES(270021000, '坦巴昆达', 'TA', 270010000);
-INSERT INTO city(id, name, code, state_id) VALUES(270014000, '捷斯', 'TH', 270010000);
-INSERT INTO city(id, name, code, state_id) VALUES(270017000, '科尔达', 'KO', 270010000);
-INSERT INTO city(id, name, code, state_id) VALUES(270012000, '法蒂克', 'FA', 270010000);
-INSERT INTO city(id, name, code, state_id) VALUES(270018000, '卢加', 'LO', 270010000);
-INSERT INTO city(id, name, code, state_id) VALUES(270013000, '济金绍尔', 'ZI', 270010000);
-INSERT INTO city(id, name, code, state_id) VALUES(270019000, '马塔姆', 'MA', 270010000);
-INSERT INTO city(id, name, code, state_id) VALUES(271014000, '利马索尔', '2', 271010000);
-INSERT INTO city(id, name, code, state_id) VALUES(271015000, '尼科西亚', '1', 271010000);
-INSERT INTO city(id, name, code, state_id) VALUES(271016000, '帕福斯', '5', 271010000);
-INSERT INTO city(id, name, code, state_id) VALUES(271013000, '拉纳卡', '3', 271010000);
-INSERT INTO city(id, name, code, state_id) VALUES(271011000, '法马古斯塔', '4', 271010000);
-INSERT INTO city(id, name, code, state_id) VALUES(271012000, '凯里尼亚', '6', 271010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273022000, '吉赞', 'JZ', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273031000, '延布', 'YNB', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273032000, '朱拜勒', 'JBI', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273026000, '姆巴拉兹', 'MBR', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273012000, '艾卜哈', 'AHB', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273015000, '达曼', 'DAM', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273019000, '海耶', 'AKH', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273025000, '麦加', 'ML', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273016000, '哈费尔巴廷', 'HBT', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273028000, '塞卡卡', 'SAK', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273013000, '巴哈', 'BH', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273021000, '吉达', 'JED', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273024000, '麦地那', 'MED', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273011000, '阿尔阿尔', 'ARA', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273030000, '塔伊夫', 'TAR', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273018000, '海米斯穆谢特', 'KMX', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273027000, '纳季兰', 'NR', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273017000, '哈伊勒', 'HL', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273023000, '利雅得', 'RD', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273014000, '布赖代', 'BUR', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273029000, '塔布克', 'TB', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(273020000, '胡富夫', 'HFF', 273010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282028000, '马特莱', 'MAT', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282022000, '凯格勒', 'KEG', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282031000, '穆莱蒂武', 'MUL', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282033000, '普塔勒姆', 'PUT', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282011000, '阿努拉德普勒', 'ADP', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282032000, '努沃勒埃利耶', 'NUE', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282012000, '安帕赖', 'AMP', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282019000, '加姆珀哈', 'GAM', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282023000, '康提', 'KAN', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282017000, '基里诺奇', 'KIL', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282021000, '卡卢特勒', 'KLT', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282018000, '加勒', 'GAL', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282013000, '巴杜勒', 'BAD', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282015000, '波隆纳鲁沃', 'POL', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282030000, '莫讷勒格勒', 'MON', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282026000, '拉特纳普勒', 'RAT', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282034000, '亭可马里', 'TRR', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282020000, '贾夫纳', 'JAF', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282027000, '马纳尔', 'MAN', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282025000, '库鲁内格勒', 'KUR', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282024000, '科伦坡', 'CMB', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282016000, '汉班托特', 'HBA', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282035000, '瓦武尼亚', 'VAV', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282029000, '马特勒', 'MAA', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(282014000, '拜蒂克洛', 'BTC', 282010000);
-INSERT INTO city(id, name, code, state_id) VALUES(283017000, '特尔纳瓦', 'TNA', 283010000);
-INSERT INTO city(id, name, code, state_id) VALUES(283015000, '普雷绍夫', 'POV', 283010000);
-INSERT INTO city(id, name, code, state_id) VALUES(283013000, '科希策', 'KOR', 283010000);
-INSERT INTO city(id, name, code, state_id) VALUES(283012000, '布拉迪斯拉发', 'BTS', 283010000);
-INSERT INTO city(id, name, code, state_id) VALUES(283011000, '班斯卡-比斯特里察', 'BBY', 283010000);
-INSERT INTO city(id, name, code, state_id) VALUES(283014000, '尼特拉', 'NRA', 283010000);
-INSERT INTO city(id, name, code, state_id) VALUES(283018000, '特伦钦', 'TRE', 283010000);
-INSERT INTO city(id, name, code, state_id) VALUES(283016000, '日利纳', 'RIL', 283010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284019000, '诺特拉尼', 'NKR', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284011000, '奥巴尔诺-克拉', 'OKR', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284014000, '波穆尔', 'POM', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284018000, '科洛', 'KOR', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284013000, '波德拉夫', 'POD', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284021000, '斯波德涅波萨夫', 'SPO', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284022000, '扎萨夫', 'ZAS', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284015000, '多雷尼', 'DLJ', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284012000, '奥斯雷德涅斯洛文', 'OSR', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284016000, '戈雷尼', 'GSZ', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284017000, '戈里', 'GSK', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(284020000, '萨维尼', 'SAV', 284010000);
-INSERT INTO city(id, name, code, state_id) VALUES(287012000, '赤道', 'SIS', 287010000);
-INSERT INTO city(id, name, code, state_id) VALUES(287014000, '东部', 'SHA', 287010000);
-INSERT INTO city(id, name, code, state_id) VALUES(287013000, '达尔富尔', 'SDA', 287010000);
-INSERT INTO city(id, name, code, state_id) VALUES(287016000, '喀土穆', 'KRT', 287010000);
-INSERT INTO city(id, name, code, state_id) VALUES(287019000, '中部', 'WDH', 287010000);
-INSERT INTO city(id, name, code, state_id) VALUES(287015000, '加扎勒河', 'SBG', 287010000);
-INSERT INTO city(id, name, code, state_id) VALUES(287018000, '上尼罗', 'ANB', 287010000);
-INSERT INTO city(id, name, code, state_id) VALUES(287011000, '北部', 'ASH', 287010000);
-INSERT INTO city(id, name, code, state_id) VALUES(287017000, '科尔多凡', 'GKU', 287010000);
-INSERT INTO city(id, name, code, state_id) VALUES(288017000, '帕拉马里博', 'PM', 288010000);
-INSERT INTO city(id, name, code, state_id) VALUES(288016000, '帕拉', 'PA', 288010000);
-INSERT INTO city(id, name, code, state_id) VALUES(288020000, '西帕里韦尼', 'SI', 288010000);
-INSERT INTO city(id, name, code, state_id) VALUES(288012000, '科罗尼', 'CR', 288010000);
-INSERT INTO city(id, name, code, state_id) VALUES(288019000, '瓦尼卡', 'WA', 288010000);
-INSERT INTO city(id, name, code, state_id) VALUES(288011000, '布罗科蓬多', 'BR', 288010000);
-INSERT INTO city(id, name, code, state_id) VALUES(288013000, '科默韦讷', 'CM', 288010000);
-INSERT INTO city(id, name, code, state_id) VALUES(288014000, '马罗韦讷', 'MA', 288010000);
-INSERT INTO city(id, name, code, state_id) VALUES(288015000, '尼克里', 'NI', 288010000);
-INSERT INTO city(id, name, code, state_id) VALUES(288018000, '萨拉马卡', 'SA', 288010000);
-INSERT INTO city(id, name, code, state_id) VALUES(289016000, '乔伊索', 'CH', 289010000);
-INSERT INTO city(id, name, code, state_id) VALUES(289012000, '霍尼亚拉', 'HO', 289010000);
-INSERT INTO city(id, name, code, state_id) VALUES(289014000, '马基拉', 'MK', 289010000);
-INSERT INTO city(id, name, code, state_id) VALUES(289018000, '西部', 'WE', 289010000);
-INSERT INTO city(id, name, code, state_id) VALUES(289019000, '伊萨贝尔', 'IS', 289010000);
-INSERT INTO city(id, name, code, state_id) VALUES(289013000, '拉纳尔和贝罗纳', 'RB', 289010000);
-INSERT INTO city(id, name, code, state_id) VALUES(289015000, '马莱塔', 'ML', 289010000);
-INSERT INTO city(id, name, code, state_id) VALUES(289017000, '泰莫图', 'TM', 289010000);
-INSERT INTO city(id, name, code, state_id) VALUES(289020000, '中部群岛', 'CE', 289010000);
-INSERT INTO city(id, name, code, state_id) VALUES(289011000, '瓜达尔卡纳尔', 'GC', 289010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291012000, '霍罗格', 'KHO', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291016000, '库尔干-秋别', 'KTJ', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291011000, '杜尚别', 'DYU', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291022000, '塔博沙尔', 'TBS', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291021000, '萨班特', 'SBA', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291014000, '科法尔尼洪', 'KOF', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291019000, '努雷克', 'NUR', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291023000, '图尔孙扎德', 'TSZ', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291025000, '伊斯法拉', 'ISF', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291017000, '库洛布', 'KLB', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291018000, '洛贡', 'RGU', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291015000, '苦盏', 'KHU', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291024000, '乌拉秋别', 'UTJ', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291020000, '彭吉肯特', 'PJK', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(291013000, '卡尼巴达姆', 'KAN', 291010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292066000, '色军', '47', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292030000, '大城', '14', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292039000, '尖竹汶', '22', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292053000, '那空那育', '26', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292041000, '拉农', '21', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292065000, '清迈', '50', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292023000, '猜那', '18', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292069000, '四色菊', '33', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292082000, '也拉', '95', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292032000, '佛丕', '78', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292016000, '北标', '19', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292076000, '乌隆', '41', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292078000, '乌汶', '34', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292063000, '普吉', '83', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292072000, '素叻', '84', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292051000, '曼谷', '10', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292080000, '信武里', '17', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292034000, '甘烹碧', '62', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292012000, '巴蜀', '77', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292033000, '佛统', '73', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292025000, '程逸', '53', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292058000, '帕', '54', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292019000, '北榄坡', '60', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292021000, '碧差汶', '76', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292046000, '黎逸', '45', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292024000, '猜也奔', '36', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292040000, '孔敬', '40', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292061000, '彭世洛', '65', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292015000, '北碧', '71', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292017000, '北大年', '94', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292060000, '攀牙', '82', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292052000, '莫达汉', '49', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292026000, '春蓬', '86', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292056000, '南奔', '51', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292073000, '素林', '32', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292057000, '暖武里', '12', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292077000, '乌泰他尼', '61', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292031000, '董里', '92', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292035000, '红统', '15', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292013000, '巴吞他尼', '13', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292020000, '北柳', '24', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292011000, '安纳乍能', '37', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292027000, '春武里', '20', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292055000, '难', '55', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292045000, '黎', '42', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292018000, '北揽', '11', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292079000, '武里南', '31', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292054000, '那空帕农', '48', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292070000, '宋卡', '90', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292074000, '素攀武里', '72', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292028000, '达', '63', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292062000, '披集', '66', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292042000, '廊开', '43', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292084000, '夜功', '75', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292048000, '罗勇', '85', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292083000, '夜丰颂', '58', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292038000, '甲米', '81', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292043000, '廊莫那浦', '39', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292049000, '洛坤', '80', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292064000, '清莱', '57', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292036000, '华富里', '16', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292044000, '叻丕', '70', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292075000, '陶公', '96', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292081000, '耶梭通', '35', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292059000, '帕尧', '56', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292022000, '博达伦', '93', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292047000, '龙仔厝', '74', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292029000, '达叻', '23', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292014000, '巴真', '25', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292067000, '沙敦', '91', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292037000, '加拉信', '46', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292071000, '素可泰', '64', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292050000, '玛哈沙拉堪', '44', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(292068000, '沙缴', '27', 292010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293011000, '阿鲁沙', 'AR', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293014000, '滨海', 'PW', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293012000, '奔巴北', 'PN', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293015000, '达累斯萨拉姆', 'DS', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293023000, '曼亚拉', 'MY', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293016000, '多多马', 'DO', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293018000, '卡盖拉', 'KA', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293029000, '桑给巴尔', 'ZN', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293025000, '姆贝亚', 'MB', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293013000, '奔巴南', 'PS', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293035000, '辛吉达', 'SI', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293030000, '桑给巴尔北', 'UN', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293027000, '姆万扎', 'MW', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293036000, '欣延加', 'SH', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293020000, '鲁夸', 'RK', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293031000, '桑给巴尔南', 'US', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293024000, '莫洛戈罗', 'MO', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293017000, '基戈马', 'KI', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293028000, '乞力马扎罗', 'KJ', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293037000, '伊林加', 'IR', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293021000, '鲁伍马', 'RV', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293033000, '塔波拉', 'TB', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293032000, '桑给巴尔市和西', 'MM', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293019000, '林迪', 'LN', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293034000, '坦噶', 'TN', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293026000, '姆特瓦拉', 'MT', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(293022000, '马腊', 'MR', 293010000);
-INSERT INTO city(id, name, code, state_id) VALUES(294013000, '纽阿斯', 'N', 294010000);
-INSERT INTO city(id, name, code, state_id) VALUES(294012000, '哈派', 'H', 294010000);
-INSERT INTO city(id, name, code, state_id) VALUES(294015000, '瓦瓦乌', 'V', 294010000);
-INSERT INTO city(id, name, code, state_id) VALUES(294014000, '汤加塔布', 'T', 294010000);
-INSERT INTO city(id, name, code, state_id) VALUES(294011000, '埃瓦', 'E', 294010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298030000, '突尼斯', 'TU', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298021000, '凯鲁万', 'KR', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298022000, '马赫迪耶', 'MH', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298018000, '坚杜拜', 'JE', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298031000, '托泽尔', 'TO', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298016000, '加贝斯', 'GB', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298025000, '莫纳斯提尔', 'MO', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298015000, '吉比利', 'KB', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298023000, '马努巴', 'MN', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298011000, '艾尔亚奈', 'AR', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298024000, '梅德宁', 'ME', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298033000, '锡勒亚奈', 'SL', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298020000, '卡塞林', 'KS', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298032000, '西迪布济德', 'SD', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298034000, '宰格万', 'ZA', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298014000, '比塞大', 'BI', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298029000, '泰塔温', 'TA', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298013000, '本阿鲁斯', 'BA', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298026000, '纳布勒', 'NA', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298017000, '加夫萨', 'GF', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298012000, '巴杰', 'BJ', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298019000, '卡夫', 'LK', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298027000, '斯法克斯', 'SF', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(298028000, '苏塞', 'SO', 298010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300041000, '凡', 'VAN', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300067000, '尼代', 'NIG', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300023000, '埃斯基谢希尔', 'ESK', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300040000, '迪亚巴克尔', 'DIY', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300028000, '巴尔腾', 'BAR', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300034000, '宾格尔', 'BIN', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300056000, '科尼亚', 'KON', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300071000, '萨卡里亚', 'SAK', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300078000, '锡尔纳克', 'SIR', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300013000, '阿尔达罕', 'ARD', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300043000, '哈塔伊', 'HTY', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300018000, '阿马西亚', 'AMA', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300068000, '恰纳卡莱', 'CKL', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300085000, '伊斯坦布尔', 'IST', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300014000, '阿尔特温', 'ART', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300027000, '奥尔杜', 'ORD', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300044000, '基利斯', 'KLS', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300020000, '埃尔津詹', 'EZC', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300035000, '博卢', 'BOL', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300073000, '泰基尔达', 'TEL', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300083000, '伊切尔', 'ICE', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300055000, '柯克拉雷利', 'KLR', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300065000, '穆什', 'MUS', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300057000, '克尔谢希尔', 'KRH', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300042000, '哈卡里', 'HKR', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300051000, '卡拉曼', 'KRM', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300017000, '阿勒', 'AGR', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300050000, '卡拉比克', 'KRB', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300031000, '巴伊布尔特', 'BAY', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300012000, '阿德亚曼', 'ADI', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300064000, '穆拉', 'MUG', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300037000, '布尔萨', 'BRS', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300088000, '宗古尔达克', 'ZON', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300039000, '代尼兹利', 'DEN', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300074000, '特拉布宗', 'TRA', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300062000, '马拉蒂亚', 'MAL', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300022000, '埃拉泽', 'ELA', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300054000, '科贾埃利', 'KOC', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300087000, '约兹加特', 'YOZ', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300060000, '里泽', 'RIZ', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300072000, '萨姆松', 'SAM', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300076000, '托卡特', 'TOK', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300011000, '阿达纳', 'ADA', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300052000, '卡斯塔莫努', 'KAS', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300077000, '乌萨克', 'USK', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300015000, '阿菲永', 'AFY', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300033000, '比特利斯', 'BIT', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300032000, '比莱吉克', 'BIL', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300079000, '锡尔特', 'SII', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300029000, '巴勒克埃西尔', 'BAL', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300016000, '阿克萨赖', 'AKS', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300061000, '马尔丁', 'MAR', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300082000, '伊迪尔', 'IGD', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300038000, '昌克勒', 'CKR', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300045000, '吉雷松', 'GIR', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300025000, '安卡拉', 'ANK', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300053000, '开塞利', 'KAY', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300047000, '居米什哈内', 'GMS', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300086000, '伊兹密尔', 'IZM', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300024000, '艾登', 'AYI', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300021000, '埃尔祖鲁姆', 'EZR', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300063000, '马尼萨', 'MAN', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300059000, '拉飞', 'URF', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300080000, '锡诺普', 'SIN', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300066000, '内夫谢希尔', 'NEV', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300049000, '卡赫拉曼马拉什', 'KAH', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300075000, '通杰利', 'TUN', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300084000, '伊斯帕尔塔', 'ISP', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300036000, '布尔杜尔', 'BRD', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300026000, '安塔利亚', 'ANT', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300070000, '屈塔希亚', 'KUT', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300069000, '乔鲁姆', 'COR', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300058000, '克勒克卡莱', 'KRK', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300019000, '埃迪尔内', 'EDI', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300081000, '锡瓦斯', 'SIV', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300030000, '巴特曼', 'BAT', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300046000, '加济安泰普', 'GAZ', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(300048000, '卡尔斯', 'KRS', 300010000);
-INSERT INTO city(id, name, code, state_id) VALUES(301012000, '阿什哈巴德市', 'ASB', 301010000);
-INSERT INTO city(id, name, code, state_id) VALUES(301015000, '列巴普', 'L', 301010000);
-INSERT INTO city(id, name, code, state_id) VALUES(301016000, '马雷', 'M', 301010000);
-INSERT INTO city(id, name, code, state_id) VALUES(301017000, '涅比特达格', 'NEB', 301010000);
-INSERT INTO city(id, name, code, state_id) VALUES(301014000, '达沙古兹', 'D', 301010000);
-INSERT INTO city(id, name, code, state_id) VALUES(301011000, '阿哈尔', 'A', 301010000);
-INSERT INTO city(id, name, code, state_id) VALUES(301013000, '巴尔坎', 'B', 301010000);
-INSERT INTO city(id, name, code, state_id) VALUES(304011000, '马朗帕', 'MA', 304010000);
-INSERT INTO city(id, name, code, state_id) VALUES(304013000, '桑马', 'SA', 304010000);
-INSERT INTO city(id, name, code, state_id) VALUES(304015000, '托尔巴', 'TO', 304010000);
-INSERT INTO city(id, name, code, state_id) VALUES(304012000, '彭纳马', 'PE', 304010000);
-INSERT INTO city(id, name, code, state_id) VALUES(304014000, '塔菲阿', 'TA', 304010000);
-INSERT INTO city(id, name, code, state_id) VALUES(304016000, '谢法', 'SH', 304010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305018000, '米克斯科', 'MIX', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305026000, '圣马科斯', 'SM', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305015000, '基切', 'QC', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305031000, '韦韦特南戈', 'HU', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305025000, '圣罗莎', 'SR', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305033000, '新城', 'VIN', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305013000, '哈拉帕', 'JA', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305030000, '危地马拉', 'GU', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305023000, '萨卡特佩克斯', 'ST', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305028000, '索洛拉', 'SO', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305016000, '克萨尔特南戈', 'QZ', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305011000, '埃尔普罗格雷索', 'PR', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305014000, '胡蒂亚帕', 'JU', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305024000, '上韦拉帕斯', 'AV', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305022000, '萨卡帕', 'ZA', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305017000, '雷塔卢莱乌', 'RE', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305029000, '托托尼卡潘', 'TO', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305021000, '奇马尔特南戈', 'CM', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305032000, '下韦拉帕斯', 'BV', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305012000, '埃斯昆特拉', 'ES', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305019000, '佩滕', 'PE', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305020000, '奇基穆拉', 'CQ', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305027000, '苏奇特佩克斯', 'SU', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(305034000, '伊萨瓦尔', 'IZ', 305010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308015000, '巴里纳斯', 'E', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308013000, '阿普雷', 'C', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308024000, '联邦属地', 'W', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308011000, '阿拉瓜', 'D', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308026000, '米兰达', 'M', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308020000, '加拉加斯', 'A', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308023000, '拉腊', 'K', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308019000, '瓜里科', 'J', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308025000, '梅里达', 'L', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308022000, '科赫德斯', 'H', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308028000, '苏克雷', 'R', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308018000, '法尔孔', 'I', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308030000, '塔奇拉', 'S', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308012000, '阿马库罗三角洲', 'Y', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308021000, '卡拉沃沃', 'G', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308032000, '新埃斯帕塔', 'O', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308014000, '安索阿特吉', 'B', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308016000, '玻利瓦尔', 'F', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308017000, '波图格萨', 'P', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308029000, '苏利亚', 'V', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308031000, '特鲁希略', 'T', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308033000, '亚拉奎', 'U', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308034000, '亚马孙', 'Z', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(308027000, '莫纳加斯', 'N', 308010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310038000, '坎帕拉', 'KMP', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310041000, '拉卡伊', 'RAK', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310036000, '卡塔奎', 'KTK', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310064000, '锡龙科', 'SIR', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310031000, '卡姆文盖', 'KAM', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310050000, '姆巴拉拉', 'MBR', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310042000, '利拉', 'LIR', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310057000, '内比', 'NEB', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310014000, '本迪布焦', 'BUN', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310053000, '穆本德', 'MUB', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310017000, '布谢尼', 'BSH', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310062000, '托罗罗', 'TOR', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310028000, '卡巴罗莱', 'KAR', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310045000, '马萨卡', 'MAS', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310012000, '阿帕克', 'APC', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310048000, '莫罗托', 'MRT', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310061000, '索罗提', 'SOR', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310025000, '基特古姆', 'KIT', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310059000, '帕利萨', 'PAL', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310051000, '姆巴莱', 'MBA', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310033000, '卡农古', 'KAN', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310046000, '马辛迪', 'MSN', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310054000, '穆科诺', 'MUK', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310020000, '霍伊马', 'HOI', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310027000, '卡巴莱', 'KBL', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310056000, '纳卡松戈拉', 'NKS', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310029000, '卡贝拉马伊多', 'KAB', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310055000, '纳卡皮里皮里特', 'NAK', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310043000, '卢韦罗', 'LUW', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310023000, '基恩乔乔', 'KYE', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310035000, '卡塞塞', 'KAS', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310065000, '伊甘加', 'IGA', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310037000, '卡永加', 'KAY', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310039000, '科蒂多', 'KOT', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310026000, '金贾', 'JIN', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310032000, '卡穆利', 'KML', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310052000, '姆皮吉', 'MPI', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310063000, '瓦基索', 'WAK', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310015000, '布吉里', 'BUG', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310049000, '莫约', 'MOY', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310060000, '森巴布莱', 'SEM', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310024000, '基索罗', 'KIS', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310044000, '鲁昆吉里', 'RUK', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310019000, '古卢', 'GUL', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310013000, '阿朱马尼', 'ADJ', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310021000, '基巴莱', 'KBA', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310058000, '帕德尔', 'PAD', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310066000, '永贝', 'YUM', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310047000, '马尤盖', 'MAY', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310030000, '卡兰加拉', 'KAL', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310011000, '阿鲁阿', 'ARU', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310022000, '基博加', 'KIB', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310018000, '恩通加莫', 'NTU', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310034000, '卡普乔鲁瓦', 'KPC', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310040000, '库米', 'KUM', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(310016000, '布西亚', 'BUS', 310010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311013000, '第聂伯罗波得罗夫斯克', '12', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311016000, '赫尔松州', '65', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311029000, '日托米尔', '18', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311028000, '切尔诺夫策', '77', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311032000, '文尼察', '5', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311014000, '顿涅茨克', '14', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311031000, '外喀尔巴阡', '21', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311033000, '沃伦', '7', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311011000, '敖德萨', '51', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311030000, '苏梅', '59', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311035000, '扎波罗热', '23', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311023000, '卢甘斯克', '9', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311021000, '克里米亚自治共和国', '43', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311026000, '切尔卡瑟', '71', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311017000, '赫梅利尼茨基', '68', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311025000, '尼古拉耶夫', '48', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311020000, '捷尔诺波尔', '61', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311027000, '切尔尼戈夫', '74', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311012000, '波尔塔瓦', '53', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311015000, '哈尔科夫', '63', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311018000, '基辅', '30', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311024000, '罗夫诺', '56', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311019000, '基洛夫格勒', '35', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311034000, '伊万－弗兰科夫州', '26', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(311022000, '利沃夫', '46', 311010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312018000, '里韦拉', 'RV', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312014000, '弗洛雷斯', 'FS', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312027000, '圣何塞', 'SJ', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312028000, '索里亚诺', 'SO', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312011000, '阿蒂加斯', 'AR', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312016000, '科洛尼亚', 'CO', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312025000, '塞罗拉尔戈', 'CL', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312021000, '蒙得维的亚', 'MO', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312022000, '内格罗河', 'RN', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312023000, '派桑杜', 'PA', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312020000, '马尔多纳多', 'MA', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312015000, '卡内洛内斯', 'CA', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312013000, '佛罗里达', 'FA', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312029000, '塔夸伦博', 'TAW', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312012000, '杜拉斯诺', 'DU', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312019000, '罗恰', 'RO', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312024000, '萨尔托', 'SL', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312026000, '三十三人', 'TT', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(312017000, '拉瓦耶哈', 'LA', 312010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313011000, '安集延', 'AN', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313017000, '卡什卡达里亚', 'QA', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313022000, '塔什干', 'TK', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313018000, '纳曼干', 'NG', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313019000, '纳沃伊', 'NW', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313013000, '费尔干纳', 'FA', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313024000, '锡尔河', 'SI', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313023000, '塔什干市', 'TO', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313012000, '布哈拉', 'BU', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313016000, '卡拉卡尔帕克斯坦共和国', 'QR', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313014000, '花拉子模', 'XO', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313020000, '撒马尔罕', 'SA', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313021000, '苏尔汉河', 'SU', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(313015000, '吉扎克', 'JI', 313010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314017000, '奥伦塞', 'ORE', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314035000, '昆卡', 'CUE', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314059000, '韦尔瓦', 'HUV', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314028000, '赫罗纳', 'GRO', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314049000, '萨拉曼卡', 'SLM', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314052000, '塞维利亚', 'SVQ', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314027000, '哈恩', 'JAE', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314031000, '卡塞雷斯', 'CCS', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314021000, '巴伦西亚', 'VLC', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314040000, '莱里达', 'LLE', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314053000, '桑坦德', 'SDR', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314039000, '莱昂', 'LEN', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314042000, '马德里', 'MAD', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314041000, '卢戈', 'LGO', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314045000, '纳瓦拉', 'NVV', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314046000, '帕伦西亚', 'PAC', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314025000, '格拉纳达', 'GRX', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314056000, '塔拉戈纳', 'TAR', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314022000, '巴塞罗那', 'BCN', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314047000, '蓬特韦德拉', 'PEV', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314024000, '布尔戈斯', 'BUR', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314015000, '阿斯图利亚斯', 'AST', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314036000, '拉科鲁尼亚', 'LCG', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314023000, '比斯开', 'VSE', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314018000, '巴达霍斯', 'BJZ', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314034000, '科尔多瓦', 'ODB', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314038000, '拉斯帕尔马斯', 'LPA', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314043000, '马拉加', 'AGP', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314019000, '巴利阿里', 'BLR', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314030000, '加的斯', 'CAD', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314014000, '阿利坎特', 'ALC', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314060000, '韦斯卡', 'HUC', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314054000, '圣克鲁斯-德特内里费', 'SCT', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314020000, '巴利亚多利德', 'VLL', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314026000, '瓜达拉哈拉', 'GUA', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314013000, '阿拉瓦', 'ALA', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314044000, '穆尔西亚', 'MJV', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314058000, '托莱多', 'TOL', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314011000, '阿尔梅里亚', 'LEI', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314037000, '拉里奥哈', 'ARL', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314055000, '索里亚', 'SOR', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314029000, '吉普斯夸', 'GUI', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314032000, '卡斯蒂利亚', 'CIR', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314057000, '特鲁埃尔', 'TER', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314051000, '塞哥维亚', 'SEG', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314033000, '卡斯特利翁', 'CAS', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314050000, '萨莫拉', 'ZMR', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314012000, '阿尔瓦塞特', 'ALB', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314016000, '阿维拉', 'AVI', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(314048000, '萨拉戈萨', 'ZAZ', 314010000);
-INSERT INTO city(id, name, code, state_id) VALUES(315013000, '干尼亚', 'CHQ', 315010000);
-INSERT INTO city(id, name, code, state_id) VALUES(315016000, '莱斯博斯', 'LES', 315010000);
-INSERT INTO city(id, name, code, state_id) VALUES(315019000, '雅典', 'ATH', 315010000);
-INSERT INTO city(id, name, code, state_id) VALUES(315014000, '基克拉迪', 'CY', 315010000);
-INSERT INTO city(id, name, code, state_id) VALUES(315012000, '多德卡尼斯', 'DO', 315010000);
-INSERT INTO city(id, name, code, state_id) VALUES(315017000, '雷西姆农', 'RET', 315010000);
-INSERT INTO city(id, name, code, state_id) VALUES(315011000, '比雷埃夫斯', 'PRI', 315010000);
-INSERT INTO city(id, name, code, state_id) VALUES(315015000, '拉西锡', 'LST', 315010000);
-INSERT INTO city(id, name, code, state_id) VALUES(315020000, '伊拉克里翁', 'HER', 315010000);
-INSERT INTO city(id, name, code, state_id) VALUES(315018000, '萨摩斯', 'SMI', 315010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318027000, '内皮尔', 'NPE', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318029000, '陶马鲁努伊', 'TAU', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318023000, '克赖斯特彻奇', 'CHC', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318014000, '北远', 'FNR', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318033000, '新普利茅斯', 'NPL', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318017000, '格雷茅斯', 'GMN', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318021000, '吉斯伯恩', 'GIS', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318025000, '马努考', 'MNK', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318018000, '哈密尔顿', 'HLZ', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318013000, '北帕默斯顿', 'PMR', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318019000, '黑斯廷斯', 'HAS', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318026000, '纳尔逊', 'NSN', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318024000, '里士满', 'RMD', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318011000, '奥克兰', 'AUK', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318020000, '怀塔科拉', 'WAE', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318028000, '斯特拉特福德', 'STR', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318030000, '瓦卡塔尼', 'WHK', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318015000, '布莱尼姆', 'BHE', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318016000, '达尼丁', 'DUD', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318034000, '因弗卡吉尔', 'IVC', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318031000, '旺阿雷', 'WRE', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318012000, '北岸', 'NSH', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318022000, '凯帕拉', 'KAI', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(318032000, '旺格努伊', 'WAG', 318010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319023000, '佩斯', 'PE', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319030000, '佐洛', 'ZA', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319018000, '赫维什', 'HE', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319024000, '琼格拉德', 'CS', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319025000, '绍莫吉', 'SO', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319027000, '托尔瑙', 'TO', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319013000, '包尔绍德-奥包乌伊-曾普伦', 'BZ', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319022000, '诺格拉德', 'NO', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319012000, '巴奇-基什孔', 'BK', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319015000, '布达佩斯', 'BU', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319021000, '科马罗姆', 'KE', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319017000, '豪伊杜-比豪尔', 'HB', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319028000, '维斯普雷姆', 'VE', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319026000, '索博尔奇-索特马尔-贝拉格', 'SZ', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319014000, '贝凯什', 'BE', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319011000, '巴兰尼亚', 'BA', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319019000, '加兹-纳杰孔-索尔诺克', 'JN', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319029000, '沃什', 'VA', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319016000, '费耶尔', 'FE', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(319020000, '杰尔-莫松-肖普朗', 'GS', 319010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320016000, '哈马', 'HM', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320019000, '加布', 'GH', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320023000, '拉塔基亚', 'LA', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320015000, '德拉', 'DA', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320021000, '库奈特拉', 'QU', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320026000, '伊德利卜', 'ID', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320024000, '苏韦达', 'SU', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320020000, '卡米什利', 'QA', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320014000, '代尔祖尔', 'DZ', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320012000, '大马士革', 'RD', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320022000, '拉卡', 'RQ', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320011000, '阿勒颇', 'HL', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320013000, '大马士革市', 'DI', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320017000, '哈塞克', 'HA', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320018000, '霍姆斯', 'HI', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(320025000, '塔尔图斯', 'TA', 320010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321012000, '汉诺威', 'HAN', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321024000, '西摩兰', 'WML', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321013000, '金斯敦', 'KIN', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321020000, '圣托马斯', 'THO', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321022000, '圣詹姆斯', 'JAM', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321021000, '圣伊丽莎白', 'ELI', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321011000, '波特兰', 'POR', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321015000, '曼彻斯特', 'MAN', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321018000, '圣凯瑟琳', 'CAT', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321019000, '圣玛丽', 'MAR', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321014000, '克拉伦登', 'CLA', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321023000, '特里洛尼', 'TRL', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321017000, '圣安娜', 'ANN', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(321016000, '圣安德鲁斯', 'AND', 321010000);
-INSERT INTO city(id, name, code, state_id) VALUES(322017000, '洛里', 'LOR', 322010000);
-INSERT INTO city(id, name, code, state_id) VALUES(322013000, '阿拉拉特', 'ARA', 322010000);
-INSERT INTO city(id, name, code, state_id) VALUES(322016000, '科泰克', 'KOT', 322010000);
-INSERT INTO city(id, name, code, state_id) VALUES(322011000, '阿尔马维尔', 'ARM', 322010000);
-INSERT INTO city(id, name, code, state_id) VALUES(322019000, '瓦约茨·佐尔', 'VAY', 322010000);
-INSERT INTO city(id, name, code, state_id) VALUES(322021000, '休尼克', 'SYU', 322010000);
-INSERT INTO city(id, name, code, state_id) VALUES(322012000, '阿拉加措特恩', 'AGT', 322010000);
-INSERT INTO city(id, name, code, state_id) VALUES(322018000, '塔武什', 'TAV', 322010000);
-INSERT INTO city(id, name, code, state_id) VALUES(322014000, '埃里温市', 'EVN', 322010000);
-INSERT INTO city(id, name, code, state_id) VALUES(322020000, '希拉克', 'SHI', 322010000);
-INSERT INTO city(id, name, code, state_id) VALUES(322015000, '格加尔库尼克', 'GEG', 322010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323018000, '焦夫', 'JA', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323024000, '萨那', 'SN', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323013000, '贝达', 'BA', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323020000, '马里卜', 'MA', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323028000, '希赫尔', 'ASR', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323031000, '扎玛尔', 'DH', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323027000, '塔伊兹', 'TA', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323026000, '舍卜沃', 'SH', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323029000, '亚丁', 'AD', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323012000, '阿姆兰', 'AM', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323030000, '伊卜', 'IB', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323021000, '迈赫拉', 'MR', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323017000, '荷台达', 'HU', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323019000, '拉赫季', 'LA', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323014000, '达利', 'DA', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323015000, '哈德拉毛', 'HD', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323025000, '赛文', 'GXF', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323023000, '萨达', 'SD', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323011000, '阿比扬', 'AB', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323022000, '迈赫维特', 'MW', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(323016000, '哈杰', 'HJ', 323010000);
-INSERT INTO city(id, name, code, state_id) VALUES(326014000, '海法', 'HFA', 326010000);
-INSERT INTO city(id, name, code, state_id) VALUES(326016000, '内坦亚', 'NAT', 326010000);
-INSERT INTO city(id, name, code, state_id) VALUES(326017000, '特拉维夫', 'TLV', 326010000);
-INSERT INTO city(id, name, code, state_id) VALUES(326013000, '贝特雁', 'BAT', 326010000);
-INSERT INTO city(id, name, code, state_id) VALUES(326015000, '霍隆', 'HOL', 326010000);
-INSERT INTO city(id, name, code, state_id) VALUES(326012000, '贝尔谢巴', 'BEV', 326010000);
-INSERT INTO city(id, name, code, state_id) VALUES(326018000, '耶路撒冷', 'J', 326010000);
-INSERT INTO city(id, name, code, state_id) VALUES(326011000, '阿什杜德', 'ASH', 326010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327028000, '的里雅斯特', 'TRS', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327053000, '米兰', 'MIL', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327033000, '卡利亚里', 'CAG', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327048000, '里窝那', 'LIV', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327073000, '锡拉库扎', 'SYR', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327056000, '那不勒斯', 'NAP', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327068000, '特伦托', 'TRT', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327058000, '诺瓦拉', 'NVR', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327034000, '卡塞塔', 'CST', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327072000, '乌迪内', 'UDN', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327041000, '库内奥', 'CUN', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327015000, '奥里斯塔诺', 'QOS', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327046000, '雷焦艾米利亚', 'RNE', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327017000, '巴勒莫', 'PMO', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327023000, '波坦察', 'QPO', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327069000, '威尼斯', 'VCE', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327044000, '莱科', 'LCO', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327047000, '雷焦卡拉布里亚', 'REG', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327037000, '坎波巴索', 'COB', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327029000, '都灵', 'TRN', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327027000, '布林迪西', 'BDS', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327038000, '科摩', 'CIY', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327016000, '奥斯塔', 'AOT', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327014000, '奥尔比亚', 'OLB', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327020000, '贝内文托', 'BEN', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327057000, '努奥罗', 'QNU', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327076000, '伊塞尔尼亚', 'ISE', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327061000, '佩鲁贾', 'PEG', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327019000, '贝加莫', 'BGO', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327018000, '巴里', 'BRI', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327031000, '佛罗伦萨', 'FLR', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327011000, '阿斯蒂', 'AST', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327039000, '科森扎', 'QCS', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327042000, '拉奎拉', 'LAQ', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327021000, '比萨', 'PSA', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327022000, '波代诺内', 'PRD', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327035000, '卡塔尼亚', 'CTA', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327062000, '热那亚', 'CAX', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327013000, '安科纳', 'AOI', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327054000, '摩德纳', 'MOD', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327067000, '特拉帕尼', 'TPS', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327025000, '布拉', 'BIE', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327055000, '墨西拿', 'MSN', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327036000, '卡坦扎罗', 'QCZ', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327059000, '帕尔马', 'PMF', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327012000, '阿斯科利皮切诺', 'ASP', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327066000, '塔兰托', 'TAR', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327049000, '罗马', 'ROM', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327040000, '克罗托内', 'CRV', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327052000, '蒙扎', 'MZA', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327070000, '韦尔切利', 'VRL', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327030000, '费拉拉', 'FRR', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327050000, '马萨', 'MCR', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327071000, '维泰博', 'VIT', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327051000, '马泰拉', 'MTR', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327074000, '锡耶纳', 'SNA', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327024000, '博洛尼亚', 'BLQ', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327026000, '布雷西亚', 'BRC', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327032000, '福贾', 'FOG', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327075000, '亚历山德里亚', 'ALE', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327045000, '莱切', 'LCC', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327064000, '萨萨里', 'QSS', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327065000, '萨沃纳', 'SVN', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327060000, '帕维亚', 'PAV', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327063000, '萨莱诺', 'SAL', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(327043000, '拉斯佩齐亚', 'SPE', 327010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328012000, '班加罗尔', 'BLR', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328019000, '甘托克', 'GTO', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328036000, '新德里', 'ICD', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328024000, '贾朗达尔', 'JUC', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328026000, '金奈', 'MAA', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328022000, '加里加尔', 'KRK', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328031000, '森伯尔布尔', 'SLR', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328018000, '第乌', 'DIU', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328038000, '因帕尔', 'IMF', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328014000, '博帕尔', 'BHO', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328033000, '乌代布尔', 'UDR', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328032000, '特里凡得琅', 'TRV', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328034000, '西隆', 'SHL', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328011000, '艾藻尔', 'AJL', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328040000, '斋普尔', 'JAI', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328025000, '焦特布尔', 'JDH', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328016000, '昌迪加尔', 'IXC', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328037000, '亚南', 'SRV', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328035000, '锡尔萨瓦', 'SIL', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328028000, '科希马', 'KOM', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328017000, '达曼', 'DAM', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328020000, '哥印拜陀', 'CJB', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328039000, '印多尔', 'IDR', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328029000, '马埃', 'MAH', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328021000, '加尔各答', 'CCU', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328015000, '布巴内斯瓦尔', 'BBI', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328013000, '本地治里', 'PNY', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328030000, '马杜赖', 'IXM', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328023000, '贾巴尔普尔', 'JLR', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(328027000, '卡瓦拉蒂', 'KVA', 328010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329034000, '伊里安查亚', 'IJ', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329018000, '东努沙登加拉', 'NT', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329015000, '大雅加达首都特区', 'KB', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329017000, '东南苏拉威西', 'SG', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329027000, '日惹特区', 'YO', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329035000, '占碑', 'JA', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329038000, '中爪哇', 'JT', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329012000, '邦加－勿里洞群岛', 'BB', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329016000, '东加里曼丹', 'KI', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329030000, '西苏门答腊', 'SR', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329011000, '巴厘', 'BA', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329033000, '亚齐', 'AC', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329013000, '北苏拉威西', 'SA', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329032000, '雅加达', 'JK', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329029000, '西努沙登加拉', 'NB', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329014000, '北苏门答腊', 'SU', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329019000, '东爪哇', 'JI', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329025000, '南苏拉威西', 'SN', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329024000, '南加里曼丹', 'KS', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329023000, '楠榜', 'LA', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329026000, '南苏门答腊', 'SS', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329036000, '中加里曼丹', 'KT', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329022000, '明古鲁', 'BE', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329028000, '万丹', 'BT', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329031000, '西爪哇', 'JB', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329020000, '廖内', 'RI', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329021000, '马鲁古', 'MA', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(329037000, '中苏拉威西', 'ST', 329010000);
-INSERT INTO city(id, name, code, state_id) VALUES(330031000, '班戈', 'BAN', 330030000);
-INSERT INTO city(id, name, code, state_id) VALUES(330033000, '纽波特', 'NWP', 330030000);
-INSERT INTO city(id, name, code, state_id) VALUES(330034000, '斯旺西', 'SWA', 330030000);
-INSERT INTO city(id, name, code, state_id) VALUES(330032000, '卡迪夫', 'CDF', 330030000);
-INSERT INTO city(id, name, code, state_id) VALUES(330049000, '德罕', 'DUR', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330089000, '约克', 'YOR', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330063000, '林肯', 'LCN', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330071000, '朴茨茅斯', 'POR', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330048000, '德比', 'DER', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330070000, '诺里奇', 'NRW', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330076000, '桑德兰', 'SUN', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330075000, '切斯特', 'CEG', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330055000, '坎特伯雷', 'CNG', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330087000, '谢菲尔德', 'SHE', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330080000, '特鲁罗', 'TRU', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330077000, '圣阿本斯', 'TBL', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330079000, '索福特', 'SLF', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330052000, '赫里福德', 'HAF', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330043000, '彼得伯勒', 'PTE', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330057000, '兰开斯特', 'LAN', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330047000, '布里斯托尔', 'BST', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330072000, '普雷斯顿', 'PRE', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330042000, '巴斯', 'BAS', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330056000, '考文垂', 'COV', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330054000, '卡莱尔', 'CAX', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330045000, '布拉德福德', 'BRD', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330078000, '索尔斯堡', 'SLS', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330084000, '温彻斯特', 'WNE', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330088000, '伊利', 'ELY', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330065000, '曼彻斯特', 'MAN', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330085000, '伍尔弗汉普顿', 'WOV', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330050000, '格洛斯特', 'GLO', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330051000, '赫尔河畔京斯敦', 'KUH', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330068000, '纽卡斯尔', 'NCL', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330060000, '利物浦', 'LIV', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330058000, '里彭', 'RIP', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330083000, '韦克菲尔德', 'WKF', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330041000, '埃克塞特', 'EXE', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330081000, '特伦特河畔斯多克', 'SOT', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330044000, '伯明翰', 'BIR', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330073000, '普利茅斯', 'PLY', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330062000, '列斯特', 'LCE', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330074000, '奇切斯特', 'CST', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330059000, '利奇菲尔德', 'LHF', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330064000, '伦敦', 'LND', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330086000, '伍斯特', 'WOR', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330066000, '南安普敦', 'STH', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330061000, '利茲', 'LDS', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330082000, '威尔斯', 'WLS', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330069000, '诺丁汉', 'NGM', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330053000, '剑桥', 'CAM', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330067000, '牛津', 'OXF', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330046000, '布莱顿与赫福', 'BNH', 330040000);
-INSERT INTO city(id, name, code, state_id) VALUES(330013000, '利斯本', 'LSB', 330010000);
-INSERT INTO city(id, name, code, state_id) VALUES(330014000, '纽里', 'NYM', 330010000);
-INSERT INTO city(id, name, code, state_id) VALUES(330011000, '贝尔法斯特', 'BFS', 330010000);
-INSERT INTO city(id, name, code, state_id) VALUES(330012000, '德里', 'DRY', 330010000);
-INSERT INTO city(id, name, code, state_id) VALUES(330025000, '斯特灵', 'STG', 330020000);
-INSERT INTO city(id, name, code, state_id) VALUES(330022000, '爱丁堡', 'EDH', 330020000);
-INSERT INTO city(id, name, code, state_id) VALUES(330023000, '丹迪', 'DND', 330020000);
-INSERT INTO city(id, name, code, state_id) VALUES(330024000, '格拉斯哥', 'GLG', 330020000);
-INSERT INTO city(id, name, code, state_id) VALUES(330026000, '因弗内斯', 'INV', 330020000);
-INSERT INTO city(id, name, code, state_id) VALUES(330021000, '阿伯丁', 'ABD', 330020000);
-INSERT INTO city(id, name, code, state_id) VALUES(332019000, '马夫拉克', 'MF', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332013000, '拜勒加', 'BA', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332018000, '马德巴', 'MD', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332017000, '马安', 'MN', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332021000, '亚喀巴', 'AQ', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332023000, '扎尔卡', 'ZA', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332015000, '卡拉克', 'KA', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332012000, '安曼', 'AM', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332016000, '鲁赛法', 'RU', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332011000, '阿吉隆', 'AJ', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332020000, '塔菲拉', 'TA', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332022000, '伊尔比德', 'IR', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(332014000, '杰拉什', 'JA', 332010000);
-INSERT INTO city(id, name, code, state_id) VALUES(333013000, '胡志明市', 'HC', 333010000);
-INSERT INTO city(id, name, code, state_id) VALUES(333011000, '海防', 'HP', 333010000);
-INSERT INTO city(id, name, code, state_id) VALUES(333012000, '河内', 'HI', 333010000);
-INSERT INTO city(id, name, code, state_id) VALUES(334018000, '西方', 'WE', 334010000);
-INSERT INTO city(id, name, code, state_id) VALUES(334017000, '西北', 'NW', 334010000);
-INSERT INTO city(id, name, code, state_id) VALUES(334016000, '铜带', 'CB', 334010000);
-INSERT INTO city(id, name, code, state_id) VALUES(334014000, '卢萨卡', 'LK', 334010000);
-INSERT INTO city(id, name, code, state_id) VALUES(334012000, '东方', 'EA', 334010000);
-INSERT INTO city(id, name, code, state_id) VALUES(334013000, '卢阿普拉', 'LP', 334010000);
-INSERT INTO city(id, name, code, state_id) VALUES(334015000, '南方', 'SO', 334010000);
-INSERT INTO city(id, name, code, state_id) VALUES(334011000, '北方', 'NO', 334010000);
-INSERT INTO city(id, name, code, state_id) VALUES(334019000, '中央', 'CE', 334010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338020000, '圣地亚哥', 'RM', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338013000, '安托法加斯塔大区', 'AN', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338016000, '湖大区', 'LL', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338023000, '伊瓦涅斯将军的艾森大区', 'AI', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338014000, '比奥比奥大区', 'BI', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338019000, '麦哲伦-智利南极大区', 'MA', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338017000, '科金博大区', 'CO', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338011000, '阿劳卡尼亚大区', 'AR', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338012000, '阿塔卡马大区', 'AT', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338015000, '复活节岛', 'LI', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338021000, '塔拉帕卡大区', 'TA', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338022000, '瓦尔帕莱索大区', 'VS', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(338018000, '马乌莱大区', 'ML', 338010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339020000, '桑加-姆巴埃雷', 'SE', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339027000, '翁贝拉-姆波科', 'MP', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339019000, '纳纳-曼贝雷', 'NM', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339014000, '凯莫', 'KG', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339017000, '姆博穆', 'MB', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339013000, '宾博', 'BI', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339012000, '班吉直辖市', 'BGF', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339011000, '巴明吉-班戈兰', 'BB', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339026000, '瓦姆-彭代', 'OP', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339015000, '洛巴伊', 'LB', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339025000, '瓦姆', 'AC', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339028000, '下科托', 'BK', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339016000, '曼贝雷-卡代', 'HS', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339024000, '瓦卡加', 'VK', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339021000, '上科托', 'HK', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339023000, '瓦卡', 'UK', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339018000, '纳纳-格里比齐', 'KB', 339010000);
-INSERT INTO city(id, name, code, state_id) VALUES(339022000, '上姆博穆', 'HM', 339010000);
+INSERT INTO city(id, name, code, state_id) VALUES(100050500, '通辽', '5', 100050000),
+(100050300, '乌海', '3', 100050000),
+(100050700, '呼伦贝尔', '7', 100050000),
+(100051200, '阿拉善', '29', 100050000),
+(100050600, '鄂尔多斯', '6', 100050000),
+(100051100, '锡林郭勒', '25', 100050000),
+(100050100, '呼和浩特', '1', 100050000),
+(100050800, '巴彦淖尔', '8', 100050000),
+(100051000, '兴安', '22', 100050000),
+(100050200, '包头', '2', 100050000),
+(100050900, '乌兰察布', '9', 100050000),
+(100050400, '赤峰', '4', 100050000),
+(100260100, '拉萨', '1', 100260000),
+(100260600, '阿里', '25', 100260000),
+(100260700, '林芝', '26', 100260000),
+(100260200, '昌都', '21', 100260000),
+(100260400, '日喀则', '23', 100260000),
+(100260500, '那曲', '24', 100260000),
+(100260300, '山南', '22', 100260000),
+(100040200, '大同', '2', 100040000),
+(100040900, '忻州', '9', 100040000),
+(100041000, '临汾', '10', 100040000),
+(100040500, '晋城', '5', 100040000),
+(100040700, '晋中', '7', 100040000),
+(100041100, '吕梁', '11', 100040000),
+(100040600, '朔州', '6', 100040000),
+(100040100, '太原', '1', 100040000),
+(100040400, '长治', '4', 100040000),
+(100040300, '阳泉', '3', 100040000),
+(100040800, '运城', '8', 100040000),
+(100221500, '长寿', '21', 100220000),
+(100221900, '大足', '25', 100220000),
+(100223400, '石柱', '40', 100220000),
+(100222700, '忠县', '33', 100220000),
+(100220600, '沙坪坝', '6', 100220000),
+(100223600, '酉阳', '42', 100220000),
+(100222500, '垫江', '31', 100220000),
+(100221700, '潼南', '23', 100220000),
+(100222300, '城口', '29', 100220000),
+(100220800, '南岸', '8', 100220000),
+(100222400, '丰都', '30', 100220000),
+(100223000, '奉节', '36', 100220000),
+(100221000, '两江新区', '85', 100220000),
+(100222200, '梁平', '28', 100220000),
+(100221100, '万盛', '10', 100220000),
+(100221300, '渝北', '12', 100220000),
+(100220300, '渝中', '3', 100220000),
+(100222900, '云阳', '35', 100220000),
+(100221400, '巴南', '13', 100220000),
+(100221200, '双桥', '11', 100220000),
+(100222100, '璧山', '27', 100220000),
+(100223800, '江津', '81', 100220000),
+(100221600, '綦江', '22', 100220000),
+(100223200, '巫溪', '38', 100220000),
+(100220700, '九龙坡', '7', 100220000),
+(100224100, '南川', '84', 100220000),
+(100224000, '永川', '83', 100220000),
+(100223300, '黔江', '39', 100220000),
+(100220100, '万州', '1', 100220000),
+(100220200, '涪陵', '2', 100220000),
+(100222000, '荣昌', '26', 100220000),
+(100223100, '巫山', '37', 100220000),
+(100223900, '合川', '82', 100220000),
+(100221800, '铜梁', '24', 100220000),
+(100220900, '北碚', '9', 100220000),
+(100222800, '开县', '34', 100220000),
+(100222600, '武隆', '32', 100220000),
+(100220500, '江北', '5', 100220000),
+(100223500, '秀山', '41', 100220000),
+(100223700, '彭水', '43', 100220000),
+(100220400, '大渡口', '4', 100220000),
+(100311000, '喀什', '31', 100310000),
+(100311900, '北屯', '95', 100310000),
+(100310100, '乌鲁木齐', '1', 100310000),
+(100310300, '吐鲁番', '21', 100310000),
+(100311700, '图木舒克', '93', 100310000),
+(100311200, '伊犁', '40', 100310000),
+(100310400, '哈密', '22', 100310000),
+(100310500, '昌吉', '23', 100310000),
+(100310900, '克孜勒苏', '30', 100310000),
+(100310700, '巴音郭楞', '28', 100310000),
+(100311500, '石河子', '91', 100310000),
+(100311100, '和田', '32', 100310000),
+(100311600, '阿拉尔', '92', 100310000),
+(100310800, '阿克苏', '29', 100310000),
+(100311400, '阿勒泰', '43', 100310000),
+(100311800, '五家渠', '94', 100310000),
+(100311300, '塔城', '42', 100310000),
+(100310600, '博尔塔拉', '27', 100310000),
+(100310200, '克拉玛依', '2', 100310000),
+(100090200, '卢湾', '3', 100090000),
+(100091700, '青浦', '29', 100090000),
+(100091800, '崇明', '30', 100090000),
+(100090300, '徐汇', '4', 100090000),
+(100090700, '闸北', '8', 100090000),
+(100090900, '杨浦', '11', 100090000),
+(100091400, '金山', '16', 100090000),
+(100090400, '长宁', '5', 100090000),
+(100091500, '松江', '17', 100090000),
+(100090800, '虹口', '9', 100090000),
+(100090500, '静安', '6', 100090000),
+(100090600, '普陀', '7', 100090000),
+(100091300, '浦东新区', '15', 100090000),
+(100091200, '嘉定', '14', 100090000),
+(100090100, '黄浦', '1', 100090000),
+(100091000, '闵行', '12', 100090000),
+(100091600, '奉贤', '26', 100090000),
+(100091100, '宝山', '13', 100090000),
+(100130700, '南平', '7', 100130000),
+(100130300, '莆田', '3', 100130000),
+(100130400, '三明', '4', 100130000),
+(100130900, '宁德', '9', 100130000),
+(100130200, '厦门', '2', 100130000),
+(100130600, '漳州', '6', 100130000),
+(100130100, '福州', '1', 100130000),
+(100130500, '泉州', '5', 100130000),
+(100130800, '龙岩', '8', 100130000),
+(100151200, '莱芜', '12', 100150000),
+(100150300, '淄博', '3', 100150000),
+(100150900, '泰安', '9', 100150000),
+(100151000, '威海', '10', 100150000),
+(100150800, '济宁', '8', 100150000),
+(100151600, '滨州', '16', 100150000),
+(100151100, '日照', '11', 100150000),
+(100151300, '临沂', '13', 100150000),
+(100150400, '枣庄', '4', 100150000),
+(100150500, '东营', '5', 100150000),
+(100150700, '潍坊', '7', 100150000),
+(100150100, '济南', '1', 100150000),
+(100150600, '烟台', '6', 100150000),
+(100150200, '青岛', '2', 100150000),
+(100151400, '德州', '14', 100150000),
+(100151500, '聊城', '15', 100150000),
+(100151700, '菏泽', '17', 100150000),
+(100110800, '衢州', '8', 100110000),
+(100110400, '嘉兴', '4', 100110000),
+(100111100, '丽水', '11', 100110000),
+(100110200, '宁波', '2', 100110000),
+(100110700, '金华', '7', 100110000),
+(100110300, '温州', '3', 100110000),
+(100110500, '湖州', '5', 100110000),
+(100110100, '杭州', '1', 100110000),
+(100111000, '台州', '10', 100110000),
+(100110900, '舟山', '9', 100110000),
+(100110600, '绍兴', '6', 100110000),
+(100060400, '抚顺', '4', 100060000),
+(100060200, '大连', '2', 100060000),
+(100060800, '营口', '8', 100060000),
+(100060100, '沈阳', '1', 100060000),
+(100061200, '铁岭', '12', 100060000),
+(100061400, '葫芦岛', '14', 100060000),
+(100060500, '本溪', '5', 100060000),
+(100060600, '丹东', '6', 100060000),
+(100061000, '辽阳', '10', 100060000),
+(100060300, '鞍山', '3', 100060000),
+(100060700, '锦州', '7', 100060000),
+(100061300, '朝阳', '13', 100060000),
+(100061100, '盘锦', '11', 100060000),
+(100060900, '阜新', '9', 100060000),
+(100251100, '文山', '26', 100250000),
+(100251600, '迪庆', '34', 100250000),
+(100250300, '玉溪', '4', 100250000),
+(100250100, '昆明', '1', 100250000),
+(100251300, '大理', '29', 100250000),
+(100250200, '曲靖', '3', 100250000),
+(100250900, '楚雄', '23', 100250000),
+(100250700, '普洱', '8', 100250000),
+(100251400, '德宏', '31', 100250000),
+(100251500, '怒江', '33', 100250000),
+(100251200, '西双版纳', '28', 100250000),
+(100250400, '保山', '5', 100250000),
+(100250500, '昭通', '6', 100250000),
+(100250600, '丽江', '7', 100250000),
+(100250800, '临沧', '9', 100250000),
+(100251000, '红河', '25', 100250000),
+(100081300, '大兴安岭', '27', 100080000),
+(100081100, '黑河', '11', 100080000),
+(100080900, '七台河', '9', 100080000),
+(100080800, '佳木斯', '8', 100080000),
+(100080500, '双鸭山', '5', 100080000),
+(100080100, '哈尔滨', '1', 100080000),
+(100080300, '鸡西', '3', 100080000),
+(100081200, '绥化', '12', 100080000),
+(100081000, '牡丹江', '10', 100080000),
+(100080200, '齐齐哈尔', '2', 100080000),
+(100080600, '大庆', '6', 100080000),
+(100080700, '伊春', '7', 100080000),
+(100080400, '鹤岗', '4', 100080000),
+(100300400, '固原', '4', 100300000),
+(100300300, '吴忠', '3', 100300000),
+(100300200, '石嘴山', '2', 100300000),
+(100300500, '中卫', '5', 100300000),
+(100300100, '银川', '1', 100300000),
+(100330200, '东区', 'HEA', 100330000),
+(100331100, '葵青区', 'NKT', 100330000),
+(100331700, '荃湾区', 'NTW', 100330000),
+(100331600, '大埔区', 'NTP', 100330000),
+(100330100, '中西区', 'HCW', 100330000),
+(100330600, '深水埗区', 'KSS', 100330000),
+(100330300, '九龙城区', 'KKC', 100330000);
+INSERT INTO city(id, name, code, state_id) VALUES(100331400, '沙田区', 'NST', 100330000),
+(100330900, '油尖旺区', 'KYT', 100330000),
+(100330800, '湾仔区', 'HWC', 100330000),
+(100331000, '离岛区', 'NIS', 100330000),
+(100331500, '屯门区', 'NTM', 100330000),
+(100331200, '北区', 'NNO', 100330000),
+(100331300, '西贡区', 'NSK', 100330000),
+(100330400, '观塘区', 'KKT', 100330000),
+(100330700, '黄大仙区', 'KWT', 100330000),
+(100331800, '元朗区', 'NYL', 100330000),
+(100330500, '南区', 'HSO', 100330000),
+(100030300, '秦皇岛', '3', 100030000),
+(100030200, '唐山', '2', 100030000),
+(100030100, '石家庄', '1', 100030000),
+(100030600, '保定', '6', 100030000),
+(100031000, '廊坊', '10', 100030000),
+(100030500, '邢台', '5', 100030000),
+(100030800, '承德', '8', 100030000),
+(100030400, '邯郸', '4', 100030000),
+(100030700, '张家口', '7', 100030000),
+(100030900, '沧州', '9', 100030000),
+(100031100, '衡水', '11', 100030000),
+(100270300, '宝鸡', '3', 100270000),
+(100270400, '咸阳', '4', 100270000),
+(100270100, '西安', '1', 100270000),
+(100270700, '汉中', '7', 100270000),
+(100270800, '榆林', '8', 100270000),
+(100270500, '渭南', '5', 100270000),
+(100270600, '延安', '6', 100270000),
+(100270200, '铜川', '2', 100270000),
+(100271000, '商洛', '10', 100270000),
+(100270900, '安康', '9', 100270000),
+(100280200, '嘉峪关', '2', 100280000),
+(100281100, '定西', '11', 100280000),
+(100280300, '金昌', '3', 100280000),
+(100281400, '甘南', '30', 100280000),
+(100281200, '陇南', '12', 100280000),
+(100281300, '临夏', '29', 100280000),
+(100280400, '白银', '4', 100280000),
+(100280900, '酒泉', '9', 100280000),
+(100280700, '张掖', '7', 100280000),
+(100280800, '平凉', '8', 100280000),
+(100280100, '兰州市', '1', 100280000),
+(100280600, '武威', '6', 100280000),
+(100280500, '天水', '5', 100280000),
+(100281000, '庆阳', '10', 100280000),
+(100210300, '三沙', '3', 100210000),
+(100210400, '五指山', '91', 100210000),
+(100211500, '昌江', 'A31', 100210000),
+(100211100, '屯昌', 'A26', 100210000),
+(100211200, '澄迈', 'A27', 100210000),
+(100210100, '海口', '1', 100210000),
+(100210200, '三亚', '2', 100210000),
+(100210700, '文昌', '95', 100210000),
+(100210900, '东方', '97', 100210000),
+(100211900, '琼中', 'A36', 100210000),
+(100211000, '定安', 'A25', 100210000),
+(100211600, '乐东', 'A33', 100210000),
+(100211400, '白沙', 'A30', 100210000),
+(100211700, '陵水', 'A34', 100210000),
+(100210600, '儋州', '93', 100210000),
+(100211300, '临高', 'A28', 100210000),
+(100211800, '保亭', 'A35', 100210000),
+(100210800, '万宁', '96', 100210000),
+(100210500, '琼海', '92', 100210000),
+(100230500, '德阳', '6', 100230000),
+(100231600, '雅安', '18', 100230000),
+(100231200, '眉山', '14', 100230000),
+(100231000, '乐山', '11', 100230000),
+(100230100, '成都', '1', 100230000),
+(100232100, '凉山', '34', 100230000),
+(100230300, '攀枝花', '4', 100230000),
+(100231300, '宜宾', '15', 100230000),
+(100231500, '达州', '17', 100230000),
+(100230700, '广元', '8', 100230000),
+(100231700, '巴中', '19', 100230000),
+(100231900, '阿坝', '32', 100230000),
+(100230600, '绵阳', '7', 100230000),
+(100231400, '广安', '16', 100230000),
+(100230200, '自贡', '3', 100230000),
+(100230800, '遂宁', '9', 100230000),
+(100230900, '内江', '10', 100230000),
+(100231800, '资阳', '20', 100230000),
+(100230400, '泸州', '5', 100230000),
+(100231100, '南充', '13', 100230000),
+(100232000, '甘孜', '33', 100230000),
+(100121300, '六安', '15', 100120000),
+(100121200, '宿州', '13', 100120000),
+(100120100, '合肥', '1', 100120000),
+(100120800, '安庆', '8', 100120000),
+(100120500, '马鞍山', '5', 100120000),
+(100120700, '铜陵', '7', 100120000),
+(100121400, '亳州', '16', 100120000),
+(100120300, '蚌埠', '3', 100120000),
+(100120200, '芜湖', '2', 100120000),
+(100121000, '滁州', '11', 100120000),
+(100121500, '池州', '17', 100120000),
+(100121600, '宣城', '18', 100120000),
+(100120900, '黄山', '10', 100120000),
+(100121100, '阜阳', '12', 100120000),
+(100120400, '淮南', '4', 100120000),
+(100120600, '淮北', '6', 100120000),
+(100240600, '黔西南', '23', 100240000),
+(100240900, '黔南', '27', 100240000),
+(100240200, '六盘水', '2', 100240000),
+(100240300, '遵义', '3', 100240000),
+(100240400, '安顺', '4', 100240000),
+(100240800, '黔东南', '26', 100240000),
+(100240100, '贵阳', '1', 100240000),
+(100240700, '毕节', '24', 100240000),
+(100240500, '铜仁', '22', 100240000),
+(100010900, '通州', '12', 100010000),
+(100011400, '怀柔', '27', 100010000),
+(100010800, '房山', '11', 100010000),
+(100010400, '丰台', '6', 100010000),
+(100010700, '门头沟', '9', 100010000),
+(100010300, '朝阳', '5', 100010000),
+(100011300, '平谷', '26', 100010000),
+(100010600, '海淀', '8', 100010000),
+(100011200, '大兴', '24', 100010000),
+(100011100, '昌平', '21', 100010000),
+(100010100, '东城', '1', 100010000),
+(100011500, '密云', '28', 100010000),
+(100010200, '西城', '2', 100010000),
+(100011000, '顺义', '13', 100010000),
+(100011600, '延庆', '29', 100010000),
+(100010500, '石景山', '7', 100010000),
+(100140500, '新余', '5', 100140000),
+(100140800, '吉安', '8', 100140000),
+(100140200, '景德镇', '2', 100140000),
+(100140900, '宜春', '9', 100140000),
+(100140300, '萍乡', '3', 100140000),
+(100140400, '九江', '4', 100140000),
+(100140700, '赣州', '7', 100140000),
+(100140100, '南昌', '1', 100140000),
+(100140600, '鹰潭', '6', 100140000),
+(100141000, '抚州', '10', 100140000),
+(100141100, '上饶', '11', 100140000),
+(100021100, '北辰', '13', 100020000),
+(100020800, '东丽', '10', 100020000),
+(100020400, '南开', '4', 100020000),
+(100020700, '滨海新区', '26', 100020000),
+(100021500, '宝坻', '24', 100020000),
+(100020300, '河西', '3', 100020000),
+(100020600, '红桥', '6', 100020000),
+(100021000, '津南', '12', 100020000),
+(100020200, '河东', '2', 100020000),
+(100021300, '武清', '22', 100020000),
+(100021400, '静海', '23', 100020000),
+(100020500, '河北', '5', 100020000),
+(100021200, '宁河', '21', 100020000),
+(100020100, '和平', '1', 100020000),
+(100020900, '西青', '11', 100020000),
+(100021600, '蓟县', '25', 100020000),
+(100070300, '四平', '3', 100070000),
+(100070900, '延边', '24', 100070000),
+(100070800, '白城', '8', 100070000),
+(100070100, '长春', '1', 100070000),
+(100070500, '通化', '5', 100070000),
+(100070400, '辽源', '4', 100070000),
+(100070200, '吉林', '2', 100070000),
+(100070600, '白山', '6', 100070000),
+(100070700, '松原', '7', 100070000),
+(100100200, '无锡', '2', 100100000),
+(100101000, '扬州', '10', 100100000),
+(100101200, '泰州', '12', 100100000),
+(100100500, '苏州', '5', 100100000),
+(100101100, '镇江', '11', 100100000),
+(100100100, '南京', '1', 100100000),
+(100100600, '南通', '6', 100100000),
+(100100700, '连云港', '7', 100100000),
+(100100400, '常州', '4', 100100000),
+(100100800, '淮安', '8', 100100000),
+(100100900, '盐城', '9', 100100000),
+(100100300, '徐州', '3', 100100000),
+(100101300, '宿迁', '13', 100100000),
+(100170400, '宜昌', '5', 100170000),
+(100171500, '潜江', '95', 100170000),
+(100171400, '仙桃', '94', 100170000),
+(100171600, '天门', '96', 100170000),
+(100170900, '荆州', '10', 100170000),
+(100170500, '襄阳', '6', 100170000),
+(100171100, '咸宁', '12', 100170000),
+(100170200, '黄石', '2', 100170000),
+(100171700, '神农架', 'A21', 100170000),
+(100170300, '十堰', '3', 100170000),
+(100171000, '黄冈', '11', 100170000),
+(100170600, '鄂州', '7', 100170000),
+(100170700, '荆门', '8', 100170000),
+(100170100, '武汉', '1', 100170000),
+(100171200, '随州', '13', 100170000),
+(100170800, '孝感', '9', 100170000),
+(100171300, '恩施', '28', 100170000),
+(100191200, '梅州', '14', 100190000),
+(100191600, '清远', '18', 100190000),
+(100192100, '云浮', '53', 100190000),
+(100191400, '河源', '16', 100190000),
+(100190900, '茂名', '9', 100190000),
+(100190800, '湛江', '8', 100190000),
+(100190300, '深圳', '3', 100190000);
+INSERT INTO city(id, name, code, state_id) VALUES(100190600, '佛山', '6', 100190000),
+(100191700, '东莞', '19', 100190000),
+(100191800, '中山', '20', 100190000),
+(100190500, '汕头', '5', 100190000),
+(100191100, '惠州', '13', 100190000),
+(100191900, '潮州', '51', 100190000),
+(100191500, '阳江', '17', 100190000),
+(100190400, '珠海', '4', 100190000),
+(100190200, '韶关', '2', 100190000),
+(100191300, '汕尾', '15', 100190000),
+(100190100, '广州', '1', 100190000),
+(100192000, '揭阳', '52', 100190000),
+(100190700, '江门', '7', 100190000),
+(100191000, '肇庆', '12', 100190000),
+(100200100, '南宁', '1', 100200000),
+(100200700, '钦州', '7', 100200000),
+(100200400, '梧州', '4', 100200000),
+(100201100, '贺州', '11', 100200000),
+(100200900, '玉林', '9', 100200000),
+(100201200, '河池', '12', 100200000),
+(100201400, '崇左', '14', 100200000),
+(100201300, '来宾', '13', 100200000),
+(100200500, '北海', '5', 100200000),
+(100200600, '防城港', '6', 100200000),
+(100201000, '百色', '10', 100200000),
+(100200200, '柳州', '2', 100200000),
+(100200300, '桂林', '3', 100200000),
+(100200800, '贵港', '8', 100200000),
+(100180700, '常德', '7', 100180000),
+(100181100, '永州', '11', 100180000),
+(100180900, '益阳', '9', 100180000),
+(100180800, '张家界', '8', 100180000),
+(100180200, '株洲', '2', 100180000),
+(100180400, '衡阳', '4', 100180000),
+(100181200, '怀化', '12', 100180000),
+(100180100, '长沙', '1', 100180000),
+(100181300, '娄底', '13', 100180000),
+(100180500, '邵阳', '5', 100180000),
+(100181000, '郴州', '10', 100180000),
+(100180600, '岳阳', '6', 100180000),
+(100180300, '湘潭', '3', 100180000),
+(100181400, '湘西', '31', 100180000),
+(100340500, '风顺堂区', 'LAZ', 100340000),
+(100340100, '花地玛堂区', 'OLF', 100340000),
+(100340600, '氹仔', 'TPA', 100340000),
+(100340400, '望德堂区', 'LAW', 100340000),
+(100340300, '大堂区', 'CAT', 100340000),
+(100340700, '路环', 'CLN', 100340000),
+(100340200, '圣安多尼堂区', 'ANT', 100340000),
+(100161300, '南阳', '13', 100160000),
+(100160900, '濮阳', '9', 100160000),
+(100160700, '新乡', '7', 100160000),
+(100161200, '三门峡', '12', 100160000),
+(100160800, '焦作', '8', 100160000),
+(100161500, '信阳', '15', 100160000),
+(100160400, '平顶山', '4', 100160000),
+(100161700, '驻马店', '17', 100160000),
+(100160300, '洛阳', '3', 100160000),
+(100160100, '郑州', '1', 100160000),
+(100160200, '开封', '2', 100160000),
+(100161600, '周口', '16', 100160000),
+(100160600, '鹤壁', '6', 100160000),
+(100161000, '许昌', '10', 100160000),
+(100160500, '安阳', '5', 100160000),
+(100161100, '漯河', '11', 100160000),
+(100161800, '济源', '18', 100160000),
+(100161400, '商丘', '14', 100160000),
+(100321400, '彰化县', '14', 100320000),
+(100322200, '花莲县', '23', 100320000),
+(100321000, '桃园县', '10', 100320000),
+(100321700, '嘉义县', '17', 100320000),
+(100320500, '台南市', '5', 100320000),
+(100321600, '云林县', '16', 100320000),
+(100320300, '基隆市', '3', 100320000),
+(100321100, '新竹县', '11', 100320000),
+(100320100, '台北市', '1', 100320000),
+(100320400, '台中市', '4', 100320000),
+(100320600, '新竹市', '6', 100320000),
+(100321800, '台南县', '18', 100320000),
+(100321900, '高雄县', '19', 100320000),
+(100322100, '台东县', '22', 100320000),
+(100321300, '台中县', '13', 100320000),
+(100320700, '嘉义市', '7', 100320000),
+(100320900, '宜兰县', '9', 100320000),
+(100320800, '台北县', '8', 100320000),
+(100321200, '苗栗县', '12', 100320000),
+(100320200, '高雄市', '2', 100320000),
+(100321500, '南投县', '15', 100320000),
+(100322300, '澎湖县', '21', 100320000),
+(100322000, '屏东县', '20', 100320000),
+(100290600, '果洛', '26', 100290000),
+(100290400, '黄南', '23', 100290000),
+(100290700, '玉树', '27', 100290000),
+(100290800, '海西', '28', 100290000),
+(100290200, '海东', '21', 100290000),
+(100290300, '海北', '22', 100290000),
+(100290100, '西宁', '1', 100290000),
+(100290500, '海南', '25', 100290000),
+(101011000, '莱什', 'LE', 101010000),
+(101011200, '斯库台', 'SH', 101010000),
+(101010400, '都拉斯', 'DR', 101010000),
+(101011100, '培拉特', 'BR', 101010000),
+(101010800, '科尔察', 'KO', 101010000),
+(101010600, '费里', 'FR', 101010000),
+(101010100, '爱尔巴桑', 'EL', 101010000),
+(101010700, '吉诺卡斯特', 'GJ', 101010000),
+(101010500, '发罗拉', 'VL', 101010000),
+(101010900, '库克斯', 'KU', 101010000),
+(101010200, '迪勃拉', 'DI', 101010000),
+(101010300, '地拉那', 'TR', 101010000),
+(102013300, '赛伊达', 'SAI', 102010000),
+(102014100, '提亚雷特', 'TIA', 102010000),
+(102012200, '吉杰尔', 'JIJ', 102010000),
+(102012100, '赫利赞', 'REL', 102010000),
+(102010400, '艾因·蒂姆尚特', 'ATE', 102010000),
+(102010500, '安纳巴', 'AAE', 102010000),
+(102013800, '特贝萨', 'TEB', 102010000),
+(102011100, '比斯克拉', 'BIS', 102010000),
+(102014800, '伊利齐', 'ILL', 102010000),
+(102012700, '麦迪亚', 'MED', 102010000),
+(102014700, '谢里夫', 'CHL', 102010000),
+(102011300, '布利达', 'BLI', 102010000),
+(102014400, '瓦尔格拉', 'OUA', 102010000),
+(102010100, '阿德拉尔', 'ADR', 102010000),
+(102011200, '布尔吉·布阿雷里吉', 'BOR', 102010000),
+(102013600, '塔里夫', 'ETA', 102010000),
+(102013100, '纳阿马', 'NAA', 102010000),
+(102010300, '艾因·德夫拉', 'ADE', 102010000),
+(102014600, '西迪贝勒阿贝斯', 'SBA', 102010000),
+(102014300, '瓦德', 'EOU', 102010000),
+(102013400, '斯基克达', 'SKI', 102010000),
+(102013500, '苏克·阿赫拉斯', 'SAH', 102010000),
+(102010800, '贝贾亚', 'BJA', 102010000),
+(102013700, '塔曼拉塞特', 'TAM', 102010000),
+(102010600, '奥兰', 'ORA', 102010000),
+(102011500, '布依拉', 'BOA', 102010000),
+(102011800, '盖尔达耶', 'GHA', 102010000),
+(102014200, '廷杜夫', 'TIN', 102010000),
+(102012000, '罕西拉', 'KHE', 102010000),
+(102011400, '布迈德斯', 'BOU', 102010000),
+(102010900, '贝沙尔', 'BEC', 102010000),
+(102010700, '巴特纳', 'BAT', 102010000),
+(102013900, '特莱姆森', 'TLE', 102010000),
+(102014500, '乌姆布阿基', 'OEB', 102010000),
+(102012300, '杰勒法', 'DJE', 102010000),
+(102012400, '君士坦丁', 'CZL', 102010000),
+(102013200, '塞蒂夫', 'SET', 102010000),
+(102013000, '姆西拉', 'MSI', 102010000),
+(102012600, '马斯卡拉', 'MUA', 102010000),
+(102012800, '密拉', 'MIL', 102010000),
+(102014000, '提济乌祖', 'IOU', 102010000),
+(102010200, '阿尔及尔', 'ALG', 102010000),
+(102011600, '蒂巴扎', 'TIP', 102010000),
+(102012500, '拉格瓦特', 'LAG', 102010000),
+(102011000, '贝伊德', 'EBA', 102010000),
+(102011900, '盖尔马', 'GUE', 102010000),
+(102012900, '莫斯塔加纳姆', 'MOS', 102010000),
+(102011700, '蒂斯姆西勒特', 'TIS', 102010000),
+(103010100, '赫拉特', 'HEA', 103010000),
+(103010400, '马扎里沙里夫', 'MZR', 103010000),
+(103010200, '喀布尔', 'KBL', 103010000),
+(103010300, '坎大哈', 'KDH', 103010000),
+(104012200, '门多萨', 'MDZ', 104010000),
+(104012900, '圣路易斯', 'LUQ', 104010000),
+(104012600, '圣菲', 'SFN', 104010000),
+(104011000, '科连特斯', 'CNQ', 104010000),
+(104010500, '布宜诺斯艾利斯', 'BUE', 104010000),
+(104011900, '罗萨里奥', 'ROS', 104010000),
+(104011200, '肯考迪娅', 'COC', 104010000),
+(104011400, '拉普拉塔', 'LPG', 104010000),
+(104012300, '内乌肯', 'NQN', 104010000),
+(104013000, '圣罗莎', 'RSA', 104010000),
+(104013400, '乌斯怀亚', 'USH', 104010000),
+(104012100, '马德普拉塔', 'MDQ', 104010000),
+(104010100, '巴拉那', 'PRA', 104010000),
+(104013100, '圣米格尔-德图库曼', 'SMC', 104010000),
+(104010200, '别德马', 'VDM', 104010000),
+(104012500, '圣地亚哥-德尔埃斯特罗', 'SDE', 104010000),
+(104011800, '里瓦达维亚海军准将城', 'CRD', 104010000),
+(104012700, '圣胡安', 'UAQ', 104010000),
+(104011300, '拉里奥哈', 'IRJ', 104010000),
+(104010300, '波萨达斯', 'PSS', 104010000),
+(104012800, '圣拉斐尔', 'AFA', 104010000),
+(104011700, '里奥夸尔托', 'RCU', 104010000),
+(104013200, '圣尼古拉斯', 'SNS', 104010000),
+(104010800, '卡塔马卡', 'CTC', 104010000),
+(104010700, '胡胡伊', 'JUJ', 104010000),
+(104011600, '里奥加耶戈斯', 'RGL', 104010000),
+(104011500, '雷西斯滕匹亚', 'RES', 104010000),
+(104010400, '布兰卡港', 'BHI', 104010000),
+(104013300, '特雷利乌', 'REL', 104010000),
+(104012400, '萨尔塔', 'SLA', 104010000),
+(104010900, '科尔多瓦', 'COR', 104010000),
+(104012000, '罗森', 'RWO', 104010000),
+(104011100, '克劳斯城', 'VLK', 104010000),
+(104010600, '福莫萨', 'FMA', 104010000),
+(105010300, '迪拜', 'DU', 105010000),
+(105010100, '阿布扎比', 'AZ', 105010000),
+(105010200, '艾因', 'AL', 105010000),
+(105010400, '沙迦', 'SH', 105010000);
+INSERT INTO city(id, name, code, state_id) VALUES(107010500, '穆桑达姆省', 'MU', 107010000),
+(107010700, '中部地区', 'WU', 107010000),
+(107010300, '东部地区', 'SH', 107010000),
+(107010100, '巴提奈地区', 'BA', 107010000),
+(107010800, '佐法尔省', 'ZU', 107010000),
+(107010400, '马斯喀特省', 'MA', 107010000),
+(107010600, '内地地区', 'DA', 107010000),
+(107010200, '达希莱地区', 'ZA', 107010000),
+(108010200, '哈奇马斯', 'XAC', 108010000),
+(108010900, '纳希切万', 'NX', 108010000),
+(108011000, '普利亚拉克斯', 'PRI', 108010000),
+(108011200, '苏姆盖特', 'SMC', 108010000),
+(108010300, '卡尔巴卡尔', 'KAL', 108010000),
+(108011300, '锡尔万', 'SIR', 108010000),
+(108010700, '穆甘-萨连', 'MSA', 108010000),
+(108011400, '占贾', 'GA', 108010000),
+(108010600, '密尔-卡拉巴赫', 'MQA', 108010000),
+(108010500, '连科兰', 'LAN', 108010000),
+(108010800, '纳戈尔诺－卡拉巴赫', 'NQA', 108010000),
+(108010400, '卡扎赫', 'QAZ', 108010000),
+(108010100, '阿布歇隆', 'ABS', 108010000),
+(108011100, '舍基', 'SA', 108010000),
+(110010200, '古尔代盖', 'GBY', 110010000),
+(110010500, '亚历山大', 'ALY', 110010000),
+(110010100, '阿斯旺', 'ASW', 110010000),
+(110010300, '开罗', 'CAI', 110010000),
+(110010400, '苏布拉开马', 'SKH', 110010000),
+(111010300, '奥罗米亚', 'OR', 111010000),
+(111010700, '哈勒里民族', 'HR', 111010000),
+(111010200, '阿姆哈拉', 'AH', 111010000),
+(111011100, '亚的斯亚贝巴', 'AA', 111010000),
+(111010500, '德雷达瓦', 'DD', 111010000),
+(111010400, '宾香古尔', 'BG', 111010000),
+(111010800, '南方各族', 'SN', 111010000),
+(111010900, '索马里', 'SM', 111010000),
+(111010600, '甘贝拉各族', 'GB', 111010000),
+(111011000, '提格雷', 'TG', 111010000),
+(111010100, '阿法尔', 'AF', 111010000),
+(112012500, '沃特福德', 'WF', 112010000),
+(112010800, '卡范', 'CV', 112010000),
+(112011300, '朗福德', 'LF', 112010000),
+(112012100, '莫内根', 'MG', 112010000),
+(112010300, '都柏林', 'DB', 112010000),
+(112010600, '基尔代尔', 'KD', 112010000),
+(112011800, '罗斯康芒', 'RC', 112010000),
+(112012400, '韦克斯福德', 'WX', 112010000),
+(112011200, '克莱尔', 'CL', 112010000),
+(112012000, '米斯', 'MT', 112010000),
+(112012200, '斯莱戈', 'SL', 112010000),
+(112010400, '多内加尔', 'DG', 112010000),
+(112010100, '奥法利', 'OF', 112010000),
+(112010900, '卡洛', 'CW', 112010000),
+(112011000, '凯里', 'KR', 112010000),
+(112010700, '基尔肯尼', 'KK', 112010000),
+(112012300, '威克洛', 'WK', 112010000),
+(112012600, '西米斯', 'WM', 112010000),
+(112011500, '崂斯', 'LA', 112010000),
+(112011600, '利默里克', 'LM', 112010000),
+(112011100, '科克', 'CK', 112010000),
+(112011400, '劳斯', 'LT', 112010000),
+(112010500, '戈尔韦', 'GW', 112010000),
+(112011900, '梅奥', 'MY', 112010000),
+(112010200, '蒂珀雷里', 'TP', 112010000),
+(112011700, '利特里姆', 'LR', 112010000),
+(113010300, '拉普拉', '70', 113010000),
+(113010500, '帕尔努', '67', 113010000),
+(113010800, '瓦尔加', '82', 113010000),
+(113011500, '依达－维鲁', '44', 113010000),
+(113010900, '维良地', '84', 113010000),
+(113011300, '耶尔韦', '51', 113010000),
+(113010100, '贝尔瓦', '65', 113010000),
+(113011100, '沃鲁', '86', 113010000),
+(113010400, '里亚内', '57', 113010000),
+(113010700, '塔尔图', '78', 113010000),
+(113011400, '耶盖瓦', '49', 113010000),
+(113011000, '维鲁', '59', 113010000),
+(113010200, '哈留', '37', 113010000),
+(113011200, '希尤', '39', 113010000),
+(113010600, '萨雷', '74', 113010000),
+(114010200, '奥尔迪诺', '5', 114010000),
+(114010700, '圣胡利娅－德洛里亚', '6', 114010000),
+(114010100, '安道尔城', '7', 114010000),
+(114010400, '卡尼略', '2', 114010000),
+(114010500, '莱塞斯卡尔德－恩戈尔达', '8', 114010000),
+(114010300, '恩坎普', '3', 114010000),
+(114010600, '马萨纳', '4', 114010000),
+(115010500, '比耶', 'BIE', 115010000),
+(115011800, '扎伊尔', 'ZAI', 115010000),
+(115011400, '南隆达', 'LSU', 115010000),
+(115010100, '北宽扎', 'CNO', 115010000),
+(115011500, '万博', 'HUA', 115010000),
+(115010800, '宽多库邦戈', 'CCU', 115010000),
+(115011100, '莫希科', 'MOX', 115010000),
+(115011200, '纳米贝', 'NAM', 115010000),
+(115011300, '南宽扎', 'CUS', 115010000),
+(115011600, '威拉', 'HUI', 115010000),
+(115010600, '卡宾达', 'CAB', 115010000),
+(115010700, '库内内', 'CNN', 115010000),
+(115011700, '威热', 'UIG', 115010000),
+(115010200, '北隆达', 'LNO', 115010000),
+(115010400, '本格拉', 'BGU', 115010000),
+(115010300, '本戈', 'BGO', 115010000),
+(115011000, '马兰热', 'MAL', 115010000),
+(115010900, '罗安达', 'LUA', 115010000),
+(118020100, '堪培拉', 'CBR', 118020000),
+(118040600, '默里布里奇', 'MYB', 118040000),
+(118040700, '皮里港', 'PPI', 118040000),
+(118040500, '林肯港', 'PLO', 118040000),
+(118040400, '怀阿拉', 'WAY', 118040000),
+(118040800, '维克托港', 'VHA', 118040000),
+(118040300, '甘比亚山', 'MGB', 118040000),
+(118040100, '阿德莱德', 'ADL', 118040000),
+(118040200, '奥古斯塔港', 'PUG', 118040000),
+(118070300, '弗里曼特尔港', 'FRE', 118070000),
+(118070600, '曼哲拉', 'MDU', 118070000),
+(118070200, '班伯里', 'BUY', 118070000),
+(118070500, '卡尔古利', 'KGI', 118070000),
+(118070100, '奥尔巴尼', 'ALH', 118070000),
+(118070700, '珀斯', 'PER', 118070000),
+(118070400, '杰拉尔顿', 'GET', 118070000),
+(118030600, '图文巴', 'TWB', 118030000),
+(118030100, '布里斯班', 'BNE', 118030000),
+(118030300, '凯恩斯', 'CNS', 118030000),
+(118030200, '黄金海岸', 'OOL', 118030000),
+(118030500, '汤斯维尔', 'TSV', 118030000),
+(118030400, '日光海岸', 'CUD', 118030000),
+(118010100, '北帕默斯顿', 'PAL', 118010000),
+(118010200, '达尔文', 'DRW', 118010000),
+(118060200, '墨尔本', 'MEL', 118060000),
+(118060100, '吉朗', 'GEX', 118060000),
+(118080200, '伍伦贡', 'WOL', 118080000),
+(118080300, '悉尼', 'HBS', 118080000),
+(118080100, '纽卡斯尔', 'NTL', 118080000),
+(118050400, '朗塞斯顿', 'LST', 118050000),
+(118050100, '伯尼港', 'BWT', 118050000),
+(118050300, '霍巴特', 'HBA', 118050000),
+(118050200, '德文波特', 'DPO', 118050000),
+(119010500, '萨尔茨堡', 'SZG', 119010000),
+(119010300, '福拉尔贝格', 'VOR', 119010000),
+(119010200, '蒂罗尔', 'TYR', 119010000),
+(119010700, '施蒂利亚', 'STY', 119010000),
+(119010600, '上奥地利', 'UAU', 119010000),
+(119010400, '克恩顿', 'CAT', 119010000),
+(119010100, '布尔根兰', 'BUR', 119010000),
+(119010800, '维也纳', 'VDD', 119010000),
+(119010900, '下奥地利', 'LAU', 119010000),
+(122010400, '东塞皮克', 'ES', 122010000),
+(122010600, '恩加', 'EN', 122010000),
+(122011900, '新爱尔兰', 'NI', 122010000),
+(122011700, '西部高地', 'WH', 122010000),
+(122010500, '东新不列颠', 'EB', 122010000),
+(122010900, '马努斯', 'MN', 122010000),
+(122010200, '布干维尔', 'BV', 122010000),
+(122010300, '东部高地', 'EH', 122010000),
+(122011200, '莫罗贝', 'MR', 122010000),
+(122011500, '桑道恩', 'SA', 122010000),
+(122010100, '北部', 'NO', 122010000),
+(122011600, '西部', 'WE', 122010000),
+(122011000, '米尔恩湾', 'MB', 122010000),
+(122011800, '西新不列颠', 'WB', 122010000),
+(122010700, '海湾', 'GU', 122010000),
+(122010800, '马当', 'MD', 122010000),
+(122011100, '莫尔兹比港', 'NC', 122010000),
+(122011300, '南部高地', 'SH', 122010000),
+(122011400, '钦布', 'SI', 122010000),
+(124010200, '费萨拉巴德', 'LYP', 124010000),
+(124010800, '木尔坦', 'MUX', 124010000),
+(124010100, '白沙瓦', 'PEW', 124010000),
+(124010400, '海德拉巴', 'HDD', 124010000),
+(124010600, '拉合尔', 'LHE', 124010000),
+(124010900, '伊斯兰堡', 'ISB', 124010000),
+(124010700, '拉瓦尔品第', 'RWP', 124010000),
+(124010300, '故吉软瓦拉', 'GUJ', 124010000),
+(124010500, '卡拉奇', 'KCT', 124010000),
+(125010100, '阿曼拜', 'AM', 125010000),
+(125010200, '阿耶斯总统省', 'PH', 125010000),
+(125011200, '涅恩布库', 'NE', 125010000),
+(125010800, '卡萨帕', 'CZ', 125010000),
+(125011500, '圣佩德罗', 'SP', 125010000),
+(125010500, '瓜伊拉', 'GU', 125010000),
+(125011300, '上巴拉圭', 'AG', 125010000),
+(125010900, '康塞普西翁', 'CC', 125010000),
+(125011400, '上巴拉那', 'AN', 125010000),
+(125011700, '伊塔普亚', 'IT', 125010000),
+(125011600, '亚松森特别区', 'AS', 125010000),
+(125010400, '博克龙', 'BO', 125010000),
+(125010300, '巴拉瓜里', 'PA', 125010000),
+(125010700, '卡嫩迪尤', 'CN', 125010000),
+(125011100, '米西奥内斯', 'MI', 125010000),
+(125010600, '卡瓜苏', 'CG', 125010000),
+(125011000, '科迪勒拉', 'CD', 125010000),
+(125011800, '中央', 'CE', 125010000),
+(126010200, '西岸', 'WE', 126010000),
+(126010100, '加沙地带', 'GZ', 126010000),
+(127010600, '穆哈拉格', '2', 127010000),
+(127010800, '伊萨城', '8', 127010000),
+(127010300, '哈马德', '12', 127010000),
+(127010400, '里法', '9', 127010000),
+(127010700, '西部', '10', 127010000),
+(127010900, '中部', '7', 127010000);
+INSERT INTO city(id, name, code, state_id) VALUES(127010500, '麦纳麦', '3', 127010000),
+(127010200, '哈德', '1', 127010000),
+(127010100, '北部', '5', 127010000),
+(129012400, '圣保罗', 'SP', 129010000),
+(129012100, '塞阿拉', 'CE', 129010000),
+(129010200, '阿拉戈斯', 'AL', 129010000),
+(129012600, '托坎廷斯', 'TO', 129010000),
+(129012700, '亚马孙', 'AM', 129010000),
+(129012200, '塞尔希培', 'SE', 129010000),
+(129012000, '皮奥伊', 'PI', 129010000),
+(129011900, '帕拉伊巴', 'PB', 129010000),
+(129012300, '圣埃斯皮里图', 'ES', 129010000),
+(129010400, '巴拉那', 'PR', 129010000),
+(129012500, '圣卡塔琳娜', 'SC', 129010000),
+(129010500, '巴西利亚', 'BSB', 129010000),
+(129011200, '罗赖马', 'RR', 129010000),
+(129011600, '南里奥格兰德', 'RS', 129010000),
+(129011400, '马托格罗索', 'MT', 129010000),
+(129011700, '南马托格罗索', 'MS', 129010000),
+(129011800, '帕拉', 'PA', 129010000),
+(129011000, '朗多尼亚', 'RO', 129010000),
+(129011500, '米纳斯吉拉斯', 'MG', 129010000),
+(129010800, '伯南布哥', 'PE', 129010000),
+(129010300, '阿马帕', 'AP', 129010000),
+(129010100, '阿克里', 'AC', 129010000),
+(129011100, '里约热内卢', 'RJ', 129010000),
+(129011300, '马拉尼昂', 'MA', 129010000),
+(129010600, '巴伊亚', 'BA', 129010000),
+(129010700, '北里奥格兰德', 'RN', 129010000),
+(129010900, '戈亚斯', 'GO', 129010000),
+(130010200, '戈梅利', 'HO', 130010000),
+(130010400, '明斯克市', 'MI', 130010000),
+(130010600, '维捷布斯克', 'VI', 130010000),
+(130010100, '布列斯特', 'BR', 130010000),
+(130010300, '格罗德诺', 'HR', 130010000),
+(130010500, '莫吉廖夫', 'MA', 130010000),
+(132010700, '索非亚', 'SOF', 132010000),
+(132010300, '鲁塞', 'ROU', 132010000),
+(132010900, '瓦尔纳', 'VAR', 132010000),
+(132010600, '普罗夫迪夫', 'PDV', 132010000),
+(132010500, '蒙塔纳', 'OZA', 132010000),
+(132010200, '卡斯科伏', 'KHO', 132010000),
+(132010800, '索非亚市', 'GSO', 132010000),
+(132010100, '布尔加斯', 'BOJ', 132010000),
+(132010400, '洛维奇', 'LVP', 132010000),
+(134011300, '祖', 'ZO', 134010000),
+(134011100, '韦梅', 'OU', 134010000),
+(134010100, '阿黎博里', 'AL', 134010000),
+(134010800, '库福', 'KO', 134010000),
+(134010900, '莫诺', 'MO', 134010000),
+(134010500, '博尔古', 'BO', 134010000),
+(134010200, '阿塔科拉', 'AK', 134010000),
+(134010600, '大西洋', 'AQ', 134010000),
+(134011000, '丘陵', 'CO', 134010000),
+(134010700, '高原', 'PL', 134010000),
+(134010400, '波希康市', 'BOH', 134010000),
+(134010300, '滨海', 'LI', 134010000),
+(134011200, '峡谷', 'DO', 134010000),
+(135010700, '列日', 'WLG', 135010000),
+(135010100, '埃诺', 'WHT', 135010000),
+(135010900, '卢森堡', 'WLX', 135010000),
+(135011100, '西佛兰德', 'VWV', 135010000),
+(135010400, '布鲁塞尔', 'BRU', 135010000),
+(135010300, '布拉班特-瓦隆', 'WBR', 135010000),
+(135011000, '那慕尔', 'WNA', 135010000),
+(135010800, '林堡', 'VLI', 135010000),
+(135010200, '安特卫普', 'VAN', 135010000),
+(135010500, '东佛兰德', 'VOV', 135010000),
+(135010600, '佛兰芒-布拉班特', 'VBR', 135010000),
+(138011800, '格鲁琼兹', 'GRU', 138010000),
+(138011200, '大波兰地区戈茹夫', 'GOW', 138010000),
+(138010100, '埃尔布隆格', 'ELB', 138010000),
+(138010800, '比亚维斯托克', 'BIA', 138010000),
+(138013500, '绿山城', 'IEG', 138010000),
+(138013800, '普热梅希尔', 'PRZ', 138010000),
+(138015300, '沃姆扎', 'QOY', 138010000),
+(138016100, '耶莱尼亚古拉', 'JEG', 138010000),
+(138013000, '莱格尼察', 'LEG', 138010000),
+(138012400, '凯尔采', 'KLC', 138010000),
+(138013200, '卢布林', 'LUL', 138010000),
+(138012300, '卡托维兹', 'KTW', 138010000),
+(138014200, '什切青', 'SZZ', 138010000),
+(138011900, '海乌姆', 'CHO', 138010000),
+(138014700, '索斯诺维茨', 'SWC', 138010000),
+(138010600, '比托姆', 'BYT', 138010000),
+(138016200, '扎布热', 'ZAB', 138010000),
+(138010700, '比亚瓦波德拉斯卡', 'BAP', 138010000),
+(138013100, '莱什诺', 'LEZ', 138010000),
+(138012900, '拉多姆', 'RDM', 138010000),
+(138013400, '罗兹', 'LOD', 138010000),
+(138013600, '米什洛维采', 'MYL', 138010000),
+(138010900, '波莱', 'OPO', 138010000),
+(138015200, '瓦乌布日赫', 'WZH', 138010000),
+(138014800, '塔尔努夫', 'TAR', 138010000),
+(138010400, '比得哥什', 'BZG', 138010000),
+(138011700, '格利维采', 'GWC', 138010000),
+(138014000, '切哈努夫', 'CIE', 138010000),
+(138014100, '热舒夫', 'RZE', 138010000),
+(138015900, '新松奇', 'NOW', 138010000),
+(138011300, '弗罗茨瓦夫', 'WRO', 138010000),
+(138012200, '卡利什', 'KAL', 138010000),
+(138011400, '弗沃茨瓦韦克', 'WLO', 138010000),
+(138014300, '斯凯尔涅维采', 'SKI', 138010000),
+(138014600, '索波特', 'SOP', 138010000),
+(138013300, '鲁达', 'RDS', 138010000),
+(138015700, '谢德尔采', 'SDC', 138010000),
+(138015600, '希维托赫洛维采', 'SWT', 138010000),
+(138011500, '格但斯克', 'GDN', 138010000),
+(138014400, '斯武普斯克', 'SLP', 138010000),
+(138012000, '华沙', 'WAW', 138010000),
+(138012700, '克拉科夫', 'KRK', 138010000),
+(138010500, '彼得库夫', 'PIO', 138010000),
+(138012600, '科沙林', 'OSZ', 138010000),
+(138015100, '托伦', 'TOR', 138010000),
+(138010300, '奥斯特罗文卡', 'OSS', 138010000),
+(138015000, '特切', 'TYY', 138010000),
+(138015800, '谢拉兹', 'SIR', 138010000),
+(138011000, '波兹南', 'POZ', 138010000),
+(138014500, '苏瓦乌基', 'SWL', 138010000),
+(138011600, '格丁尼亚', 'GDY', 138010000),
+(138015400, '希米亚诺维采', 'SOW', 138010000),
+(138010200, '奥尔什丁', 'OLS', 138010000),
+(138012500, '科宁', 'KON', 138010000),
+(138013900, '普沃茨克', 'PLO', 138010000),
+(138016300, '扎莫希奇', 'ZAM', 138010000),
+(138012100, '霍茹夫', 'CHZ', 138010000),
+(138013700, '皮瓦', 'PIL', 138010000),
+(138014900, '塔尔诺布热格', 'QEP', 138010000),
+(138015500, '希维诺乌伊希切', 'SWI', 138010000),
+(138016000, '雅沃兹诺', 'JAW', 138010000),
+(138012800, '克罗斯诺', 'KRO', 138010000),
+(138011100, '达布罗瓦戈尼察', 'DAB', 138010000),
+(139011100, '圣克鲁斯', 'SRZ', 139010000),
+(139010600, '科恰班巴', 'CBB', 139010000),
+(139010300, '贝尼', 'BEN', 139010000),
+(139011000, '萨卡巴', 'SAC', 139010000),
+(139010800, '潘多', 'PAN', 139010000),
+(139010400, '波多西', 'POI', 139010000),
+(139010100, '奥尔托', 'ALT', 139010000),
+(139011200, '塔里哈', 'TJA', 139010000),
+(139010700, '拉巴斯', 'LPB', 139010000),
+(139010200, '奥鲁罗', 'ORU', 139010000),
+(139010500, '基拉科洛', 'QUI', 139010000),
+(139010900, '丘基萨卡', 'CHU', 139010000),
+(140010300, '多米斯拉夫格勒', 'FTO', 140010000),
+(140010600, '图兹拉－波德里涅', 'FTU', 140010000),
+(140011000, '泽尼察－多博伊', 'FZE', 140010000),
+(140010700, '乌纳－萨纳', 'FUS', 140010000),
+(140011100, '中波斯尼亚', 'FSB', 140010000),
+(140010100, '波萨维纳', 'FPO', 140010000),
+(140010200, '波斯尼亚－波德里涅', 'FBP', 140010000),
+(140010800, '西波斯尼亚', 'FHB', 140010000),
+(140010900, '西黑塞哥维那', 'FZH', 140010000),
+(140010500, '萨拉热窝', 'FSA', 140010000),
+(140010400, '黑塞哥维那－涅雷特瓦', 'FHN', 140010000),
+(142010300, '卡约', 'CY', 142010000),
+(142010100, '伯利兹', 'BZ', 142010000),
+(142010200, '橘园', 'OW', 142010000),
+(142010400, '科罗萨尔', 'CR', 142010000),
+(142010500, '斯坦港', 'SC', 142010000),
+(142010600, '托莱多', 'TO', 142010000),
+(144011700, '孔西', 'KOS', 144010000),
+(144014000, '锡西里', 'SIS', 144010000),
+(144014400, '宗德韦奥戈', 'ZOW', 144010000),
+(144011100, '济罗', 'ZIR', 144010000),
+(144014100, '亚加', 'YAG', 144010000),
+(144013600, '图伊', 'TUY', 144010000),
+(144010300, '巴瓦', 'BAN', 144010000),
+(144012900, '帕索雷', 'PAS', 144010000),
+(144010100, '巴雷', 'BAL', 144010000),
+(144012500, '纳乌里', 'NAH', 144010000),
+(144014300, '伊奥巴', 'IOA', 144010000),
+(144010900, '冈祖尔古', 'GAN', 144010000),
+(144013300, '苏鲁', 'SOR', 144010000),
+(144012100, '雷拉巴', 'LER', 144010000),
+(144014200, '亚滕加', 'YAT', 144010000),
+(144010400, '巴泽加', 'BAZ', 144010000),
+(144013700, '乌埃', 'HOU', 144010000),
+(144013400, '苏姆', 'SOM', 144010000),
+(144012000, '库里滕加', 'KOT', 144010000),
+(144013900, '乌达兰', 'OUD', 144010000),
+(144011300, '凯内杜古', 'KEN', 144010000),
+(144013000, '塞诺', 'SEN', 144010000),
+(144011400, '科蒙加里', 'KOO', 144010000),
+(144012200, '罗卢姆', 'LOR', 144010000),
+(144013100, '桑吉', 'SAG', 144010000),
+(144010200, '巴姆', 'BAM', 144010000),
+(144012400, '纳门滕加', 'NAM', 144010000),
+(144012600, '纳亚拉', 'NAY', 144010000),
+(144012800, '努姆比埃尔', 'NOU', 144010000),
+(144011800, '库尔佩罗戈', 'KOL', 144010000),
+(144013500, '塔波阿', 'TAP', 144010000),
+(144011200, '卡焦戈', 'KAD', 144010000),
+(144010500, '波尼', 'PON', 144010000),
+(144011000, '古尔马', 'GOU', 144010000),
+(144013800, '乌布里滕加', 'OUB', 144010000),
+(144014500, '宗多马', 'ZOD', 144010000),
+(144011900, '库尔维奥戈', 'KOW', 144010000),
+(144010600, '布尔古', 'BLG', 144010000),
+(144013200, '桑马滕加', 'SAM', 144010000);
+INSERT INTO city(id, name, code, state_id) VALUES(144012300, '穆翁', 'MOU', 144010000),
+(144010800, '布古里巴', 'BOR', 144010000),
+(144010700, '布尔基恩德', 'BOK', 144010000),
+(144011500, '科莫埃', 'COM', 144010000),
+(144011600, '孔皮恩加', 'KOP', 144010000),
+(144012700, '尼亚尼亚', 'GNA', 144010000),
+(145011700, '锡比托凯', 'CI', 145010000),
+(145011100, '鲁塔纳', 'RT', 145010000),
+(145010100, '布班扎', 'BB', 145010000),
+(145010700, '基特加', 'GI', 145010000),
+(145011200, '鲁伊吉', 'RY', 145010000),
+(145010300, '布琼布拉城市', 'BM', 145010000),
+(145011000, '坎库佐', 'CA', 145010000),
+(145011500, '穆瓦洛', 'MW', 145010000),
+(145011300, '马坎巴', 'MA', 145010000),
+(145010800, '卡鲁济', 'KR', 145010000),
+(145010600, '基龙多', 'KI', 145010000),
+(145011400, '穆拉姆维亚', 'MU', 145010000),
+(145011600, '穆因加', 'MY', 145010000),
+(145010500, '恩戈齐', 'NG', 145010000),
+(145010400, '布琼布拉乡村', 'BU', 145010000),
+(145010900, '卡扬扎', 'KY', 145010000),
+(145010200, '布鲁里', 'BR', 145010000),
+(147010700, '平壤', 'FNJ', 147010000),
+(147010900, '沙里院', 'SAR', 147010000),
+(147010200, '惠山', 'HYE', 147010000),
+(147010800, '清津', 'CHO', 147010000),
+(147010300, '江界', 'KAN', 147010000),
+(147011200, '元山', 'WON', 147010000),
+(147010400, '开城', 'KSN', 147010000),
+(147010600, '南浦', 'NAM', 147010000),
+(147011000, '咸兴', 'HAM', 147010000),
+(147010100, '海州', 'HAE', 147010000),
+(147010500, '罗先', 'NAS', 147010000),
+(147011100, '新义州', 'SII', 147010000),
+(148010600, '哥本哈根', 'CPH', 148010000),
+(148010200, '北日德兰', 'VSV', 148010000),
+(148010900, '罗斯基勒', 'RKE', 148010000),
+(148010400, '菲特烈堡', 'FRE', 148010000),
+(148010500, '菲茵', 'FY', 148010000),
+(148010100, '奥胡斯', 'AR', 148010000),
+(148010300, '博恩霍尔姆', 'BO', 148010000),
+(148011100, '斯多斯特姆', 'ST', 148010000),
+(148011200, '维堡', 'VIB', 148010000),
+(148011000, '南日德兰', 'VBI', 148010000),
+(148011300, '维厄勒', 'VEJ', 148010000),
+(148010800, '灵克宾', 'RKG', 148010000),
+(148010700, '里伯', 'RIB', 148010000),
+(148011400, '西希兰', 'VS', 148010000),
+(149012200, '基尔', 'KEL', 149010000),
+(149014000, '特里尔', 'TRI', 149010000),
+(149014200, '维尔茨堡', 'WUG', 149010000),
+(149010500, '柏林', 'BE', 149010000),
+(149010900, '波鸿', 'BOM', 149010000),
+(149011100, '不伦瑞克', 'BRW', 149010000),
+(149013000, '兰茨胡特', 'LDH', 149010000),
+(149011900, '哈雷', 'HAE', 149010000),
+(149010400, '奥格斯堡', 'AGB', 149010000),
+(149012300, '吉森', 'GBN', 149010000),
+(149011700, '法兰克福', 'FFO', 149010000),
+(149012400, '卡尔斯鲁厄', 'KAE', 149010000),
+(149014100, '威斯巴登', 'WIB', 149010000),
+(149011400, '德累斯顿', 'DRS', 149010000),
+(149010300, '安斯巴格', 'ANS', 149010000),
+(149011600, '杜塞尔多夫', 'DUS', 149010000),
+(149011000, '不来梅', 'HB', 149010000),
+(149012500, '卡塞尔', 'KAS', 149010000),
+(149011300, '代特莫尔特', 'DET', 149010000),
+(149013500, '明斯特', 'MUN', 149010000),
+(149013700, '纽伦堡', 'NUE', 149010000),
+(149013800, '什未林', 'SWH', 149010000),
+(149012900, '莱比锡', 'LEJ', 149010000),
+(149010200, '爱尔福特', 'ERF', 149010000),
+(149013400, '美因兹', 'MAI', 149010000),
+(149010600, '拜伊罗特', 'BYU', 149010000),
+(149010700, '比勒费尔德', 'BFE', 149010000),
+(149013900, '斯图加特', 'STR', 149010000),
+(149013600, '慕尼黑', 'MUC', 149010000),
+(149012800, '科隆', 'CGN', 149010000),
+(149011200, '达姆施塔特', 'DAR', 149010000),
+(149012600, '开姆尼斯', 'CHE', 149010000),
+(149013100, '吕讷堡', 'LBG', 149010000),
+(149012100, '汉诺威', 'HAJ', 149010000),
+(149013300, '曼海姆', 'MHG', 149010000),
+(149010800, '波茨坦', 'POT', 149010000),
+(149011800, '弗赖堡', 'FBG', 149010000),
+(149013200, '马格德堡', 'MAG', 149010000),
+(149010100, '阿恩斯贝格', 'ARN', 149010000),
+(149012000, '汉堡', 'HH', 149010000),
+(149011500, '德绍', 'DES', 149010000),
+(149012700, '科布伦次', 'KOB', 149010000),
+(150011000, '利基卡', 'LI', 150010000),
+(150010100, '阿伊莱乌', 'AL', 150010000),
+(150010900, '劳滕', 'LA', 150010000),
+(150010800, '科瓦利马', 'KO', 150010000),
+(150011200, '马努法伊', 'MF', 150010000),
+(150010400, '安贝诺', 'AM', 150010000),
+(150010200, '阿伊纳罗', 'AN', 150010000),
+(150011100, '马纳图托', 'MT', 150010000),
+(150010600, '博博纳罗', 'BO', 150010000),
+(150010500, '包考', 'BA', 150010000),
+(150011300, '维克克', 'VI', 150010000),
+(150010300, '埃尔梅拉', 'ER', 150010000),
+(150010700, '帝力', 'DI', 150010000),
+(151010300, '高原区', 'P', 151010000),
+(151010100, '滨海区', 'M', 151010000),
+(151010200, '草原区', 'S', 151010000),
+(151010400, '卡拉区', 'K', 151010000),
+(151010500, '中部区', 'C', 151010000),
+(154013400, '科斯特罗马', 'KOS', 154010000),
+(154010800, '奥伦堡', 'ORE', 154010000),
+(154018200, '伊尔库茨克', 'IKT', 154010000),
+(154010900, '巴尔瑙尔', 'BAX', 154010000),
+(154011700, '布拉戈维申斯克', 'BQS', 154010000),
+(154017400, '乌兰乌德', 'UUD', 154010000),
+(154011600, '伯力', 'COK', 154010000),
+(154016600, '斯塔夫罗波尔', 'STA', 154010000),
+(154017500, '乌里扬诺夫斯克', 'ULY', 154010000),
+(154012500, '弗拉季高加索', 'VLA', 154010000),
+(154012600, '戈尔诺－阿尔泰斯克', 'GOA', 154010000),
+(154013500, '克拉斯诺达尔', 'KRR', 154010000),
+(154015200, '南萨哈林斯克', 'JSA', 154010000),
+(154015900, '萨拉托夫', 'SAR', 154010000),
+(154017000, '托木斯克', 'TOM', 154010000),
+(154015400, '帕拉纳', 'PAL', 154010000),
+(154012400, '弗拉基米尔', 'VMR', 154010000),
+(154014500, '马加丹', 'MAG', 154010000),
+(154015300, '诺夫哥罗德', 'VUS', 154010000),
+(154011400, '比罗比詹', 'BBZ', 154010000),
+(154011500, '别尔哥罗德', 'BEL', 154010000),
+(154015800, '秋明', 'TYU', 154010000),
+(154017900, '雅库茨克', 'JAK', 154010000),
+(154011100, '彼得罗巴甫洛夫斯克', 'PKC', 154010000),
+(154017200, '沃洛格达', 'VLG', 154010000),
+(154011900, '车里雅宾斯克', 'CHE', 154010000),
+(154013200, '喀山', 'KZN', 154010000),
+(154014300, '梁赞', 'RYA', 154010000),
+(154016200, '萨马拉', 'SAM', 154010000),
+(154017800, '新西伯利亚', 'NVS', 154010000),
+(154016400, '圣彼得堡', 'SPE', 154010000),
+(154018300, '伊热夫斯克', 'IJK', 154010000),
+(154017100, '沃罗涅什', 'VOR', 154010000),
+(154015000, '纳尔奇克', 'NAL', 154010000),
+(154012000, '赤塔', 'CHI', 154010000),
+(154014800, '摩尔曼斯克', 'MMK', 154010000),
+(154014700, '迈科普', 'MAY', 154010000),
+(154014400, '马哈奇卡拉', 'MCX', 154010000),
+(154012100, '顿河畔罗斯托夫', 'ROS', 154010000),
+(154016800, '特维尔', 'TVE', 154010000),
+(154011800, '布良斯克', 'BRY', 154010000),
+(154012200, '鄂木斯克', 'OMS', 154010000),
+(154012900, '汉特－曼西斯克', 'KHM', 154010000),
+(154013600, '克拉斯诺亚尔斯克', 'KYA', 154010000),
+(154017600, '乌斯季奥尔登斯基', 'UOB', 154010000),
+(154010300, '阿金斯科耶', 'AGI', 154010000),
+(154015700, '切尔克斯克', 'CKS', 154010000),
+(154016100, '萨列哈尔德', 'SLY', 154010000),
+(154016900, '图拉', 'TUL', 154010000),
+(154015100, '纳里扬马尔', 'NNM', 154010000),
+(154013100, '加里宁格勒', 'KGD', 154010000),
+(154013900, '库德姆卡尔', 'KUD', 154010000),
+(154010600, '埃利斯塔', 'ESL', 154010000),
+(154011200, '彼得罗扎沃茨克', 'PES', 154010000),
+(154016000, '萨兰斯克', 'SKX', 154010000),
+(154012700, '格罗兹尼', 'GRV', 154010000),
+(154012300, '伏尔加格勒', 'VOG', 154010000),
+(154014200, '利佩茨克', 'LIP', 154010000),
+(154015500, '普斯科夫', 'PSK', 154010000),
+(154010100, '阿巴坎', 'ABA', 154010000),
+(154018400, '伊万诺沃', 'IVO', 154010000),
+(154010500, '阿斯特拉罕', 'AST', 154010000),
+(154013800, '克孜勒', 'KYZ', 154010000),
+(154014600, '马加斯', 'IN', 154010000),
+(154014100, '库尔斯克', 'URS', 154010000),
+(154018100, '叶卡捷林堡', 'JEK', 154010000),
+(154015600, '切博克萨雷', 'CSY', 154010000),
+(154010400, '阿纳德尔', 'DYR', 154010000),
+(154014900, '莫斯科', 'MOW', 154010000),
+(154018000, '雅罗斯拉夫尔', 'JAR', 154010000),
+(154013000, '基洛夫', 'KIR', 154010000),
+(154017300, '乌法', 'UFA', 154010000),
+(154010700, '奥廖尔', 'ORL', 154010000),
+(154013700, '克麦罗沃', 'KEM', 154010000),
+(154018500, '约什卡尔奥拉', 'YOL', 154010000),
+(154014000, '库尔干', 'KRO', 154010000),
+(154017700, '下诺夫哥罗德', 'GOJ', 154010000),
+(154016300, '瑟克特夫卡尔', 'SCW', 154010000),
+(154012800, '海参崴', 'VVO', 154010000),
+(154011300, '彼尔姆', 'PER', 154010000),
+(154010200, '阿尔汉格尔斯克', 'ARK', 154010000),
+(154016500, '斯摩棱斯克', 'LNX', 154010000),
+(154011000, '奔萨', 'PNZ', 154010000),
+(154013300, '卡卢加', 'KLF', 154010000),
+(154016700, '坦波夫', 'TAM', 154010000),
+(155010500, '瓜亚斯', 'G', 155010000),
+(155011000, '洛哈', 'L', 155010000),
+(155011900, '苏昆毕奥斯', 'U', 155010000),
+(155011500, '帕斯塔萨', 'Y', 155010000),
+(155011700, '钦博拉索', 'H', 155010000),
+(155011400, '纳波，奥雷利亚纳', 'D', 155010000);
+INSERT INTO city(id, name, code, state_id) VALUES(155012100, '因巴布拉', 'I', 155010000),
+(155010800, '卡尼亚尔', 'F', 155010000),
+(155011800, '萨莫拉－钦奇佩', 'Z', 155010000),
+(155010900, '科托帕希', 'X', 155010000),
+(155010300, '埃斯梅拉尔达斯', 'E', 155010000),
+(155011300, '莫罗纳－圣地亚哥', 'S', 155010000),
+(155011600, '皮钦查', 'P', 155010000),
+(155010600, '加拉帕戈斯', 'W', 155010000),
+(155011100, '洛斯里奥斯', 'R', 155010000),
+(155010700, '卡尔奇', 'C', 155010000),
+(155011200, '马纳比', 'M', 155010000),
+(155010100, '阿苏艾', 'A', 155010000),
+(155010200, '埃尔奥罗', 'O', 155010000),
+(155010400, '玻利瓦尔', 'B', 155010000),
+(155012000, '通古拉瓦', 'T', 155010000),
+(156010100, '安塞巴', 'KE', 156010000),
+(156010600, '中部', 'MA', 156010000),
+(156010300, '加什·巴尔卡', 'BR', 156010000),
+(156010500, '南红海', 'DK', 156010000),
+(156010400, '南部', 'DE', 156010000),
+(156010200, '北红海', 'SK', 156010000),
+(157010900, '卡昂', 'CFR', 157010000),
+(157011500, '马赛', 'MRS', 157010000),
+(157010300, '艾克斯', 'QXB', 157010000),
+(157010500, '巴黎', 'PAR', 157010000),
+(157011100, '里昂', 'LIO', 157010000),
+(157012100, '图卢兹', 'TLS', 157010000),
+(157010400, '奥尔良', 'ORR', 157010000),
+(157010600, '贝桑松', 'BSN', 157010000),
+(157011900, '尼斯', 'NCE', 157010000),
+(157011200, '里尔', 'LLE', 157010000),
+(157012000, '沙隆', 'CSM', 157010000),
+(157012300, '亚眠', 'AMI', 157010000),
+(157010200, '阿雅克修', 'AJA', 157010000),
+(157010100, '阿尔勒', 'ARL', 157010000),
+(157011000, '雷恩', 'RNS', 157010000),
+(157011400, '鲁昂', 'URO', 157010000),
+(157011700, '蒙彼利埃', 'MPL', 157010000),
+(157012200, '瓦朗斯', 'VAA', 157010000),
+(157011300, '利摩日', 'LIG', 157010000),
+(157011800, '南特', 'NTE', 157010000),
+(157010700, '第戎', 'DIJ', 157010000),
+(157010800, '弗雷瑞斯', 'FRJ', 157010000),
+(157011600, '梅斯', 'MZM', 157010000),
+(163010200, '卡卢坎', 'CAO', 163010000),
+(163010300, '马尼拉', 'MNL', 163010000),
+(163010400, '宿务', 'CEB', 163010000),
+(163010100, '达沃', 'DOR', 163010000),
+(165010400, '博尔沃', 'PRV', 165010000),
+(165011700, '图尔库', 'TKU', 165010000),
+(165011200, '拉彭兰塔', 'LPP', 165010000),
+(165011900, '万塔', 'VAT', 165010000),
+(165010100, '埃斯波', 'ESP', 165010000),
+(165012000, '约恩苏', 'JOE', 165010000),
+(165010200, '奥卢', 'OLU', 165010000),
+(165010900, '科特卡', 'KTK', 165010000),
+(165011100, '拉赫蒂', 'LHI', 165010000),
+(165011800, '瓦萨', 'VAA', 165010000),
+(165010300, '波里', 'POR', 165010000),
+(165010500, '海门林纳', 'HMY', 165010000),
+(165010600, '赫尔辛基', 'HEL', 165010000),
+(165011600, '坦佩雷', 'TMP', 165010000),
+(165011400, '玛丽港', 'MHQ', 165010000),
+(165011500, '米凯利', 'MIK', 165010000),
+(165010800, '科科拉', 'KOK', 165010000),
+(165011300, '罗瓦涅米', 'RVN', 165010000),
+(165010700, '卡亚尼', 'KAJ', 165010000),
+(165011000, '库奥皮奥', 'KUO', 165010000),
+(166011600, '圣克鲁斯', 'CR', 166010000),
+(166011700, '圣米戈尔', 'SM', 166010000),
+(166011500, '圣卡塔琳娜', 'CA', 166010000),
+(166010300, '博阿维斯塔岛', 'BV', 166010000),
+(166011400, '圣菲利普', 'SF', 166010000),
+(166010600, '福古岛', 'FO', 166010000),
+(166010500, '大里贝拉', 'RG', 166010000),
+(166011900, '圣维森特岛', 'SV', 166010000),
+(166011000, '萨尔岛', 'SL', 166010000),
+(166010100, '保尔', 'PA', 166010000),
+(166011200, '圣地亚哥岛', 'IA', 166010000),
+(166011300, '圣多明戈', 'SD', 166010000),
+(166011100, '圣安唐岛', 'SA', 166010000),
+(166010700, '马尤岛', 'MA', 166010000),
+(166012000, '塔拉法尔', 'TA', 166010000),
+(166010800, '莫斯特罗', 'MO', 166010000),
+(166011800, '圣尼古拉岛', 'SN', 166010000),
+(166010200, '波多诺伏', 'PN', 166010000),
+(166010900, '普拉亚', 'PR', 166010000),
+(166010400, '布拉瓦岛', 'BR', 166010000),
+(171012300, '普图马约', 'PUT', 171010000),
+(171011700, '科尔多巴', 'COR', 171010000),
+(171011800, '昆迪纳马卡', 'CAM', 171010000),
+(171012800, '苏克雷', 'SUC', 171010000),
+(171011900, '利萨拉尔达', 'RIS', 171010000),
+(171012700, '圣安德烈斯-普罗维登西亚', 'SAP', 171010000),
+(171011000, '瓜伊尼亚', 'GNA', 171010000),
+(171012400, '乔科', 'CHO', 171010000),
+(171010200, '安提奥基亚', 'ANT', 171010000),
+(171012100, '梅塔', 'MET', 171010000),
+(171012900, '托利马', 'TOL', 171010000),
+(171010700, '大西洋', 'ATL', 171010000),
+(171012000, '马格达雷那', 'MAG', 171010000),
+(171013000, '维查达', 'VIC', 171010000),
+(171010400, '波哥大首都区', 'BDC', 171010000),
+(171011600, '考卡山谷', 'VDC', 171010000),
+(171013200, '乌伊拉', 'HUI', 171010000),
+(171011300, '卡克塔', 'CAQ', 171010000),
+(171010600, '博亚卡', 'BOY', 171010000),
+(171010800, '瓜维亚雷', 'GVR', 171010000),
+(171012500, '塞萨尔', 'CES', 171010000),
+(171010900, '瓜希拉', 'GJR', 171010000),
+(171010300, '北桑坦德', 'NDS', 171010000),
+(171013300, '亚马孙', 'AMZ', 171010000),
+(171011100, '金迪奥', 'QUI', 171010000),
+(171012600, '桑坦德', 'SAN', 171010000),
+(171011500, '考卡', 'CAU', 171010000),
+(171011400, '卡萨纳雷', 'CAS', 171010000),
+(171011200, '卡尔达斯', 'CAL', 171010000),
+(171010100, '阿劳卡', 'ARA', 171010000),
+(171010500, '博利瓦尔', 'BOL', 171010000),
+(171012200, '纳里尼奥', 'NAR', 171010000),
+(171013100, '沃佩斯', 'VAU', 171010000),
+(172010700, '圣何塞', 'SJ', 172010000),
+(172010400, '卡塔戈', 'C', 172010000),
+(172010500, '利蒙', 'L', 172010000),
+(172010200, '埃雷迪亚', 'H', 172010000),
+(172010100, '阿拉胡埃拉', 'A', 172010000),
+(172010600, '蓬塔雷纳斯', 'P', 172010000),
+(172010300, '瓜纳卡斯特', 'G', 172010000),
+(176010900, '拉斯图纳斯', '10', 176010000),
+(176011700, '谢戈德阿维拉', '8', 176010000),
+(176010300, '比亚克拉拉', '5', 176010000),
+(176010800, '卡马圭', '9', 176010000),
+(176011600, '西恩富戈斯', '6', 176010000),
+(176010100, '奥尔金', '11', 176010000),
+(176010400, '格拉玛', '12', 176010000),
+(176010700, '哈瓦那城', '3', 176010000),
+(176011500, '圣斯皮里图斯', '7', 176010000),
+(176011100, '马亚里', 'MAY', 176010000),
+(176011300, '青年岛特区', '99', 176010000),
+(176010600, '哈瓦那', '2', 176010000),
+(176011000, '马坦萨斯', '4', 176010000),
+(176010500, '关塔那摩', '14', 176010000),
+(176010200, '比那尔德里奥', '1', 176010000),
+(176011400, '圣地亚哥', '13', 176010000),
+(176011200, '曼萨尼罗', 'MZO', 176010000),
+(179010300, '波默伦-苏佩纳姆', 'PM', 179010000),
+(179010100, '埃塞奎博群岛-西德梅拉拉', 'EW', 179010000),
+(179010200, '巴里马-瓦伊尼', 'BW', 179010000),
+(179010800, '马海卡-伯比斯', 'MB', 179010000),
+(179010900, '上德梅拉拉-伯比斯', 'UD', 179010000),
+(179010700, '库尤尼-马扎鲁尼', 'CM', 179010000),
+(179010400, '波塔罗-锡帕鲁尼', 'PI', 179010000),
+(179010500, '德梅拉拉-马海卡', 'DM', 179010000),
+(179011000, '上塔库图-上埃塞奎博', 'UT', 179010000),
+(179010600, '东伯比斯-科兰太因', 'EC', 179010000),
+(180011200, '北哈萨克斯坦', 'SEV', 180010000),
+(180011000, '巴尔喀什', 'BXH', 180010000),
+(180012500, '列宁诺戈尔斯克', 'LEN', 180010000),
+(180012300, '库尔恰托夫', 'KUR', 180010000),
+(180012100, '克孜勒奥尔达', 'KZY', 180010000),
+(180013500, '突厥斯坦', 'TUR', 180010000),
+(180011700, '卡拉干达', 'KAR', 180010000),
+(180012200, '肯套', 'KEN', 180010000),
+(180010700, '阿斯塔纳市', 'AST', 180010000),
+(180010200, '阿克莫拉', 'AKM', 180010000),
+(180010300, '阿克苏', 'AKS', 180010000),
+(180011100, '巴甫洛达尔', 'PAV', 180010000),
+(180013700, '扎纳奥津', 'ZHA', 180010000),
+(180012800, '南哈萨克斯坦', 'KGT', 180010000),
+(180013600, '西哈萨克斯坦', 'ZAP', 180010000),
+(180011300, '东哈萨克斯坦', 'VOS', 180010000),
+(180010100, '阿尔卡累克', 'AYK', 180010000),
+(180010600, '阿雷斯', 'ARY', 180010000),
+(180012900, '萨兰', 'SAR', 180010000),
+(180010500, '阿拉木图', 'ALA', 180010000),
+(180013100, '沙赫京斯克', 'SAK', 180010000),
+(180011400, '济良诺夫斯克', 'ZYR', 180010000),
+(180011500, '江布尔', 'DMB', 180010000),
+(180011800, '卡拉扎尔', 'KZO', 180010000),
+(180012600, '鲁德内', 'RUD', 180010000),
+(180013000, '塞梅伊', 'SEM', 180010000),
+(180013300, '铁克利', 'TEK', 180010000),
+(180010400, '阿克托别', 'AKT', 180010000),
+(180013400, '铁米尔套', 'TEM', 180010000),
+(180011900, '卡普恰盖', 'KAP', 180010000),
+(180012400, '利萨科夫斯克', 'LKK', 180010000),
+(180013200, '斯捷普诺戈尔斯克', 'STE', 180010000),
+(180012000, '科斯塔奈', 'KST', 180010000),
+(180011600, '杰兹卡兹甘', 'DZH', 180010000),
+(180010800, '阿特劳', 'ATY', 180010000),
+(180010900, '埃基巴斯图兹', 'EKB', 180010000),
+(180012700, '曼格斯套', 'MAN', 180010000),
+(182070400, '抱川市', 'POC', 182070000),
+(182072200, '南杨州市', 'NYU', 182070000),
+(182073100, '议政府市', 'UIJ', 182070000),
+(182070800, '高阳市', 'GYG', 182070000),
+(182071000, '广州市', 'KWU', 182070000),
+(182071200, '河南市', 'HNM', 182070000),
+(182070900, '光明市', 'GMG', 182070000),
+(182070500, '城南市', 'SEO', 182070000);
+INSERT INTO city(id, name, code, state_id) VALUES(182071900, '利川市', 'ICE', 182070000),
+(182071300, '华城市', 'HCH', 182070000),
+(182072700, '乌山市', 'OSN', 182070000),
+(182071800, '骊州郡', 'YJU', 182070000),
+(182072000, '涟川郡', 'YCN', 182070000),
+(182072800, '扬平郡', 'YPG', 182070000),
+(182070100, '安城市', 'ASG', 182070000),
+(182071700, '军浦市', 'GUN', 182070000),
+(182072500, '始兴市', 'SHE', 182070000),
+(182072100, '龙仁市', 'YNG', 182070000),
+(182072400, '坡州市', 'PJU', 182070000),
+(182071100, '果川市', 'GCN', 182070000),
+(182073000, '仪旺市', 'UWN', 182070000),
+(182070600, '东豆川市', 'DDC', 182070000),
+(182071600, '九里市', 'GRI', 182070000),
+(182072900, '杨州市', 'YYU', 182070000),
+(182070300, '安养市', 'ANY', 182070000),
+(182072300, '平泽市', 'PTK', 182070000),
+(182071400, '加平郡', 'GPG', 182070000),
+(182072600, '水原市', 'SUO', 182070000),
+(182070700, '富川市', 'BCN', 182070000),
+(182070200, '安山市', 'ASN', 182070000),
+(182071500, '金浦市', 'GMP', 182070000),
+(182091000, '马山市', 'MAS', 182090000),
+(182091700, '咸安郡', 'HAN', 182090000),
+(182090900, '梁山市', 'YSN', 182090000),
+(182091500, '统营市', 'TYG', 182090000),
+(182090600, '晋州市', 'HIN', 182090000),
+(182090200, '昌原市', 'CHW', 182090000),
+(182091300, '山淸郡', 'SCH', 182090000),
+(182090800, '巨济市', 'KJE', 182090000),
+(182091800, '咸阳郡', 'HYG', 182090000),
+(182091100, '密阳市', 'MIR', 182090000),
+(182090100, '昌宁郡', 'CNG', 182090000),
+(182090300, '固城郡', 'GSO', 182090000),
+(182090700, '居昌郡', 'GCH', 182090000),
+(182091400, '泗川市', 'SAH', 182090000),
+(182090400, '河东郡', 'HDG', 182090000),
+(182091900, '宜宁郡', 'URG', 182090000),
+(182092000, '鎭海市', 'CHF', 182090000),
+(182091200, '南海郡', 'NHE', 182090000),
+(182091600, '陜川郡', 'HCE', 182090000),
+(182090500, '金海市', 'KMH', 182090000),
+(182110200, '高兴郡', 'GHG', 182110000),
+(182110600, '海南郡', 'HAE', 182110000),
+(182111200, '罗州市', 'NJU', 182110000),
+(182110300, '谷城郡', 'GSE', 182110000),
+(182110500, '光阳市', 'KAN', 182110000),
+(182111600, '潭阳郡', 'DYA', 182110000),
+(182110800, '康津郡', 'GJN', 182110000),
+(182111400, '求礼郡', 'GRE', 182110000),
+(182111900, '新安郡', 'SAN', 182110000),
+(182111700, '务安郡', 'MAN', 182110000),
+(182112200, '珍岛郡', 'JDO', 182110000),
+(182112100, '长兴郡', 'JHG', 182110000),
+(182110100, '宝城郡', 'BSG', 182110000),
+(182110900, '丽水市', 'YOS', 182110000),
+(182111100, '灵岩郡', 'YAM', 182110000),
+(182111300, '木浦市', 'MOK', 182110000),
+(182111500, '顺天市', 'SYS', 182110000),
+(182111800, '咸平郡', 'HPG', 182110000),
+(182110700, '和顺郡', 'HSN', 182110000),
+(182111000, '灵光郡', 'YGG', 182110000),
+(182110400, '莞岛郡', 'WND', 182110000),
+(182112000, '长城郡', 'JSN', 182110000),
+(182101400, '鎭安郡', 'JAN', 182100000),
+(182100900, '群山市', 'KUV', 182100000),
+(182101300, '长水郡', 'JSU', 182100000),
+(182100500, '井邑市', 'JEO', 182100000),
+(182100200, '扶安郡', 'PUS', 182100000),
+(182100700, '南原市', 'NWN', 182100000),
+(182100600, '茂朱郡', 'MJU', 182100000),
+(182101100, '完州郡', 'WAJ', 182100000),
+(182100300, '高敞郡', 'GCG', 182100000),
+(182100400, '金堤市', 'GJE', 182100000),
+(182101000, '任实郡', 'ISL', 182100000),
+(182100100, '淳昌郡', 'SCG', 182100000),
+(182100800, '全州市', 'JNJ', 182100000),
+(182101200, '益山市', 'IKS', 182100000),
+(182161600, '燕岐郡', 'YGI', 182160000),
+(182160900, '青阳郡', 'CYG', 182160000),
+(182161000, '瑞山市', 'SSA', 182160000),
+(182161500, '牙山市', 'ASA', 182160000),
+(182160700, '礼山郡', 'YOS', 182160000),
+(182160800, '论山市', 'NSN', 182160000),
+(182161100, '舒川郡', 'SCE', 182160000),
+(182161400, '天安市', 'CHO', 182160000),
+(182160300, '公州市', 'GOJ', 182160000),
+(182160100, '保宁市', 'BOR', 182160000),
+(182160400, '洪城郡', 'HSE', 182160000),
+(182160500, '鸡龙市', 'GYE', 182160000),
+(182160600, '锦山郡', 'GSA', 182160000),
+(182161200, '泰安郡', 'TAN', 182160000),
+(182161300, '唐津郡', 'TJI', 182160000),
+(182160200, '扶余郡', 'BYO', 182160000),
+(182061000, '宁越郡', 'YWL', 182060000),
+(182060700, '江陵市', 'KAG', 182060000),
+(182060800, '旌善郡', 'JSE', 182060000),
+(182060200, '东海市', 'TGH', 182060000),
+(182060600, '华川郡', 'HCH', 182060000),
+(182061400, '太白市', 'TBK', 182060000),
+(182060500, '洪川郡', 'HCN', 182060000),
+(182061800, '原州市', 'WJU', 182060000),
+(182061100, '平昌郡', 'POG', 182060000),
+(182061300, '束草市', 'SHO', 182060000),
+(182060900, '麟蹄郡', 'IJE', 182060000),
+(182061600, '襄阳郡', 'YNY', 182060000),
+(182061700, '杨口郡', 'YGU', 182060000),
+(182060400, '横城郡', 'HSG', 182060000),
+(182061500, '铁原郡', 'CWN', 182060000),
+(182060100, '春川市', 'CHC', 182060000),
+(182061200, '三陟市', 'SUK', 182060000),
+(182060300, '高城郡', 'GSG', 182060000),
+(182080400, '龟尾市', 'KUM', 182080000),
+(182081400, '荣州市', 'YEJ', 182080000),
+(182080200, '奉化郡', 'BHA', 182080000),
+(182082000, '英阳郡', 'YYG', 182080000),
+(182081900, '义城郡', 'USG', 182080000),
+(182080600, '军威郡', 'GWI', 182080000),
+(182081600, '蔚珍郡', 'UJN', 182080000),
+(182082300, '郁陵郡', 'ULG', 182080000),
+(182081700, '闻庆市', 'MGG', 182080000),
+(182080100, '安东市', 'ADG', 182080000),
+(182081000, '淸道郡', 'CDO', 182080000),
+(182080900, '漆谷郡', 'CGK', 182080000),
+(182081100, '靑松郡', 'CSG', 182080000),
+(182081800, '星州郡', 'SEJ', 182080000),
+(182082200, '永川市', 'YCH', 182080000),
+(182080800, '浦项市', 'KPO', 182080000),
+(182081300, '庆州市', 'GJU', 182080000),
+(182081200, '庆山市', 'GYS', 182080000),
+(182081500, '尙州市', 'SJU', 182080000),
+(182080300, '高灵郡', 'GRG', 182080000),
+(182080500, '金泉市', 'KMC', 182080000),
+(182080700, '醴泉郡', 'YEC', 182080000),
+(182082100, '盈德郡', 'YDK', 182080000),
+(182151000, '永同郡', 'YDG', 182150000),
+(182151200, '忠州市', 'CHU', 182150000),
+(182150100, '报恩郡', 'BEN', 182150000),
+(182150800, '沃川郡', 'OCN', 182150000),
+(182150400, '堤川市', 'JCH', 182150000),
+(182150500, '槐山郡', 'GSN', 182150000),
+(182150600, '淸原郡', 'CWO', 182150000),
+(182151100, '鎭川郡', 'JCN', 182150000),
+(182150300, '丹阳郡', 'DYG', 182150000),
+(182150900, '阴城郡', 'ESG', 182150000),
+(182150200, '曾坪郡', 'JYG', 182150000),
+(182150700, '淸州市', 'CJJ', 182150000),
+(182010200, '大邱', 'TAE', 182010000),
+(182010100, '达城郡', 'DSG', 182010000),
+(182010300, '寿城区', 'SUS', 182010000),
+(183011800, '莱顿', 'LID', 183010000),
+(183012600, '乌得勒支', 'UTC', 183010000),
+(183010400, '阿纳姆', 'ARN', 183010000),
+(183012000, '鹿特丹', 'RTM', 183010000),
+(183011600, '海牙', 'HAG', 183010000),
+(183010700, '埃德', 'EDE', 183010000),
+(183012400, '奈梅亨', 'NIJ', 183010000),
+(183010800, '埃门', 'EMM', 183010000),
+(183011100, '蒂尔堡', 'TLB', 183010000),
+(183010300, '阿姆斯特丹', 'AMS', 183010000),
+(183010200, '阿默斯福特', 'AME', 183010000),
+(183010500, '阿珀尔多伦', 'APE', 183010000),
+(183010900, '埃因霍芬', 'EIN', 183010000),
+(183012500, '斯海尔托亨博思', 'HTB', 183010000),
+(183012800, '佐特尔梅', 'ZTM', 183010000),
+(183011000, '布雷达', 'BRD', 183010000),
+(183011400, '格罗宁根', 'GRQ', 183010000),
+(183012200, '马斯特里赫特', 'MST', 183010000),
+(183011900, '莱利斯塔德', 'LEY', 183010000),
+(183010100, '阿尔梅勒', 'AER', 183010000),
+(183011700, '霍夫多尔普', 'HFD', 183010000),
+(183012300, '米德尔堡', 'MDL', 183010000),
+(183011200, '多德雷赫特', 'DOR', 183010000),
+(183012100, '吕伐登', 'LWR', 183010000),
+(183011300, '恩斯赫德', 'ENS', 183010000),
+(183010600, '阿森', 'ASS', 183010000),
+(183011500, '哈勒姆', 'HRA', 183010000),
+(183012700, '兹沃勒', 'ZWO', 183010000),
+(186010300, '奥科特佩克', 'OC', 186010000),
+(186011500, '乔罗马', 'CHO', 186010000),
+(186011100, '科潘', 'CP', 186010000),
+(186010200, '埃尔帕拉伊索', 'PA', 186010000),
+(186010400, '奥兰乔', 'OL', 186010000),
+(186010900, '科隆', 'CL', 186010000),
+(186011200, '拉巴斯', 'PZ', 186010000),
+(186011300, '伦皮拉', 'LE', 186010000),
+(186011800, '因蒂布卡', 'IN', 186010000),
+(186011400, '乔卢特卡', 'CH', 186010000),
+(186011700, '圣巴巴拉', 'SB', 186010000),
+(186010700, '海湾群岛', 'IB', 186010000),
+(186010100, '阿特兰蒂达', 'AT', 186010000),
+(186011000, '科马亚瓜', 'CM', 186010000),
+(186010500, '弗朗西斯科-莫拉桑', 'FM', 186010000),
+(186010800, '科尔特斯', 'CR', 186010000),
+(186011600, '山谷', 'VA', 186010000),
+(186010600, '格拉西亚斯-阿迪奥斯', 'GD', 186010000),
+(186011900, '约罗', 'YO', 186010000),
+(187010100, '菲尼克斯群岛', 'PHO', 187010000),
+(187010200, '吉尔伯特群岛', 'GIL', 187010000);
+INSERT INTO city(id, name, code, state_id) VALUES(187010300, '莱恩群岛', 'LIN', 187010000),
+(188010400, '塔朱拉区', 'T', 188010000),
+(188010100, '阿里萨比赫区', 'S', 188010000),
+(188010300, '迪基勒区', 'K', 188010000),
+(188010200, '奥博克区', 'O', 188010000),
+(189010500, '贾拉拉巴德', 'J', 189010000),
+(189011300, '塔拉斯', 'T', 189010000),
+(189011600, '伊塞克湖', 'Y', 189010000),
+(189011500, '乌兹根', 'UG', 189010000),
+(189011000, '迈利赛', 'MS', 189010000),
+(189010300, '比什凯克市', 'GB', 189010000),
+(189010600, '卡拉巴尔塔', 'KBA', 189010000),
+(189010100, '奥什', 'O', 189010000),
+(189010900, '科克扬加克', 'KJ', 189010000),
+(189011100, '纳伦', 'N', 189010000),
+(189011200, '苏卢克图', 'SU', 189010000),
+(189010400, '楚河', 'C', 189010000),
+(189010800, '坎特', 'KAN', 189010000),
+(189010200, '巴特肯', 'B', 189010000),
+(189010700, '卡拉库尔', 'KKO', 189010000),
+(189011400, '塔什库梅尔', 'TK', 189010000),
+(190010200, '恩泽雷科雷', 'NZR', 190010000),
+(190010500, '康康', 'KNK', 190010000),
+(190010700, '拉贝', 'LAB', 190010000),
+(190010300, '法拉纳', 'FRN', 190010000),
+(190010600, '科纳克里', 'CNK', 190010000),
+(190010100, '博凯', 'BOK', 190010000),
+(190010800, '玛木', 'MAM', 190010000),
+(190010400, '金迪亚', 'KND', 190010000),
+(192011800, '伦敦', 'LOD', 192010000),
+(192012700, '维多利亚', 'VIC', 192010000),
+(192011100, '怀特霍斯', 'YXY', 192010000),
+(192012400, '舍布鲁克', 'SBE', 192010000),
+(192010400, '巴里', 'BAR', 192010000),
+(192012800, '温哥华', 'VAN', 192010000),
+(192010700, '弗雷德里顿', 'FRE', 192010000),
+(192013200, '夏洛特敦', 'CHA', 192010000),
+(192012000, '萨德伯里', 'SUD', 192010000),
+(192011900, '蒙特利尔', 'MTR', 192010000),
+(192010300, '奥沙瓦', 'OSH', 192010000),
+(192012300, '桑德贝', 'THU', 192010000),
+(192011000, '哈密尔顿', 'HAM', 192010000),
+(192013300, '耶洛奈夫', 'YZF', 192010000),
+(192011200, '基劳纳', 'KWL', 192010000),
+(192011700, '里贾纳', 'REG', 192010000),
+(192013100, '渥太华', 'OTT', 192010000),
+(192013400, '伊魁特', 'IQL', 192010000),
+(192011600, '魁北克', 'QUE', 192010000),
+(192012900, '温尼伯', 'WNP', 192010000),
+(192010200, '埃德蒙顿', 'EDM', 192010000),
+(192010800, '圭尔夫', 'GLP', 192010000),
+(192010900, '哈利法克斯', 'HAL', 192010000),
+(192010500, '布列塔尼角', 'CBR', 192010000),
+(192012100, '萨斯卡通', 'SAK', 192010000),
+(192010100, '阿伯茨福', 'ABB', 192010000),
+(192011400, '金斯敦', 'KGN', 192010000),
+(192011500, '卡里加里', 'CAL', 192010000),
+(192012500, '圣卡塔琳娜', 'SCA', 192010000),
+(192012600, '圣约翰斯', 'SJB', 192010000),
+(192013000, '温莎', 'WDR', 192010000),
+(192010600, '多伦多', 'TOR', 192010000),
+(192012200, '三河城', 'TRR', 192010000),
+(192011300, '基奇纳', 'BRP', 192010000),
+(193010300, '北部', 'NO', 193010000),
+(193010700, '上东部', 'UE', 193010000),
+(193010200, '奥布阿西', 'OBU', 193010000),
+(193010600, '东部', 'EA', 193010000),
+(193011000, '西部', 'WE', 193010000),
+(193010400, '布朗阿哈福', 'BA', 193010000),
+(193010800, '上西部', 'UW', 193010000),
+(193010900, '沃尔特', 'VO', 193010000),
+(193011100, '中部', 'CE', 193010000),
+(193010500, '大阿克拉', 'GA', 193010000),
+(193010100, '阿散蒂', 'AS', 193010000),
+(194010200, '奥果韦-伊温多', 'OI', 194010000),
+(194010600, '尼扬加', 'NY', 194010000),
+(194010500, '河口', 'ES', 194010000),
+(194010100, '奥果韦-洛洛', 'OL', 194010000),
+(194010400, '恩古涅', 'NG', 194010000),
+(194010700, '上奥果韦', 'HO', 194010000),
+(194010300, '滨海奥果韦', 'OM', 194010000),
+(194010800, '沃勒-恩特姆', 'WN', 194010000),
+(194010900, '中奥果韦', 'MO', 194010000),
+(195010800, '磅同', 'KZK', 195010000),
+(195011200, '柴桢', 'SVR', 195010000),
+(195012100, '菩萨', 'PO', 195010000),
+(195010200, '白马市', 'KB', 195010000),
+(195012400, '暹粒', 'REP', 195010000),
+(195011500, '贡布', 'KMT', 195010000),
+(195010400, '拜林市', 'PL', 195010000),
+(195011400, '戈公', 'KKZ', 195010000),
+(195011700, '桔井', 'KH', 195010000),
+(195012200, '上丁', 'TNX', 195010000),
+(195010300, '柏威夏', 'PR', 195010000),
+(195010700, '磅士卑', 'KO', 195010000),
+(195011600, '金边市', 'PNH', 195010000),
+(195010600, '磅清扬', 'KZC', 195010000),
+(195012300, '西哈努克市', 'KA', 195010000),
+(195011000, '波罗勉', 'PG', 195010000),
+(195011300, '干丹', 'KL', 195010000),
+(195010100, '奥多棉吉', 'OC', 195010000),
+(195011100, '茶胶', 'TK', 195010000),
+(195011800, '腊塔纳基里', 'RBE', 195010000),
+(195011900, '马德望', 'BA', 195010000),
+(195012000, '蒙多基里', 'MWV', 195010000),
+(195010500, '班迭棉吉', 'BM', 195010000),
+(195010900, '磅湛', 'KM', 195010000),
+(196010200, '比尔森', 'PL', 196010000),
+(196010800, '南摩拉维亚', 'JC', 196010000),
+(196010300, '布拉格直辖市', 'PR', 196010000),
+(196010700, '摩拉维亚-西里西亚', 'MO', 196010000),
+(196010500, '卡罗维发利', 'KA', 196010000),
+(196011000, '维索基纳', 'VY', 196010000),
+(196010100, '奥洛穆茨', 'OL', 196010000),
+(196010900, '帕尔杜比采', 'PA', 196010000),
+(196011300, '兹林', 'ZL', 196010000),
+(196010400, '赫拉德茨-克拉洛韦', 'KR', 196010000),
+(196011100, '乌斯季', 'US', 196010000),
+(196010600, '利贝雷克', 'LI', 196010000),
+(196011200, '中捷克', 'ST', 196010000),
+(197010800, '西马绍纳兰', 'MW', 197010000),
+(197010500, '马尼卡兰', 'ML', 197010000),
+(197010900, '中部', 'MD', 197010000),
+(197010200, '布拉瓦约', 'BU', 197010000),
+(197010600, '马斯温戈', 'MV', 197010000),
+(197010100, '北马塔贝莱兰', 'MN', 197010000),
+(197010300, '东马绍纳兰', 'ME', 197010000),
+(197010700, '南马塔贝莱兰', 'MS', 197010000),
+(197011000, '中马绍纳兰', 'MC', 197010000),
+(197010400, '哈拉雷', 'HA', 197010000),
+(198010300, '北端', 'EXN', 198010000),
+(198010900, '西南', 'SOU', 198010000),
+(198011000, '中央', 'CEN', 198010000),
+(198010400, '滨海', 'LIT', 198010000),
+(198010200, '北部', 'NOR', 198010000),
+(198010600, '南部', 'SUD', 198010000),
+(198010500, '东部', 'EST', 198010000),
+(198010700, '西北', 'NOT', 198010000),
+(198010800, '西部', 'OUE', 198010000),
+(198010100, '阿达马瓦', 'ADA', 198010000),
+(199010400, '豪尔', 'KR', 199010000),
+(199010200, '多哈', 'DW', 199010000),
+(199010900, '朱迈利耶', 'JM', 199010000),
+(199010300, '古韦里耶', 'GW', 199010000),
+(199010700, '沃克拉', 'WK', 199010000),
+(199010600, '赖扬', 'RN', 199010000),
+(199010800, '乌姆锡拉勒', 'UL', 199010000),
+(199010100, '北部', 'MS', 199010000),
+(199010500, '杰里扬拜特奈', 'JB', 199010000),
+(203011900, '中科莫埃', 'MC', 203010000),
+(203010600, '弗罗马格尔', 'FR', 203010000),
+(203010800, '马拉韦', 'MR', 203010000),
+(203010900, '南邦达马', 'SB', 203010000),
+(203011200, '萨瓦纳', 'SV', 203010000),
+(203011000, '南科莫埃', 'SC', 203010000),
+(203010700, '湖泊', 'LC', 203010000),
+(203010100, '阿涅比', 'AG', 203010000),
+(203010500, '恩济－科莫埃', 'NC', 203010000),
+(203011500, '下萨桑德拉', 'BS', 203010000),
+(203011300, '山地', 'DH', 203010000),
+(203011800, '中卡瓦利', 'MV', 203010000),
+(203010200, '巴芬', 'BF', 203010000),
+(203010300, '邦达马河谷', 'VB', 203010000),
+(203010400, '登盖莱', 'DE', 203010000),
+(203011100, '萨桑德拉', 'HT', 203010000),
+(203011700, '赞赞', 'ZA', 203010000),
+(203011400, '沃罗杜古', 'WR', 203010000),
+(203011600, '泻湖', 'LG', 203010000),
+(205010400, '波热加-斯拉沃尼亚', '11', 205010000),
+(205011800, '希贝尼克-克宁', '15', 205010000),
+(205010300, '滨海和山区', '8', 205010000),
+(205011600, '维罗维蒂察-波德拉维纳', '10', 205010000),
+(205010100, '奥西耶克-巴拉尼亚', '14', 205010000),
+(205011500, '瓦拉日丁', '5', 205010000),
+(205010600, '杜布罗夫斯克-内雷特瓦', '19', 205010000),
+(205011000, '利卡-塞尼', '9', 205010000),
+(205011700, '武科瓦尔-斯里耶姆', '16', 205010000),
+(205010700, '卡尔洛瓦茨', '4', 205010000),
+(205011400, '斯普利特-达尔马提亚', '17', 205010000),
+(205011900, '锡萨克-莫斯拉维纳', '3', 205010000),
+(205011200, '萨格勒布', '1', 205010000),
+(205012000, '伊斯特拉', '18', 205010000),
+(205010500, '布罗德-波萨维纳', '12', 205010000),
+(205010900, '克拉皮纳-扎戈列', '2', 205010000),
+(205012100, '扎达尔', '13', 205010000),
+(205011300, '萨格勒布市', '21', 205010000),
+(205011100, '梅吉穆列', '20', 205010000),
+(205010200, '别洛瓦尔-比洛戈拉', '7', 205010000),
+(205010800, '科普里夫尼察-克里热夫齐', '6', 205010000),
+(206010400, '博美特', 'BOM', 206010000),
+(206012000, '莱基皮亚', 'LAI', 206010000),
+(206013200, '内罗毕', 'NA', 206010000),
+(206013800, '塔纳河', 'TRI', 206010000),
+(206014000, '特兰斯-恩佐亚', 'TNZ', 206010000),
+(206013700, '桑布卢', 'UAS', 206010000),
+(206012300, '马萨布布', 'RBT', 206010000),
+(206012600, '蒙巴萨', 'MOM', 206010000),
+(206013400, '尼亚米拉', 'NYM', 206010000),
+(206011800, '夸勒', 'KWA', 206010000),
+(206014300, '瓦辛基苏', 'UGI', 206010000);
+INSERT INTO city(id, name, code, state_id) VALUES(206013900, '泰塔塔维塔', 'TTA', 206010000),
+(206014600, '夏亚', 'SIA', 206010000),
+(206011400, '加里萨', 'GAS', 206010000),
+(206012500, '梅鲁', 'MER', 206010000),
+(206011500, '卡卡梅加', 'KAK', 206010000),
+(206011200, '基图伊', 'KIT', 206010000),
+(206012200, '马瓜尼', 'MAK', 206010000),
+(206013500, '年达鲁阿', 'NYN', 206010000),
+(206010800, '基安布', 'KIA', 206010000),
+(206013100, '南迪', 'NAN', 206010000),
+(206011000, '基里尼亚加', 'KIR', 206010000),
+(206010700, '霍马湾', 'HOB', 206010000),
+(206012900, '纳库鲁', 'NUU', 206010000),
+(206013600, '涅里', 'NYE', 206010000),
+(206010200, '巴林戈', 'BAR', 206010000),
+(206010300, '邦戈马', 'BUN', 206010000),
+(206010900, '基里菲', 'KIL', 206010000),
+(206013300, '尼蒂', 'NIT', 206010000),
+(206010500, '布希亚', 'BUS', 206010000),
+(206010600, '恩布', 'EMB', 206010000),
+(206014200, '瓦吉尔', 'WJR', 206010000),
+(206011700, '凯里乔', 'KEY', 206010000),
+(206012400, '曼德拉', 'MAN', 206010000),
+(206013000, '纳罗克', 'NAR', 206010000),
+(206011300, '基西', 'KII', 206010000),
+(206014400, '韦希加', 'VIH', 206010000),
+(206014500, '西波克特', 'WPO', 206010000),
+(206011600, '卡耶亚多', 'KAJ', 206010000),
+(206012100, '马查科斯', 'MAC', 206010000),
+(206012800, '穆兰卡', 'MUR', 206010000),
+(206010100, '埃尔格约-马拉奎特', 'EMA', 206010000),
+(206014800, '中央', 'CE', 206010000),
+(206011900, '拉木', 'LAU', 206010000),
+(206012700, '米戈利', 'MIG', 206010000),
+(206014100, '图尔卡纳', 'TUR', 206010000),
+(206014700, '伊希约洛', 'ISI', 206010000),
+(206011100, '基苏木', 'KIS', 206010000),
+(208010600, '采西斯', 'CES', 208010000),
+(208012100, '陶格夫皮尔斯', 'DGR', 208010000),
+(208011800, '普雷利', 'PRE', 208010000),
+(208010400, '巴尔维', 'BAL', 208010000),
+(208011000, '克拉斯拉瓦', 'KRA', 208010000),
+(208012400, '瓦尔米耶拉', 'VLM', 208010000),
+(208010800, '古尔贝内', 'GUL', 208010000),
+(208011900, '萨尔杜斯', 'SAL', 208010000),
+(208011200, '雷泽克内', 'RZR', 208010000),
+(208012600, '叶尔加瓦', 'JGR', 208010000),
+(208011100, '库尔迪加', 'KUL', 208010000),
+(208011700, '马多纳', 'MAD', 208010000),
+(208011400, '利耶帕亚', 'LPK', 208010000),
+(208010500, '包斯卡', 'BAU', 208010000),
+(208012000, '塔尔西', 'TAL', 208010000),
+(208011300, '里加', 'RGA', 208010000),
+(208012500, '文茨皮尔斯', 'VSL', 208010000),
+(208010900, '杰卡布皮尔斯', 'JEK', 208010000),
+(208011600, '卢扎', 'LUD', 208010000),
+(208010200, '爱兹克劳克雷', 'AIZ', 208010000),
+(208010100, '阿卢克斯内', 'ALU', 208010000),
+(208012300, '瓦尔加', 'VLK', 208010000),
+(208011500, '林巴济', 'LIM', 208010000),
+(208010300, '奥格雷', 'OGR', 208010000),
+(208010700, '多贝莱', 'DOB', 208010000),
+(208012200, '图库马', 'TUK', 208010000),
+(209010700, '马塞卢', 'A', 209010000),
+(209010300, '古廷', 'G', 209010000),
+(209010100, '伯里亚', 'D', 209010000),
+(209010200, '布塔布泰', 'B', 209010000),
+(209010900, '莫霍特隆', 'J', 209010000),
+(209011000, '塔巴采卡', 'K', 209010000),
+(209010600, '马费滕', 'E', 209010000),
+(209010400, '加查斯内克', 'H', 209010000),
+(209010500, '莱里贝', 'C', 209010000),
+(209010800, '莫哈莱斯胡克', 'F', 209010000),
+(210010800, '琅勃拉邦', 'LP', 210010000),
+(210010600, '甘蒙', 'KH', 210010000),
+(210011200, '沙拉湾', 'SL', 210010000),
+(210011700, '占巴塞', 'CH', 210010000),
+(210011300, '沙湾拿吉', 'SV', 210010000),
+(210010500, '丰沙里', 'PH', 210010000),
+(210010300, '博乔', 'BK', 210010000),
+(210011100, '色贡', 'XE', 210010000),
+(210011000, '赛宋本行政特区', 'XN', 210010000),
+(210010900, '琅南塔', 'LM', 210010000),
+(210010700, '华潘', 'HO', 210010000),
+(210010100, '阿速坡', 'AT', 210010000),
+(210010400, '川圹', 'XI', 210010000),
+(210011500, '万象', 'VI', 210010000),
+(210011600, '乌多姆赛', 'OU', 210010000),
+(210010200, '波里坎赛', 'BL', 210010000),
+(210011400, '沙耶武里', 'XA', 210010000),
+(211010400, '黎巴嫩山', 'JL', 211010000),
+(211010500, '奈拜提耶市', 'NA', 211010000),
+(211010600, '南部', 'JA', 211010000),
+(211010100, '北部', 'AS', 211010000),
+(211010200, '贝卡', 'BI', 211010000),
+(211010300, '贝鲁特', 'BA', 211010000),
+(212011500, '蒙特塞拉多', 'MO', 212010000),
+(212011300, '马吉比', 'MG', 212010000),
+(212011400, '马里兰', 'MY', 212010000),
+(212011700, '锡诺', 'SI', 212010000),
+(212010100, '巴波卢', 'GBA', 212010000),
+(212010700, '大角山', 'CM', 212010000),
+(212010600, '大吉德', 'GG', 212010000),
+(212010300, '博波卢', 'BOP', 212010000),
+(212011200, '洛法', 'LO', 212010000),
+(212010200, '邦', 'BG', 212010000),
+(212010500, '大巴萨', 'GB', 212010000),
+(212011100, '里弗塞斯', 'RI', 212010000),
+(212010800, '大克鲁', 'GK', 212010000),
+(212010400, '博米', 'BM', 212010000),
+(212011000, '吉河', 'RG', 212010000),
+(212011600, '宁巴', 'NI', 212010000),
+(212010900, '菲什敦', 'FT', 212010000),
+(214010500, '帕涅韦日斯', 'PA', 214010000),
+(214010700, '特尔希艾', 'TE', 214010000),
+(214010200, '考纳斯', 'KA', 214010000),
+(214010600, '陶拉格', 'TA', 214010000),
+(214010300, '克莱佩达', 'KL', 214010000),
+(214010900, '乌田纳', 'UT', 214010000),
+(214010400, '马里扬泊列', 'MA', 214010000),
+(214010800, '维尔纽斯', 'VI', 214010000),
+(214010100, '阿利图斯', 'AL', 214010000),
+(214011000, '希奥利艾', 'SI', 214010000),
+(214011100, '亚克曼', 'AKM', 214010000),
+(217010200, '格雷文马赫', 'GG', 217010000),
+(217010100, '迪基希', 'DD', 217010000),
+(217010300, '卢森堡', 'LL', 217010000),
+(218011600, '乌姆塔拉', 'UM', 218010000),
+(218010500, '基布耶', 'KY', 218010000),
+(218010400, '基本古', 'KG', 218010000),
+(218010300, '恩延扎', 'NY', 218010000),
+(218010800, '吉孔戈罗', 'GK', 218010000),
+(218010700, '基加利市', 'KV', 218010000),
+(218011100, '卡布加', 'KA', 218010000),
+(218010900, '吉塞尼', 'GS', 218010000),
+(218011300, '鲁汉戈', 'RH', 218010000),
+(218011500, '尚古古', 'CY', 218010000),
+(218011200, '卢瓦马加纳', 'RW', 218010000),
+(218010200, '布塔雷', 'BU', 218010000),
+(218011000, '吉塔拉马', 'GT', 218010000),
+(218010100, '比温巴', 'BY', 218010000),
+(218010600, '基加利-恩加利', 'KR', 218010000),
+(218011400, '鲁亨盖里', 'RU', 218010000),
+(219013700, '瓦斯卢伊', 'VA', 219010000),
+(219011800, '康斯坦察', 'CT', 219010000),
+(219011700, '久尔久', 'GG', 219010000),
+(219012500, '皮特什蒂', 'PI', 219010000),
+(219011000, '布勒伊拉', 'BL', 219010000),
+(219011500, '福克沙尼', 'FO', 219010000),
+(219011900, '克拉约瓦', 'DO', 219010000),
+(219011600, '加拉茨', 'GL', 219010000),
+(219012900, '圣格奥尔基', 'SG', 219010000),
+(219012400, '梅尔库里亚丘克', 'MC', 219010000),
+(219013200, '苏恰瓦', 'SU', 219010000),
+(219011100, '布泽乌', 'BZ', 219010000),
+(219014100, '扎勒乌', 'ZA', 219010000),
+(219010500, '巴亚马雷', 'BM', 219010000),
+(219013500, '特尔古日乌', 'TJ', 219010000),
+(219011400, '蒂米什瓦拉', 'TI', 219010000),
+(219012000, '克勒拉希', 'CR', 219010000),
+(219013800, '锡比乌', 'SO', 219010000),
+(219010300, '奥拉迪亚', 'OR', 219010000),
+(219010800, '布加勒斯特', 'BC', 219010000),
+(219010200, '阿拉德', 'AR', 219010000),
+(219013900, '雅西', 'IS', 219010000),
+(219010900, '布拉索夫', 'BS', 219010000),
+(219013100, '斯洛博齐亚', 'SB', 219010000),
+(219012300, '雷希察', 'RE', 219010000),
+(219010400, '巴克乌', 'BA', 219010000),
+(219012700, '普洛耶什蒂', 'PL', 219010000),
+(219013300, '特尔戈维什泰', 'TA', 219010000),
+(219011200, '德罗贝塔-塞维林堡', 'DT', 219010000),
+(219012600, '皮亚特拉尼亚姆茨', 'PN', 219010000),
+(219013600, '图尔恰', 'TU', 219010000),
+(219012800, '萨图·马雷', 'SM', 219010000),
+(219010100, '阿尔巴尤利亚', 'AL', 219010000),
+(219013400, '特尔古穆列什', 'TM', 219010000),
+(219010700, '博托沙尼', 'BO', 219010000),
+(219011300, '德瓦', 'DE', 219010000),
+(219012200, '勒姆尼库沃尔恰', 'VI', 219010000),
+(219013000, '斯拉蒂纳', 'ST', 219010000),
+(219012100, '克卢日纳波卡', 'CN', 219010000),
+(219014000, '亚厉山德里亚', 'AD', 219010000),
+(219010600, '比斯特里察', 'BN', 219010000),
+(220010500, '图阿马西拉', 'TM', 220010000),
+(220010200, '菲亚纳兰楚阿', 'FN', 220010000),
+(220010600, '图利亚拉', 'TL', 220010000),
+(220010100, '安齐拉纳纳', 'AS', 220010000),
+(220010300, '马哈赞加', 'MJ', 220010000),
+(220010400, '塔那那利佛', 'AN', 220010000),
+(221011000, '福阿穆拉库', 'FMU', 221010000),
+(221011400, '马累岛', 'MAA', 221010000),
+(221010600, '北尼兰杜', 'NAD', 221010000),
+(221011100, '哈杜马蒂', 'HDH', 221010000),
+(221011800, '南马洛斯马杜卢', 'MAU', 221010000),
+(221011300, '马累', 'MAL', 221010000),
+(221011900, '南米拉杜马杜卢', 'MLU', 221010000),
+(221010100, '阿杜', 'ADD', 221010000),
+(221011200, '科卢马杜卢', 'KLH', 221010000),
+(221012000, '南尼兰杜', 'NAU', 221010000);
+INSERT INTO city(id, name, code, state_id) VALUES(221010800, '法迪福卢', 'FAA', 221010000),
+(221011500, '穆拉库', 'MUA', 221010000),
+(221011700, '南蒂拉杜马蒂', 'THU', 221010000),
+(221010500, '北米拉杜马杜卢', 'MLD', 221010000),
+(221010200, '北阿里', 'AAD', 221010000),
+(221010700, '北苏瓦迪瓦', 'HAD', 221010000),
+(221010900, '费利杜', 'FEA', 221010000),
+(221010400, '北马洛斯马杜卢', 'MAD', 221010000),
+(221010300, '北蒂拉杜马蒂', 'THD', 221010000),
+(221012100, '南苏瓦迪瓦', 'HAU', 221010000),
+(221011600, '南阿里', 'AAU', 221010000),
+(223010100, '北部区', 'N', 223010000),
+(223010200, '南部区', 'S', 223010000),
+(223010300, '中央区', 'C', 223010000),
+(224110400, '居銮', 'KLA', 224110000),
+(224110200, '丰盛港', 'MEP', 224110000),
+(224110100, '笨珍', 'POW', 224110000),
+(224110300, '哥打丁宜', 'KTI', 224110000),
+(224110700, '昔加末', 'SGM', 224110000),
+(224110500, '峇株巴辖', 'BAT', 224110000),
+(224110600, '麻坡', 'MUA', 224110000),
+(224110800, '新山', 'JHB', 224110000),
+(224120500, '林茂', 'REM', 224120000),
+(224120200, '淡边', 'TAI', 224120000),
+(224120400, '瓜拉庇劳', 'KPI', 224120000),
+(224120300, '芙蓉', 'SRB', 224120000),
+(224120700, '日叻务', 'JEL', 224120000),
+(224120600, '仁保', 'JEP', 224120000),
+(224120100, '波德申', 'PDI', 224120000),
+(224090300, '淡马鲁', 'TEM', 224090000),
+(224090800, '立卑', 'KUL', 224090000),
+(224090500, '关丹', 'KUA', 224090000),
+(224090200, '北根', 'PEK', 224090000),
+(224090400, '而连突', 'JER', 224090000),
+(224091100, '云冰', 'TOM', 224090000),
+(224090700, '劳勿', 'RAU', 224090000),
+(224091000, '文冬', 'BEN', 224090000),
+(224090100, '百乐', 'BER', 224090000),
+(224090600, '金马仑高原', 'CAH', 224090000),
+(224090900, '马兰', 'MAR', 224090000),
+(224020100, '加央', 'KGR', 224020000),
+(224040900, '万拉峇鲁', 'BMA', 224040000),
+(224040100, '巴东得腊', 'PGT', 224040000),
+(224040700, '华玲', 'BLZ', 224040000),
+(224040200, '笨筒', 'PEN', 224040000),
+(224040300, '浮罗交怡', 'LGK', 224040000),
+(224040600, '瓜拉姆达', 'KMU', 224040000),
+(224040400, '哥打士打', 'KOR', 224040000),
+(224040500, '古邦巴素', 'KPA', 224040000),
+(224040800, '居林', 'KLM', 224040000),
+(224131600, '瓜拉班尤', 'KPU', 224130000),
+(224130200, '保佛', 'BEF', 224130000),
+(224131400, '古打毛律', 'KBD', 224130000),
+(224131900, '拿笃', 'LDU', 224130000),
+(224132200, '西比陶', 'SPT', 224130000),
+(224130700, '丹南', 'TEN', 224130000),
+(224132300, '仙本那', 'SMM', 224130000),
+(224130900, '斗亚兰', 'TUR', 224130000),
+(224130100, '吧巴', 'PAP', 224130000),
+(224131000, '哥打基纳巴鲁', 'BKI', 224130000),
+(224130300, '比鲁兰', 'BEL', 224130000),
+(224130600, '担布南', 'TAB', 224130000),
+(224131700, '京那巴登岸', 'KBT', 224130000),
+(224130500, '兵南邦', 'PMP', 224130000),
+(224131500, '古纳', 'KUN', 224130000),
+(224132100, '山打根', 'SDK', 224130000),
+(224131200, '根地咬', 'KEG', 224130000),
+(224130800, '斗湖', 'TAW', 224130000),
+(224131100, '哥打马鲁都', 'KMU', 224130000),
+(224131800, '兰脑', 'RNU', 224130000),
+(224132000, '纳巴湾', 'NAB', 224130000),
+(224130400, '必达士', 'PIT', 224130000),
+(224131300, '古达', 'KUD', 224130000),
+(224080100, '纳闽', 'LBU', 224080000),
+(224080200, '维多利亚', 'VIC', 224080000),
+(224050100, '巴西富地', 'PPU', 224050000),
+(224050400, '道北', 'TUM', 224050000),
+(224051000, '日里', 'JEL', 224050000),
+(224050500, '登卓', 'BAC', 224050000),
+(224050700, '瓜拉吉赖', 'KUG', 224050000),
+(224050800, '话望生', 'GMU', 224050000),
+(224050200, '巴西马', 'PMA', 224050000),
+(224050600, '哥打巴鲁', 'KBR', 224050000),
+(224050900, '马樟', 'MAC', 224050000),
+(224050300, '丹那美拉', 'TMR', 224050000),
+(224140100, '古晋', 'KCH', 224140000),
+(224140900, '斯里阿曼', 'SAM', 224140000),
+(224140400, '美里', 'MYY', 224140000),
+(224140800, '三马拉汉', 'SMH', 224140000),
+(224141100, '泗务', 'SBW', 224140000),
+(224141000, '泗里街', 'SAR', 224140000),
+(224140500, '民都鲁', 'BTU', 224140000),
+(224140700, '木中', 'BTG', 224140000),
+(224140300, '林梦', 'LMN', 224140000),
+(224140600, '木胶', 'MKM', 224140000),
+(224140200, '加帛', 'KPI', 224140000),
+(224070200, '亚罗牙也', 'AOG', 224070000),
+(224070300, '野新', 'JAS', 224070000),
+(224070100, '马六甲市', 'MEL', 224070000),
+(224100100, '安顺', 'TAS', 224100000),
+(224100300, '和丰', 'SSP', 224100000),
+(224100200, '丹绒马', 'TAM', 224100000),
+(224100400, '紅土坎', 'LUM', 224100000),
+(224100500, '华都牙也', 'BGA', 224100000),
+(224100600, '江沙', 'KAR', 224100000),
+(224100800, '怡保', 'IPH', 224100000),
+(224100700, '太平', 'TPG', 224100000),
+(224150600, '乌鲁冷岳', 'HUL', 224150000),
+(224150100, '八打灵', 'PJA', 224150000),
+(224150400, '瓜拉雪兰莪', 'KSL', 224150000),
+(224150700, '乌鲁雪兰莪', 'HUS', 224150000),
+(224150800, '雪邦', 'SEP', 224150000),
+(224150300, '瓜拉冷岳', 'KLG', 224150000),
+(224150200, '鹅麦', 'GOM', 224150000),
+(224150500, '沙白安南', 'SBM', 224150000),
+(224030300, '龙运', 'DGN', 224030000),
+(224030500, '实兆', 'SET', 224030000),
+(224030100, '甘马挽', 'KEM', 224030000),
+(224030200, '瓜拉丁加奴', 'TGG', 224030000),
+(224030700, '勿述', 'BES', 224030000),
+(224030400, '马江', 'MAR', 224030000),
+(224030600, '乌鲁', 'HUL', 224030000),
+(224060100, '吉隆坡', 'KUL', 224060000),
+(224010200, '槟城', 'PEN', 224010000),
+(224010300, '大山脚', 'BMJ', 224010000),
+(224010100, '北海', 'BWH', 224010000),
+(224010400, '高渊', 'NTE', 224010000),
+(225010100, '巴马科首都区', 'CD', 225010000),
+(225010400, '卡伊', 'KY', 225010000),
+(225010300, '加奥', 'GA', 225010000),
+(225010700, '塞古', 'SG', 225010000),
+(225010200, '基达尔', 'KD', 225010000),
+(225010800, '通布图', 'TB', 225010000),
+(225010500, '库利科罗', 'KL', 225010000),
+(225010900, '锡卡索', 'SK', 225010000),
+(225010600, '莫普提', 'MP', 225010000),
+(232011200, '西胡德', 'HC', 232010000),
+(232010400, '东胡德', 'HG', 232010000),
+(232010200, '阿萨巴', 'AS', 232010000),
+(232011300, '因希里', 'IN', 232010000),
+(232010300, '卜拉克纳', 'BR', 232010000),
+(232011100, '提里斯-宰穆尔', 'TZ', 232010000),
+(232010500, '戈尔戈勒', 'GO', 232010000),
+(232010800, '努瓦克肖特特区', 'NO', 232010000),
+(232010100, '阿德拉尔', 'AD', 232010000),
+(232011000, '特拉扎', 'TR', 232010000),
+(232010600, '吉迪马卡', 'GM', 232010000),
+(232010900, '塔甘特', 'TA', 232010000),
+(232010700, '努瓦迪布湾', 'DN', 232010000),
+(233100300, '克利夫兰', 'CLE', 233100000),
+(233100400, '托莱多', 'TOL', 233100000),
+(233100100, '代顿', 'DYT', 233100000),
+(233100500, '辛辛那提', 'CVG', 233100000),
+(233100200, '哥伦布', 'CZX', 233100000),
+(233440200, '曼彻斯特', 'MHT', 233440000),
+(233440300, '纳舒厄', 'ASH', 233440000),
+(233440100, '康科德', 'CON', 233440000),
+(233320200, '明尼阿波利斯', 'MES', 233320000),
+(233320100, '罗切斯特', 'RST', 233320000),
+(233320300, '圣保罗', 'STP', 233320000),
+(233470700, '优玛', 'YUM', 233470000),
+(233470200, '格兰代尔', 'GDA', 233470000),
+(233470300, '梅萨', 'MQA', 233470000),
+(233470400, '史卡兹代尔', 'STZ', 233470000),
+(233470600, '图森', 'TUC', 233470000),
+(233470100, '凤凰城', 'PHX', 233470000),
+(233470500, '坦普', 'TPE', 233470000),
+(233190200, '奥弗兰公园', 'OVL', 233190000),
+(233190900, '威奇托', 'ICT', 233190000),
+(233190700, '曼哈顿', 'MHK', 233190000),
+(233190800, '托皮卡', 'TOP', 233190000),
+(233190300, '哈钦森', 'HCH', 233190000),
+(233190500, '莱文沃思', 'XIA', 233190000),
+(233190600, '劳伦斯', 'LWC', 233190000),
+(233190100, '阿比林', 'ABZ', 233190000),
+(233190400, '堪萨斯城', 'KCK', 233190000),
+(233080100, '阿伦敦', 'AEW', 233080000),
+(233080300, '匹兹堡', 'PIT', 233080000),
+(233080200, '费城', 'PHL', 233080000),
+(233490200, '韦恩堡', 'FWA', 233490000),
+(233490300, '印第安纳波利斯', 'IND', 233490000),
+(233490100, '埃文斯维尔', 'EVV', 233490000),
+(233350300, '林肯', 'LNK', 233350000),
+(233350100, '奥马哈', 'OMA', 233350000),
+(233350200, '贝尔维尤', 'XDE', 233350000),
+(233220200, '路易斯维尔', 'LUI', 233220000),
+(233220300, '欧文斯伯勒', 'OWB', 233220000),
+(233220100, '列克星敦', 'LEX', 233220000),
+(233150100, '华盛顿哥伦比亚特区', 'WAS', 233150000),
+(233210100, '阿斯彭', 'ASE', 233210000),
+(233210400, '大章克申', 'GJT', 233210000),
+(233210700, '科罗拉多斯普林斯', 'COS', 233210000),
+(233210300, '博尔德', 'WBU', 233210000),
+(233210500, '丹佛', 'DEN', 233210000),
+(233210800, '韦尔', 'VAC', 233210000),
+(233210600, '柯林斯堡', 'FNL', 233210000),
+(233210200, '奥罗拉', 'AUX', 233210000),
+(233420300, '帕克斯堡', 'PKB', 233420000),
+(233420100, '查尔斯顿', 'CRW', 233420000),
+(233420200, '亨廷顿', 'HNU', 233420000);
+INSERT INTO city(id, name, code, state_id) VALUES(233460200, '帕特森', 'PAT', 233460000),
+(233460100, '纽瓦克', 'NRK', 233460000),
+(233460300, '泽西城', 'JEC', 233460000),
+(233170600, '谢里登', 'SHR', 233170000),
+(233170300, '拉勒米', 'LAR', 233170000),
+(233170100, '埃文斯顿', 'EVD', 233170000),
+(233170500, '夏延', 'CYS', 233170000),
+(233170200, '卡斯珀', 'CPR', 233170000),
+(233170400, '罗克斯普林斯', 'RKS', 233170000),
+(233130300, '杰克逊维尔', 'JAX', 233130000),
+(233130200, '基韦斯特', 'EYW', 233130000),
+(233130500, '罗德岱堡', 'FLL', 233130000),
+(233130700, '圣彼德斯堡市', 'PIE', 233130000),
+(233130800, '塔拉哈西', 'TLH', 233130000),
+(233130400, '卡纳维尔角', 'CPV', 233130000),
+(233130100, '奥兰多', 'ORL', 233130000),
+(233130600, '迈阿密', 'MIA', 233130000),
+(233130900, '坦帕', 'TPA', 233130000),
+(233160100, '斯波坎', 'GEG', 233160000),
+(233160300, '西雅图', 'SEA', 233160000),
+(233160200, '塔科马', 'TTW', 233160000),
+(233030100, '安克雷奇', 'ANC', 233030000),
+(233030200, '费尔班克斯', 'FAI', 233030000),
+(233030300, '朱诺', 'JNU', 233030000),
+(233480200, '奥罗拉', 'AUZ', 233480000),
+(233480300, '布卢明顿', 'BLO', 233480000),
+(233481000, '卡本代尔', 'MDH', 233480000),
+(233481100, '罗克艾兰', 'RKI', 233480000),
+(233481200, '罗克福德', 'RFD', 233480000),
+(233481700, '沃其根', 'UGN', 233480000),
+(233480400, '丹维尓', 'DVI', 233480000),
+(233480100, '奥尔顿', 'ALN', 233480000),
+(233480500, '迪卡尔布', 'DEK', 233480000),
+(233480600, '迪凯持', 'DEC', 233480000),
+(233480700, '东圣路易斯', 'ESL', 233480000),
+(233481500, '森特勒利亚', 'CRA', 233480000),
+(233480900, '盖尔斯堡', 'GSU', 233480000),
+(233480800, '厄巴纳-香槟', 'CMI', 233480000),
+(233481300, '诺黙尔', 'NOM', 233480000),
+(233481400, '皮奥里亚', 'PLA', 233480000),
+(233481600, '斯普林菲尔德', 'SPI', 233480000),
+(233481800, '芝加哥', 'CHI', 233480000),
+(233240400, '普罗维登斯', 'PVD', 233240000),
+(233240100, '波塔基特', 'PAW', 233240000),
+(233240300, '纽波特', 'NPO', 233240000),
+(233240500, '韦斯特利', 'WST', 233240000),
+(233240200, '克兰斯顿', 'CQH', 233240000),
+(233240700, '沃威克', 'UZO', 233240000),
+(233240600, '文索基特', 'SFN', 233240000),
+(233430300, '希洛', 'ITO', 233430000),
+(233430200, '檀香山', 'HNL', 233430000),
+(233430100, '凯卢阿', 'KHH', 233430000),
+(233510100, '奥古斯塔', 'AUT', 233510000),
+(233510300, '梅肯', 'MCN', 233510000),
+(233510500, '亚特兰大', 'TAT', 233510000),
+(233510200, '哥伦布', 'CZX', 233510000),
+(233510400, '沙瓦纳', 'SAV', 233510000),
+(233230300, '新奥尔良', 'MSY', 233230000),
+(233230200, '什里夫波特', 'SHV', 233230000),
+(233230100, '巴吞鲁日', 'BTR', 233230000),
+(233060200, '大福克斯', 'GFK', 233060000),
+(233060400, '迈诺特', 'MOT', 233060000),
+(233060100, '俾斯麦', 'BIS', 233060000),
+(233060300, '法戈', 'FAR', 233060000),
+(233070300, '格林斯伯勒', 'GBO', 233070000),
+(233070100, '艾许维尔', 'AEV', 233070000),
+(233070200, '杜罕', 'DHH', 233070000),
+(233070600, '洛利杜罕都会区', 'RDU', 233070000),
+(233070500, '罗利', 'RAG', 233070000),
+(233070400, '教堂山', 'CHE', 233070000),
+(233070700, '夏洛特', 'CRQ', 233070000),
+(233310100, '班戈', 'BNQ', 233310000),
+(233310200, '波特兰', 'POL', 233310000),
+(233310300, '刘易斯顿', 'QLW', 233310000),
+(233370300, '纽约市', 'QEE', 233370000),
+(233370200, '罗切斯特', 'ROC', 233370000),
+(233370100, '布法罗', 'FFO', 233370000),
+(233020100, '伯明罕', 'BHM', 233020000),
+(233020200, '蒙哥马利', 'MGM', 233020000),
+(233020300, '莫比尔', 'MOB', 233020000),
+(233110100, '俄克拉荷马城', 'OKC', 233110000),
+(233110200, '诺曼', 'OUN', 233110000),
+(233110300, '塔尔萨', 'TUL', 233110000),
+(233410300, '切萨皮克', 'HTW', 233410000),
+(233410100, '弗吉尼亚比奇', 'VAB', 233410000),
+(233410200, '诺福克', 'ORF', 233410000),
+(233040100, '爱达荷福尔斯', 'IDA', 233040000),
+(233040400, '布莱克富特', 'BLK', 233040000),
+(233040500, '科达伦', 'COE', 233040000),
+(233040700, '莫斯科', 'MJL', 233040000),
+(233040600, '刘易斯顿', 'LWS', 233040000),
+(233041000, '岂彻姆', 'QKM', 233040000),
+(233040300, '博伊西', 'BOI', 233040000),
+(233041100, '森瓦利', 'SVY', 233040000),
+(233041200, '亚美利加瀑布城', 'YAF', 233040000),
+(233040200, '波卡特洛', 'PIH', 233040000),
+(233040800, '墨菲', 'ZMU', 233040000),
+(233040900, '楠帕', 'NPA', 233040000),
+(233180300, '圣迭戈', 'SAN', 233180000),
+(233180200, '洛杉矶', 'LAX', 233180000),
+(233180100, '旧金山', 'SFO', 233180000),
+(233180400, '圣何塞', 'SJC', 233180000),
+(233390800, '士麦那', 'MQY', 233390000),
+(233390500, '纳什维尔', 'BNA', 233390000),
+(233390100, '布利斯托', 'BSJ', 233390000),
+(233390600, '诺克斯维尔', 'TYS', 233390000),
+(233390200, '查塔努加', 'CHA', 233390000),
+(233390700, '三城区', 'YTC', 233390000),
+(233390900, '斯普林希尔', 'RGI', 233390000),
+(233390300, '金斯波特', 'TRI', 233390000),
+(233391000, '约翰逊城', 'JCY', 233390000),
+(233390400, '孟菲斯', 'MEM', 233390000),
+(233120200, '波特兰', 'PDX', 233120000),
+(233120900, '科瓦利斯', 'YCV', 233120000),
+(233121200, '塞勒姆', 'SLE', 233120000),
+(233121000, '库斯贝', 'COB', 233120000),
+(233120100, '本德', 'BZO', 233120000),
+(233120400, '达拉斯', 'DAC', 233120000),
+(233120600, '格兰茨帕斯', 'XFX', 233120000),
+(233120500, '蒂拉穆克', 'TLM', 233120000),
+(233120700, '胡德里弗', 'HDX', 233120000),
+(233121100, '梅德福', 'MFR', 233120000),
+(233121400, '斯普林菲尔德', 'SPY', 233120000),
+(233121500, '尤金', 'EUG', 233120000),
+(233120300, '达尔斯', 'DLS', 233120000),
+(233120800, '火山口湖', 'CTR', 233120000),
+(233121300, '圣海伦斯', 'STH', 233120000),
+(233050300, '锡达拉皮兹', 'CID', 233050000),
+(233050200, '得梅因', 'DSM', 233050000),
+(233050100, '达文波特', 'DVN', 233050000),
+(233450200, '拉斯克鲁塞斯', 'LRU', 233450000),
+(233450400, '圣菲', 'SAF', 233450000),
+(233450300, '罗斯韦尔', 'ROW', 233450000),
+(233450100, '阿尔伯克基', 'ABQ', 233450000),
+(233290400, '哈蒂斯堡', 'HBG', 233290000),
+(233290100, '比洛克西', 'BIX', 233290000),
+(233290300, '格林维尔', 'GLH', 233290000),
+(233290700, '维克斯堡', 'VKS', 233290000),
+(233290600, '默里迪恩', 'MEI', 233290000),
+(233290500, '杰克逊', 'JAN', 233290000),
+(233290200, '格尔夫波特', 'GPT', 233290000),
+(233270300, '米苏拉', 'MSO', 233270000),
+(233270200, '大瀑布村', 'GTF', 233270000),
+(233270100, '比灵斯', 'BGS', 233270000),
+(233340200, '查尔斯顿', 'CHS', 233340000),
+(233340100, '北查尔斯顿', 'NTS', 233340000),
+(233340300, '哥伦比亚', 'COV', 233340000),
+(233090100, '埃尔帕索', 'ELP', 233090000),
+(233090600, '拉雷多', 'LRD', 233090000),
+(233090900, '休斯敦', 'HOU', 233090000),
+(233090400, '哥帕斯基斯蒂', 'CRP', 233090000),
+(233090500, '交维斯顿', 'GLS', 233090000),
+(233090800, '圣安东尼奥', 'SAT', 233090000),
+(233090700, '麦亚伦', 'TXC', 233090000),
+(233090300, '达拉斯', 'DAL', 233090000),
+(233090200, '奥斯汀', 'AUS', 233090000),
+(233280200, '杰佛逊市', 'JEF', 233280000),
+(233280500, '斯普林菲尔德', 'SGF', 233280000),
+(233280400, '圣路易斯', 'STL', 233280000),
+(233280300, '堪萨斯城', 'MKC', 233280000),
+(233280100, '哥伦比亚', 'COV', 233280000),
+(233360200, '北拉斯维加斯', 'NVS', 233360000),
+(233360300, '弗吉尼亚城', 'VGI', 233360000),
+(233360400, '亨德森', 'HNZ', 233360000),
+(233360500, '卡森城', 'CSN', 233360000),
+(233360600, '拉斯维加斯', 'LAS', 233360000),
+(233360100, '埃尔科', 'EKO', 233360000),
+(233360700, '里诺', 'RNO', 233360000),
+(233360800, '斯帕克斯', 'SPK', 233360000),
+(233200600, '纽黑文', 'HVN', 233200000),
+(233200100, '布里奇波特', 'BDR', 233200000),
+(233200700, '韦斯特波特', 'WPT', 233200000),
+(233200500, '米德尔顿', 'XIN', 233200000),
+(233200800, '沃特伯里', 'WAT', 233200000),
+(233200300, '格林尼治', 'GRH', 233200000),
+(233200900, '新不列颠', 'NWT', 233200000),
+(233200200, '达里恩', 'DAQ', 233200000),
+(233200400, '哈特福德', 'HFD', 233200000),
+(233401200, '希博伊根', 'SBM', 233400000),
+(233400600, '拉辛', 'RAC', 233400000),
+(233400500, '拉克罗斯', 'LSE', 233400000),
+(233400700, '马尼托沃克', 'MTW', 233400000),
+(233400900, '密尔沃基', 'MKE', 233400000),
+(233401100, '沃索', 'AUW', 233400000),
+(233400800, '迈迪逊', 'QMD', 233400000),
+(233400300, '格林贝', 'GBK', 233400000),
+(233400200, '奥什科什', 'OSH', 233400000),
+(233400400, '基诺沙', 'ENW', 233400000),
+(233401000, '欧克莱尓', 'EAU', 233400000),
+(233400100, '阿普尓顿', 'ATW', 233400000),
+(233330100, '阿伯丁', 'ABK', 233330000),
+(233330200, '拉皮德城', 'RAP', 233330000),
+(233330300, '苏福尔斯', 'FSD', 233330000),
+(233010100, '费耶特维尔', 'FYV', 233010000),
+(233010200, '史密斯堡', 'FSM', 233010000),
+(233010300, '小石城', 'LIT', 233010000),
+(233250200, '盖瑟斯堡', 'GAI', 233250000),
+(233250300, '罗克维尔', 'RKV', 233250000),
+(233250100, '巴尔的摩', 'BAL', 233250000),
+(233301500, '沃伦', 'WAM', 233300000);
+INSERT INTO city(id, name, code, state_id) VALUES(233300500, '迪尔伯恩', 'DEO', 233300000),
+(233300800, '怀恩多特', 'WYD', 233300000),
+(233301200, '庞菷亚克', 'PTK', 233300000),
+(233300600, '底特律', 'DET', 233300000),
+(233301300, '萨吉诺', 'SGM', 233300000),
+(233301600, '休伦港', 'PHN', 233300000),
+(233301400, '苏圣玛丽', 'SSM', 233300000),
+(233300300, '贝城', 'BCY', 233300000),
+(233301000, '兰辛', 'LAN', 233300000),
+(233300900, '卡拉马袓', 'AZO', 233300000),
+(233300700, '弗林特', 'FNT', 233300000),
+(233301100, '马斯基根', 'MKG', 233300000),
+(233300100, '安娜堡', 'ARB', 233300000),
+(233300400, '大急流城', 'GRR', 233300000),
+(233300200, '巴特尔克里克', 'BTL', 233300000),
+(233380100, '多佛', 'DOR', 233380000),
+(233380300, '威明顿', 'ILG', 233380000),
+(233380200, '纽瓦克', 'NWK', 233380000),
+(233260200, '斯普林菲尔德', 'SFY', 233260000),
+(233260100, '波士顿', 'BZD', 233260000),
+(233260300, '伍斯特', 'ORH', 233260000),
+(233500700, '西瓦利城', 'WVC', 233500000),
+(233500400, '帕克城', 'PAC', 233500000),
+(233500600, '圣乔治', 'SGU', 233500000),
+(233500800, '盐湖城', 'SLC', 233500000),
+(233500300, '欧仁', 'OEU', 233500000),
+(233500200, '雷登', 'LTJ', 233500000),
+(233500100, '奥格登', 'OGD', 233500000),
+(233500500, '普罗沃', 'PVU', 233500000),
+(233140300, '南伯灵顿', 'ZBR', 233140000),
+(233140100, '伯灵顿', 'BTV', 233140000),
+(233140200, '拉特兰', 'RUT', 233140000),
+(234011300, '乌波卢岛', 'UPO', 234010000),
+(234010400, '法塞莱莱阿加', 'FAA', 234010000),
+(234010300, '艾加伊勒泰', 'AIT', 234010000),
+(234011000, '图阿马萨加', 'TUA', 234010000),
+(234010100, '阿纳', 'AAN', 234010000),
+(234010700, '帕劳利', 'PAL', 234010000),
+(234011100, '瓦奥福诺蒂', 'VAF', 234010000),
+(234010600, '加加埃毛加', 'GMG', 234010000),
+(234010900, '萨瓦伊岛', 'SAV', 234010000),
+(234010200, '阿图阿', 'ATU', 234010000),
+(234010800, '萨图帕伊泰阿', 'SAT', 234010000),
+(234011200, '韦西加诺', 'VAI', 234010000),
+(234010500, '加盖福毛加', 'GFG', 234010000),
+(236010100, '巴彦洪格尔', '69', 236010000),
+(236012100, '中戈壁', '59', 236010000),
+(236011500, '前杭爱', 'UVO', 236010000),
+(236011100, '科布多', '43', 236010000),
+(236010200, '巴彦乌勒盖', '71', 236010000),
+(236011000, '后杭爱', '73', 236010000),
+(236010500, '东方', '61', 236010000),
+(236011200, '肯特', '39', 236010000),
+(236010600, '东戈壁', '63', 236010000),
+(236010400, '达尔汗乌勒', '37', 236010000),
+(236011600, '色楞格', '49', 236010000),
+(236011300, '库苏古尔', '41', 236010000),
+(236011700, '苏赫巴托尔', '51', 236010000),
+(236011400, '南戈壁', 'UMN', 236010000),
+(236012200, '中央', '47', 236010000),
+(236011800, '乌布苏', '46', 236010000),
+(236010800, '戈壁阿尔泰', '65', 236010000),
+(236010900, '戈壁苏木贝尔', '64', 236010000),
+(236011900, '乌兰巴托市', '1', 236010000),
+(236012000, '扎布汗', '57', 236010000),
+(236010700, '鄂尔浑', '35', 236010000),
+(236010300, '布尔干', '67', 236010000),
+(238010100, '达卡', 'DAC', 238010000),
+(238010300, '库尔纳', 'KHL', 238010000),
+(238010200, '吉大港', 'CGP', 238010000),
+(240011000, '拉利伯塔德', 'LD', 240010000),
+(240010700, '卡哈马卡', 'CJ', 240010000),
+(240012700, '乌卡亚利', 'UC', 240010000),
+(240010600, '胡宁', 'JU', 240010000),
+(240011400, '马德雷德迪奥斯', 'MD', 240010000),
+(240012100, '圣马丁', 'SM', 240010000),
+(240012900, '伊卡', 'IC', 240010000),
+(240011800, '普诺', 'PU', 240010000),
+(240010300, '阿亚库乔', 'AY', 240010000),
+(240011200, '利马', 'LI', 240010000),
+(240012200, '苏拉纳', 'SUL', 240010000),
+(240010400, '安卡什', 'AN', 240010000),
+(240011300, '洛雷托', 'LO', 240010000),
+(240012500, '瓦努科', 'HO', 240010000),
+(240011100, '兰巴耶克', 'LY', 240010000),
+(240011600, '帕斯科', 'PA', 240010000),
+(240012600, '万卡维利卡', 'HV', 240010000),
+(240010500, '胡利亚卡', 'JUL', 240010000),
+(240011700, '皮乌拉', 'PI', 240010000),
+(240010100, '阿雷基帕', 'AR', 240010000),
+(240012000, '钦查阿尔塔', 'CHI', 240010000),
+(240010900, '库斯科', 'CU', 240010000),
+(240011500, '莫克瓜', 'MO', 240010000),
+(240012300, '塔克纳', 'TA', 240010000),
+(240010800, '卡亚俄', 'CL', 240010000),
+(240012400, '通贝斯', 'TU', 240010000),
+(240010200, '阿普里马克', 'AP', 240010000),
+(240011900, '钦博特', 'CHM', 240010000),
+(240012800, '亚马孙', 'AM', 240010000),
+(241011400, '伊洛瓦底省', 'AY', 241010000),
+(241010600, '克耶邦', 'KH', 241010000),
+(241010700, '马圭省', 'MG', 241010000),
+(241011300, '仰光省', 'YG', 241010000),
+(241010300, '德林达依省', 'TN', 241010000),
+(241010100, '勃固省', 'BG', 241010000),
+(241010400, '克伦邦', 'KN', 241010000),
+(241010900, '孟邦', 'MN', 241010000),
+(241011200, '实皆省', 'SG', 241010000),
+(241011000, '钦邦', 'CH', 241010000),
+(241010200, '掸邦', 'SH', 241010000),
+(241010500, '克钦邦', 'KC', 241010000),
+(241011100, '若开邦', 'RK', 241010000),
+(241010800, '曼德勒省', 'MD', 241010000),
+(243010800, '乌季达', 'OUJ', 243010000),
+(243010200, '得土安', 'TET', 243010000),
+(243010900, '西撒哈拉', 'WSH', 243010000),
+(243010400, '卡萨布兰卡', 'CBL', 243010000),
+(243010500, '拉巴特', 'RSA', 243010000),
+(243010700, '梅克内斯', 'MKN', 243010000),
+(243010300, '非斯', 'FES', 243010000),
+(243010100, '丹吉尔', 'TGR', 243010000),
+(243010600, '马拉喀什', 'MRK', 243010000),
+(246010500, '奥夫雷贡城', 'OBR', 246010000),
+(246014900, '特拉斯卡拉', 'TLA', 246010000),
+(246012000, '科利马', 'COL', 246010000),
+(246014800, '坦皮科', 'TAM', 246010000),
+(246011200, '杜兰戈', 'DUR', 246010000),
+(246013700, '诺加莱斯', 'NOG', 246010000),
+(246011500, '瓜纳华托', 'GUA', 246010000),
+(246010300, '埃莫西约', 'HMO', 246010000),
+(246012100, '克雷塔罗', 'QUE', 246010000),
+(246011700, '华雷斯', 'JUZ', 246010000),
+(246015000, '特皮克', 'TPQ', 246010000),
+(246010900, '比利亚埃尔莫萨', 'VSA', 246010000),
+(246015700, '韦拉克鲁斯', 'VER', 246010000),
+(246015900, '新拉雷多', 'NLE', 246010000),
+(246015500, '瓦哈卡', 'OAX', 246010000),
+(246010100, '阿瓜斯卡连斯特', 'AGU', 246010000),
+(246013200, '蒙克洛瓦', 'LOV', 246010000),
+(246011600, '哈拉帕', 'JAL', 246010000),
+(246013300, '蒙特雷', 'MTY', 246010000),
+(246013800, '帕丘卡', 'PAC', 246010000),
+(246011100, '蒂华纳', 'TIJ', 246010000),
+(246014500, '塞拉亚', 'CLY', 246010000),
+(246012600, '莱昂', 'LEN', 246010000),
+(246015400, '托卢卡', 'TLC', 246010000),
+(246015800, '乌鲁阿潘', 'UPN', 246010000),
+(246015200, '图斯特拉-古铁雷斯', 'TGZ', 246010000),
+(246014600, '圣路易斯波托亚', 'SLP', 246010000),
+(246014000, '奇尔潘辛戈', 'CHI', 246010000),
+(246015100, '特瓦坎', 'TCN', 246010000),
+(246012400, '夸察夸拉克斯', 'COA', 246010000),
+(246013100, '梅里达', 'MID', 246010000),
+(246012300, '库利阿坎', 'CUL', 246010000),
+(246014700, '塔帕丘拉', 'TAP', 246010000),
+(246012700, '雷诺萨', 'REX', 246010000),
+(246014100, '奇瓦瓦', 'CHH', 246010000),
+(246013400, '莫雷利亚', 'MLM', 246010000),
+(246015300, '托雷翁', 'TRC', 246010000),
+(246010600, '奥里萨巴', 'ORI', 246010000),
+(246011000, '波萨里卡', 'PRH', 246010000),
+(246011900, '卡门', 'CAR', 246010000),
+(246013500, '墨西哥城', 'MEX', 246010000),
+(246012200, '库埃纳瓦卡', 'CVC', 246010000),
+(246013000, '马塔莫罗斯', 'MAM', 246010000),
+(246014300, '萨尔蒂约', 'SLW', 246010000),
+(246013600, '墨西卡利', 'MXL', 246010000),
+(246013900, '普埃布拉', 'PUE', 246010000),
+(246010800, '巴亚尔塔港', 'PVR', 246010000),
+(246014200, '切图马尔', 'CTM', 246010000),
+(246014400, '萨卡特卡斯', 'ZAC', 246010000),
+(246015600, '维多利亚城', 'VIC', 246010000),
+(246016000, '伊拉普阿托', 'IRP', 246010000),
+(246010400, '埃佩切', 'CAM', 246010000),
+(246012800, '洛斯莫奇斯', 'LMM', 246010000),
+(246010700, '巴利城', 'VHM', 246010000),
+(246011400, '瓜达拉哈拉', 'GDL', 246010000),
+(246012500, '拉巴斯', 'LAP', 246010000),
+(246012900, '马萨特兰', 'MZT', 246010000),
+(246010200, '阿卡普尔科', 'ACA', 246010000),
+(246011300, '恩塞纳达', 'ESE', 246010000),
+(246011800, '华雷斯港', 'BJU', 246010000),
+(247010300, '奥卡万戈', 'KV', 247010000),
+(247010800, '奥希科托', 'OO', 247010000),
+(247011300, '库内内', 'KU', 247010000),
+(247010500, '奥姆沙蒂', 'OT', 247010000),
+(247010700, '奥沙纳', 'ON', 247010000),
+(247010200, '奥汉圭纳', 'OW', 247010000),
+(247011200, '卡普里维', 'CA', 247010000),
+(247010400, '奥马赫科', 'OK', 247010000),
+(247010100, '埃龙戈', 'ER', 247010000),
+(247011000, '霍马斯', 'KH', 247010000),
+(247011100, '卡拉斯', 'KR', 247010000),
+(247010600, '奥乔宗蒂约巴', 'OJ', 247010000),
+(247010900, '哈达普', 'HA', 247010000),
+(248011900, '金伯利', 'KIM', 248010000),
+(248011300, '东巴克利', 'BAE', 248010000),
+(248013500, '萨索尔堡', 'SAS', 248010000),
+(248010600, '比索', 'BIY', 248010000),
+(248012400, '莱迪史密斯', 'LAY', 248010000);
+INSERT INTO city(id, name, code, state_id) VALUES(248014300, '韦尔科姆', 'WEL', 248010000),
+(248012500, '兰德方丹', 'RFT', 248010000),
+(248012600, '理查兹湾', 'RCB', 248010000),
+(248012200, '库鲁曼', 'KMH', 248010000),
+(248011500, '弗雷堡', 'VRU', 248010000),
+(248013000, '穆里斯堡', 'MOO', 248010000),
+(248014800, '谢普斯通港', 'PSS', 248010000),
+(248014100, '托霍延杜', 'THY', 248010000),
+(248014500, '乌姆塔塔', 'UTT', 248010000),
+(248012100, '克莱克斯多普', 'KXE', 248010000),
+(248010400, '彼德斯堡', 'PTG', 248010000),
+(248013700, '特克索波', 'IXO', 248010000),
+(248011800, '基雅尼', 'GIY', 248010000),
+(248013400, '乔治', 'GRJ', 248010000),
+(248014000, '图拉马哈谢', 'TLH', 248010000),
+(248011700, '格罗布莱斯达尔', 'GBD', 248010000),
+(248013900, '跳羚', 'SBU', 248010000),
+(248013300, '纽卡斯尔', 'NCS', 248010000),
+(248014600, '伍斯特', 'WOR', 248010000),
+(248011000, '德阿尔', 'DAA', 248010000),
+(248010300, '彼德马里茨堡', 'PZB', 248010000),
+(248014400, '乌伦迪', 'ULD', 248010000),
+(248012800, '米德尔堡', 'MDB', 248010000),
+(248013800, '特隆普斯堡', 'TPB', 248010000),
+(248013600, '瑟孔达', 'ZEC', 248010000),
+(248012900, '姆库泽', 'MZQ', 248010000),
+(248014700, '西博福特', 'BEW', 248010000),
+(248010500, '比勒陀利亚', 'PRY', 248010000),
+(248012300, '昆士敦', 'UTW', 248010000),
+(248012000, '开普敦', 'CPT', 248010000),
+(248015000, '约翰内斯堡', 'JNB', 248010000),
+(248014200, '韦茨肖克', 'WSH', 248010000),
+(248013100, '内尔斯普雷特', 'NLP', 248010000),
+(248011200, '邓迪', 'DUN', 248010000),
+(248010200, '艾利弗山', 'MAY', 248010000),
+(248013200, '尼尔斯特隆', 'NYL', 248010000),
+(248011400, '东伦敦', 'ELS', 248010000),
+(248010900, '布隆克斯特斯普利特', 'BHT', 248010000),
+(248010100, '阿平顿', 'UTN', 248010000),
+(248014900, '伊丽莎白港', 'PLZ', 248010000),
+(248012700, '利斯滕堡', 'RSB', 248010000),
+(248011100, '德班', 'DUR', 248010000),
+(248011600, '弗里尼欣', 'VGG', 248010000),
+(248010700, '布雷达斯多普', 'BDD', 248010000),
+(248010800, '布隆方丹', 'BFN', 248010000),
+(252010500, '格尔纳利', 'KA', 252010000),
+(252010400, '戈西', 'KO', 252010000),
+(252011200, '佩里', 'BH', 252010000),
+(252011400, '塞蒂', 'SE', 252010000),
+(252010300, '甘达基', 'GA', 252010000),
+(252010800, '蓝毗尼', 'LU', 252010000),
+(252010200, '道拉吉里', 'DH', 252010000),
+(252011000, '梅吉', 'ME', 252010000),
+(252010700, '拉布蒂', 'RA', 252010000),
+(252010100, '巴格马蒂', 'BA', 252010000),
+(252010600, '贾纳克布尔', 'JA', 252010000),
+(252011100, '纳拉亚尼', 'NA', 252010000),
+(252010900, '马哈卡利', 'MA', 252010000),
+(252011300, '萨加玛塔', 'SA', 252010000),
+(253011600, '希诺特加', 'JI', 253010000),
+(253011300, '奇南德加', 'CD', 253010000),
+(253010800, '马德里斯', 'MD', 253010000),
+(253010900, '马那瓜', 'MN', 253010000),
+(253010300, '博阿科', 'BO', 253010000),
+(253011700, '新塞哥维亚', 'NS', 253010000),
+(253010600, '莱昂', 'LE', 253010000),
+(253010100, '埃斯特利', 'ES', 253010000),
+(253011500, '圣胡安河', 'SJ', 253010000),
+(253010500, '卡拉索', 'CA', 253010000),
+(253010400, '格拉纳达', 'GR', 253010000),
+(253010200, '北大西洋', 'AN', 253010000),
+(253011100, '马塔加尔帕', 'MT', 253010000),
+(253011000, '马萨亚', 'MS', 253010000),
+(253011400, '琼塔莱斯', 'CT', 253010000),
+(253010700, '里瓦斯', 'RV', 253010000),
+(253011200, '南大西洋', 'AS', 253010000),
+(254010400, '多索', 'DSS', 254010000),
+(254010700, '尼亚美市', 'NIM', 254010000),
+(254010200, '迪法', 'DIF', 254010000),
+(254010600, '马拉迪', 'MFQ', 254010000),
+(254010100, '阿加德兹', 'AJY', 254010000),
+(254010800, '塔瓦', 'THZ', 254010000),
+(254010500, '津德尔', 'ZND', 254010000),
+(254010300, '蒂拉贝里', 'TIL', 254010000),
+(255010400, '拉各斯', 'LOS', 255010000),
+(255010100, '阿比亚', 'ABV', 255010000),
+(255010200, '奥博莫绍', 'OGB', 255010000),
+(255010300, '卡诺', 'KAN', 255010000),
+(255010500, '伊巴丹', 'IBA', 255010000),
+(257010100, '阿克什胡斯', '2', 257010000),
+(257010400, '北特伦德拉格', '17', 257010000),
+(257010700, '东福尔', '1', 257010000),
+(257010500, '布斯克吕', '6', 257010000),
+(257011700, '特罗姆斯', '19', 257010000),
+(257011000, '霍达兰', '12', 257010000),
+(257011900, '西福尔', '7', 257010000),
+(257011400, '诺尔兰', '18', 257010000),
+(257011200, '默勒－鲁姆斯达尔', '15', 257010000),
+(257010600, '东阿格德尔', '9', 257010000),
+(257011800, '西阿格德尔', '10', 257010000),
+(257011100, '罗加兰', '11', 257010000),
+(257011500, '松恩－菲尤拉讷', '14', 257010000),
+(257011300, '南特伦德拉格', '16', 257010000),
+(257010300, '奥斯陆市', '3', 257010000),
+(257011600, '泰勒马克', '8', 257010000),
+(257010800, '芬马克', '20', 257010000),
+(257010200, '奥普兰', '5', 257010000),
+(257010900, '海德马克', '4', 257010000),
+(261011700, '内皮尼亚尔南', 'PIS', 261010000),
+(261012800, '下蒙德古', 'BMO', 261010000),
+(261010200, '滨海皮尼亚尔', 'PLT', 261010000),
+(261011200, '梅地奥特茹', 'MTE', 261010000),
+(261011800, '蓬塔德尔加达', 'PDL', 261010000),
+(261011100, '利巴特茹', 'LTE', 261010000),
+(261012200, '上特拉斯山', 'ATM', 261010000),
+(261010300, '波尔图', 'VDP', 261010000),
+(261010400, '杜罗', 'MDR', 261010000),
+(261012900, '中阿连特茹', 'ALC', 261010000),
+(261010600, '法鲁', 'FAO', 261010000),
+(261011900, '塞图巴尔半岛', 'PSE', 261010000),
+(261012100, '上阿连特茹', 'AAT', 261010000),
+(261011000, '里斯本', 'LIS', 261010000),
+(261010100, '滨海阿连特茹', 'ALL', 261010000),
+(261012700, '下伏日', 'BVO', 261010000),
+(261012600, '下阿连特茹', 'BAL', 261010000),
+(261010800, '卡瓦多', 'CAV', 261010000),
+(261011600, '内皮尼亚尔北', 'PIN', 261010000),
+(261012300, '塔梅加', 'TAM', 261010000),
+(261010900, '科瓦贝拉', 'CLB', 261010000),
+(261012500, '西部', 'OES', 261010000),
+(261010500, '恩特拉杜罗伏日', 'EDV', 261010000),
+(261012000, '山后', 'SES', 261010000),
+(261011500, '内贝拉南', 'BIS', 261010000),
+(261012400, '万福', 'AES', 261010000),
+(261011400, '内贝拉北', 'BIN', 261010000),
+(261010700, '丰沙尔', 'FUN', 261010000),
+(261011300, '米尼奥-利马', 'MLI', 261010000),
+(263010200, '爱知', '23', 263010000),
+(263011300, '福冈', '40', 263010000),
+(263013200, '秋田', '5', 263010000),
+(263010700, '大阪', '27', 263010000),
+(263011000, '徳岛', '36', 263010000),
+(263010600, '茨城', '8', 263010000),
+(263012000, '广岛', '34', 263010000),
+(263013300, '群马', '10', 263010000),
+(263010900, '岛根', '32', 263010000),
+(263013800, '神奈川', '14', 263010000),
+(263012800, '岐阜', '21', 263010000),
+(263010500, '冲绳', '47', 263010000),
+(263011200, '福岛', '7', 263010000),
+(263011700, '高知', '39', 263010000),
+(263010800, '大分', '44', 263010000),
+(263014600, '滋贺', '25', 263010000),
+(263014000, '香川', '37', 263010000),
+(263012700, '鸟取', '31', 263010000),
+(263011100, '东京', '13', 263010000),
+(263012200, '京都', '26', 263010000),
+(263011500, '富山', '16', 263010000),
+(263014500, '长野', '20', 263010000),
+(263010300, '北海道', '1', 263010000),
+(263012300, '静冈', '22', 263010000),
+(263013400, '三重', '24', 263010000),
+(263013600, '山梨', '19', 263010000),
+(263014700, '佐贺', '41', 263010000),
+(263011600, '冈山', '33', 263010000),
+(263013100, '青森', '2', 263010000),
+(263014300, '岩手', '3', 263010000),
+(263014400, '长崎', '42', 263010000),
+(263011400, '福井', '18', 263010000),
+(263013500, '山口', '35', 263010000),
+(263012500, '鹿儿岛', '46', 263010000),
+(263013000, '千叶', '12', 263010000),
+(263012400, '枥木', '9', 263010000),
+(263014200, '熊本', '43', 263010000),
+(263013700, '山形', '6', 263010000),
+(263012900, '埼玉', '11', 263010000),
+(263012100, '和歌山', '30', 263010000),
+(263013900, '石川', '17', 263010000),
+(263011800, '宮城', '4', 263010000),
+(263011900, '宫崎', '45', 263010000),
+(263012600, '奈良', '29', 263010000),
+(263010400, '兵库', '28', 263010000),
+(263014100, '新潟', '15', 263010000),
+(263010100, '爱媛', '38', 263010000),
+(264011900, '延雪平', 'F', 264010000),
+(264010400, '东约特兰', 'UGL', 264010000),
+(264011800, '西约特兰', 'O', 264010000),
+(264010300, '达拉纳', 'DLN', 264010000),
+(264011000, '南曼兰', 'D', 264010000),
+(264010600, '哥得兰', 'I', 264010000),
+(264010900, '克鲁努贝里', 'G', 264010000),
+(264011100, '斯德哥尔摩', 'AB', 264010000),
+(264011500, '西博滕', 'AC', 264010000),
+(264012100, '耶姆特兰', 'Z', 264010000),
+(264010100, '北博滕', 'BD', 264010000),
+(264010800, '卡尔马', 'H', 264010000),
+(264011600, '西曼兰', 'U', 264010000),
+(264012000, '耶夫勒堡', 'X', 264010000),
+(264010500, '厄勒布鲁', 'T', 264010000),
+(264011400, '乌普萨拉', 'C', 264010000);
+INSERT INTO city(id, name, code, state_id) VALUES(264011300, '韦姆兰', 'S', 264010000),
+(264011700, '西诺尔兰', 'Y', 264010000),
+(264010200, '布莱金厄', 'K', 264010000),
+(264011200, '斯科耐', 'M', 264010000),
+(264010700, '哈兰', 'N', 264010000),
+(265011300, '日内瓦', 'GE', 265010000),
+(265012200, '图尔高', 'TG', 265010000),
+(265011800, '施维茨', 'SZ', 265010000),
+(265010400, '伯尔尼', 'BE', 265010000),
+(265010600, '弗里堡', 'FR', 265010000),
+(265010700, '格拉鲁斯', 'GL', 265010000),
+(265012100, '提契诺', 'TI', 265010000),
+(265011000, '洛桑', 'LA', 265010000),
+(265011400, '汝拉', 'JU', 265010000),
+(265011600, '上瓦尔登', 'OW', 265010000),
+(265010900, '卢塞恩', 'LU', 265010000),
+(265011500, '沙夫豪森', 'SH', 265010000),
+(265011100, '纳沙泰尔', 'NE', 265010000),
+(265012000, '索洛图恩', 'SO', 265010000),
+(265012600, '乌里', 'UR', 265010000),
+(265012400, '外阿彭策尔', 'AR', 265010000),
+(265012300, '瓦莱', 'VS', 265010000),
+(265010300, '巴塞尔乡村', 'BL', 265010000),
+(265012700, '下瓦尔登', 'NW', 265010000),
+(265010800, '格劳宾登', 'GR', 265010000),
+(265011200, '内阿彭策尔', 'AI', 265010000),
+(265012500, '沃', 'VD', 265010000),
+(265010500, '楚格', 'ZG', 265010000),
+(265010200, '巴塞尔城市', 'BS', 265010000),
+(265011700, '圣加仑', 'SG', 265010000),
+(265010100, '阿尔高', 'AG', 265010000),
+(265011900, '苏黎世', 'ZH', 265010000),
+(266011200, '梅基卡诺斯', 'MEJ', 266010000),
+(266011900, '索亚潘戈', 'SOY', 266010000),
+(266010100, '阿波帕', 'APO', 266010000),
+(266010400, '查拉特南戈', 'CH', 266010000),
+(266010500, '德尔加多', 'DE', 266010000),
+(266010900, '拉巴斯', 'PZ', 266010000),
+(266011100, '拉乌尼翁', 'UN', 266010000),
+(266011800, '松索纳特', 'SO', 266010000),
+(266012000, '韦莱-恩萨斯', 'WN', 266010000),
+(266012300, '中南', 'CS', 266010000),
+(266011400, '圣安娜', 'SA', 266010000),
+(266010800, '库斯卡特兰', 'CU', 266010000),
+(266011500, '圣米格尔', 'SM', 266010000),
+(266010200, '阿瓦查潘', 'AH', 266010000),
+(266012200, '伊洛潘戈', 'IL', 266010000),
+(266010700, '卡瓦尼亚斯', 'CA', 266010000),
+(266010300, '滨海', 'LI', 266010000),
+(266011300, '莫拉桑', 'MO', 266010000),
+(266011000, '拉利伯塔德', 'LB', 266010000),
+(266012100, '乌苏卢坦', 'US', 266010000),
+(266011700, '圣维森特', 'SV', 266010000),
+(266011600, '圣萨尔瓦多', 'SS', 266010000),
+(266010600, '基埃-恩特姆', 'KN', 266010000),
+(268010800, '泽蒙', 'ZEM', 268010000),
+(268010400, '尼什', 'INI', 268010000),
+(268010700, '苏博蒂察', 'SUB', 268010000),
+(268010100, '贝尔格莱德', 'BEG', 268010000),
+(268010300, '克拉古涅瓦茨', 'KGV', 268010000),
+(268010600, '普里什蒂纳', 'PRN', 268010000),
+(268010200, '波德戈里察', 'POD', 268010000),
+(268010500, '诺维萨德', 'NVS', 268010000),
+(269010300, '南部', 'S', 269010000),
+(269010100, '北部', 'N', 269010000),
+(269010200, '东部', 'E', 269010000),
+(269010400, '西部区', 'W', 269010000),
+(270010100, '达喀尔', 'DA', 270010000),
+(270011000, '圣路易', 'SL', 270010000),
+(270010600, '考拉克', 'KA', 270010000),
+(270010500, '久尔贝勒', 'DI', 270010000),
+(270011100, '坦巴昆达', 'TA', 270010000),
+(270010400, '捷斯', 'TH', 270010000),
+(270010700, '科尔达', 'KO', 270010000),
+(270010200, '法蒂克', 'FA', 270010000),
+(270010800, '卢加', 'LO', 270010000),
+(270010300, '济金绍尔', 'ZI', 270010000),
+(270010900, '马塔姆', 'MA', 270010000),
+(271010400, '利马索尔', '2', 271010000),
+(271010500, '尼科西亚', '1', 271010000),
+(271010600, '帕福斯', '5', 271010000),
+(271010300, '拉纳卡', '3', 271010000),
+(271010100, '法马古斯塔', '4', 271010000),
+(271010200, '凯里尼亚', '6', 271010000),
+(273011200, '吉赞', 'JZ', 273010000),
+(273012100, '延布', 'YNB', 273010000),
+(273012200, '朱拜勒', 'JBI', 273010000),
+(273011600, '姆巴拉兹', 'MBR', 273010000),
+(273010200, '艾卜哈', 'AHB', 273010000),
+(273010500, '达曼', 'DAM', 273010000),
+(273010900, '海耶', 'AKH', 273010000),
+(273011500, '麦加', 'ML', 273010000),
+(273010600, '哈费尔巴廷', 'HBT', 273010000),
+(273011800, '塞卡卡', 'SAK', 273010000),
+(273010300, '巴哈', 'BH', 273010000),
+(273011100, '吉达', 'JED', 273010000),
+(273011400, '麦地那', 'MED', 273010000),
+(273010100, '阿尔阿尔', 'ARA', 273010000),
+(273012000, '塔伊夫', 'TAR', 273010000),
+(273010800, '海米斯穆谢特', 'KMX', 273010000),
+(273011700, '纳季兰', 'NR', 273010000),
+(273010700, '哈伊勒', 'HL', 273010000),
+(273011300, '利雅得', 'RD', 273010000),
+(273010400, '布赖代', 'BUR', 273010000),
+(273011900, '塔布克', 'TB', 273010000),
+(273011000, '胡富夫', 'HFF', 273010000),
+(282011800, '马特莱', 'MAT', 282010000),
+(282011200, '凯格勒', 'KEG', 282010000),
+(282012100, '穆莱蒂武', 'MUL', 282010000),
+(282012300, '普塔勒姆', 'PUT', 282010000),
+(282010100, '阿努拉德普勒', 'ADP', 282010000),
+(282012200, '努沃勒埃利耶', 'NUE', 282010000),
+(282010200, '安帕赖', 'AMP', 282010000),
+(282010900, '加姆珀哈', 'GAM', 282010000),
+(282011300, '康提', 'KAN', 282010000),
+(282010700, '基里诺奇', 'KIL', 282010000),
+(282011100, '卡卢特勒', 'KLT', 282010000),
+(282010800, '加勒', 'GAL', 282010000),
+(282010300, '巴杜勒', 'BAD', 282010000),
+(282010500, '波隆纳鲁沃', 'POL', 282010000),
+(282012000, '莫讷勒格勒', 'MON', 282010000),
+(282011600, '拉特纳普勒', 'RAT', 282010000),
+(282012400, '亭可马里', 'TRR', 282010000),
+(282011000, '贾夫纳', 'JAF', 282010000),
+(282011700, '马纳尔', 'MAN', 282010000),
+(282011500, '库鲁内格勒', 'KUR', 282010000),
+(282011400, '科伦坡', 'CMB', 282010000),
+(282010600, '汉班托特', 'HBA', 282010000),
+(282012500, '瓦武尼亚', 'VAV', 282010000),
+(282011900, '马特勒', 'MAA', 282010000),
+(282010400, '拜蒂克洛', 'BTC', 282010000),
+(283010700, '特尔纳瓦', 'TNA', 283010000),
+(283010500, '普雷绍夫', 'POV', 283010000),
+(283010300, '科希策', 'KOR', 283010000),
+(283010200, '布拉迪斯拉发', 'BTS', 283010000),
+(283010100, '班斯卡-比斯特里察', 'BBY', 283010000),
+(283010400, '尼特拉', 'NRA', 283010000),
+(283010800, '特伦钦', 'TRE', 283010000),
+(283010600, '日利纳', 'RIL', 283010000),
+(284010900, '诺特拉尼', 'NKR', 284010000),
+(284010100, '奥巴尔诺-克拉', 'OKR', 284010000),
+(284010400, '波穆尔', 'POM', 284010000),
+(284010800, '科洛', 'KOR', 284010000),
+(284010300, '波德拉夫', 'POD', 284010000),
+(284011100, '斯波德涅波萨夫', 'SPO', 284010000),
+(284011200, '扎萨夫', 'ZAS', 284010000),
+(284010500, '多雷尼', 'DLJ', 284010000),
+(284010200, '奥斯雷德涅斯洛文', 'OSR', 284010000),
+(284010600, '戈雷尼', 'GSZ', 284010000),
+(284010700, '戈里', 'GSK', 284010000),
+(284011000, '萨维尼', 'SAV', 284010000),
+(287010200, '赤道', 'SIS', 287010000),
+(287010400, '东部', 'SHA', 287010000),
+(287010300, '达尔富尔', 'SDA', 287010000),
+(287010600, '喀土穆', 'KRT', 287010000),
+(287010900, '中部', 'WDH', 287010000),
+(287010500, '加扎勒河', 'SBG', 287010000),
+(287010800, '上尼罗', 'ANB', 287010000),
+(287010100, '北部', 'ASH', 287010000),
+(287010700, '科尔多凡', 'GKU', 287010000),
+(288010700, '帕拉马里博', 'PM', 288010000),
+(288010600, '帕拉', 'PA', 288010000),
+(288011000, '西帕里韦尼', 'SI', 288010000),
+(288010200, '科罗尼', 'CR', 288010000),
+(288010900, '瓦尼卡', 'WA', 288010000),
+(288010100, '布罗科蓬多', 'BR', 288010000),
+(288010300, '科默韦讷', 'CM', 288010000),
+(288010400, '马罗韦讷', 'MA', 288010000),
+(288010500, '尼克里', 'NI', 288010000),
+(288010800, '萨拉马卡', 'SA', 288010000),
+(289010600, '乔伊索', 'CH', 289010000),
+(289010200, '霍尼亚拉', 'HO', 289010000),
+(289010400, '马基拉', 'MK', 289010000),
+(289010800, '西部', 'WE', 289010000),
+(289010900, '伊萨贝尔', 'IS', 289010000),
+(289010300, '拉纳尔和贝罗纳', 'RB', 289010000),
+(289010500, '马莱塔', 'ML', 289010000),
+(289010700, '泰莫图', 'TM', 289010000),
+(289011000, '中部群岛', 'CE', 289010000),
+(289010100, '瓜达尔卡纳尔', 'GC', 289010000),
+(291010200, '霍罗格', 'KHO', 291010000),
+(291010600, '库尔干-秋别', 'KTJ', 291010000),
+(291010100, '杜尚别', 'DYU', 291010000),
+(291011200, '塔博沙尔', 'TBS', 291010000),
+(291011100, '萨班特', 'SBA', 291010000),
+(291010400, '科法尔尼洪', 'KOF', 291010000),
+(291010900, '努雷克', 'NUR', 291010000),
+(291011300, '图尔孙扎德', 'TSZ', 291010000),
+(291011500, '伊斯法拉', 'ISF', 291010000),
+(291010700, '库洛布', 'KLB', 291010000),
+(291010800, '洛贡', 'RGU', 291010000),
+(291010500, '苦盏', 'KHU', 291010000),
+(291011400, '乌拉秋别', 'UTJ', 291010000),
+(291011000, '彭吉肯特', 'PJK', 291010000),
+(291010300, '卡尼巴达姆', 'KAN', 291010000),
+(292015600, '色军', '47', 292010000),
+(292012000, '大城', '14', 292010000),
+(292012900, '尖竹汶', '22', 292010000),
+(292014300, '那空那育', '26', 292010000),
+(292013100, '拉农', '21', 292010000);
+INSERT INTO city(id, name, code, state_id) VALUES(292015500, '清迈', '50', 292010000),
+(292011300, '猜那', '18', 292010000),
+(292015900, '四色菊', '33', 292010000),
+(292017200, '也拉', '95', 292010000),
+(292012200, '佛丕', '78', 292010000),
+(292010600, '北标', '19', 292010000),
+(292016600, '乌隆', '41', 292010000),
+(292016800, '乌汶', '34', 292010000),
+(292015300, '普吉', '83', 292010000),
+(292016200, '素叻', '84', 292010000),
+(292014100, '曼谷', '10', 292010000),
+(292017000, '信武里', '17', 292010000),
+(292012400, '甘烹碧', '62', 292010000),
+(292010200, '巴蜀', '77', 292010000),
+(292012300, '佛统', '73', 292010000),
+(292011500, '程逸', '53', 292010000),
+(292014800, '帕', '54', 292010000),
+(292010900, '北榄坡', '60', 292010000),
+(292011100, '碧差汶', '76', 292010000),
+(292013600, '黎逸', '45', 292010000),
+(292011400, '猜也奔', '36', 292010000),
+(292013000, '孔敬', '40', 292010000),
+(292015100, '彭世洛', '65', 292010000),
+(292010500, '北碧', '71', 292010000),
+(292010700, '北大年', '94', 292010000),
+(292015000, '攀牙', '82', 292010000),
+(292014200, '莫达汉', '49', 292010000),
+(292011600, '春蓬', '86', 292010000),
+(292014600, '南奔', '51', 292010000),
+(292016300, '素林', '32', 292010000),
+(292014700, '暖武里', '12', 292010000),
+(292016700, '乌泰他尼', '61', 292010000),
+(292012100, '董里', '92', 292010000),
+(292012500, '红统', '15', 292010000),
+(292010300, '巴吞他尼', '13', 292010000),
+(292011000, '北柳', '24', 292010000),
+(292010100, '安纳乍能', '37', 292010000),
+(292011700, '春武里', '20', 292010000),
+(292014500, '难', '55', 292010000),
+(292013500, '黎', '42', 292010000),
+(292010800, '北揽', '11', 292010000),
+(292016900, '武里南', '31', 292010000),
+(292014400, '那空帕农', '48', 292010000),
+(292016000, '宋卡', '90', 292010000),
+(292016400, '素攀武里', '72', 292010000),
+(292011800, '达', '63', 292010000),
+(292015200, '披集', '66', 292010000),
+(292013200, '廊开', '43', 292010000),
+(292017400, '夜功', '75', 292010000),
+(292013800, '罗勇', '85', 292010000),
+(292017300, '夜丰颂', '58', 292010000),
+(292012800, '甲米', '81', 292010000),
+(292013300, '廊莫那浦', '39', 292010000),
+(292013900, '洛坤', '80', 292010000),
+(292015400, '清莱', '57', 292010000),
+(292012600, '华富里', '16', 292010000),
+(292013400, '叻丕', '70', 292010000),
+(292016500, '陶公', '96', 292010000),
+(292017100, '耶梭通', '35', 292010000),
+(292014900, '帕尧', '56', 292010000),
+(292011200, '博达伦', '93', 292010000),
+(292013700, '龙仔厝', '74', 292010000),
+(292011900, '达叻', '23', 292010000),
+(292010400, '巴真', '25', 292010000),
+(292015700, '沙敦', '91', 292010000),
+(292012700, '加拉信', '46', 292010000),
+(292016100, '素可泰', '64', 292010000),
+(292014000, '玛哈沙拉堪', '44', 292010000),
+(292015800, '沙缴', '27', 292010000),
+(293010100, '阿鲁沙', 'AR', 293010000),
+(293010400, '滨海', 'PW', 293010000),
+(293010200, '奔巴北', 'PN', 293010000),
+(293010500, '达累斯萨拉姆', 'DS', 293010000),
+(293011300, '曼亚拉', 'MY', 293010000),
+(293010600, '多多马', 'DO', 293010000),
+(293010800, '卡盖拉', 'KA', 293010000),
+(293011900, '桑给巴尔', 'ZN', 293010000),
+(293011500, '姆贝亚', 'MB', 293010000),
+(293010300, '奔巴南', 'PS', 293010000),
+(293012500, '辛吉达', 'SI', 293010000),
+(293012000, '桑给巴尔北', 'UN', 293010000),
+(293011700, '姆万扎', 'MW', 293010000),
+(293012600, '欣延加', 'SH', 293010000),
+(293011000, '鲁夸', 'RK', 293010000),
+(293012100, '桑给巴尔南', 'US', 293010000),
+(293011400, '莫洛戈罗', 'MO', 293010000),
+(293010700, '基戈马', 'KI', 293010000),
+(293011800, '乞力马扎罗', 'KJ', 293010000),
+(293012700, '伊林加', 'IR', 293010000),
+(293011100, '鲁伍马', 'RV', 293010000),
+(293012300, '塔波拉', 'TB', 293010000),
+(293012200, '桑给巴尔市和西', 'MM', 293010000),
+(293010900, '林迪', 'LN', 293010000),
+(293012400, '坦噶', 'TN', 293010000),
+(293011600, '姆特瓦拉', 'MT', 293010000),
+(293011200, '马腊', 'MR', 293010000),
+(294010300, '纽阿斯', 'N', 294010000),
+(294010200, '哈派', 'H', 294010000),
+(294010500, '瓦瓦乌', 'V', 294010000),
+(294010400, '汤加塔布', 'T', 294010000),
+(294010100, '埃瓦', 'E', 294010000),
+(298012000, '突尼斯', 'TU', 298010000),
+(298011100, '凯鲁万', 'KR', 298010000),
+(298011200, '马赫迪耶', 'MH', 298010000),
+(298010800, '坚杜拜', 'JE', 298010000),
+(298012100, '托泽尔', 'TO', 298010000),
+(298010600, '加贝斯', 'GB', 298010000),
+(298011500, '莫纳斯提尔', 'MO', 298010000),
+(298010500, '吉比利', 'KB', 298010000),
+(298011300, '马努巴', 'MN', 298010000),
+(298010100, '艾尔亚奈', 'AR', 298010000),
+(298011400, '梅德宁', 'ME', 298010000),
+(298012300, '锡勒亚奈', 'SL', 298010000),
+(298011000, '卡塞林', 'KS', 298010000),
+(298012200, '西迪布济德', 'SD', 298010000),
+(298012400, '宰格万', 'ZA', 298010000),
+(298010400, '比塞大', 'BI', 298010000),
+(298011900, '泰塔温', 'TA', 298010000),
+(298010300, '本阿鲁斯', 'BA', 298010000),
+(298011600, '纳布勒', 'NA', 298010000),
+(298010700, '加夫萨', 'GF', 298010000),
+(298010200, '巴杰', 'BJ', 298010000),
+(298010900, '卡夫', 'LK', 298010000),
+(298011700, '斯法克斯', 'SF', 298010000),
+(298011800, '苏塞', 'SO', 298010000),
+(300013100, '凡', 'VAN', 300010000),
+(300015700, '尼代', 'NIG', 300010000),
+(300011300, '埃斯基谢希尔', 'ESK', 300010000),
+(300013000, '迪亚巴克尔', 'DIY', 300010000),
+(300011800, '巴尔腾', 'BAR', 300010000),
+(300012400, '宾格尔', 'BIN', 300010000),
+(300014600, '科尼亚', 'KON', 300010000),
+(300016100, '萨卡里亚', 'SAK', 300010000),
+(300016800, '锡尔纳克', 'SIR', 300010000),
+(300010300, '阿尔达罕', 'ARD', 300010000),
+(300013300, '哈塔伊', 'HTY', 300010000),
+(300010800, '阿马西亚', 'AMA', 300010000),
+(300015800, '恰纳卡莱', 'CKL', 300010000),
+(300017500, '伊斯坦布尔', 'IST', 300010000),
+(300010400, '阿尔特温', 'ART', 300010000),
+(300011700, '奥尔杜', 'ORD', 300010000),
+(300013400, '基利斯', 'KLS', 300010000),
+(300011000, '埃尔津詹', 'EZC', 300010000),
+(300012500, '博卢', 'BOL', 300010000),
+(300016300, '泰基尔达', 'TEL', 300010000),
+(300017300, '伊切尔', 'ICE', 300010000),
+(300014500, '柯克拉雷利', 'KLR', 300010000),
+(300015500, '穆什', 'MUS', 300010000),
+(300014700, '克尔谢希尔', 'KRH', 300010000),
+(300013200, '哈卡里', 'HKR', 300010000),
+(300014100, '卡拉曼', 'KRM', 300010000),
+(300010700, '阿勒', 'AGR', 300010000),
+(300014000, '卡拉比克', 'KRB', 300010000),
+(300012100, '巴伊布尔特', 'BAY', 300010000),
+(300010200, '阿德亚曼', 'ADI', 300010000),
+(300015400, '穆拉', 'MUG', 300010000),
+(300012700, '布尔萨', 'BRS', 300010000),
+(300017800, '宗古尔达克', 'ZON', 300010000),
+(300012900, '代尼兹利', 'DEN', 300010000),
+(300016400, '特拉布宗', 'TRA', 300010000),
+(300015200, '马拉蒂亚', 'MAL', 300010000),
+(300011200, '埃拉泽', 'ELA', 300010000),
+(300014400, '科贾埃利', 'KOC', 300010000),
+(300017700, '约兹加特', 'YOZ', 300010000),
+(300015000, '里泽', 'RIZ', 300010000),
+(300016200, '萨姆松', 'SAM', 300010000),
+(300016600, '托卡特', 'TOK', 300010000),
+(300010100, '阿达纳', 'ADA', 300010000),
+(300014200, '卡斯塔莫努', 'KAS', 300010000),
+(300016700, '乌萨克', 'USK', 300010000),
+(300010500, '阿菲永', 'AFY', 300010000),
+(300012300, '比特利斯', 'BIT', 300010000),
+(300012200, '比莱吉克', 'BIL', 300010000),
+(300016900, '锡尔特', 'SII', 300010000),
+(300011900, '巴勒克埃西尔', 'BAL', 300010000),
+(300010600, '阿克萨赖', 'AKS', 300010000),
+(300015100, '马尔丁', 'MAR', 300010000),
+(300017200, '伊迪尔', 'IGD', 300010000),
+(300012800, '昌克勒', 'CKR', 300010000),
+(300013500, '吉雷松', 'GIR', 300010000),
+(300011500, '安卡拉', 'ANK', 300010000),
+(300014300, '开塞利', 'KAY', 300010000),
+(300013700, '居米什哈内', 'GMS', 300010000),
+(300017600, '伊兹密尔', 'IZM', 300010000),
+(300011400, '艾登', 'AYI', 300010000),
+(300011100, '埃尔祖鲁姆', 'EZR', 300010000),
+(300015300, '马尼萨', 'MAN', 300010000),
+(300014900, '拉飞', 'URF', 300010000),
+(300017000, '锡诺普', 'SIN', 300010000),
+(300015600, '内夫谢希尔', 'NEV', 300010000),
+(300013900, '卡赫拉曼马拉什', 'KAH', 300010000),
+(300016500, '通杰利', 'TUN', 300010000),
+(300017400, '伊斯帕尔塔', 'ISP', 300010000),
+(300012600, '布尔杜尔', 'BRD', 300010000),
+(300011600, '安塔利亚', 'ANT', 300010000),
+(300016000, '屈塔希亚', 'KUT', 300010000),
+(300015900, '乔鲁姆', 'COR', 300010000),
+(300014800, '克勒克卡莱', 'KRK', 300010000),
+(300010900, '埃迪尔内', 'EDI', 300010000),
+(300017100, '锡瓦斯', 'SIV', 300010000);
+INSERT INTO city(id, name, code, state_id) VALUES(300012000, '巴特曼', 'BAT', 300010000),
+(300013600, '加济安泰普', 'GAZ', 300010000),
+(300013800, '卡尔斯', 'KRS', 300010000),
+(301010200, '阿什哈巴德市', 'ASB', 301010000),
+(301010500, '列巴普', 'L', 301010000),
+(301010600, '马雷', 'M', 301010000),
+(301010700, '涅比特达格', 'NEB', 301010000),
+(301010400, '达沙古兹', 'D', 301010000),
+(301010100, '阿哈尔', 'A', 301010000),
+(301010300, '巴尔坎', 'B', 301010000),
+(304010100, '马朗帕', 'MA', 304010000),
+(304010300, '桑马', 'SA', 304010000),
+(304010500, '托尔巴', 'TO', 304010000),
+(304010200, '彭纳马', 'PE', 304010000),
+(304010400, '塔菲阿', 'TA', 304010000),
+(304010600, '谢法', 'SH', 304010000),
+(305010800, '米克斯科', 'MIX', 305010000),
+(305011600, '圣马科斯', 'SM', 305010000),
+(305010500, '基切', 'QC', 305010000),
+(305012100, '韦韦特南戈', 'HU', 305010000),
+(305011500, '圣罗莎', 'SR', 305010000),
+(305012300, '新城', 'VIN', 305010000),
+(305010300, '哈拉帕', 'JA', 305010000),
+(305012000, '危地马拉', 'GU', 305010000),
+(305011300, '萨卡特佩克斯', 'ST', 305010000),
+(305011800, '索洛拉', 'SO', 305010000),
+(305010600, '克萨尔特南戈', 'QZ', 305010000),
+(305010100, '埃尔普罗格雷索', 'PR', 305010000),
+(305010400, '胡蒂亚帕', 'JU', 305010000),
+(305011400, '上韦拉帕斯', 'AV', 305010000),
+(305011200, '萨卡帕', 'ZA', 305010000),
+(305010700, '雷塔卢莱乌', 'RE', 305010000),
+(305011900, '托托尼卡潘', 'TO', 305010000),
+(305011100, '奇马尔特南戈', 'CM', 305010000),
+(305012200, '下韦拉帕斯', 'BV', 305010000),
+(305010200, '埃斯昆特拉', 'ES', 305010000),
+(305010900, '佩滕', 'PE', 305010000),
+(305011000, '奇基穆拉', 'CQ', 305010000),
+(305011700, '苏奇特佩克斯', 'SU', 305010000),
+(305012400, '伊萨瓦尔', 'IZ', 305010000),
+(308010500, '巴里纳斯', 'E', 308010000),
+(308010300, '阿普雷', 'C', 308010000),
+(308011400, '联邦属地', 'W', 308010000),
+(308010100, '阿拉瓜', 'D', 308010000),
+(308011600, '米兰达', 'M', 308010000),
+(308011000, '加拉加斯', 'A', 308010000),
+(308011300, '拉腊', 'K', 308010000),
+(308010900, '瓜里科', 'J', 308010000),
+(308011500, '梅里达', 'L', 308010000),
+(308011200, '科赫德斯', 'H', 308010000),
+(308011800, '苏克雷', 'R', 308010000),
+(308010800, '法尔孔', 'I', 308010000),
+(308012000, '塔奇拉', 'S', 308010000),
+(308010200, '阿马库罗三角洲', 'Y', 308010000),
+(308011100, '卡拉沃沃', 'G', 308010000),
+(308012200, '新埃斯帕塔', 'O', 308010000),
+(308010400, '安索阿特吉', 'B', 308010000),
+(308010600, '玻利瓦尔', 'F', 308010000),
+(308010700, '波图格萨', 'P', 308010000),
+(308011900, '苏利亚', 'V', 308010000),
+(308012100, '特鲁希略', 'T', 308010000),
+(308012300, '亚拉奎', 'U', 308010000),
+(308012400, '亚马孙', 'Z', 308010000),
+(308011700, '莫纳加斯', 'N', 308010000),
+(310012800, '坎帕拉', 'KMP', 310010000),
+(310013100, '拉卡伊', 'RAK', 310010000),
+(310012600, '卡塔奎', 'KTK', 310010000),
+(310015400, '锡龙科', 'SIR', 310010000),
+(310012100, '卡姆文盖', 'KAM', 310010000),
+(310014000, '姆巴拉拉', 'MBR', 310010000),
+(310013200, '利拉', 'LIR', 310010000),
+(310014700, '内比', 'NEB', 310010000),
+(310010400, '本迪布焦', 'BUN', 310010000),
+(310014300, '穆本德', 'MUB', 310010000),
+(310010700, '布谢尼', 'BSH', 310010000),
+(310015200, '托罗罗', 'TOR', 310010000),
+(310011800, '卡巴罗莱', 'KAR', 310010000),
+(310013500, '马萨卡', 'MAS', 310010000),
+(310010200, '阿帕克', 'APC', 310010000),
+(310013800, '莫罗托', 'MRT', 310010000),
+(310015100, '索罗提', 'SOR', 310010000),
+(310011500, '基特古姆', 'KIT', 310010000),
+(310014900, '帕利萨', 'PAL', 310010000),
+(310014100, '姆巴莱', 'MBA', 310010000),
+(310012300, '卡农古', 'KAN', 310010000),
+(310013600, '马辛迪', 'MSN', 310010000),
+(310014400, '穆科诺', 'MUK', 310010000),
+(310011000, '霍伊马', 'HOI', 310010000),
+(310011700, '卡巴莱', 'KBL', 310010000),
+(310014600, '纳卡松戈拉', 'NKS', 310010000),
+(310011900, '卡贝拉马伊多', 'KAB', 310010000),
+(310014500, '纳卡皮里皮里特', 'NAK', 310010000),
+(310013300, '卢韦罗', 'LUW', 310010000),
+(310011300, '基恩乔乔', 'KYE', 310010000),
+(310012500, '卡塞塞', 'KAS', 310010000),
+(310015500, '伊甘加', 'IGA', 310010000),
+(310012700, '卡永加', 'KAY', 310010000),
+(310012900, '科蒂多', 'KOT', 310010000),
+(310011600, '金贾', 'JIN', 310010000),
+(310012200, '卡穆利', 'KML', 310010000),
+(310014200, '姆皮吉', 'MPI', 310010000),
+(310015300, '瓦基索', 'WAK', 310010000),
+(310010500, '布吉里', 'BUG', 310010000),
+(310013900, '莫约', 'MOY', 310010000),
+(310015000, '森巴布莱', 'SEM', 310010000),
+(310011400, '基索罗', 'KIS', 310010000),
+(310013400, '鲁昆吉里', 'RUK', 310010000),
+(310010900, '古卢', 'GUL', 310010000),
+(310010300, '阿朱马尼', 'ADJ', 310010000),
+(310011100, '基巴莱', 'KBA', 310010000),
+(310014800, '帕德尔', 'PAD', 310010000),
+(310015600, '永贝', 'YUM', 310010000),
+(310013700, '马尤盖', 'MAY', 310010000),
+(310012000, '卡兰加拉', 'KAL', 310010000),
+(310010100, '阿鲁阿', 'ARU', 310010000),
+(310011200, '基博加', 'KIB', 310010000),
+(310010800, '恩通加莫', 'NTU', 310010000),
+(310012400, '卡普乔鲁瓦', 'KPC', 310010000),
+(310013000, '库米', 'KUM', 310010000),
+(310010600, '布西亚', 'BUS', 310010000),
+(311010300, '第聂伯罗波得罗夫斯克', '12', 311010000),
+(311010600, '赫尔松州', '65', 311010000),
+(311011900, '日托米尔', '18', 311010000),
+(311011800, '切尔诺夫策', '77', 311010000),
+(311012200, '文尼察', '5', 311010000),
+(311010400, '顿涅茨克', '14', 311010000),
+(311012100, '外喀尔巴阡', '21', 311010000),
+(311012300, '沃伦', '7', 311010000),
+(311010100, '敖德萨', '51', 311010000),
+(311012000, '苏梅', '59', 311010000),
+(311012500, '扎波罗热', '23', 311010000),
+(311011300, '卢甘斯克', '9', 311010000),
+(311011100, '克里米亚自治共和国', '43', 311010000),
+(311011600, '切尔卡瑟', '71', 311010000),
+(311010700, '赫梅利尼茨基', '68', 311010000),
+(311011500, '尼古拉耶夫', '48', 311010000),
+(311011000, '捷尔诺波尔', '61', 311010000),
+(311011700, '切尔尼戈夫', '74', 311010000),
+(311010200, '波尔塔瓦', '53', 311010000),
+(311010500, '哈尔科夫', '63', 311010000),
+(311010800, '基辅', '30', 311010000),
+(311011400, '罗夫诺', '56', 311010000),
+(311010900, '基洛夫格勒', '35', 311010000),
+(311012400, '伊万－弗兰科夫州', '26', 311010000),
+(311011200, '利沃夫', '46', 311010000),
+(312010800, '里韦拉', 'RV', 312010000),
+(312010400, '弗洛雷斯', 'FS', 312010000),
+(312011700, '圣何塞', 'SJ', 312010000),
+(312011800, '索里亚诺', 'SO', 312010000),
+(312010100, '阿蒂加斯', 'AR', 312010000),
+(312010600, '科洛尼亚', 'CO', 312010000),
+(312011500, '塞罗拉尔戈', 'CL', 312010000),
+(312011100, '蒙得维的亚', 'MO', 312010000),
+(312011200, '内格罗河', 'RN', 312010000),
+(312011300, '派桑杜', 'PA', 312010000),
+(312011000, '马尔多纳多', 'MA', 312010000),
+(312010500, '卡内洛内斯', 'CA', 312010000),
+(312010300, '佛罗里达', 'FA', 312010000),
+(312011900, '塔夸伦博', 'TAW', 312010000),
+(312010200, '杜拉斯诺', 'DU', 312010000),
+(312010900, '罗恰', 'RO', 312010000),
+(312011400, '萨尔托', 'SL', 312010000),
+(312011600, '三十三人', 'TT', 312010000),
+(312010700, '拉瓦耶哈', 'LA', 312010000),
+(313010100, '安集延', 'AN', 313010000),
+(313010700, '卡什卡达里亚', 'QA', 313010000),
+(313011200, '塔什干', 'TK', 313010000),
+(313010800, '纳曼干', 'NG', 313010000),
+(313010900, '纳沃伊', 'NW', 313010000),
+(313010300, '费尔干纳', 'FA', 313010000),
+(313011400, '锡尔河', 'SI', 313010000),
+(313011300, '塔什干市', 'TO', 313010000),
+(313010200, '布哈拉', 'BU', 313010000),
+(313010600, '卡拉卡尔帕克斯坦共和国', 'QR', 313010000),
+(313010400, '花拉子模', 'XO', 313010000),
+(313011000, '撒马尔罕', 'SA', 313010000),
+(313011100, '苏尔汉河', 'SU', 313010000),
+(313010500, '吉扎克', 'JI', 313010000),
+(314010700, '奥伦塞', 'ORE', 314010000),
+(314012500, '昆卡', 'CUE', 314010000),
+(314014900, '韦尔瓦', 'HUV', 314010000),
+(314011800, '赫罗纳', 'GRO', 314010000),
+(314013900, '萨拉曼卡', 'SLM', 314010000),
+(314014200, '塞维利亚', 'SVQ', 314010000),
+(314011700, '哈恩', 'JAE', 314010000),
+(314012100, '卡塞雷斯', 'CCS', 314010000),
+(314011100, '巴伦西亚', 'VLC', 314010000),
+(314013000, '莱里达', 'LLE', 314010000),
+(314014300, '桑坦德', 'SDR', 314010000),
+(314012900, '莱昂', 'LEN', 314010000),
+(314013200, '马德里', 'MAD', 314010000),
+(314013100, '卢戈', 'LGO', 314010000),
+(314013500, '纳瓦拉', 'NVV', 314010000),
+(314013600, '帕伦西亚', 'PAC', 314010000),
+(314011500, '格拉纳达', 'GRX', 314010000),
+(314014600, '塔拉戈纳', 'TAR', 314010000),
+(314011200, '巴塞罗那', 'BCN', 314010000),
+(314013700, '蓬特韦德拉', 'PEV', 314010000),
+(314011400, '布尔戈斯', 'BUR', 314010000),
+(314010500, '阿斯图利亚斯', 'AST', 314010000);
+INSERT INTO city(id, name, code, state_id) VALUES(314012600, '拉科鲁尼亚', 'LCG', 314010000),
+(314011300, '比斯开', 'VSE', 314010000),
+(314010800, '巴达霍斯', 'BJZ', 314010000),
+(314012400, '科尔多瓦', 'ODB', 314010000),
+(314012800, '拉斯帕尔马斯', 'LPA', 314010000),
+(314013300, '马拉加', 'AGP', 314010000),
+(314010900, '巴利阿里', 'BLR', 314010000),
+(314012000, '加的斯', 'CAD', 314010000),
+(314010400, '阿利坎特', 'ALC', 314010000),
+(314015000, '韦斯卡', 'HUC', 314010000),
+(314014400, '圣克鲁斯-德特内里费', 'SCT', 314010000),
+(314011000, '巴利亚多利德', 'VLL', 314010000),
+(314011600, '瓜达拉哈拉', 'GUA', 314010000),
+(314010300, '阿拉瓦', 'ALA', 314010000),
+(314013400, '穆尔西亚', 'MJV', 314010000),
+(314014800, '托莱多', 'TOL', 314010000),
+(314010100, '阿尔梅里亚', 'LEI', 314010000),
+(314012700, '拉里奥哈', 'ARL', 314010000),
+(314014500, '索里亚', 'SOR', 314010000),
+(314011900, '吉普斯夸', 'GUI', 314010000),
+(314012200, '卡斯蒂利亚', 'CIR', 314010000),
+(314014700, '特鲁埃尔', 'TER', 314010000),
+(314014100, '塞哥维亚', 'SEG', 314010000),
+(314012300, '卡斯特利翁', 'CAS', 314010000),
+(314014000, '萨莫拉', 'ZMR', 314010000),
+(314010200, '阿尔瓦塞特', 'ALB', 314010000),
+(314010600, '阿维拉', 'AVI', 314010000),
+(314013800, '萨拉戈萨', 'ZAZ', 314010000),
+(315010300, '干尼亚', 'CHQ', 315010000),
+(315010600, '莱斯博斯', 'LES', 315010000),
+(315010900, '雅典', 'ATH', 315010000),
+(315010400, '基克拉迪', 'CY', 315010000),
+(315010200, '多德卡尼斯', 'DO', 315010000),
+(315010700, '雷西姆农', 'RET', 315010000),
+(315010100, '比雷埃夫斯', 'PRI', 315010000),
+(315010500, '拉西锡', 'LST', 315010000),
+(315011000, '伊拉克里翁', 'HER', 315010000),
+(315010800, '萨摩斯', 'SMI', 315010000),
+(318011700, '内皮尔', 'NPE', 318010000),
+(318011900, '陶马鲁努伊', 'TAU', 318010000),
+(318011300, '克赖斯特彻奇', 'CHC', 318010000),
+(318010400, '北远', 'FNR', 318010000),
+(318012300, '新普利茅斯', 'NPL', 318010000),
+(318010700, '格雷茅斯', 'GMN', 318010000),
+(318011100, '吉斯伯恩', 'GIS', 318010000),
+(318011500, '马努考', 'MNK', 318010000),
+(318010800, '哈密尔顿', 'HLZ', 318010000),
+(318010300, '北帕默斯顿', 'PMR', 318010000),
+(318010900, '黑斯廷斯', 'HAS', 318010000),
+(318011600, '纳尔逊', 'NSN', 318010000),
+(318011400, '里士满', 'RMD', 318010000),
+(318010100, '奥克兰', 'AUK', 318010000),
+(318011000, '怀塔科拉', 'WAE', 318010000),
+(318011800, '斯特拉特福德', 'STR', 318010000),
+(318012000, '瓦卡塔尼', 'WHK', 318010000),
+(318010500, '布莱尼姆', 'BHE', 318010000),
+(318010600, '达尼丁', 'DUD', 318010000),
+(318012400, '因弗卡吉尔', 'IVC', 318010000),
+(318012100, '旺阿雷', 'WRE', 318010000),
+(318010200, '北岸', 'NSH', 318010000),
+(318011200, '凯帕拉', 'KAI', 318010000),
+(318012200, '旺格努伊', 'WAG', 318010000),
+(319011300, '佩斯', 'PE', 319010000),
+(319012000, '佐洛', 'ZA', 319010000),
+(319010800, '赫维什', 'HE', 319010000),
+(319011400, '琼格拉德', 'CS', 319010000),
+(319011500, '绍莫吉', 'SO', 319010000),
+(319011700, '托尔瑙', 'TO', 319010000),
+(319010300, '包尔绍德-奥包乌伊-曾普伦', 'BZ', 319010000),
+(319011200, '诺格拉德', 'NO', 319010000),
+(319010200, '巴奇-基什孔', 'BK', 319010000),
+(319010500, '布达佩斯', 'BU', 319010000),
+(319011100, '科马罗姆', 'KE', 319010000),
+(319010700, '豪伊杜-比豪尔', 'HB', 319010000),
+(319011800, '维斯普雷姆', 'VE', 319010000),
+(319011600, '索博尔奇-索特马尔-贝拉格', 'SZ', 319010000),
+(319010400, '贝凯什', 'BE', 319010000),
+(319010100, '巴兰尼亚', 'BA', 319010000),
+(319010900, '加兹-纳杰孔-索尔诺克', 'JN', 319010000),
+(319011900, '沃什', 'VA', 319010000),
+(319010600, '费耶尔', 'FE', 319010000),
+(319011000, '杰尔-莫松-肖普朗', 'GS', 319010000),
+(320010600, '哈马', 'HM', 320010000),
+(320010900, '加布', 'GH', 320010000),
+(320011300, '拉塔基亚', 'LA', 320010000),
+(320010500, '德拉', 'DA', 320010000),
+(320011100, '库奈特拉', 'QU', 320010000),
+(320011600, '伊德利卜', 'ID', 320010000),
+(320011400, '苏韦达', 'SU', 320010000),
+(320011000, '卡米什利', 'QA', 320010000),
+(320010400, '代尔祖尔', 'DZ', 320010000),
+(320010200, '大马士革', 'RD', 320010000),
+(320011200, '拉卡', 'RQ', 320010000),
+(320010100, '阿勒颇', 'HL', 320010000),
+(320010300, '大马士革市', 'DI', 320010000),
+(320010700, '哈塞克', 'HA', 320010000),
+(320010800, '霍姆斯', 'HI', 320010000),
+(320011500, '塔尔图斯', 'TA', 320010000),
+(321010200, '汉诺威', 'HAN', 321010000),
+(321011400, '西摩兰', 'WML', 321010000),
+(321010300, '金斯敦', 'KIN', 321010000),
+(321011000, '圣托马斯', 'THO', 321010000),
+(321011200, '圣詹姆斯', 'JAM', 321010000),
+(321011100, '圣伊丽莎白', 'ELI', 321010000),
+(321010100, '波特兰', 'POR', 321010000),
+(321010500, '曼彻斯特', 'MAN', 321010000),
+(321010800, '圣凯瑟琳', 'CAT', 321010000),
+(321010900, '圣玛丽', 'MAR', 321010000),
+(321010400, '克拉伦登', 'CLA', 321010000),
+(321011300, '特里洛尼', 'TRL', 321010000),
+(321010700, '圣安娜', 'ANN', 321010000),
+(321010600, '圣安德鲁斯', 'AND', 321010000),
+(322010700, '洛里', 'LOR', 322010000),
+(322010300, '阿拉拉特', 'ARA', 322010000),
+(322010600, '科泰克', 'KOT', 322010000),
+(322010100, '阿尔马维尔', 'ARM', 322010000),
+(322010900, '瓦约茨·佐尔', 'VAY', 322010000),
+(322011100, '休尼克', 'SYU', 322010000),
+(322010200, '阿拉加措特恩', 'AGT', 322010000),
+(322010800, '塔武什', 'TAV', 322010000),
+(322010400, '埃里温市', 'EVN', 322010000),
+(322011000, '希拉克', 'SHI', 322010000),
+(322010500, '格加尔库尼克', 'GEG', 322010000),
+(323010800, '焦夫', 'JA', 323010000),
+(323011400, '萨那', 'SN', 323010000),
+(323010300, '贝达', 'BA', 323010000),
+(323011000, '马里卜', 'MA', 323010000),
+(323011800, '希赫尔', 'ASR', 323010000),
+(323012100, '扎玛尔', 'DH', 323010000),
+(323011700, '塔伊兹', 'TA', 323010000),
+(323011600, '舍卜沃', 'SH', 323010000),
+(323011900, '亚丁', 'AD', 323010000),
+(323010200, '阿姆兰', 'AM', 323010000),
+(323012000, '伊卜', 'IB', 323010000),
+(323011100, '迈赫拉', 'MR', 323010000),
+(323010700, '荷台达', 'HU', 323010000),
+(323010900, '拉赫季', 'LA', 323010000),
+(323010400, '达利', 'DA', 323010000),
+(323010500, '哈德拉毛', 'HD', 323010000),
+(323011500, '赛文', 'GXF', 323010000),
+(323011300, '萨达', 'SD', 323010000),
+(323010100, '阿比扬', 'AB', 323010000),
+(323011200, '迈赫维特', 'MW', 323010000),
+(323010600, '哈杰', 'HJ', 323010000),
+(326010400, '海法', 'HFA', 326010000),
+(326010600, '内坦亚', 'NAT', 326010000),
+(326010700, '特拉维夫', 'TLV', 326010000),
+(326010300, '贝特雁', 'BAT', 326010000),
+(326010500, '霍隆', 'HOL', 326010000),
+(326010200, '贝尔谢巴', 'BEV', 326010000),
+(326010800, '耶路撒冷', 'J', 326010000),
+(326010100, '阿什杜德', 'ASH', 326010000),
+(327011800, '的里雅斯特', 'TRS', 327010000),
+(327014300, '米兰', 'MIL', 327010000),
+(327012300, '卡利亚里', 'CAG', 327010000),
+(327013800, '里窝那', 'LIV', 327010000),
+(327016300, '锡拉库扎', 'SYR', 327010000),
+(327014600, '那不勒斯', 'NAP', 327010000),
+(327015800, '特伦托', 'TRT', 327010000),
+(327014800, '诺瓦拉', 'NVR', 327010000),
+(327012400, '卡塞塔', 'CST', 327010000),
+(327016200, '乌迪内', 'UDN', 327010000),
+(327013100, '库内奥', 'CUN', 327010000),
+(327010500, '奥里斯塔诺', 'QOS', 327010000),
+(327013600, '雷焦艾米利亚', 'RNE', 327010000),
+(327010700, '巴勒莫', 'PMO', 327010000),
+(327011300, '波坦察', 'QPO', 327010000),
+(327015900, '威尼斯', 'VCE', 327010000),
+(327013400, '莱科', 'LCO', 327010000),
+(327013700, '雷焦卡拉布里亚', 'REG', 327010000),
+(327012700, '坎波巴索', 'COB', 327010000),
+(327011900, '都灵', 'TRN', 327010000),
+(327011700, '布林迪西', 'BDS', 327010000),
+(327012800, '科摩', 'CIY', 327010000),
+(327010600, '奥斯塔', 'AOT', 327010000),
+(327010400, '奥尔比亚', 'OLB', 327010000),
+(327011000, '贝内文托', 'BEN', 327010000),
+(327014700, '努奥罗', 'QNU', 327010000),
+(327016600, '伊塞尔尼亚', 'ISE', 327010000),
+(327015100, '佩鲁贾', 'PEG', 327010000),
+(327010900, '贝加莫', 'BGO', 327010000),
+(327010800, '巴里', 'BRI', 327010000),
+(327012100, '佛罗伦萨', 'FLR', 327010000),
+(327010100, '阿斯蒂', 'AST', 327010000),
+(327012900, '科森扎', 'QCS', 327010000),
+(327013200, '拉奎拉', 'LAQ', 327010000),
+(327011100, '比萨', 'PSA', 327010000),
+(327011200, '波代诺内', 'PRD', 327010000),
+(327012500, '卡塔尼亚', 'CTA', 327010000),
+(327015200, '热那亚', 'CAX', 327010000),
+(327010300, '安科纳', 'AOI', 327010000),
+(327014400, '摩德纳', 'MOD', 327010000),
+(327015700, '特拉帕尼', 'TPS', 327010000),
+(327011500, '布拉', 'BIE', 327010000),
+(327014500, '墨西拿', 'MSN', 327010000),
+(327012600, '卡坦扎罗', 'QCZ', 327010000),
+(327014900, '帕尔马', 'PMF', 327010000),
+(327010200, '阿斯科利皮切诺', 'ASP', 327010000),
+(327015600, '塔兰托', 'TAR', 327010000),
+(327013900, '罗马', 'ROM', 327010000);
+INSERT INTO city(id, name, code, state_id) VALUES(327013000, '克罗托内', 'CRV', 327010000),
+(327014200, '蒙扎', 'MZA', 327010000),
+(327016000, '韦尔切利', 'VRL', 327010000),
+(327012000, '费拉拉', 'FRR', 327010000),
+(327014000, '马萨', 'MCR', 327010000),
+(327016100, '维泰博', 'VIT', 327010000),
+(327014100, '马泰拉', 'MTR', 327010000),
+(327016400, '锡耶纳', 'SNA', 327010000),
+(327011400, '博洛尼亚', 'BLQ', 327010000),
+(327011600, '布雷西亚', 'BRC', 327010000),
+(327012200, '福贾', 'FOG', 327010000),
+(327016500, '亚历山德里亚', 'ALE', 327010000),
+(327013500, '莱切', 'LCC', 327010000),
+(327015400, '萨萨里', 'QSS', 327010000),
+(327015500, '萨沃纳', 'SVN', 327010000),
+(327015000, '帕维亚', 'PAV', 327010000),
+(327015300, '萨莱诺', 'SAL', 327010000),
+(327013300, '拉斯佩齐亚', 'SPE', 327010000),
+(328010200, '班加罗尔', 'BLR', 328010000),
+(328010900, '甘托克', 'GTO', 328010000),
+(328012600, '新德里', 'ICD', 328010000),
+(328011400, '贾朗达尔', 'JUC', 328010000),
+(328011600, '金奈', 'MAA', 328010000),
+(328011200, '加里加尔', 'KRK', 328010000),
+(328012100, '森伯尔布尔', 'SLR', 328010000),
+(328010800, '第乌', 'DIU', 328010000),
+(328012800, '因帕尔', 'IMF', 328010000),
+(328010400, '博帕尔', 'BHO', 328010000),
+(328012300, '乌代布尔', 'UDR', 328010000),
+(328012200, '特里凡得琅', 'TRV', 328010000),
+(328012400, '西隆', 'SHL', 328010000),
+(328010100, '艾藻尔', 'AJL', 328010000),
+(328013000, '斋普尔', 'JAI', 328010000),
+(328011500, '焦特布尔', 'JDH', 328010000),
+(328010600, '昌迪加尔', 'IXC', 328010000),
+(328012700, '亚南', 'SRV', 328010000),
+(328012500, '锡尔萨瓦', 'SIL', 328010000),
+(328011800, '科希马', 'KOM', 328010000),
+(328010700, '达曼', 'DAM', 328010000),
+(328011000, '哥印拜陀', 'CJB', 328010000),
+(328012900, '印多尔', 'IDR', 328010000),
+(328011900, '马埃', 'MAH', 328010000),
+(328011100, '加尔各答', 'CCU', 328010000),
+(328010500, '布巴内斯瓦尔', 'BBI', 328010000),
+(328010300, '本地治里', 'PNY', 328010000),
+(328012000, '马杜赖', 'IXM', 328010000),
+(328011300, '贾巴尔普尔', 'JLR', 328010000),
+(328011700, '卡瓦拉蒂', 'KVA', 328010000),
+(329012400, '伊里安查亚', 'IJ', 329010000),
+(329010800, '东努沙登加拉', 'NT', 329010000),
+(329010500, '大雅加达首都特区', 'KB', 329010000),
+(329010700, '东南苏拉威西', 'SG', 329010000),
+(329011700, '日惹特区', 'YO', 329010000),
+(329012500, '占碑', 'JA', 329010000),
+(329012800, '中爪哇', 'JT', 329010000),
+(329010200, '邦加－勿里洞群岛', 'BB', 329010000),
+(329010600, '东加里曼丹', 'KI', 329010000),
+(329012000, '西苏门答腊', 'SR', 329010000),
+(329010100, '巴厘', 'BA', 329010000),
+(329012300, '亚齐', 'AC', 329010000),
+(329010300, '北苏拉威西', 'SA', 329010000),
+(329012200, '雅加达', 'JK', 329010000),
+(329011900, '西努沙登加拉', 'NB', 329010000),
+(329010400, '北苏门答腊', 'SU', 329010000),
+(329010900, '东爪哇', 'JI', 329010000),
+(329011500, '南苏拉威西', 'SN', 329010000),
+(329011400, '南加里曼丹', 'KS', 329010000),
+(329011300, '楠榜', 'LA', 329010000),
+(329011600, '南苏门答腊', 'SS', 329010000),
+(329012600, '中加里曼丹', 'KT', 329010000),
+(329011200, '明古鲁', 'BE', 329010000),
+(329011800, '万丹', 'BT', 329010000),
+(329012100, '西爪哇', 'JB', 329010000),
+(329011000, '廖内', 'RI', 329010000),
+(329011100, '马鲁古', 'MA', 329010000),
+(329012700, '中苏拉威西', 'ST', 329010000),
+(330030100, '班戈', 'BAN', 330030000),
+(330030300, '纽波特', 'NWP', 330030000),
+(330030400, '斯旺西', 'SWA', 330030000),
+(330030200, '卡迪夫', 'CDF', 330030000),
+(330040900, '德罕', 'DUR', 330040000),
+(330044900, '约克', 'YOR', 330040000),
+(330042300, '林肯', 'LCN', 330040000),
+(330043100, '朴茨茅斯', 'POR', 330040000),
+(330040800, '德比', 'DER', 330040000),
+(330043000, '诺里奇', 'NRW', 330040000),
+(330043600, '桑德兰', 'SUN', 330040000),
+(330043500, '切斯特', 'CEG', 330040000),
+(330041500, '坎特伯雷', 'CNG', 330040000),
+(330044700, '谢菲尔德', 'SHE', 330040000),
+(330044000, '特鲁罗', 'TRU', 330040000),
+(330043700, '圣阿本斯', 'TBL', 330040000),
+(330043900, '索福特', 'SLF', 330040000),
+(330041200, '赫里福德', 'HAF', 330040000),
+(330040300, '彼得伯勒', 'PTE', 330040000),
+(330041700, '兰开斯特', 'LAN', 330040000),
+(330040700, '布里斯托尔', 'BST', 330040000),
+(330043200, '普雷斯顿', 'PRE', 330040000),
+(330040200, '巴斯', 'BAS', 330040000),
+(330041600, '考文垂', 'COV', 330040000),
+(330041400, '卡莱尔', 'CAX', 330040000),
+(330040500, '布拉德福德', 'BRD', 330040000),
+(330043800, '索尔斯堡', 'SLS', 330040000),
+(330044400, '温彻斯特', 'WNE', 330040000),
+(330044800, '伊利', 'ELY', 330040000),
+(330042500, '曼彻斯特', 'MAN', 330040000),
+(330044500, '伍尔弗汉普顿', 'WOV', 330040000),
+(330041000, '格洛斯特', 'GLO', 330040000),
+(330041100, '赫尔河畔京斯敦', 'KUH', 330040000),
+(330042800, '纽卡斯尔', 'NCL', 330040000),
+(330042000, '利物浦', 'LIV', 330040000),
+(330041800, '里彭', 'RIP', 330040000),
+(330044300, '韦克菲尔德', 'WKF', 330040000),
+(330040100, '埃克塞特', 'EXE', 330040000),
+(330044100, '特伦特河畔斯多克', 'SOT', 330040000),
+(330040400, '伯明翰', 'BIR', 330040000),
+(330043300, '普利茅斯', 'PLY', 330040000),
+(330042200, '列斯特', 'LCE', 330040000),
+(330043400, '奇切斯特', 'CST', 330040000),
+(330041900, '利奇菲尔德', 'LHF', 330040000),
+(330042400, '伦敦', 'LND', 330040000),
+(330044600, '伍斯特', 'WOR', 330040000),
+(330042600, '南安普敦', 'STH', 330040000),
+(330042100, '利茲', 'LDS', 330040000),
+(330044200, '威尔斯', 'WLS', 330040000),
+(330042900, '诺丁汉', 'NGM', 330040000),
+(330041300, '剑桥', 'CAM', 330040000),
+(330042700, '牛津', 'OXF', 330040000),
+(330040600, '布莱顿与赫福', 'BNH', 330040000),
+(330010300, '利斯本', 'LSB', 330010000),
+(330010400, '纽里', 'NYM', 330010000),
+(330010100, '贝尔法斯特', 'BFS', 330010000),
+(330010200, '德里', 'DRY', 330010000),
+(330020500, '斯特灵', 'STG', 330020000),
+(330020200, '爱丁堡', 'EDH', 330020000),
+(330020300, '丹迪', 'DND', 330020000),
+(330020400, '格拉斯哥', 'GLG', 330020000),
+(330020600, '因弗内斯', 'INV', 330020000),
+(330020100, '阿伯丁', 'ABD', 330020000),
+(332010900, '马夫拉克', 'MF', 332010000),
+(332010300, '拜勒加', 'BA', 332010000),
+(332010800, '马德巴', 'MD', 332010000),
+(332010700, '马安', 'MN', 332010000),
+(332011100, '亚喀巴', 'AQ', 332010000),
+(332011300, '扎尔卡', 'ZA', 332010000),
+(332010500, '卡拉克', 'KA', 332010000),
+(332010200, '安曼', 'AM', 332010000),
+(332010600, '鲁赛法', 'RU', 332010000),
+(332010100, '阿吉隆', 'AJ', 332010000),
+(332011000, '塔菲拉', 'TA', 332010000),
+(332011200, '伊尔比德', 'IR', 332010000),
+(332010400, '杰拉什', 'JA', 332010000),
+(333010300, '胡志明市', 'HC', 333010000),
+(333010100, '海防', 'HP', 333010000),
+(333010200, '河内', 'HI', 333010000),
+(334010800, '西方', 'WE', 334010000),
+(334010700, '西北', 'NW', 334010000),
+(334010600, '铜带', 'CB', 334010000),
+(334010400, '卢萨卡', 'LK', 334010000),
+(334010200, '东方', 'EA', 334010000),
+(334010300, '卢阿普拉', 'LP', 334010000),
+(334010500, '南方', 'SO', 334010000),
+(334010100, '北方', 'NO', 334010000),
+(334010900, '中央', 'CE', 334010000),
+(338011000, '圣地亚哥', 'RM', 338010000),
+(338010300, '安托法加斯塔大区', 'AN', 338010000),
+(338010600, '湖大区', 'LL', 338010000),
+(338011300, '伊瓦涅斯将军的艾森大区', 'AI', 338010000),
+(338010400, '比奥比奥大区', 'BI', 338010000),
+(338010900, '麦哲伦-智利南极大区', 'MA', 338010000),
+(338010700, '科金博大区', 'CO', 338010000),
+(338010100, '阿劳卡尼亚大区', 'AR', 338010000),
+(338010200, '阿塔卡马大区', 'AT', 338010000),
+(338010500, '复活节岛', 'LI', 338010000),
+(338011100, '塔拉帕卡大区', 'TA', 338010000),
+(338011200, '瓦尔帕莱索大区', 'VS', 338010000),
+(338010800, '马乌莱大区', 'ML', 338010000),
+(339011000, '桑加-姆巴埃雷', 'SE', 339010000),
+(339011700, '翁贝拉-姆波科', 'MP', 339010000),
+(339010900, '纳纳-曼贝雷', 'NM', 339010000),
+(339010400, '凯莫', 'KG', 339010000),
+(339010700, '姆博穆', 'MB', 339010000),
+(339010300, '宾博', 'BI', 339010000),
+(339010200, '班吉直辖市', 'BGF', 339010000),
+(339010100, '巴明吉-班戈兰', 'BB', 339010000),
+(339011600, '瓦姆-彭代', 'OP', 339010000),
+(339010500, '洛巴伊', 'LB', 339010000),
+(339011500, '瓦姆', 'AC', 339010000),
+(339011800, '下科托', 'BK', 339010000),
+(339010600, '曼贝雷-卡代', 'HS', 339010000),
+(339011400, '瓦卡加', 'VK', 339010000),
+(339011100, '上科托', 'HK', 339010000),
+(339011300, '瓦卡', 'UK', 339010000),
+(339010800, '纳纳-格里比齐', 'KB', 339010000),
+(339011200, '上姆博穆', 'HM', 339010000);

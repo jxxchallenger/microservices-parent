@@ -93,7 +93,7 @@ public class Foo {
 					String cName = city.attributeValue("Name");
 					String cCode = city.attributeValue("Code");
 					
-					int city_id = state_id + cityId * 1000;
+					int city_id = state_id + cityId * 100;
 					City ct = new City(city_id, cName, cCode);
 					ct.setParentId(state_id);
 					

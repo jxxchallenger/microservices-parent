@@ -1,2742 +1,2742 @@
-INSERT INTO region(id, name, code, city_id) VALUES(100055001, '科尔沁区', '2', 100055000);
-INSERT INTO region(id, name, code, city_id) VALUES(100055008, '霍林郭勒市', '81', 100055000);
-INSERT INTO region(id, name, code, city_id) VALUES(100055002, '科尔沁左翼中旗', '21', 100055000);
-INSERT INTO region(id, name, code, city_id) VALUES(100055007, '扎鲁特旗', '26', 100055000);
-INSERT INTO region(id, name, code, city_id) VALUES(100055004, '开鲁县', '23', 100055000);
-INSERT INTO region(id, name, code, city_id) VALUES(100055006, '奈曼旗', '25', 100055000);
-INSERT INTO region(id, name, code, city_id) VALUES(100055003, '科尔沁左翼后旗', '22', 100055000);
-INSERT INTO region(id, name, code, city_id) VALUES(100055005, '库伦旗', '24', 100055000);
-INSERT INTO region(id, name, code, city_id) VALUES(100053001, '海勃湾区', '2', 100053000);
-INSERT INTO region(id, name, code, city_id) VALUES(100053002, '海南区', '3', 100053000);
-INSERT INTO region(id, name, code, city_id) VALUES(100053003, '乌达区', '4', 100053000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057002, '阿荣旗', '21', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057005, '鄂温克族自治旗', '24', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057009, '满洲里市', '81', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057008, '新巴尔虎右旗', '27', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057007, '新巴尔虎左旗', '26', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057010, '牙克石市', '82', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057004, '鄂伦春自治旗', '23', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057013, '根河市', '85', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057001, '海拉尔区', '2', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057003, '莫力达瓦达斡尔族自治旗', '22', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057012, '额尔古纳市', '84', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057006, '陈巴尔虎旗', '25', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100057011, '扎兰屯市', '83', 100057000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062002, '阿拉善右旗', '22', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062003, '额济纳旗', '23', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062001, '阿拉善左旗', '21', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100056005, '鄂托克旗', '24', 100056000);
-INSERT INTO region(id, name, code, city_id) VALUES(100056006, '杭锦旗', '25', 100056000);
-INSERT INTO region(id, name, code, city_id) VALUES(100056002, '达拉特旗', '21', 100056000);
-INSERT INTO region(id, name, code, city_id) VALUES(100056007, '乌审旗', '26', 100056000);
-INSERT INTO region(id, name, code, city_id) VALUES(100056001, '东胜区', '2', 100056000);
-INSERT INTO region(id, name, code, city_id) VALUES(100056008, '伊金霍洛旗', '27', 100056000);
-INSERT INTO region(id, name, code, city_id) VALUES(100056003, '准格尔旗', '22', 100056000);
-INSERT INTO region(id, name, code, city_id) VALUES(100056004, '鄂托克前旗', '23', 100056000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061004, '苏尼特左旗', '23', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061009, '镶黄旗', '28', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061008, '太仆寺旗', '27', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061006, '东乌珠穆沁旗', '25', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061001, '二连浩特市', '1', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061002, '锡林浩特市', '2', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061003, '阿巴嘎旗', '22', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061005, '苏尼特右旗', '24', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061012, '多伦县', '31', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061011, '正蓝旗', '30', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061010, '正镶白旗', '29', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061007, '西乌珠穆沁旗', '26', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051002, '回民区', '3', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051006, '托克托县', '22', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051005, '土默特左旗', '21', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051003, '玉泉区', '4', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051007, '和林格尔县', '23', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051001, '新城区', '2', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051004, '赛罕区', '5', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051009, '武川县', '25', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051008, '清水河县', '24', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100058003, '磴口县', '22', 100058000);
-INSERT INTO region(id, name, code, city_id) VALUES(100058004, '乌拉特前旗', '23', 100058000);
-INSERT INTO region(id, name, code, city_id) VALUES(100058005, '乌拉特中旗', '24', 100058000);
-INSERT INTO region(id, name, code, city_id) VALUES(100058007, '杭锦后旗', '26', 100058000);
-INSERT INTO region(id, name, code, city_id) VALUES(100058006, '乌拉特后旗', '25', 100058000);
-INSERT INTO region(id, name, code, city_id) VALUES(100058002, '五原县', '21', 100058000);
-INSERT INTO region(id, name, code, city_id) VALUES(100058001, '临河区', '2', 100058000);
-INSERT INTO region(id, name, code, city_id) VALUES(100060002, '阿尔山市', '2', 100060000);
-INSERT INTO region(id, name, code, city_id) VALUES(100060006, '突泉县', '24', 100060000);
-INSERT INTO region(id, name, code, city_id) VALUES(100060004, '科尔沁右翼中旗', '22', 100060000);
-INSERT INTO region(id, name, code, city_id) VALUES(100060005, '扎赉特旗', '23', 100060000);
-INSERT INTO region(id, name, code, city_id) VALUES(100060001, '乌兰浩特市', '1', 100060000);
-INSERT INTO region(id, name, code, city_id) VALUES(100060003, '科尔沁右翼前旗', '21', 100060000);
-INSERT INTO region(id, name, code, city_id) VALUES(100052005, '白云鄂博矿区', '6', 100052000);
-INSERT INTO region(id, name, code, city_id) VALUES(100052006, '九原区', '7', 100052000);
-INSERT INTO region(id, name, code, city_id) VALUES(100052009, '达尔罕茂明安联合旗', '23', 100052000);
-INSERT INTO region(id, name, code, city_id) VALUES(100052003, '青山区', '4', 100052000);
-INSERT INTO region(id, name, code, city_id) VALUES(100052002, '昆都仑区', '3', 100052000);
-INSERT INTO region(id, name, code, city_id) VALUES(100052004, '石拐区', '5', 100052000);
-INSERT INTO region(id, name, code, city_id) VALUES(100052008, '固阳县', '22', 100052000);
-INSERT INTO region(id, name, code, city_id) VALUES(100052001, '东河区', '2', 100052000);
-INSERT INTO region(id, name, code, city_id) VALUES(100052007, '土默特右旗', '21', 100052000);
-INSERT INTO region(id, name, code, city_id) VALUES(100059008, '察哈尔右翼中旗', '27', 100059000);
-INSERT INTO region(id, name, code, city_id) VALUES(100059007, '察哈尔右翼前旗', '26', 100059000);
-INSERT INTO region(id, name, code, city_id) VALUES(100059009, '察哈尔右翼后旗', '28', 100059000);
-INSERT INTO region(id, name, code, city_id) VALUES(100059004, '商都县', '23', 100059000);
-INSERT INTO region(id, name, code, city_id) VALUES(100059001, '集宁区', '2', 100059000);
-INSERT INTO region(id, name, code, city_id) VALUES(100059011, '丰镇市', '81', 100059000);
-INSERT INTO region(id, name, code, city_id) VALUES(100059006, '凉城县', '25', 100059000);
-INSERT INTO region(id, name, code, city_id) VALUES(100059005, '兴和县', '24', 100059000);
-INSERT INTO region(id, name, code, city_id) VALUES(100059003, '化德县', '22', 100059000);
-INSERT INTO region(id, name, code, city_id) VALUES(100059010, '四子王旗', '29', 100059000);
-INSERT INTO region(id, name, code, city_id) VALUES(100059002, '卓资县', '21', 100059000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054010, '喀喇沁旗', '28', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054001, '红山区', '2', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054004, '阿鲁科尔沁旗', '21', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054005, '巴林左旗', '22', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054007, '林西县', '24', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054009, '翁牛特旗', '26', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054002, '元宝山区', '3', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054003, '松山区', '4', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054008, '克什克腾旗', '25', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054006, '巴林右旗', '23', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054011, '宁城县', '29', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100054012, '敖汉旗', '30', 100054000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261001, '城关区', '2', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261005, '曲水县', '24', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261008, '墨竹工卡县', '27', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261002, '林周县', '21', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261003, '当雄县', '22', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261004, '尼木县', '23', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261006, '堆龙德庆县', '25', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261007, '达孜县', '26', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100266003, '噶尔县', '23', 100266000);
-INSERT INTO region(id, name, code, city_id) VALUES(100266004, '日土县', '24', 100266000);
-INSERT INTO region(id, name, code, city_id) VALUES(100266002, '札达县', '22', 100266000);
-INSERT INTO region(id, name, code, city_id) VALUES(100266006, '改则县', '26', 100266000);
-INSERT INTO region(id, name, code, city_id) VALUES(100266001, '普兰县', '21', 100266000);
-INSERT INTO region(id, name, code, city_id) VALUES(100266007, '措勤县', '27', 100266000);
-INSERT INTO region(id, name, code, city_id) VALUES(100266005, '革吉县', '25', 100266000);
-INSERT INTO region(id, name, code, city_id) VALUES(100267007, '朗　县', '27', 100267000);
-INSERT INTO region(id, name, code, city_id) VALUES(100267002, '工布江达县', '22', 100267000);
-INSERT INTO region(id, name, code, city_id) VALUES(100267003, '米林县', '23', 100267000);
-INSERT INTO region(id, name, code, city_id) VALUES(100267004, '墨脱县', '24', 100267000);
-INSERT INTO region(id, name, code, city_id) VALUES(100267001, '林芝县', '21', 100267000);
-INSERT INTO region(id, name, code, city_id) VALUES(100267006, '察隅县', '26', 100267000);
-INSERT INTO region(id, name, code, city_id) VALUES(100267005, '波密县', '25', 100267000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262010, '洛隆县', '32', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262009, '芒康县', '29', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262011, '边坝县', '33', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262002, '江达县', '22', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262008, '左贡县', '28', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262006, '察雅县', '26', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262001, '昌都县', '21', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262003, '贡觉县', '23', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262007, '八宿县', '27', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262004, '类乌齐县', '24', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262005, '丁青县', '25', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264004, '定日县', '24', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264002, '南木林县', '22', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264017, '萨嘎县', '37', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264006, '拉孜县', '26', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264008, '谢通门县', '28', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264001, '日喀则市', '1', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264016, '聂拉木县', '36', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264009, '白朗县', '29', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264018, '岗巴县', '38', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264010, '仁布县', '30', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264014, '亚东县', '34', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264011, '康马县', '31', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264003, '江孜县', '23', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264005, '萨迦县', '25', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264007, '昂仁县', '27', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264013, '仲巴县', '33', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264012, '定结县', '32', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264015, '吉隆县', '35', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265010, '尼玛县', '30', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265002, '嘉黎县', '22', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265007, '索　县', '27', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265001, '那曲县', '21', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265004, '聂荣县', '24', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265009, '巴青县', '29', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265003, '比如县', '23', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265006, '申扎县', '26', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265008, '班戈县', '28', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265005, '安多县', '25', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263001, '乃东县', '21', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263003, '贡嘎县', '23', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263004, '桑日县', '24', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263005, '琼结县', '25', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263002, '扎囊县', '22', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263007, '措美县', '27', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263010, '隆子县', '31', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263008, '洛扎县', '28', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263009, '加查县', '29', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263011, '错那县', '32', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263012, '浪卡子县', '33', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263006, '曲松县', '26', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100042001, '城　区', '2', 100042000);
-INSERT INTO region(id, name, code, city_id) VALUES(100042005, '阳高县', '21', 100042000);
-INSERT INTO region(id, name, code, city_id) VALUES(100042008, '灵丘县', '24', 100042000);
-INSERT INTO region(id, name, code, city_id) VALUES(100042002, '矿　区', '3', 100042000);
-INSERT INTO region(id, name, code, city_id) VALUES(100042010, '左云县', '26', 100042000);
-INSERT INTO region(id, name, code, city_id) VALUES(100042006, '天镇县', '22', 100042000);
-INSERT INTO region(id, name, code, city_id) VALUES(100042011, '大同县', '27', 100042000);
-INSERT INTO region(id, name, code, city_id) VALUES(100042004, '新荣区', '12', 100042000);
-INSERT INTO region(id, name, code, city_id) VALUES(100042003, '南郊区', '11', 100042000);
-INSERT INTO region(id, name, code, city_id) VALUES(100042007, '广灵县', '23', 100042000);
-INSERT INTO region(id, name, code, city_id) VALUES(100042009, '浑源县', '25', 100042000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049014, '原平市', '81', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049003, '五台县', '22', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049010, '岢岚县', '29', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049013, '偏关县', '32', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049007, '静乐县', '26', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049004, '代　县', '23', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049009, '五寨县', '28', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049002, '定襄县', '21', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049005, '繁峙县', '24', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049001, '忻府区', '2', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049008, '神池县', '27', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049006, '宁武县', '25', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049012, '保德县', '31', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100049011, '河曲县', '30', 100049000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050010, '乡宁县', '29', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050002, '曲沃县', '21', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050009, '吉　县', '28', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050001, '尧都区', '2', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050005, '洪洞县', '24', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050016, '侯马市', '81', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050003, '翼城县', '22', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050011, '大宁县', '30', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050008, '浮山县', '27', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050015, '汾西县', '34', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050006, '古　县', '25', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050013, '永和县', '32', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050004, '襄汾县', '23', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050007, '安泽县', '26', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050017, '霍州市', '82', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050012, '隰　县', '31', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100050014, '蒲　县', '33', 100050000);
-INSERT INTO region(id, name, code, city_id) VALUES(100045003, '阳城县', '22', 100045000);
-INSERT INTO region(id, name, code, city_id) VALUES(100045005, '泽州县', '25', 100045000);
-INSERT INTO region(id, name, code, city_id) VALUES(100045006, '高平市', '81', 100045000);
-INSERT INTO region(id, name, code, city_id) VALUES(100045001, '城　区', '2', 100045000);
-INSERT INTO region(id, name, code, city_id) VALUES(100045004, '陵川县', '24', 100045000);
-INSERT INTO region(id, name, code, city_id) VALUES(100045002, '沁水县', '21', 100045000);
-INSERT INTO region(id, name, code, city_id) VALUES(100047010, '灵石县', '29', 100047000);
-INSERT INTO region(id, name, code, city_id) VALUES(100047003, '左权县', '22', 100047000);
-INSERT INTO region(id, name, code, city_id) VALUES(100047001, '榆次区', '2', 100047000);
-INSERT INTO region(id, name, code, city_id) VALUES(100047004, '和顺县', '23', 100047000);
-INSERT INTO region(id, name, code, city_id) VALUES(100047011, '介休市', '81', 100047000);
-INSERT INTO region(id, name, code, city_id) VALUES(100047002, '榆社县', '21', 100047000);
-INSERT INTO region(id, name, code, city_id) VALUES(100047007, '太谷县', '26', 100047000);
-INSERT INTO region(id, name, code, city_id) VALUES(100047005, '昔阳县', '24', 100047000);
-INSERT INTO region(id, name, code, city_id) VALUES(100047009, '平遥县', '28', 100047000);
-INSERT INTO region(id, name, code, city_id) VALUES(100047006, '寿阳县', '25', 100047000);
-INSERT INTO region(id, name, code, city_id) VALUES(100047008, '祁　县', '27', 100047000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051002, '文水县', '21', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051012, '孝义市', '81', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051006, '柳林县', '25', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051011, '交口县', '30', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051008, '岚　县', '27', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051005, '临　县', '24', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051004, '兴　县', '23', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051010, '中阳县', '29', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051007, '石楼县', '26', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051013, '汾阳市', '82', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051001, '离石区', '2', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051009, '方山县', '28', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100051003, '交城县', '22', 100051000);
-INSERT INTO region(id, name, code, city_id) VALUES(100046002, '平鲁区', '3', 100046000);
-INSERT INTO region(id, name, code, city_id) VALUES(100046004, '应　县', '22', 100046000);
-INSERT INTO region(id, name, code, city_id) VALUES(100046005, '右玉县', '23', 100046000);
-INSERT INTO region(id, name, code, city_id) VALUES(100046001, '朔城区', '2', 100046000);
-INSERT INTO region(id, name, code, city_id) VALUES(100046003, '山阴县', '21', 100046000);
-INSERT INTO region(id, name, code, city_id) VALUES(100046006, '怀仁县', '24', 100046000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041001, '小店区', '5', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041010, '古交市', '81', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041009, '娄烦县', '23', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041003, '杏花岭区', '7', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041008, '阳曲县', '22', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041007, '清徐县', '21', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041002, '迎泽区', '6', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041005, '万柏林区', '9', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041004, '尖草坪区', '8', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041006, '晋源区', '10', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044005, '屯留县', '24', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044006, '平顺县', '25', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044012, '沁源县', '31', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044002, '郊　区', '11', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044011, '沁　县', '30', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044007, '黎城县', '26', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044003, '长治县', '21', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044009, '长子县', '28', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044010, '武乡县', '29', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044008, '壶关县', '27', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044001, '城　区', '2', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044004, '襄垣县', '23', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100044013, '潞城市', '81', 100044000);
-INSERT INTO region(id, name, code, city_id) VALUES(100043003, '郊　区', '11', 100043000);
-INSERT INTO region(id, name, code, city_id) VALUES(100043002, '矿　区', '3', 100043000);
-INSERT INTO region(id, name, code, city_id) VALUES(100043001, '城　区', '2', 100043000);
-INSERT INTO region(id, name, code, city_id) VALUES(100043005, '盂　县', '22', 100043000);
-INSERT INTO region(id, name, code, city_id) VALUES(100043004, '平定县', '21', 100043000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048004, '闻喜县', '23', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048011, '芮城县', '30', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048010, '平陆县', '29', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048006, '新绛县', '25', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048008, '垣曲县', '27', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048001, '盐湖区', '2', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048007, '绛　县', '26', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048013, '河津市', '82', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048003, '万荣县', '22', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048002, '临猗县', '21', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048005, '稷山县', '24', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048009, '夏　县', '28', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100048012, '永济市', '81', 100048000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320011, '巴楚县', '30', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320008, '麦盖提县', '27', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320005, '泽普县', '24', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320007, '叶城县', '26', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320012, '塔什库尔干塔吉克自治县', '31', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320001, '喀什市', '1', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320009, '岳普湖县', '28', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320004, '英吉沙县', '23', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320006, '莎车县', '25', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320002, '疏附县', '21', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320010, '伽师县', '29', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100320003, '疏勒县', '22', 100320000);
-INSERT INTO region(id, name, code, city_id) VALUES(100311003, '新市区', '4', 100311000);
-INSERT INTO region(id, name, code, city_id) VALUES(100311004, '水磨沟区', '5', 100311000);
-INSERT INTO region(id, name, code, city_id) VALUES(100311008, '乌鲁木齐县', '21', 100311000);
-INSERT INTO region(id, name, code, city_id) VALUES(100311001, '天山区', '2', 100311000);
-INSERT INTO region(id, name, code, city_id) VALUES(100311007, '米东区', '9', 100311000);
-INSERT INTO region(id, name, code, city_id) VALUES(100311005, '头屯河区', '6', 100311000);
-INSERT INTO region(id, name, code, city_id) VALUES(100311006, '达坂城区', '7', 100311000);
-INSERT INTO region(id, name, code, city_id) VALUES(100311002, '沙依巴克区', '3', 100311000);
-INSERT INTO region(id, name, code, city_id) VALUES(100313002, '鄯善县', '22', 100313000);
-INSERT INTO region(id, name, code, city_id) VALUES(100313003, '托克逊县', '23', 100313000);
-INSERT INTO region(id, name, code, city_id) VALUES(100313001, '吐鲁番市', '1', 100313000);
-INSERT INTO region(id, name, code, city_id) VALUES(100322008, '昭苏县', '26', 100322000);
-INSERT INTO region(id, name, code, city_id) VALUES(100322004, '察布查尔锡伯自治县', '22', 100322000);
-INSERT INTO region(id, name, code, city_id) VALUES(100322006, '巩留县', '24', 100322000);
-INSERT INTO region(id, name, code, city_id) VALUES(100322010, '尼勒克县', '28', 100322000);
-INSERT INTO region(id, name, code, city_id) VALUES(100322003, '伊宁县', '21', 100322000);
-INSERT INTO region(id, name, code, city_id) VALUES(100322002, '奎屯市', '3', 100322000);
-INSERT INTO region(id, name, code, city_id) VALUES(100322005, '霍城县', '23', 100322000);
-INSERT INTO region(id, name, code, city_id) VALUES(100322007, '新源县', '25', 100322000);
-INSERT INTO region(id, name, code, city_id) VALUES(100322009, '特克斯县', '27', 100322000);
-INSERT INTO region(id, name, code, city_id) VALUES(100322001, '伊宁市', '2', 100322000);
-INSERT INTO region(id, name, code, city_id) VALUES(100314002, '巴里坤哈萨克自治县', '22', 100314000);
-INSERT INTO region(id, name, code, city_id) VALUES(100314003, '伊吾县', '23', 100314000);
-INSERT INTO region(id, name, code, city_id) VALUES(100314001, '哈密市', '1', 100314000);
-INSERT INTO region(id, name, code, city_id) VALUES(100315004, '玛纳斯县', '24', 100315000);
-INSERT INTO region(id, name, code, city_id) VALUES(100315002, '阜康市', '2', 100315000);
-INSERT INTO region(id, name, code, city_id) VALUES(100315006, '吉木萨尔县', '27', 100315000);
-INSERT INTO region(id, name, code, city_id) VALUES(100315001, '昌吉市', '1', 100315000);
-INSERT INTO region(id, name, code, city_id) VALUES(100315003, '呼图壁县', '23', 100315000);
-INSERT INTO region(id, name, code, city_id) VALUES(100315007, '木垒哈萨克自治县', '28', 100315000);
-INSERT INTO region(id, name, code, city_id) VALUES(100315005, '奇台县', '25', 100315000);
-INSERT INTO region(id, name, code, city_id) VALUES(100319003, '阿合奇县', '23', 100319000);
-INSERT INTO region(id, name, code, city_id) VALUES(100319004, '乌恰县', '24', 100319000);
-INSERT INTO region(id, name, code, city_id) VALUES(100319002, '阿克陶县', '22', 100319000);
-INSERT INTO region(id, name, code, city_id) VALUES(100319001, '阿图什市', '1', 100319000);
-INSERT INTO region(id, name, code, city_id) VALUES(100317005, '且末县', '25', 100317000);
-INSERT INTO region(id, name, code, city_id) VALUES(100317009, '博湖县', '29', 100317000);
-INSERT INTO region(id, name, code, city_id) VALUES(100317001, '库尔勒市', '1', 100317000);
-INSERT INTO region(id, name, code, city_id) VALUES(100317003, '尉犁县', '23', 100317000);
-INSERT INTO region(id, name, code, city_id) VALUES(100317002, '轮台县', '22', 100317000);
-INSERT INTO region(id, name, code, city_id) VALUES(100317006, '焉耆回族自治县', '26', 100317000);
-INSERT INTO region(id, name, code, city_id) VALUES(100317004, '若羌县', '24', 100317000);
-INSERT INTO region(id, name, code, city_id) VALUES(100317007, '和静县', '27', 100317000);
-INSERT INTO region(id, name, code, city_id) VALUES(100317008, '和硕县', '28', 100317000);
-INSERT INTO region(id, name, code, city_id) VALUES(100321001, '和田市', '1', 100321000);
-INSERT INTO region(id, name, code, city_id) VALUES(100321006, '策勒县', '25', 100321000);
-INSERT INTO region(id, name, code, city_id) VALUES(100321005, '洛浦县', '24', 100321000);
-INSERT INTO region(id, name, code, city_id) VALUES(100321003, '墨玉县', '22', 100321000);
-INSERT INTO region(id, name, code, city_id) VALUES(100321004, '皮山县', '23', 100321000);
-INSERT INTO region(id, name, code, city_id) VALUES(100321002, '和田县', '21', 100321000);
-INSERT INTO region(id, name, code, city_id) VALUES(100321007, '于田县', '26', 100321000);
-INSERT INTO region(id, name, code, city_id) VALUES(100321008, '民丰县', '27', 100321000);
-INSERT INTO region(id, name, code, city_id) VALUES(100318009, '柯坪县', '29', 100318000);
-INSERT INTO region(id, name, code, city_id) VALUES(100318008, '阿瓦提县', '28', 100318000);
-INSERT INTO region(id, name, code, city_id) VALUES(100318001, '阿克苏市', '1', 100318000);
-INSERT INTO region(id, name, code, city_id) VALUES(100318004, '沙雅县', '24', 100318000);
-INSERT INTO region(id, name, code, city_id) VALUES(100318006, '拜城县', '26', 100318000);
-INSERT INTO region(id, name, code, city_id) VALUES(100318007, '乌什县', '27', 100318000);
-INSERT INTO region(id, name, code, city_id) VALUES(100318005, '新和县', '25', 100318000);
-INSERT INTO region(id, name, code, city_id) VALUES(100318002, '温宿县', '22', 100318000);
-INSERT INTO region(id, name, code, city_id) VALUES(100318003, '库车县', '23', 100318000);
-INSERT INTO region(id, name, code, city_id) VALUES(100324007, '吉木乃县', '26', 100324000);
-INSERT INTO region(id, name, code, city_id) VALUES(100324003, '富蕴县', '22', 100324000);
-INSERT INTO region(id, name, code, city_id) VALUES(100324004, '福海县', '23', 100324000);
-INSERT INTO region(id, name, code, city_id) VALUES(100324005, '哈巴河县', '24', 100324000);
-INSERT INTO region(id, name, code, city_id) VALUES(100324001, '阿勒泰市', '1', 100324000);
-INSERT INTO region(id, name, code, city_id) VALUES(100324002, '布尔津县', '21', 100324000);
-INSERT INTO region(id, name, code, city_id) VALUES(100324006, '青河县', '25', 100324000);
-INSERT INTO region(id, name, code, city_id) VALUES(100323003, '额敏县', '21', 100323000);
-INSERT INTO region(id, name, code, city_id) VALUES(100323004, '沙湾县', '23', 100323000);
-INSERT INTO region(id, name, code, city_id) VALUES(100323002, '乌苏市', '2', 100323000);
-INSERT INTO region(id, name, code, city_id) VALUES(100323005, '托里县', '24', 100323000);
-INSERT INTO region(id, name, code, city_id) VALUES(100323007, '和布克赛尔蒙古自治县', '26', 100323000);
-INSERT INTO region(id, name, code, city_id) VALUES(100323001, '塔城市', '1', 100323000);
-INSERT INTO region(id, name, code, city_id) VALUES(100323006, '裕民县', '25', 100323000);
-INSERT INTO region(id, name, code, city_id) VALUES(100316001, '博乐市', '1', 100316000);
-INSERT INTO region(id, name, code, city_id) VALUES(100316002, '精河县', '22', 100316000);
-INSERT INTO region(id, name, code, city_id) VALUES(100316003, '温泉县', '23', 100316000);
-INSERT INTO region(id, name, code, city_id) VALUES(100312003, '白碱滩区', '4', 100312000);
-INSERT INTO region(id, name, code, city_id) VALUES(100312004, '乌尔禾区', '5', 100312000);
-INSERT INTO region(id, name, code, city_id) VALUES(100312002, '克拉玛依区', '3', 100312000);
-INSERT INTO region(id, name, code, city_id) VALUES(100312001, '独山子区', '2', 100312000);
-INSERT INTO region(id, name, code, city_id) VALUES(100137006, '政和县', '25', 100137000);
-INSERT INTO region(id, name, code, city_id) VALUES(100137008, '武夷山市', '82', 100137000);
-INSERT INTO region(id, name, code, city_id) VALUES(100137001, '延平区', '2', 100137000);
-INSERT INTO region(id, name, code, city_id) VALUES(100137007, '邵武市', '81', 100137000);
-INSERT INTO region(id, name, code, city_id) VALUES(100137003, '浦城县', '22', 100137000);
-INSERT INTO region(id, name, code, city_id) VALUES(100137004, '光泽县', '23', 100137000);
-INSERT INTO region(id, name, code, city_id) VALUES(100137010, '建阳市', '84', 100137000);
-INSERT INTO region(id, name, code, city_id) VALUES(100137002, '顺昌县', '21', 100137000);
-INSERT INTO region(id, name, code, city_id) VALUES(100137005, '松溪县', '24', 100137000);
-INSERT INTO region(id, name, code, city_id) VALUES(100137009, '建瓯市', '83', 100137000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133001, '城厢区', '2', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133002, '涵江区', '3', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133004, '秀屿区', '5', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133005, '仙游县', '22', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133003, '荔城区', '4', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134005, '宁化县', '24', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134009, '将乐县', '28', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134012, '永安市', '81', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134007, '尤溪县', '26', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134003, '明溪县', '21', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134011, '建宁县', '30', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134004, '清流县', '23', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134008, '沙　县', '27', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134010, '泰宁县', '29', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134001, '梅列区', '2', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134002, '三元区', '3', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134006, '大田县', '25', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100139001, '蕉城区', '2', 100139000);
-INSERT INTO region(id, name, code, city_id) VALUES(100139004, '屏南县', '23', 100139000);
-INSERT INTO region(id, name, code, city_id) VALUES(100139007, '柘荣县', '26', 100139000);
-INSERT INTO region(id, name, code, city_id) VALUES(100139008, '福安市', '81', 100139000);
-INSERT INTO region(id, name, code, city_id) VALUES(100139005, '寿宁县', '24', 100139000);
-INSERT INTO region(id, name, code, city_id) VALUES(100139006, '周宁县', '25', 100139000);
-INSERT INTO region(id, name, code, city_id) VALUES(100139002, '霞浦县', '21', 100139000);
-INSERT INTO region(id, name, code, city_id) VALUES(100139003, '古田县', '22', 100139000);
-INSERT INTO region(id, name, code, city_id) VALUES(100139009, '福鼎市', '82', 100139000);
-INSERT INTO region(id, name, code, city_id) VALUES(100132005, '同安区', '12', 100132000);
-INSERT INTO region(id, name, code, city_id) VALUES(100132002, '海沧区', '5', 100132000);
-INSERT INTO region(id, name, code, city_id) VALUES(100132003, '湖里区', '6', 100132000);
-INSERT INTO region(id, name, code, city_id) VALUES(100132004, '集美区', '11', 100132000);
-INSERT INTO region(id, name, code, city_id) VALUES(100132001, '思明区', '3', 100132000);
-INSERT INTO region(id, name, code, city_id) VALUES(100132006, '翔安区', '13', 100132000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136006, '长泰县', '25', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136005, '诏安县', '24', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136007, '东山县', '26', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136009, '平和县', '28', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136010, '华安县', '29', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136004, '漳浦县', '23', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136001, '芗城区', '2', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136002, '龙文区', '3', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136003, '云霄县', '22', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136011, '龙海市', '81', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136008, '南靖县', '27', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131005, '晋安区', '11', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131012, '福清市', '81', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131003, '仓山区', '4', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131008, '罗源县', '23', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131001, '鼓楼区', '2', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131009, '闽清县', '24', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131004, '马尾区', '5', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131006, '闽侯县', '21', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131007, '连江县', '22', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131010, '永泰县', '25', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131011, '平潭县', '28', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131002, '台江区', '3', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131013, '长乐市', '82', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135007, '永春县', '25', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135003, '洛江区', '4', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135005, '惠安县', '21', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135012, '南安市', '83', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135001, '鲤城区', '2', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135002, '丰泽区', '3', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135004, '泉港区', '5', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135011, '晋江市', '82', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135006, '安溪县', '24', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135009, '金门县', '27', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135010, '石狮市', '81', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135008, '德化县', '26', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100138006, '连城县', '25', 100138000);
-INSERT INTO region(id, name, code, city_id) VALUES(100138007, '漳平市', '81', 100138000);
-INSERT INTO region(id, name, code, city_id) VALUES(100138002, '长汀县', '21', 100138000);
-INSERT INTO region(id, name, code, city_id) VALUES(100138003, '永定县', '22', 100138000);
-INSERT INTO region(id, name, code, city_id) VALUES(100138005, '武平县', '24', 100138000);
-INSERT INTO region(id, name, code, city_id) VALUES(100138001, '新罗区', '2', 100138000);
-INSERT INTO region(id, name, code, city_id) VALUES(100138004, '上杭县', '23', 100138000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162002, '钢城区', '3', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162001, '莱城区', '2', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100153005, '周村区', '6', 100153000);
-INSERT INTO region(id, name, code, city_id) VALUES(100153002, '张店区', '3', 100153000);
-INSERT INTO region(id, name, code, city_id) VALUES(100153003, '博山区', '4', 100153000);
-INSERT INTO region(id, name, code, city_id) VALUES(100153004, '临淄区', '5', 100153000);
-INSERT INTO region(id, name, code, city_id) VALUES(100153007, '高青县', '22', 100153000);
-INSERT INTO region(id, name, code, city_id) VALUES(100153001, '淄川区', '2', 100153000);
-INSERT INTO region(id, name, code, city_id) VALUES(100153006, '桓台县', '21', 100153000);
-INSERT INTO region(id, name, code, city_id) VALUES(100153008, '沂源县', '23', 100153000);
-INSERT INTO region(id, name, code, city_id) VALUES(100159005, '新泰市', '82', 100159000);
-INSERT INTO region(id, name, code, city_id) VALUES(100159001, '泰山区', '2', 100159000);
-INSERT INTO region(id, name, code, city_id) VALUES(100159004, '东平县', '23', 100159000);
-INSERT INTO region(id, name, code, city_id) VALUES(100159002, '岱岳区', '11', 100159000);
-INSERT INTO region(id, name, code, city_id) VALUES(100159003, '宁阳县', '21', 100159000);
-INSERT INTO region(id, name, code, city_id) VALUES(100159006, '肥城市', '83', 100159000);
-INSERT INTO region(id, name, code, city_id) VALUES(100160004, '乳山市', '83', 100160000);
-INSERT INTO region(id, name, code, city_id) VALUES(100160002, '文登市', '81', 100160000);
-INSERT INTO region(id, name, code, city_id) VALUES(100160003, '荣成市', '82', 100160000);
-INSERT INTO region(id, name, code, city_id) VALUES(100160001, '环翠区', '2', 100160000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158012, '邹城市', '83', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158010, '曲阜市', '81', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158005, '金乡县', '28', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158003, '微山县', '26', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158008, '泗水县', '31', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158009, '梁山县', '32', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158007, '汶上县', '30', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158002, '任城区', '11', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158004, '鱼台县', '27', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158011, '兖州市', '82', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158001, '市中区', '2', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100158006, '嘉祥县', '29', 100158000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166006, '博兴县', '25', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166001, '滨城区', '2', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166004, '无棣县', '23', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166005, '沾化县', '24', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166002, '惠民县', '21', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166003, '阳信县', '22', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166007, '邹平县', '26', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161001, '东港区', '2', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161004, '莒　县', '22', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161003, '五莲县', '21', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161002, '岚山区', '3', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163002, '罗庄区', '11', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163009, '平邑县', '26', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163007, '苍山县', '24', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163008, '费　县', '25', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163001, '兰山区', '2', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163010, '莒南县', '27', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163012, '临沭县', '29', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163004, '沂南县', '21', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163003, '河东区', '12', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163005, '郯城县', '22', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163006, '沂水县', '23', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163011, '蒙阴县', '28', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100154002, '薛城区', '3', 100154000);
-INSERT INTO region(id, name, code, city_id) VALUES(100154003, '峄城区', '4', 100154000);
-INSERT INTO region(id, name, code, city_id) VALUES(100154001, '市中区', '2', 100154000);
-INSERT INTO region(id, name, code, city_id) VALUES(100154006, '滕州市', '81', 100154000);
-INSERT INTO region(id, name, code, city_id) VALUES(100154005, '山亭区', '6', 100154000);
-INSERT INTO region(id, name, code, city_id) VALUES(100154004, '台儿庄区', '5', 100154000);
-INSERT INTO region(id, name, code, city_id) VALUES(100155002, '河口区', '3', 100155000);
-INSERT INTO region(id, name, code, city_id) VALUES(100155005, '广饶县', '23', 100155000);
-INSERT INTO region(id, name, code, city_id) VALUES(100155001, '东营区', '2', 100155000);
-INSERT INTO region(id, name, code, city_id) VALUES(100155003, '垦利县', '21', 100155000);
-INSERT INTO region(id, name, code, city_id) VALUES(100155004, '利津县', '22', 100155000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157006, '昌乐县', '25', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157010, '安丘市', '84', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157001, '潍城区', '2', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157007, '青州市', '81', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157003, '坊子区', '4', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157004, '奎文区', '5', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157005, '临朐县', '24', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157008, '诸城市', '82', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157011, '高密市', '85', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157012, '昌邑市', '86', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157009, '寿光市', '83', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100157002, '寒亭区', '3', 100157000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151010, '章丘市', '81', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151003, '槐荫区', '4', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151009, '商河县', '26', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151007, '平阴县', '24', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151008, '济阳县', '25', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151005, '历城区', '12', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151002, '市中区', '3', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151004, '天桥区', '5', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151001, '历下区', '2', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151006, '长清区', '13', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156003, '牟平区', '12', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156012, '海阳市', '87', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156002, '福山区', '11', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156008, '莱州市', '83', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156011, '栖霞市', '86', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156007, '莱阳市', '82', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156004, '莱山区', '13', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156001, '芝罘区', '2', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156005, '长岛县', '34', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156010, '招远市', '85', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156009, '蓬莱市', '84', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100156006, '龙口市', '81', 100156000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152002, '市北区', '3', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152011, '胶南市', '84', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152012, '莱西市', '85', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152003, '四方区', '5', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152008, '胶州市', '81', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152004, '黄岛区', '11', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152007, '城阳区', '14', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152009, '即墨市', '82', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152006, '李沧区', '13', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152010, '平度市', '83', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152001, '市南区', '2', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100152005, '崂山区', '12', 100152000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164006, '齐河县', '25', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164008, '夏津县', '27', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164001, '德城区', '2', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164011, '禹城市', '82', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164003, '宁津县', '22', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164009, '武城县', '28', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164004, '庆云县', '23', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164005, '临邑县', '24', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164002, '陵　县', '21', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164007, '平原县', '26', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164010, '乐陵市', '81', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165004, '茌平县', '23', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165005, '东阿县', '24', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165007, '高唐县', '26', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165001, '东昌府区', '2', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165002, '阳谷县', '21', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165003, '莘　县', '22', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165006, '冠　县', '25', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165008, '临清市', '81', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167003, '单　县', '22', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167009, '东明县', '28', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167006, '郓城县', '25', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167007, '鄄城县', '26', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167001, '牡丹区', '2', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167005, '巨野县', '24', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167008, '定陶县', '27', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167002, '曹　县', '21', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167004, '成武县', '23', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100118001, '柯城区', '2', 100118000);
-INSERT INTO region(id, name, code, city_id) VALUES(100118002, '衢江区', '3', 100118000);
-INSERT INTO region(id, name, code, city_id) VALUES(100118005, '龙游县', '25', 100118000);
-INSERT INTO region(id, name, code, city_id) VALUES(100118006, '江山市', '81', 100118000);
-INSERT INTO region(id, name, code, city_id) VALUES(100118003, '常山县', '22', 100118000);
-INSERT INTO region(id, name, code, city_id) VALUES(100118004, '开化县', '24', 100118000);
-INSERT INTO region(id, name, code, city_id) VALUES(100114005, '海宁市', '81', 100114000);
-INSERT INTO region(id, name, code, city_id) VALUES(100114002, '秀洲区', '11', 100114000);
-INSERT INTO region(id, name, code, city_id) VALUES(100114006, '平湖市', '82', 100114000);
-INSERT INTO region(id, name, code, city_id) VALUES(100114003, '嘉善县', '21', 100114000);
-INSERT INTO region(id, name, code, city_id) VALUES(100114001, '南湖区', '2', 100114000);
-INSERT INTO region(id, name, code, city_id) VALUES(100114004, '海盐县', '24', 100114000);
-INSERT INTO region(id, name, code, city_id) VALUES(100114007, '桐乡市', '83', 100114000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121002, '青田县', '21', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121008, '景宁畲族自治县', '27', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121007, '庆元县', '26', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121001, '莲都区', '2', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121003, '缙云县', '22', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121004, '遂昌县', '23', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121005, '松阳县', '24', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121009, '龙泉市', '81', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121006, '云和县', '25', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112002, '江东区', '4', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112008, '宁海县', '26', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112010, '慈溪市', '82', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112004, '北仑区', '6', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112005, '镇海区', '11', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112011, '奉化市', '83', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112007, '象山县', '25', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112001, '海曙区', '3', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112003, '江北区', '5', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112009, '余姚市', '81', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112006, '鄞州区', '12', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100117001, '婺城区', '2', 100117000);
-INSERT INTO region(id, name, code, city_id) VALUES(100117002, '金东区', '3', 100117000);
-INSERT INTO region(id, name, code, city_id) VALUES(100117004, '浦江县', '26', 100117000);
-INSERT INTO region(id, name, code, city_id) VALUES(100117007, '义乌市', '82', 100117000);
-INSERT INTO region(id, name, code, city_id) VALUES(100117005, '磐安县', '27', 100117000);
-INSERT INTO region(id, name, code, city_id) VALUES(100117003, '武义县', '23', 100117000);
-INSERT INTO region(id, name, code, city_id) VALUES(100117006, '兰溪市', '81', 100117000);
-INSERT INTO region(id, name, code, city_id) VALUES(100117009, '永康市', '84', 100117000);
-INSERT INTO region(id, name, code, city_id) VALUES(100117008, '东阳市', '83', 100117000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113001, '鹿城区', '2', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113002, '龙湾区', '3', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113007, '苍南县', '27', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113005, '永嘉县', '24', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113006, '平阳县', '26', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113003, '瓯海区', '4', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113008, '文成县', '28', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113011, '乐清市', '82', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113004, '洞头县', '22', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113009, '泰顺县', '29', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113010, '瑞安市', '81', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100115005, '安吉县', '23', 100115000);
-INSERT INTO region(id, name, code, city_id) VALUES(100115001, '吴兴区', '2', 100115000);
-INSERT INTO region(id, name, code, city_id) VALUES(100115003, '德清县', '21', 100115000);
-INSERT INTO region(id, name, code, city_id) VALUES(100115004, '长兴县', '22', 100115000);
-INSERT INTO region(id, name, code, city_id) VALUES(100115002, '南浔区', '3', 100115000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111011, '建德市', '82', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111010, '淳安县', '27', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111003, '江干区', '4', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111013, '临安市', '85', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111008, '余杭区', '10', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111001, '上城区', '2', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111006, '滨江区', '8', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111002, '下城区', '3', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111004, '拱墅区', '5', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111005, '西湖区', '6', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111007, '萧山区', '9', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111009, '桐庐县', '22', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111012, '富阳市', '83', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100120003, '路桥区', '4', 100120000);
-INSERT INTO region(id, name, code, city_id) VALUES(100120004, '玉环县', '21', 100120000);
-INSERT INTO region(id, name, code, city_id) VALUES(100120009, '临海市', '82', 100120000);
-INSERT INTO region(id, name, code, city_id) VALUES(100120006, '天台县', '23', 100120000);
-INSERT INTO region(id, name, code, city_id) VALUES(100120007, '仙居县', '24', 100120000);
-INSERT INTO region(id, name, code, city_id) VALUES(100120005, '三门县', '22', 100120000);
-INSERT INTO region(id, name, code, city_id) VALUES(100120001, '椒江区', '2', 100120000);
-INSERT INTO region(id, name, code, city_id) VALUES(100120002, '黄岩区', '3', 100120000);
-INSERT INTO region(id, name, code, city_id) VALUES(100120008, '温岭市', '81', 100120000);
-INSERT INTO region(id, name, code, city_id) VALUES(100119002, '普陀区', '3', 100119000);
-INSERT INTO region(id, name, code, city_id) VALUES(100119001, '定海区', '2', 100119000);
-INSERT INTO region(id, name, code, city_id) VALUES(100119004, '嵊泗县', '22', 100119000);
-INSERT INTO region(id, name, code, city_id) VALUES(100119003, '岱山县', '21', 100119000);
-INSERT INTO region(id, name, code, city_id) VALUES(100116001, '越城区', '2', 100116000);
-INSERT INTO region(id, name, code, city_id) VALUES(100116003, '新昌县', '24', 100116000);
-INSERT INTO region(id, name, code, city_id) VALUES(100116004, '诸暨市', '81', 100116000);
-INSERT INTO region(id, name, code, city_id) VALUES(100116006, '嵊州市', '83', 100116000);
-INSERT INTO region(id, name, code, city_id) VALUES(100116005, '上虞市', '82', 100116000);
-INSERT INTO region(id, name, code, city_id) VALUES(100116002, '绍兴县', '21', 100116000);
-INSERT INTO region(id, name, code, city_id) VALUES(100064001, '新抚区', '2', 100064000);
-INSERT INTO region(id, name, code, city_id) VALUES(100064005, '抚顺县', '21', 100064000);
-INSERT INTO region(id, name, code, city_id) VALUES(100064002, '东洲区', '3', 100064000);
-INSERT INTO region(id, name, code, city_id) VALUES(100064003, '望花区', '4', 100064000);
-INSERT INTO region(id, name, code, city_id) VALUES(100064007, '清原满族自治县', '23', 100064000);
-INSERT INTO region(id, name, code, city_id) VALUES(100064006, '新宾满族自治县', '22', 100064000);
-INSERT INTO region(id, name, code, city_id) VALUES(100064004, '顺城区', '11', 100064000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062010, '庄河市', '83', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062003, '沙河口区', '4', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062005, '旅顺口区', '12', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062007, '长海县', '24', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062002, '西岗区', '3', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062006, '金州区', '13', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062001, '中山区', '2', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062008, '瓦房店市', '81', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062004, '甘井子区', '11', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100062009, '普兰店市', '82', 100062000);
-INSERT INTO region(id, name, code, city_id) VALUES(100068001, '站前区', '2', 100068000);
-INSERT INTO region(id, name, code, city_id) VALUES(100068005, '盖州市', '81', 100068000);
-INSERT INTO region(id, name, code, city_id) VALUES(100068006, '大石桥市', '82', 100068000);
-INSERT INTO region(id, name, code, city_id) VALUES(100068004, '老边区', '11', 100068000);
-INSERT INTO region(id, name, code, city_id) VALUES(100068002, '西市区', '3', 100068000);
-INSERT INTO region(id, name, code, city_id) VALUES(100068003, '鲅鱼圈区', '4', 100068000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061002, '沈河区', '3', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061007, '东陵区', '12', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061005, '铁西区', '6', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061001, '和平区', '2', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061011, '康平县', '23', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061006, '苏家屯区', '11', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061010, '辽中县', '22', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061008, '沈北新区', '13', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061003, '大东区', '4', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061004, '皇姑区', '5', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061013, '新民市', '81', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061009, '于洪区', '14', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100061012, '法库县', '24', 100061000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072006, '调兵山市', '81', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072002, '清河区', '4', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072005, '昌图县', '24', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072007, '开原市', '82', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072001, '银州区', '2', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072004, '西丰县', '23', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072003, '铁岭县', '21', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100074004, '绥中县', '21', 100074000);
-INSERT INTO region(id, name, code, city_id) VALUES(100074005, '建昌县', '22', 100074000);
-INSERT INTO region(id, name, code, city_id) VALUES(100074002, '龙港区', '3', 100074000);
-INSERT INTO region(id, name, code, city_id) VALUES(100074006, '兴城市', '81', 100074000);
-INSERT INTO region(id, name, code, city_id) VALUES(100074001, '连山区', '2', 100074000);
-INSERT INTO region(id, name, code, city_id) VALUES(100074003, '南票区', '4', 100074000);
-INSERT INTO region(id, name, code, city_id) VALUES(100065001, '平山区', '2', 100065000);
-INSERT INTO region(id, name, code, city_id) VALUES(100065005, '本溪满族自治县', '21', 100065000);
-INSERT INTO region(id, name, code, city_id) VALUES(100065006, '桓仁满族自治县', '22', 100065000);
-INSERT INTO region(id, name, code, city_id) VALUES(100065004, '南芬区', '5', 100065000);
-INSERT INTO region(id, name, code, city_id) VALUES(100065003, '明山区', '4', 100065000);
-INSERT INTO region(id, name, code, city_id) VALUES(100065002, '溪湖区', '3', 100065000);
-INSERT INTO region(id, name, code, city_id) VALUES(100066003, '振安区', '4', 100066000);
-INSERT INTO region(id, name, code, city_id) VALUES(100066001, '元宝区', '2', 100066000);
-INSERT INTO region(id, name, code, city_id) VALUES(100066006, '凤城市', '82', 100066000);
-INSERT INTO region(id, name, code, city_id) VALUES(100066004, '宽甸满族自治县', '24', 100066000);
-INSERT INTO region(id, name, code, city_id) VALUES(100066002, '振兴区', '3', 100066000);
-INSERT INTO region(id, name, code, city_id) VALUES(100066005, '东港市', '81', 100066000);
-INSERT INTO region(id, name, code, city_id) VALUES(100070002, '文圣区', '3', 100070000);
-INSERT INTO region(id, name, code, city_id) VALUES(100070001, '白塔区', '2', 100070000);
-INSERT INTO region(id, name, code, city_id) VALUES(100070005, '太子河区', '11', 100070000);
-INSERT INTO region(id, name, code, city_id) VALUES(100070003, '宏伟区', '4', 100070000);
-INSERT INTO region(id, name, code, city_id) VALUES(100070004, '弓长岭区', '5', 100070000);
-INSERT INTO region(id, name, code, city_id) VALUES(100070006, '辽阳县', '21', 100070000);
-INSERT INTO region(id, name, code, city_id) VALUES(100070007, '灯塔市', '81', 100070000);
-INSERT INTO region(id, name, code, city_id) VALUES(100063003, '立山区', '4', 100063000);
-INSERT INTO region(id, name, code, city_id) VALUES(100063007, '海城市', '81', 100063000);
-INSERT INTO region(id, name, code, city_id) VALUES(100063004, '千山区', '11', 100063000);
-INSERT INTO region(id, name, code, city_id) VALUES(100063005, '台安县', '21', 100063000);
-INSERT INTO region(id, name, code, city_id) VALUES(100063001, '铁东区', '2', 100063000);
-INSERT INTO region(id, name, code, city_id) VALUES(100063006, '岫岩满族自治县', '23', 100063000);
-INSERT INTO region(id, name, code, city_id) VALUES(100063002, '铁西区', '3', 100063000);
-INSERT INTO region(id, name, code, city_id) VALUES(100067001, '古塔区', '2', 100067000);
-INSERT INTO region(id, name, code, city_id) VALUES(100067004, '黑山县', '26', 100067000);
-INSERT INTO region(id, name, code, city_id) VALUES(100067003, '太和区', '11', 100067000);
-INSERT INTO region(id, name, code, city_id) VALUES(100067005, '义　县', '27', 100067000);
-INSERT INTO region(id, name, code, city_id) VALUES(100067006, '凌海市', '81', 100067000);
-INSERT INTO region(id, name, code, city_id) VALUES(100067007, '北镇市', '82', 100067000);
-INSERT INTO region(id, name, code, city_id) VALUES(100067002, '凌河区', '3', 100067000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073004, '建平县', '22', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073002, '龙城区', '3', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073007, '凌源市', '82', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073003, '朝阳县', '21', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073001, '双塔区', '2', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073005, '喀喇沁左翼蒙古族自治县', '24', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073006, '北票市', '81', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071003, '大洼县', '21', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071001, '双台子区', '2', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071002, '兴隆台区', '3', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071004, '盘山县', '22', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100069005, '细河区', '11', 100069000);
-INSERT INTO region(id, name, code, city_id) VALUES(100069007, '彰武县', '22', 100069000);
-INSERT INTO region(id, name, code, city_id) VALUES(100069001, '海州区', '2', 100069000);
-INSERT INTO region(id, name, code, city_id) VALUES(100069004, '清河门区', '5', 100069000);
-INSERT INTO region(id, name, code, city_id) VALUES(100069003, '太平区', '4', 100069000);
-INSERT INTO region(id, name, code, city_id) VALUES(100069006, '阜新蒙古族自治县', '21', 100069000);
-INSERT INTO region(id, name, code, city_id) VALUES(100069002, '新邱区', '3', 100069000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261005, '马关县', '25', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261006, '丘北县', '26', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261008, '富宁县', '28', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261002, '砚山县', '22', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261004, '麻栗坡县', '24', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261007, '广南县', '27', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261003, '西畴县', '23', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100261001, '文山县', '21', 100261000);
-INSERT INTO region(id, name, code, city_id) VALUES(100266003, '维西傈僳族自治县', '23', 100266000);
-INSERT INTO region(id, name, code, city_id) VALUES(100266001, '香格里拉县', '21', 100266000);
-INSERT INTO region(id, name, code, city_id) VALUES(100266002, '德钦县', '22', 100266000);
-INSERT INTO region(id, name, code, city_id) VALUES(100253006, '易门县', '25', 100253000);
-INSERT INTO region(id, name, code, city_id) VALUES(100253007, '峨山彝族自治县', '26', 100253000);
-INSERT INTO region(id, name, code, city_id) VALUES(100253003, '澄江县', '22', 100253000);
-INSERT INTO region(id, name, code, city_id) VALUES(100253002, '江川县', '21', 100253000);
-INSERT INTO region(id, name, code, city_id) VALUES(100253009, '元江哈尼族彝族傣族自治县', '28', 100253000);
-INSERT INTO region(id, name, code, city_id) VALUES(100253001, '红塔区', '2', 100253000);
-INSERT INTO region(id, name, code, city_id) VALUES(100253004, '通海县', '23', 100253000);
-INSERT INTO region(id, name, code, city_id) VALUES(100253005, '华宁县', '24', 100253000);
-INSERT INTO region(id, name, code, city_id) VALUES(100253008, '新平彝族傣族自治县', '27', 100253000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251012, '禄劝彝族苗族自治县', '28', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251004, '西山区', '12', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251001, '五华区', '2', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251002, '盘龙区', '3', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251006, '呈贡县', '21', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251009, '宜良县', '25', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251008, '富民县', '24', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251010, '石林彝族自治县', '26', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251011, '嵩明县', '27', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251003, '官渡区', '11', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251013, '寻甸回族彝族自治县', '29', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251005, '东川区', '13', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251007, '晋宁县', '22', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251014, '安宁市', '81', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263001, '大理市', '1', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263007, '巍山彝族回族自治县', '27', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263006, '南涧彝族自治县', '26', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263002, '漾濞彝族自治县', '22', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263005, '弥渡县', '25', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263011, '剑川县', '31', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263004, '宾川县', '24', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263010, '洱源县', '30', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263008, '永平县', '28', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263009, '云龙县', '29', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263012, '鹤庆县', '32', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100263003, '祥云县', '23', 100263000);
-INSERT INTO region(id, name, code, city_id) VALUES(100252002, '马龙县', '21', 100252000);
-INSERT INTO region(id, name, code, city_id) VALUES(100252003, '陆良县', '22', 100252000);
-INSERT INTO region(id, name, code, city_id) VALUES(100252007, '会泽县', '26', 100252000);
-INSERT INTO region(id, name, code, city_id) VALUES(100252006, '富源县', '25', 100252000);
-INSERT INTO region(id, name, code, city_id) VALUES(100252009, '宣威市', '81', 100252000);
-INSERT INTO region(id, name, code, city_id) VALUES(100252004, '师宗县', '23', 100252000);
-INSERT INTO region(id, name, code, city_id) VALUES(100252005, '罗平县', '24', 100252000);
-INSERT INTO region(id, name, code, city_id) VALUES(100252008, '沾益县', '28', 100252000);
-INSERT INTO region(id, name, code, city_id) VALUES(100252001, '麒麟区', '2', 100252000);
-INSERT INTO region(id, name, code, city_id) VALUES(100259006, '大姚县', '26', 100259000);
-INSERT INTO region(id, name, code, city_id) VALUES(100259004, '南华县', '24', 100259000);
-INSERT INTO region(id, name, code, city_id) VALUES(100259001, '楚雄市', '1', 100259000);
-INSERT INTO region(id, name, code, city_id) VALUES(100259008, '元谋县', '28', 100259000);
-INSERT INTO region(id, name, code, city_id) VALUES(100259007, '永仁县', '27', 100259000);
-INSERT INTO region(id, name, code, city_id) VALUES(100259010, '禄丰县', '31', 100259000);
-INSERT INTO region(id, name, code, city_id) VALUES(100259002, '双柏县', '22', 100259000);
-INSERT INTO region(id, name, code, city_id) VALUES(100259009, '武定县', '29', 100259000);
-INSERT INTO region(id, name, code, city_id) VALUES(100259003, '牟定县', '23', 100259000);
-INSERT INTO region(id, name, code, city_id) VALUES(100259005, '姚安县', '25', 100259000);
-INSERT INTO region(id, name, code, city_id) VALUES(100257004, '景东彝族自治县', '23', 100257000);
-INSERT INTO region(id, name, code, city_id) VALUES(100257006, '镇沅彝族哈尼族拉祜族自治县', '25', 100257000);
-INSERT INTO region(id, name, code, city_id) VALUES(100257009, '澜沧拉祜族自治县', '28', 100257000);
-INSERT INTO region(id, name, code, city_id) VALUES(100257001, '思茅区', '2', 100257000);
-INSERT INTO region(id, name, code, city_id) VALUES(100257002, '宁洱哈尼族彝族自治县', '21', 100257000);
-INSERT INTO region(id, name, code, city_id) VALUES(100257007, '江城哈尼族彝族自治县', '26', 100257000);
-INSERT INTO region(id, name, code, city_id) VALUES(100257010, '西盟佤族自治县', '29', 100257000);
-INSERT INTO region(id, name, code, city_id) VALUES(100257003, '墨江哈尼族自治县', '22', 100257000);
-INSERT INTO region(id, name, code, city_id) VALUES(100257008, '孟连傣族拉祜族佤族自治县', '27', 100257000);
-INSERT INTO region(id, name, code, city_id) VALUES(100257005, '景谷傣族彝族自治县', '24', 100257000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264003, '梁河县', '22', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264001, '瑞丽市', '2', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264002, '潞西市', '3', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264004, '盈江县', '23', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100264005, '陇川县', '24', 100264000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265003, '贡山独龙族怒族自治县', '24', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265004, '兰坪白族普米族自治县', '25', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265002, '福贡县', '23', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100265001, '泸水县', '21', 100265000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262003, '勐腊县', '23', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262001, '景洪市', '1', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100262002, '勐海县', '22', 100262000);
-INSERT INTO region(id, name, code, city_id) VALUES(100254003, '腾冲县', '22', 100254000);
-INSERT INTO region(id, name, code, city_id) VALUES(100254001, '隆阳区', '2', 100254000);
-INSERT INTO region(id, name, code, city_id) VALUES(100254004, '龙陵县', '23', 100254000);
-INSERT INTO region(id, name, code, city_id) VALUES(100254005, '昌宁县', '24', 100254000);
-INSERT INTO region(id, name, code, city_id) VALUES(100254002, '施甸县', '21', 100254000);
-INSERT INTO region(id, name, code, city_id) VALUES(100255007, '绥江县', '26', 100255000);
-INSERT INTO region(id, name, code, city_id) VALUES(100255005, '大关县', '24', 100255000);
-INSERT INTO region(id, name, code, city_id) VALUES(100255004, '盐津县', '23', 100255000);
-INSERT INTO region(id, name, code, city_id) VALUES(100255009, '彝良县', '28', 100255000);
-INSERT INTO region(id, name, code, city_id) VALUES(100255010, '威信县', '29', 100255000);
-INSERT INTO region(id, name, code, city_id) VALUES(100255006, '永善县', '25', 100255000);
-INSERT INTO region(id, name, code, city_id) VALUES(100255011, '水富县', '30', 100255000);
-INSERT INTO region(id, name, code, city_id) VALUES(100255003, '巧家县', '22', 100255000);
-INSERT INTO region(id, name, code, city_id) VALUES(100255001, '昭阳区', '2', 100255000);
-INSERT INTO region(id, name, code, city_id) VALUES(100255008, '镇雄县', '27', 100255000);
-INSERT INTO region(id, name, code, city_id) VALUES(100255002, '鲁甸县', '21', 100255000);
-INSERT INTO region(id, name, code, city_id) VALUES(100256002, '玉龙纳西族自治县', '21', 100256000);
-INSERT INTO region(id, name, code, city_id) VALUES(100256001, '古城区', '2', 100256000);
-INSERT INTO region(id, name, code, city_id) VALUES(100256004, '华坪县', '23', 100256000);
-INSERT INTO region(id, name, code, city_id) VALUES(100256003, '永胜县', '22', 100256000);
-INSERT INTO region(id, name, code, city_id) VALUES(100256005, '宁蒗彝族自治县', '24', 100256000);
-INSERT INTO region(id, name, code, city_id) VALUES(100258002, '凤庆县', '21', 100258000);
-INSERT INTO region(id, name, code, city_id) VALUES(100258004, '永德县', '23', 100258000);
-INSERT INTO region(id, name, code, city_id) VALUES(100258003, '云　县', '22', 100258000);
-INSERT INTO region(id, name, code, city_id) VALUES(100258005, '镇康县', '24', 100258000);
-INSERT INTO region(id, name, code, city_id) VALUES(100258007, '耿马傣族佤族自治县', '26', 100258000);
-INSERT INTO region(id, name, code, city_id) VALUES(100258008, '沧源佤族自治县', '27', 100258000);
-INSERT INTO region(id, name, code, city_id) VALUES(100258006, '双江拉祜族佤族布朗族傣族自治县', '25', 100258000);
-INSERT INTO region(id, name, code, city_id) VALUES(100258001, '临翔区', '2', 100258000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260007, '弥勒县', '26', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260004, '屏边苗族自治县', '23', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260013, '河口瑶族自治县', '32', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260008, '泸西县', '27', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260002, '开远市', '2', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260012, '绿春县', '31', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260005, '建水县', '24', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260001, '个旧市', '1', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260010, '红河县', '29', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260006, '石屏县', '25', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260011, '金平苗族瑶族傣族自治县', '30', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260009, '元阳县', '28', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100260003, '蒙自县', '22', 100260000);
-INSERT INTO region(id, name, code, city_id) VALUES(100093003, '漠河县', '23', 100093000);
-INSERT INTO region(id, name, code, city_id) VALUES(100093002, '塔河县', '22', 100093000);
-INSERT INTO region(id, name, code, city_id) VALUES(100093001, '呼玛县', '21', 100093000);
-INSERT INTO region(id, name, code, city_id) VALUES(100091002, '嫩江县', '21', 100091000);
-INSERT INTO region(id, name, code, city_id) VALUES(100091006, '五大连池市', '82', 100091000);
-INSERT INTO region(id, name, code, city_id) VALUES(100091001, '爱辉区', '2', 100091000);
-INSERT INTO region(id, name, code, city_id) VALUES(100091003, '逊克县', '23', 100091000);
-INSERT INTO region(id, name, code, city_id) VALUES(100091005, '北安市', '81', 100091000);
-INSERT INTO region(id, name, code, city_id) VALUES(100091004, '孙吴县', '24', 100091000);
-INSERT INTO region(id, name, code, city_id) VALUES(100089001, '新兴区', '2', 100089000);
-INSERT INTO region(id, name, code, city_id) VALUES(100089004, '勃利县', '21', 100089000);
-INSERT INTO region(id, name, code, city_id) VALUES(100089002, '桃山区', '3', 100089000);
-INSERT INTO region(id, name, code, city_id) VALUES(100089003, '茄子河区', '4', 100089000);
-INSERT INTO region(id, name, code, city_id) VALUES(100088003, '东风区', '5', 100088000);
-INSERT INTO region(id, name, code, city_id) VALUES(100088002, '前进区', '4', 100088000);
-INSERT INTO region(id, name, code, city_id) VALUES(100088008, '抚远县', '33', 100088000);
-INSERT INTO region(id, name, code, city_id) VALUES(100088006, '桦川县', '26', 100088000);
-INSERT INTO region(id, name, code, city_id) VALUES(100088007, '汤原县', '28', 100088000);
-INSERT INTO region(id, name, code, city_id) VALUES(100088009, '同江市', '81', 100088000);
-INSERT INTO region(id, name, code, city_id) VALUES(100088001, '向阳区', '3', 100088000);
-INSERT INTO region(id, name, code, city_id) VALUES(100088005, '桦南县', '22', 100088000);
-INSERT INTO region(id, name, code, city_id) VALUES(100088004, '郊　区', '11', 100088000);
-INSERT INTO region(id, name, code, city_id) VALUES(100088010, '富锦市', '82', 100088000);
-INSERT INTO region(id, name, code, city_id) VALUES(100085002, '岭东区', '3', 100085000);
-INSERT INTO region(id, name, code, city_id) VALUES(100085008, '饶河县', '24', 100085000);
-INSERT INTO region(id, name, code, city_id) VALUES(100085006, '友谊县', '22', 100085000);
-INSERT INTO region(id, name, code, city_id) VALUES(100085003, '四方台区', '5', 100085000);
-INSERT INTO region(id, name, code, city_id) VALUES(100085001, '尖山区', '2', 100085000);
-INSERT INTO region(id, name, code, city_id) VALUES(100085005, '集贤县', '21', 100085000);
-INSERT INTO region(id, name, code, city_id) VALUES(100085007, '宝清县', '23', 100085000);
-INSERT INTO region(id, name, code, city_id) VALUES(100085004, '宝山区', '6', 100085000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081007, '呼兰区', '11', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081017, '尚志市', '83', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081001, '道里区', '2', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081013, '木兰县', '27', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081010, '方正县', '24', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081004, '平房区', '8', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081006, '香坊区', '10', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081018, '五常市', '84', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081005, '松北区', '9', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081002, '南岗区', '3', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081016, '双城市', '82', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081014, '通河县', '28', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081009, '依兰县', '23', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081012, '巴彦县', '26', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081015, '延寿县', '29', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081011, '宾　县', '25', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081003, '道外区', '4', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100081008, '阿城区', '12', 100081000);
-INSERT INTO region(id, name, code, city_id) VALUES(100083004, '梨树区', '5', 100083000);
-INSERT INTO region(id, name, code, city_id) VALUES(100083001, '鸡冠区', '2', 100083000);
-INSERT INTO region(id, name, code, city_id) VALUES(100083003, '滴道区', '4', 100083000);
-INSERT INTO region(id, name, code, city_id) VALUES(100083006, '麻山区', '7', 100083000);
-INSERT INTO region(id, name, code, city_id) VALUES(100083002, '恒山区', '3', 100083000);
-INSERT INTO region(id, name, code, city_id) VALUES(100083007, '鸡东县', '21', 100083000);
-INSERT INTO region(id, name, code, city_id) VALUES(100083005, '城子河区', '6', 100083000);
-INSERT INTO region(id, name, code, city_id) VALUES(100083008, '虎林市', '81', 100083000);
-INSERT INTO region(id, name, code, city_id) VALUES(100083009, '密山市', '82', 100083000);
-INSERT INTO region(id, name, code, city_id) VALUES(100092001, '北林区', '2', 100092000);
-INSERT INTO region(id, name, code, city_id) VALUES(100092004, '青冈县', '23', 100092000);
-INSERT INTO region(id, name, code, city_id) VALUES(100092007, '绥棱县', '26', 100092000);
-INSERT INTO region(id, name, code, city_id) VALUES(100092002, '望奎县', '21', 100092000);
-INSERT INTO region(id, name, code, city_id) VALUES(100092006, '明水县', '25', 100092000);
-INSERT INTO region(id, name, code, city_id) VALUES(100092003, '兰西县', '22', 100092000);
-INSERT INTO region(id, name, code, city_id) VALUES(100092005, '庆安县', '24', 100092000);
-INSERT INTO region(id, name, code, city_id) VALUES(100092009, '肇东市', '82', 100092000);
-INSERT INTO region(id, name, code, city_id) VALUES(100092010, '海伦市', '83', 100092000);
-INSERT INTO region(id, name, code, city_id) VALUES(100092008, '安达市', '81', 100092000);
-INSERT INTO region(id, name, code, city_id) VALUES(100090002, '阳明区', '3', 100090000);
-INSERT INTO region(id, name, code, city_id) VALUES(100090001, '东安区', '2', 100090000);
-INSERT INTO region(id, name, code, city_id) VALUES(100090006, '林口县', '25', 100090000);
-INSERT INTO region(id, name, code, city_id) VALUES(100090008, '海林市', '83', 100090000);
-INSERT INTO region(id, name, code, city_id) VALUES(100090010, '穆棱市', '85', 100090000);
-INSERT INTO region(id, name, code, city_id) VALUES(100090007, '绥芬河市', '81', 100090000);
-INSERT INTO region(id, name, code, city_id) VALUES(100090003, '爱民区', '4', 100090000);
-INSERT INTO region(id, name, code, city_id) VALUES(100090005, '东宁县', '24', 100090000);
-INSERT INTO region(id, name, code, city_id) VALUES(100090004, '西安区', '5', 100090000);
-INSERT INTO region(id, name, code, city_id) VALUES(100090009, '宁安市', '84', 100090000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082011, '甘南县', '25', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082015, '拜泉县', '31', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082012, '富裕县', '27', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082007, '梅里斯达斡尔族区', '8', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082008, '龙江县', '21', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082002, '建华区', '3', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082016, '讷河市', '81', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082001, '龙沙区', '2', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082013, '克山县', '29', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082006, '碾子山区', '7', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082004, '昂昂溪区', '5', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082014, '克东县', '30', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082003, '铁锋区', '4', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082005, '富拉尔基区', '6', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082009, '依安县', '23', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100082010, '泰来县', '24', 100082000);
-INSERT INTO region(id, name, code, city_id) VALUES(100086006, '肇州县', '21', 100086000);
-INSERT INTO region(id, name, code, city_id) VALUES(100086008, '林甸县', '23', 100086000);
-INSERT INTO region(id, name, code, city_id) VALUES(100086001, '萨尔图区', '2', 100086000);
-INSERT INTO region(id, name, code, city_id) VALUES(100086004, '红岗区', '5', 100086000);
-INSERT INTO region(id, name, code, city_id) VALUES(100086002, '龙凤区', '3', 100086000);
-INSERT INTO region(id, name, code, city_id) VALUES(100086003, '让胡路区', '4', 100086000);
-INSERT INTO region(id, name, code, city_id) VALUES(100086007, '肇源县', '22', 100086000);
-INSERT INTO region(id, name, code, city_id) VALUES(100086005, '大同区', '6', 100086000);
-INSERT INTO region(id, name, code, city_id) VALUES(100086009, '杜尔伯特蒙古族自治县', '24', 100086000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087007, '美溪区', '8', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087010, '乌马河区', '11', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087003, '友好区', '4', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087009, '五营区', '10', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087004, '西林区', '5', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087014, '红星区', '15', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087011, '汤旺河区', '12', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087012, '带岭区', '13', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087016, '嘉荫县', '22', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087008, '金山屯区', '9', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087006, '新青区', '7', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087015, '上甘岭区', '16', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087001, '伊春区', '2', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087002, '南岔区', '3', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087017, '铁力市', '81', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087013, '乌伊岭区', '14', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100087005, '翠峦区', '6', 100087000);
-INSERT INTO region(id, name, code, city_id) VALUES(100084004, '兴安区', '5', 100084000);
-INSERT INTO region(id, name, code, city_id) VALUES(100084003, '南山区', '4', 100084000);
-INSERT INTO region(id, name, code, city_id) VALUES(100084006, '兴山区', '7', 100084000);
-INSERT INTO region(id, name, code, city_id) VALUES(100084005, '东山区', '6', 100084000);
-INSERT INTO region(id, name, code, city_id) VALUES(100084007, '萝北县', '21', 100084000);
-INSERT INTO region(id, name, code, city_id) VALUES(100084001, '向阳区', '2', 100084000);
-INSERT INTO region(id, name, code, city_id) VALUES(100084008, '绥滨县', '22', 100084000);
-INSERT INTO region(id, name, code, city_id) VALUES(100084002, '工农区', '3', 100084000);
-INSERT INTO region(id, name, code, city_id) VALUES(100304004, '泾源县', '24', 100304000);
-INSERT INTO region(id, name, code, city_id) VALUES(100304001, '原州区', '2', 100304000);
-INSERT INTO region(id, name, code, city_id) VALUES(100304002, '西吉县', '22', 100304000);
-INSERT INTO region(id, name, code, city_id) VALUES(100304003, '隆德县', '23', 100304000);
-INSERT INTO region(id, name, code, city_id) VALUES(100304005, '彭阳县', '25', 100304000);
-INSERT INTO region(id, name, code, city_id) VALUES(100303002, '红寺堡区', '3', 100303000);
-INSERT INTO region(id, name, code, city_id) VALUES(100303005, '青铜峡市', '81', 100303000);
-INSERT INTO region(id, name, code, city_id) VALUES(100303003, '盐池县', '23', 100303000);
-INSERT INTO region(id, name, code, city_id) VALUES(100303001, '利通区', '2', 100303000);
-INSERT INTO region(id, name, code, city_id) VALUES(100303004, '同心县', '24', 100303000);
-INSERT INTO region(id, name, code, city_id) VALUES(100302003, '平罗县', '21', 100302000);
-INSERT INTO region(id, name, code, city_id) VALUES(100302001, '大武口区', '2', 100302000);
-INSERT INTO region(id, name, code, city_id) VALUES(100302002, '惠农区', '5', 100302000);
-INSERT INTO region(id, name, code, city_id) VALUES(100305003, '海原县', '22', 100305000);
-INSERT INTO region(id, name, code, city_id) VALUES(100305001, '沙坡头区', '2', 100305000);
-INSERT INTO region(id, name, code, city_id) VALUES(100305002, '中宁县', '21', 100305000);
-INSERT INTO region(id, name, code, city_id) VALUES(100301001, '兴庆区', '4', 100301000);
-INSERT INTO region(id, name, code, city_id) VALUES(100301005, '贺兰县', '22', 100301000);
-INSERT INTO region(id, name, code, city_id) VALUES(100301004, '永宁县', '21', 100301000);
-INSERT INTO region(id, name, code, city_id) VALUES(100301002, '西夏区', '5', 100301000);
-INSERT INTO region(id, name, code, city_id) VALUES(100301003, '金凤区', '6', 100301000);
-INSERT INTO region(id, name, code, city_id) VALUES(100301006, '灵武市', '81', 100301000);
-INSERT INTO region(id, name, code, city_id) VALUES(100033002, '山海关区', '3', 100033000);
-INSERT INTO region(id, name, code, city_id) VALUES(100033004, '青龙满族自治县', '21', 100033000);
-INSERT INTO region(id, name, code, city_id) VALUES(100033005, '昌黎县', '22', 100033000);
-INSERT INTO region(id, name, code, city_id) VALUES(100033007, '卢龙县', '24', 100033000);
-INSERT INTO region(id, name, code, city_id) VALUES(100033006, '抚宁县', '23', 100033000);
-INSERT INTO region(id, name, code, city_id) VALUES(100033003, '北戴河区', '4', 100033000);
-INSERT INTO region(id, name, code, city_id) VALUES(100033001, '海港区', '2', 100033000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032007, '曹妃甸区', '9', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032003, '古冶区', '4', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032009, '滦南县', '24', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032013, '遵化市', '81', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032006, '丰润区', '8', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032005, '丰南区', '7', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032011, '迁西县', '27', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032002, '路北区', '3', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032010, '乐亭县', '25', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032004, '开平区', '5', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032012, '玉田县', '29', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032014, '迁安市', '83', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032001, '路南区', '2', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100032008, '滦　县', '23', 100032000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031006, '裕华区', '8', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031020, '藁城市', '82', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031001, '长安区', '2', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031003, '桥西区', '4', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031005, '井陉矿区', '7', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031008, '正定县', '23', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031014, '赞皇县', '29', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031019, '辛集市', '81', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031004, '新华区', '5', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031015, '无极县', '30', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031009, '栾城县', '24', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031011, '灵寿县', '26', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031017, '元氏县', '32', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031007, '井陉县', '21', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031023, '鹿泉市', '85', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031002, '桥东区', '3', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031018, '赵县', '33', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031022, '新乐市', '84', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031010, '行唐县', '25', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031013, '深泽县', '28', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031021, '晋州市', '83', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031012, '高邑县', '27', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100031016, '平山县', '31', 100031000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036024, '安国市', '83', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036001, '新市区', '2', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036020, '博野县', '37', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036008, '徐水县', '25', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036018, '蠡　县', '35', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036012, '容城县', '29', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036015, '安新县', '32', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036021, '雄　县', '38', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036006, '涞水县', '23', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036023, '定州市', '82', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036005, '清苑县', '22', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036017, '曲阳县', '34', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036009, '定兴县', '26', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036016, '易　县', '33', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036003, '南市区', '4', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036011, '高阳县', '28', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036013, '涞源县', '30', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036014, '望都县', '31', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036019, '顺平县', '36', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036002, '北市区', '3', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036004, '满城县', '21', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036007, '阜平县', '24', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036010, '唐　县', '27', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036022, '涿州市', '81', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100036025, '高碑店市', '84', 100036000);
-INSERT INTO region(id, name, code, city_id) VALUES(100040003, '固安县', '22', 100040000);
-INSERT INTO region(id, name, code, city_id) VALUES(100040010, '三河市', '82', 100040000);
-INSERT INTO region(id, name, code, city_id) VALUES(100040002, '广阳区', '3', 100040000);
-INSERT INTO region(id, name, code, city_id) VALUES(100040004, '永清县', '23', 100040000);
-INSERT INTO region(id, name, code, city_id) VALUES(100040008, '大厂回族自治县', '28', 100040000);
-INSERT INTO region(id, name, code, city_id) VALUES(100040009, '霸州市', '81', 100040000);
-INSERT INTO region(id, name, code, city_id) VALUES(100040005, '香河县', '24', 100040000);
-INSERT INTO region(id, name, code, city_id) VALUES(100040007, '文安县', '26', 100040000);
-INSERT INTO region(id, name, code, city_id) VALUES(100040001, '安次区', '2', 100040000);
-INSERT INTO region(id, name, code, city_id) VALUES(100040006, '大城县', '25', 100040000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035018, '南宫市', '81', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035008, '任　县', '26', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035009, '南和县', '27', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035019, '沙河市', '82', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035011, '巨鹿县', '29', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035006, '柏乡县', '24', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035015, '威　县', '33', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035003, '邢台县', '21', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035012, '新河县', '30', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035013, '广宗县', '31', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035016, '清河县', '34', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035014, '平乡县', '32', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035017, '临西县', '35', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035010, '宁晋县', '28', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035007, '隆尧县', '25', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035001, '桥东区', '2', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035005, '内丘县', '23', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035004, '临城县', '22', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100035002, '桥西区', '3', 100035000);
-INSERT INTO region(id, name, code, city_id) VALUES(100038006, '平泉县', '23', 100038000);
-INSERT INTO region(id, name, code, city_id) VALUES(100038004, '承德县', '21', 100038000);
-INSERT INTO region(id, name, code, city_id) VALUES(100038005, '兴隆县', '22', 100038000);
-INSERT INTO region(id, name, code, city_id) VALUES(100038001, '双桥区', '2', 100038000);
-INSERT INTO region(id, name, code, city_id) VALUES(100038009, '丰宁满族自治县', '26', 100038000);
-INSERT INTO region(id, name, code, city_id) VALUES(100038002, '双滦区', '3', 100038000);
-INSERT INTO region(id, name, code, city_id) VALUES(100038003, '鹰手营子矿区', '4', 100038000);
-INSERT INTO region(id, name, code, city_id) VALUES(100038007, '滦平县', '24', 100038000);
-INSERT INTO region(id, name, code, city_id) VALUES(100038008, '隆化县', '25', 100038000);
-INSERT INTO region(id, name, code, city_id) VALUES(100038011, '围场满族蒙古族自治县', '28', 100038000);
-INSERT INTO region(id, name, code, city_id) VALUES(100038010, '宽城满族自治县', '27', 100038000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034003, '复兴区', '4', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034006, '临漳县', '23', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034017, '魏　县', '34', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034001, '邯山区', '2', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034007, '成安县', '24', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034012, '永年县', '29', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034016, '馆陶县', '33', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034005, '邯郸县', '21', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034018, '曲周县', '35', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034002, '丛台区', '3', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034013, '邱　县', '30', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034015, '广平县', '32', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034019, '武安市', '81', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034010, '磁　县', '27', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034014, '鸡泽县', '31', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034008, '大名县', '25', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034011, '肥乡县', '28', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034004, '峰峰矿区', '6', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100034009, '涉　县', '26', 100034000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037004, '下花园区', '6', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037011, '阳原县', '27', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037008, '沽源县', '24', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037014, '怀来县', '30', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037013, '万全县', '29', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037010, '蔚　县', '26', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037017, '崇礼县', '33', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037009, '尚义县', '25', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037006, '张北县', '22', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037001, '桥东区', '2', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037003, '宣化区', '5', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037012, '怀安县', '28', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037007, '康保县', '23', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037016, '赤城县', '32', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037015, '涿鹿县', '31', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037002, '桥西区', '3', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100037005, '宣化县', '21', 100037000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039004, '青　县', '22', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039011, '献　县', '29', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039001, '新华区', '2', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039014, '任丘市', '82', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039010, '吴桥县', '28', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039003, '沧　县', '21', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039005, '东光县', '23', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039012, '孟村回族自治县', '30', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039006, '海兴县', '24', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039007, '盐山县', '25', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039015, '黄骅市', '83', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039016, '河间市', '84', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039013, '泊头市', '81', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039002, '运河区', '3', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039008, '肃宁县', '26', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100039009, '南皮县', '27', 100039000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041005, '饶阳县', '24', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041009, '阜城县', '28', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041007, '故城县', '26', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041002, '枣强县', '21', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041004, '武强县', '23', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041001, '桃城区', '2', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041008, '景　县', '27', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041010, '冀州市', '81', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041003, '武邑县', '22', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041006, '安平县', '25', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100041011, '深州市', '82', 100041000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273004, '凤翔县', '22', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273007, '眉　县', '26', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273011, '凤　县', '30', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273012, '太白县', '31', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273002, '金台区', '3', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273003, '陈仓区', '4', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273010, '麟游县', '29', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273008, '陇　县', '27', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273009, '千阳县', '28', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273006, '扶风县', '24', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273001, '渭滨区', '2', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100273005, '岐山县', '23', 100273000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274007, '礼泉县', '25', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274002, '杨凌区', '3', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274009, '彬　县', '27', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274006, '乾　县', '24', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274012, '淳化县', '30', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274005, '泾阳县', '23', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274010, '长武县', '28', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274001, '秦都区', '2', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274003, '渭城区', '4', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274014, '兴平市', '81', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274008, '永寿县', '26', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274013, '武功县', '31', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274004, '三原县', '22', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100274011, '旬邑县', '29', 100274000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271003, '莲湖区', '4', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271001, '新城区', '2', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271008, '临潼区', '15', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271005, '未央区', '12', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271011, '周至县', '24', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271007, '阎良区', '14', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271002, '碑林区', '3', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271012, '户　县', '25', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271004, '灞桥区', '11', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271006, '雁塔区', '13', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271009, '长安区', '16', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271010, '蓝田县', '22', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100271013, '高陵县', '26', 100271000);
-INSERT INTO region(id, name, code, city_id) VALUES(100277003, '城固县', '22', 100277000);
-INSERT INTO region(id, name, code, city_id) VALUES(100277007, '宁强县', '26', 100277000);
-INSERT INTO region(id, name, code, city_id) VALUES(100277009, '镇巴县', '28', 100277000);
-INSERT INTO region(id, name, code, city_id) VALUES(100277004, '洋　县', '23', 100277000);
-INSERT INTO region(id, name, code, city_id) VALUES(100277005, '西乡县', '24', 100277000);
-INSERT INTO region(id, name, code, city_id) VALUES(100277010, '留坝县', '29', 100277000);
-INSERT INTO region(id, name, code, city_id) VALUES(100277002, '南郑县', '21', 100277000);
-INSERT INTO region(id, name, code, city_id) VALUES(100277008, '略阳县', '27', 100277000);
-INSERT INTO region(id, name, code, city_id) VALUES(100277011, '佛坪县', '30', 100277000);
-INSERT INTO region(id, name, code, city_id) VALUES(100277001, '汉台区', '2', 100277000);
-INSERT INTO region(id, name, code, city_id) VALUES(100277006, '勉　县', '25', 100277000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278006, '定边县', '25', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278005, '靖边县', '24', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278007, '绥德县', '26', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278001, '榆阳区', '2', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278004, '横山县', '23', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278009, '佳　县', '28', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278010, '吴堡县', '29', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278008, '米脂县', '27', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278011, '清涧县', '30', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278012, '子洲县', '31', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278002, '神木县', '21', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100278003, '府谷县', '22', 100278000);
-INSERT INTO region(id, name, code, city_id) VALUES(100275011, '华阴市', '82', 100275000);
-INSERT INTO region(id, name, code, city_id) VALUES(100275002, '华　县', '21', 100275000);
-INSERT INTO region(id, name, code, city_id) VALUES(100275008, '白水县', '27', 100275000);
-INSERT INTO region(id, name, code, city_id) VALUES(100275001, '临渭区', '2', 100275000);
-INSERT INTO region(id, name, code, city_id) VALUES(100275004, '大荔县', '23', 100275000);
-INSERT INTO region(id, name, code, city_id) VALUES(100275003, '潼关县', '22', 100275000);
-INSERT INTO region(id, name, code, city_id) VALUES(100275005, '合阳县', '24', 100275000);
-INSERT INTO region(id, name, code, city_id) VALUES(100275006, '澄城县', '25', 100275000);
-INSERT INTO region(id, name, code, city_id) VALUES(100275007, '蒲城县', '26', 100275000);
-INSERT INTO region(id, name, code, city_id) VALUES(100275010, '韩城市', '81', 100275000);
-INSERT INTO region(id, name, code, city_id) VALUES(100275009, '富平县', '28', 100275000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276001, '宝塔区', '2', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276002, '延长县', '21', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276007, '吴起县', '26', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276011, '宜川县', '30', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276006, '志丹县', '25', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276003, '延川县', '22', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276005, '安塞县', '24', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276012, '黄龙县', '31', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276010, '洛川县', '29', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276008, '甘泉县', '27', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276013, '黄陵县', '32', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276009, '富　县', '28', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100276004, '子长县', '23', 100276000);
-INSERT INTO region(id, name, code, city_id) VALUES(100272003, '耀州区', '4', 100272000);
-INSERT INTO region(id, name, code, city_id) VALUES(100272002, '印台区', '3', 100272000);
-INSERT INTO region(id, name, code, city_id) VALUES(100272001, '王益区', '2', 100272000);
-INSERT INTO region(id, name, code, city_id) VALUES(100272004, '宜君县', '22', 100272000);
-INSERT INTO region(id, name, code, city_id) VALUES(100280001, '商州区', '2', 100280000);
-INSERT INTO region(id, name, code, city_id) VALUES(100280007, '柞水县', '26', 100280000);
-INSERT INTO region(id, name, code, city_id) VALUES(100280003, '丹凤县', '22', 100280000);
-INSERT INTO region(id, name, code, city_id) VALUES(100280005, '山阳县', '24', 100280000);
-INSERT INTO region(id, name, code, city_id) VALUES(100280004, '商南县', '23', 100280000);
-INSERT INTO region(id, name, code, city_id) VALUES(100280002, '洛南县', '21', 100280000);
-INSERT INTO region(id, name, code, city_id) VALUES(100280006, '镇安县', '25', 100280000);
-INSERT INTO region(id, name, code, city_id) VALUES(100279006, '岚皋县', '25', 100279000);
-INSERT INTO region(id, name, code, city_id) VALUES(100279004, '宁陕县', '23', 100279000);
-INSERT INTO region(id, name, code, city_id) VALUES(100279001, '汉滨区', '2', 100279000);
-INSERT INTO region(id, name, code, city_id) VALUES(100279007, '平利县', '26', 100279000);
-INSERT INTO region(id, name, code, city_id) VALUES(100279010, '白河县', '29', 100279000);
-INSERT INTO region(id, name, code, city_id) VALUES(100279002, '汉阴县', '21', 100279000);
-INSERT INTO region(id, name, code, city_id) VALUES(100279008, '镇坪县', '27', 100279000);
-INSERT INTO region(id, name, code, city_id) VALUES(100279005, '紫阳县', '24', 100279000);
-INSERT INTO region(id, name, code, city_id) VALUES(100279003, '石泉县', '22', 100279000);
-INSERT INTO region(id, name, code, city_id) VALUES(100279009, '旬阳县', '28', 100279000);
-INSERT INTO region(id, name, code, city_id) VALUES(100282001, '嘉峪关市', '0', 100282000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291007, '岷　县', '26', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291002, '通渭县', '21', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291003, '陇西县', '22', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291006, '漳　县', '25', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291005, '临洮县', '24', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291001, '安定区', '2', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291004, '渭源县', '23', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100283001, '金川区', '2', 100283000);
-INSERT INTO region(id, name, code, city_id) VALUES(100283002, '永昌县', '21', 100283000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294002, '临潭县', '21', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294004, '舟曲县', '23', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294008, '夏河县', '27', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294007, '碌曲县', '26', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294006, '玛曲县', '25', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294001, '合作市', '1', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294003, '卓尼县', '22', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294005, '迭部县', '24', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292003, '文　县', '22', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292002, '成　县', '21', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292001, '武都区', '2', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292004, '宕昌县', '23', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292005, '康　县', '24', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292008, '徽　县', '27', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292006, '西和县', '25', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292007, '礼　县', '26', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292009, '两当县', '28', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293002, '临夏县', '21', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293003, '康乐县', '22', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293006, '和政县', '25', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293001, '临夏市', '1', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293007, '东乡族自治县', '26', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293008, '积石山保安族东乡族撒拉族自治县', '27', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293005, '广河县', '24', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293004, '永靖县', '23', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100284005, '景泰县', '23', 100284000);
-INSERT INTO region(id, name, code, city_id) VALUES(100284002, '平川区', '3', 100284000);
-INSERT INTO region(id, name, code, city_id) VALUES(100284004, '会宁县', '22', 100284000);
-INSERT INTO region(id, name, code, city_id) VALUES(100284003, '靖远县', '21', 100284000);
-INSERT INTO region(id, name, code, city_id) VALUES(100284001, '白银区', '2', 100284000);
-INSERT INTO region(id, name, code, city_id) VALUES(100289002, '金塔县', '21', 100289000);
-INSERT INTO region(id, name, code, city_id) VALUES(100289007, '敦煌市', '82', 100289000);
-INSERT INTO region(id, name, code, city_id) VALUES(100289006, '玉门市', '81', 100289000);
-INSERT INTO region(id, name, code, city_id) VALUES(100289003, '瓜州县', '22', 100289000);
-INSERT INTO region(id, name, code, city_id) VALUES(100289005, '阿克塞哈萨克族自治县', '24', 100289000);
-INSERT INTO region(id, name, code, city_id) VALUES(100289001, '肃州区', '2', 100289000);
-INSERT INTO region(id, name, code, city_id) VALUES(100289004, '肃北蒙古族自治县', '23', 100289000);
-INSERT INTO region(id, name, code, city_id) VALUES(100287002, '肃南裕固族自治县', '21', 100287000);
-INSERT INTO region(id, name, code, city_id) VALUES(100287006, '山丹县', '25', 100287000);
-INSERT INTO region(id, name, code, city_id) VALUES(100287003, '民乐县', '22', 100287000);
-INSERT INTO region(id, name, code, city_id) VALUES(100287004, '临泽县', '23', 100287000);
-INSERT INTO region(id, name, code, city_id) VALUES(100287001, '甘州区', '2', 100287000);
-INSERT INTO region(id, name, code, city_id) VALUES(100287005, '高台县', '24', 100287000);
-INSERT INTO region(id, name, code, city_id) VALUES(100288003, '灵台县', '22', 100288000);
-INSERT INTO region(id, name, code, city_id) VALUES(100288002, '泾川县', '21', 100288000);
-INSERT INTO region(id, name, code, city_id) VALUES(100288004, '崇信县', '23', 100288000);
-INSERT INTO region(id, name, code, city_id) VALUES(100288007, '静宁县', '26', 100288000);
-INSERT INTO region(id, name, code, city_id) VALUES(100288001, '崆峒区', '2', 100288000);
-INSERT INTO region(id, name, code, city_id) VALUES(100288005, '华亭县', '24', 100288000);
-INSERT INTO region(id, name, code, city_id) VALUES(100288006, '庄浪县', '25', 100288000);
-INSERT INTO region(id, name, code, city_id) VALUES(100281001, '城关区', '2', 100281000);
-INSERT INTO region(id, name, code, city_id) VALUES(100281005, '红古区', '11', 100281000);
-INSERT INTO region(id, name, code, city_id) VALUES(100281007, '皋兰县', '22', 100281000);
-INSERT INTO region(id, name, code, city_id) VALUES(100281008, '榆中县', '23', 100281000);
-INSERT INTO region(id, name, code, city_id) VALUES(100281004, '安宁区', '5', 100281000);
-INSERT INTO region(id, name, code, city_id) VALUES(100281006, '永登县', '21', 100281000);
-INSERT INTO region(id, name, code, city_id) VALUES(100281002, '七里河区', '3', 100281000);
-INSERT INTO region(id, name, code, city_id) VALUES(100281003, '西固区', '4', 100281000);
-INSERT INTO region(id, name, code, city_id) VALUES(100286001, '凉州区', '2', 100286000);
-INSERT INTO region(id, name, code, city_id) VALUES(100286004, '天祝藏族自治县', '23', 100286000);
-INSERT INTO region(id, name, code, city_id) VALUES(100286002, '民勤县', '21', 100286000);
-INSERT INTO region(id, name, code, city_id) VALUES(100286003, '古浪县', '22', 100286000);
-INSERT INTO region(id, name, code, city_id) VALUES(100285007, '张家川回族自治县', '25', 100285000);
-INSERT INTO region(id, name, code, city_id) VALUES(100285003, '清水县', '21', 100285000);
-INSERT INTO region(id, name, code, city_id) VALUES(100285004, '秦安县', '22', 100285000);
-INSERT INTO region(id, name, code, city_id) VALUES(100285006, '武山县', '24', 100285000);
-INSERT INTO region(id, name, code, city_id) VALUES(100285002, '麦积区', '3', 100285000);
-INSERT INTO region(id, name, code, city_id) VALUES(100285005, '甘谷县', '23', 100285000);
-INSERT INTO region(id, name, code, city_id) VALUES(100285001, '秦州区', '2', 100285000);
-INSERT INTO region(id, name, code, city_id) VALUES(100290008, '镇原县', '27', 100290000);
-INSERT INTO region(id, name, code, city_id) VALUES(100290003, '环　县', '22', 100290000);
-INSERT INTO region(id, name, code, city_id) VALUES(100290005, '合水县', '24', 100290000);
-INSERT INTO region(id, name, code, city_id) VALUES(100290004, '华池县', '23', 100290000);
-INSERT INTO region(id, name, code, city_id) VALUES(100290007, '宁　县', '26', 100290000);
-INSERT INTO region(id, name, code, city_id) VALUES(100290001, '西峰区', '2', 100290000);
-INSERT INTO region(id, name, code, city_id) VALUES(100290006, '正宁县', '25', 100290000);
-INSERT INTO region(id, name, code, city_id) VALUES(100290002, '庆城县', '21', 100290000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211001, '秀英区', '5', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211003, '琼山区', '7', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211002, '龙华区', '6', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211004, '美兰区', '8', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100235006, '绵竹市', '83', 100235000);
-INSERT INTO region(id, name, code, city_id) VALUES(100235003, '罗江县', '26', 100235000);
-INSERT INTO region(id, name, code, city_id) VALUES(100235002, '中江县', '23', 100235000);
-INSERT INTO region(id, name, code, city_id) VALUES(100235004, '广汉市', '81', 100235000);
-INSERT INTO region(id, name, code, city_id) VALUES(100235005, '什邡市', '82', 100235000);
-INSERT INTO region(id, name, code, city_id) VALUES(100235001, '旌阳区', '3', 100235000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246001, '雨城区', '2', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246003, '荥经县', '22', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246006, '天全县', '25', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246008, '宝兴县', '27', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246002, '名山县', '21', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246007, '芦山县', '26', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246004, '汉源县', '23', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246005, '石棉县', '24', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100242002, '仁寿县', '21', 100242000);
-INSERT INTO region(id, name, code, city_id) VALUES(100242001, '东坡区', '2', 100242000);
-INSERT INTO region(id, name, code, city_id) VALUES(100242005, '丹棱县', '24', 100242000);
-INSERT INTO region(id, name, code, city_id) VALUES(100242004, '洪雅县', '23', 100242000);
-INSERT INTO region(id, name, code, city_id) VALUES(100242006, '青神县', '25', 100242000);
-INSERT INTO region(id, name, code, city_id) VALUES(100242003, '彭山县', '22', 100242000);
-INSERT INTO region(id, name, code, city_id) VALUES(100240003, '五通桥区', '12', 100240000);
-INSERT INTO region(id, name, code, city_id) VALUES(100240001, '市中区', '2', 100240000);
-INSERT INTO region(id, name, code, city_id) VALUES(100240002, '沙湾区', '11', 100240000);
-INSERT INTO region(id, name, code, city_id) VALUES(100240009, '峨边彝族自治县', '32', 100240000);
-INSERT INTO region(id, name, code, city_id) VALUES(100240007, '夹江县', '26', 100240000);
-INSERT INTO region(id, name, code, city_id) VALUES(100240010, '马边彝族自治县', '33', 100240000);
-INSERT INTO region(id, name, code, city_id) VALUES(100240005, '犍为县', '23', 100240000);
-INSERT INTO region(id, name, code, city_id) VALUES(100240004, '金口河区', '13', 100240000);
-INSERT INTO region(id, name, code, city_id) VALUES(100240006, '井研县', '24', 100240000);
-INSERT INTO region(id, name, code, city_id) VALUES(100240008, '沐川县', '29', 100240000);
-INSERT INTO region(id, name, code, city_id) VALUES(100240011, '峨眉山市', '81', 100240000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231010, '金堂县', '21', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231014, '蒲江县', '31', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231005, '成华区', '8', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231001, '锦江区', '4', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231002, '青羊区', '5', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231006, '龙泉驿区', '12', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231007, '青白江区', '13', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231013, '大邑县', '29', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231008, '新都区', '14', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231009, '温江区', '15', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231011, '双流县', '22', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231015, '新津县', '32', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231004, '武侯区', '7', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231012, '郫　县', '24', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231003, '金牛区', '6', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231018, '邛崃市', '83', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231017, '彭州市', '82', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231016, '都江堰市', '81', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100231019, '崇州市', '84', 100231000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251016, '美姑县', '36', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251012, '喜德县', '32', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251008, '普格县', '28', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251015, '甘洛县', '35', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251003, '盐源县', '23', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251013, '冕宁县', '33', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251017, '雷波县', '37', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251004, '德昌县', '24', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251001, '西昌市', '1', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251007, '宁南县', '27', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251005, '会理县', '25', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251011, '昭觉县', '31', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251002, '木里藏族自治县', '22', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251006, '会东县', '26', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251009, '布拖县', '29', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251014, '越西县', '34', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100251010, '金阳县', '30', 100251000);
-INSERT INTO region(id, name, code, city_id) VALUES(100233004, '米易县', '21', 100233000);
-INSERT INTO region(id, name, code, city_id) VALUES(100233001, '东　区', '2', 100233000);
-INSERT INTO region(id, name, code, city_id) VALUES(100233003, '仁和区', '11', 100233000);
-INSERT INTO region(id, name, code, city_id) VALUES(100233002, '西　区', '3', 100233000);
-INSERT INTO region(id, name, code, city_id) VALUES(100233005, '盐边县', '22', 100233000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243009, '兴文县', '28', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243002, '宜宾县', '21', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243008, '筠连县', '27', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243001, '翠屏区', '2', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243003, '南溪县', '22', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243004, '江安县', '23', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243006, '高　县', '25', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243010, '屏山县', '29', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243005, '长宁县', '24', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243007, '珙　县', '26', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245004, '开江县', '23', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245002, '达　县', '21', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245003, '宣汉县', '22', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245006, '渠　县', '25', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245005, '大竹县', '24', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245001, '通川区', '2', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245007, '万源市', '81', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100237001, '市中区', '2', 100237000);
-INSERT INTO region(id, name, code, city_id) VALUES(100237007, '苍溪县', '24', 100237000);
-INSERT INTO region(id, name, code, city_id) VALUES(100237002, '元坝区', '11', 100237000);
-INSERT INTO region(id, name, code, city_id) VALUES(100237003, '朝天区', '12', 100237000);
-INSERT INTO region(id, name, code, city_id) VALUES(100237005, '青川县', '22', 100237000);
-INSERT INTO region(id, name, code, city_id) VALUES(100237006, '剑阁县', '23', 100237000);
-INSERT INTO region(id, name, code, city_id) VALUES(100237004, '旺苍县', '21', 100237000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247001, '巴州区', '2', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247003, '南江县', '22', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247002, '通江县', '21', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247004, '平昌县', '23', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249006, '金川县', '26', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249013, '红原县', '33', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249002, '理　县', '22', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249008, '黑水县', '28', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249011, '阿坝县', '31', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249009, '马尔康县', '29', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249005, '九寨沟县', '25', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249004, '松潘县', '24', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249012, '若尔盖县', '32', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249003, '茂　县', '23', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249001, '汶川县', '21', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249007, '小金县', '27', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249010, '壤塘县', '30', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100236006, '梓潼县', '25', 100236000);
-INSERT INTO region(id, name, code, city_id) VALUES(100236007, '北川羌族自治县', '26', 100236000);
-INSERT INTO region(id, name, code, city_id) VALUES(100236005, '安　县', '24', 100236000);
-INSERT INTO region(id, name, code, city_id) VALUES(100236008, '平武县', '27', 100236000);
-INSERT INTO region(id, name, code, city_id) VALUES(100236009, '江油市', '81', 100236000);
-INSERT INTO region(id, name, code, city_id) VALUES(100236003, '三台县', '22', 100236000);
-INSERT INTO region(id, name, code, city_id) VALUES(100236004, '盐亭县', '23', 100236000);
-INSERT INTO region(id, name, code, city_id) VALUES(100236002, '游仙区', '4', 100236000);
-INSERT INTO region(id, name, code, city_id) VALUES(100236001, '涪城区', '3', 100236000);
-INSERT INTO region(id, name, code, city_id) VALUES(100244005, '华蓥市', '81', 100244000);
-INSERT INTO region(id, name, code, city_id) VALUES(100244004, '邻水县', '23', 100244000);
-INSERT INTO region(id, name, code, city_id) VALUES(100244003, '武胜县', '22', 100244000);
-INSERT INTO region(id, name, code, city_id) VALUES(100244001, '广安区', '2', 100244000);
-INSERT INTO region(id, name, code, city_id) VALUES(100244002, '岳池县', '21', 100244000);
-INSERT INTO region(id, name, code, city_id) VALUES(100232001, '自流井区', '2', 100232000);
-INSERT INTO region(id, name, code, city_id) VALUES(100232002, '贡井区', '3', 100232000);
-INSERT INTO region(id, name, code, city_id) VALUES(100232003, '大安区', '4', 100232000);
-INSERT INTO region(id, name, code, city_id) VALUES(100232005, '荣　县', '21', 100232000);
-INSERT INTO region(id, name, code, city_id) VALUES(100232006, '富顺县', '22', 100232000);
-INSERT INTO region(id, name, code, city_id) VALUES(100232004, '沿滩区', '11', 100232000);
-INSERT INTO region(id, name, code, city_id) VALUES(100238002, '安居区', '4', 100238000);
-INSERT INTO region(id, name, code, city_id) VALUES(100238005, '大英县', '23', 100238000);
-INSERT INTO region(id, name, code, city_id) VALUES(100238001, '船山区', '3', 100238000);
-INSERT INTO region(id, name, code, city_id) VALUES(100238004, '射洪县', '22', 100238000);
-INSERT INTO region(id, name, code, city_id) VALUES(100238003, '蓬溪县', '21', 100238000);
-INSERT INTO region(id, name, code, city_id) VALUES(100239002, '东兴区', '11', 100239000);
-INSERT INTO region(id, name, code, city_id) VALUES(100239003, '威远县', '24', 100239000);
-INSERT INTO region(id, name, code, city_id) VALUES(100239001, '市中区', '2', 100239000);
-INSERT INTO region(id, name, code, city_id) VALUES(100239004, '资中县', '25', 100239000);
-INSERT INTO region(id, name, code, city_id) VALUES(100239005, '隆昌县', '28', 100239000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248001, '雁江区', '2', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248003, '乐至县', '22', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248002, '安岳县', '21', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248004, '简阳市', '81', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100234001, '江阳区', '2', 100234000);
-INSERT INTO region(id, name, code, city_id) VALUES(100234007, '古蔺县', '25', 100234000);
-INSERT INTO region(id, name, code, city_id) VALUES(100234003, '龙马潭区', '4', 100234000);
-INSERT INTO region(id, name, code, city_id) VALUES(100234002, '纳溪区', '3', 100234000);
-INSERT INTO region(id, name, code, city_id) VALUES(100234004, '泸　县', '21', 100234000);
-INSERT INTO region(id, name, code, city_id) VALUES(100234005, '合江县', '22', 100234000);
-INSERT INTO region(id, name, code, city_id) VALUES(100234006, '叙永县', '24', 100234000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241003, '嘉陵区', '4', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241006, '蓬安县', '23', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241007, '仪陇县', '24', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241004, '南部县', '21', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241008, '西充县', '25', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241009, '阆中市', '81', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241005, '营山县', '22', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241002, '高坪区', '3', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241001, '顺庆区', '2', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250008, '甘孜县', '28', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250006, '道孚县', '26', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250002, '泸定县', '22', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250005, '雅江县', '25', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250018, '得荣县', '38', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250001, '康定县', '21', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250009, '新龙县', '29', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250010, '德格县', '30', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250012, '石渠县', '32', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250013, '色达县', '33', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250011, '白玉县', '31', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250014, '理塘县', '34', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250004, '九龙县', '24', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250016, '乡城县', '36', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250015, '巴塘县', '35', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250007, '炉霍县', '27', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250017, '稻城县', '37', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100250003, '丹巴县', '23', 100250000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133001, '金安区', '2', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133002, '裕安区', '3', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133003, '寿　县', '21', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133007, '霍山县', '25', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133006, '金寨县', '24', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133005, '舒城县', '23', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100133004, '霍邱县', '22', 100133000);
-INSERT INTO region(id, name, code, city_id) VALUES(100132002, '砀山县', '21', 100132000);
-INSERT INTO region(id, name, code, city_id) VALUES(100132003, '萧　县', '22', 100132000);
-INSERT INTO region(id, name, code, city_id) VALUES(100132005, '泗　县', '24', 100132000);
-INSERT INTO region(id, name, code, city_id) VALUES(100132001, '埇桥区', '2', 100132000);
-INSERT INTO region(id, name, code, city_id) VALUES(100132004, '灵璧县', '23', 100132000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121005, '长丰县', '21', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121004, '包河区', '11', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121008, '庐江县', '24', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121009, '巢湖市', '25', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121001, '瑶海区', '2', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121006, '肥东县', '22', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121003, '蜀山区', '4', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121007, '肥西县', '23', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100121002, '庐阳区', '3', 100121000);
-INSERT INTO region(id, name, code, city_id) VALUES(100128007, '太湖县', '25', 100128000);
-INSERT INTO region(id, name, code, city_id) VALUES(100128008, '宿松县', '26', 100128000);
-INSERT INTO region(id, name, code, city_id) VALUES(100128005, '枞阳县', '23', 100128000);
-INSERT INTO region(id, name, code, city_id) VALUES(100128002, '大观区', '3', 100128000);
-INSERT INTO region(id, name, code, city_id) VALUES(100128004, '怀宁县', '22', 100128000);
-INSERT INTO region(id, name, code, city_id) VALUES(100128010, '岳西县', '28', 100128000);
-INSERT INTO region(id, name, code, city_id) VALUES(100128011, '桐城市', '81', 100128000);
-INSERT INTO region(id, name, code, city_id) VALUES(100128006, '潜山县', '24', 100128000);
-INSERT INTO region(id, name, code, city_id) VALUES(100128003, '宜秀区', '11', 100128000);
-INSERT INTO region(id, name, code, city_id) VALUES(100128001, '迎江区', '2', 100128000);
-INSERT INTO region(id, name, code, city_id) VALUES(100128009, '望江县', '27', 100128000);
-INSERT INTO region(id, name, code, city_id) VALUES(100125002, '雨山区', '4', 100125000);
-INSERT INTO region(id, name, code, city_id) VALUES(100125001, '花山区', '3', 100125000);
-INSERT INTO region(id, name, code, city_id) VALUES(100125004, '当涂县', '21', 100125000);
-INSERT INTO region(id, name, code, city_id) VALUES(100125006, '和县', '23', 100125000);
-INSERT INTO region(id, name, code, city_id) VALUES(100125003, '博望区', '5', 100125000);
-INSERT INTO region(id, name, code, city_id) VALUES(100125005, '含山县', '22', 100125000);
-INSERT INTO region(id, name, code, city_id) VALUES(100127001, '铜官山区', '2', 100127000);
-INSERT INTO region(id, name, code, city_id) VALUES(100127003, '郊　区', '11', 100127000);
-INSERT INTO region(id, name, code, city_id) VALUES(100127004, '铜陵县', '21', 100127000);
-INSERT INTO region(id, name, code, city_id) VALUES(100127002, '狮子山区', '3', 100127000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134001, '谯城区', '2', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134004, '利辛县', '23', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134002, '涡阳县', '21', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100134003, '蒙城县', '22', 100134000);
-INSERT INTO region(id, name, code, city_id) VALUES(100123002, '蚌山区', '3', 100123000);
-INSERT INTO region(id, name, code, city_id) VALUES(100123003, '禹会区', '4', 100123000);
-INSERT INTO region(id, name, code, city_id) VALUES(100123004, '淮上区', '11', 100123000);
-INSERT INTO region(id, name, code, city_id) VALUES(100123007, '固镇县', '23', 100123000);
-INSERT INTO region(id, name, code, city_id) VALUES(100123006, '五河县', '22', 100123000);
-INSERT INTO region(id, name, code, city_id) VALUES(100123001, '龙子湖区', '2', 100123000);
-INSERT INTO region(id, name, code, city_id) VALUES(100123005, '怀远县', '21', 100123000);
-INSERT INTO region(id, name, code, city_id) VALUES(100122006, '繁昌县', '22', 100122000);
-INSERT INTO region(id, name, code, city_id) VALUES(100122004, '三山区', '8', 100122000);
-INSERT INTO region(id, name, code, city_id) VALUES(100122008, '无为县', '24', 100122000);
-INSERT INTO region(id, name, code, city_id) VALUES(100122002, '弋江区', '3', 100122000);
-INSERT INTO region(id, name, code, city_id) VALUES(100122003, '鸠江区', '7', 100122000);
-INSERT INTO region(id, name, code, city_id) VALUES(100122007, '南陵县', '23', 100122000);
-INSERT INTO region(id, name, code, city_id) VALUES(100122001, '镜湖区', '2', 100122000);
-INSERT INTO region(id, name, code, city_id) VALUES(100122005, '芜湖县', '21', 100122000);
-INSERT INTO region(id, name, code, city_id) VALUES(100130002, '南谯区', '3', 100130000);
-INSERT INTO region(id, name, code, city_id) VALUES(100130001, '琅琊区', '2', 100130000);
-INSERT INTO region(id, name, code, city_id) VALUES(100130004, '全椒县', '24', 100130000);
-INSERT INTO region(id, name, code, city_id) VALUES(100130006, '凤阳县', '26', 100130000);
-INSERT INTO region(id, name, code, city_id) VALUES(100130008, '明光市', '82', 100130000);
-INSERT INTO region(id, name, code, city_id) VALUES(100130003, '来安县', '22', 100130000);
-INSERT INTO region(id, name, code, city_id) VALUES(100130005, '定远县', '25', 100130000);
-INSERT INTO region(id, name, code, city_id) VALUES(100130007, '天长市', '81', 100130000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135001, '贵池区', '2', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135002, '东至县', '21', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135003, '石台县', '22', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100135004, '青阳县', '23', 100135000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136003, '广德县', '22', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136005, '绩溪县', '24', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136001, '宣州区', '2', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136007, '宁国市', '81', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136002, '郎溪县', '21', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136006, '旌德县', '25', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100136004, '泾　县', '23', 100136000);
-INSERT INTO region(id, name, code, city_id) VALUES(100129001, '屯溪区', '2', 100129000);
-INSERT INTO region(id, name, code, city_id) VALUES(100129006, '黟　县', '23', 100129000);
-INSERT INTO region(id, name, code, city_id) VALUES(100129007, '祁门县', '24', 100129000);
-INSERT INTO region(id, name, code, city_id) VALUES(100129003, '徽州区', '4', 100129000);
-INSERT INTO region(id, name, code, city_id) VALUES(100129004, '歙　县', '21', 100129000);
-INSERT INTO region(id, name, code, city_id) VALUES(100129005, '休宁县', '22', 100129000);
-INSERT INTO region(id, name, code, city_id) VALUES(100129002, '黄山区', '3', 100129000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131002, '颍东区', '3', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131008, '界首市', '82', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131001, '颍州区', '2', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131004, '临泉县', '21', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131003, '颍泉区', '4', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131006, '阜南县', '25', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131007, '颍上县', '26', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100131005, '太和县', '22', 100131000);
-INSERT INTO region(id, name, code, city_id) VALUES(100124001, '大通区', '2', 100124000);
-INSERT INTO region(id, name, code, city_id) VALUES(100124002, '田家庵区', '3', 100124000);
-INSERT INTO region(id, name, code, city_id) VALUES(100124005, '潘集区', '6', 100124000);
-INSERT INTO region(id, name, code, city_id) VALUES(100124004, '八公山区', '5', 100124000);
-INSERT INTO region(id, name, code, city_id) VALUES(100124006, '凤台县', '21', 100124000);
-INSERT INTO region(id, name, code, city_id) VALUES(100124003, '谢家集区', '4', 100124000);
-INSERT INTO region(id, name, code, city_id) VALUES(100126001, '杜集区', '2', 100126000);
-INSERT INTO region(id, name, code, city_id) VALUES(100126003, '烈山区', '4', 100126000);
-INSERT INTO region(id, name, code, city_id) VALUES(100126002, '相山区', '3', 100126000);
-INSERT INTO region(id, name, code, city_id) VALUES(100126004, '濉溪县', '21', 100126000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246005, '贞丰县', '25', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246001, '兴义市', '1', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246002, '兴仁县', '22', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246006, '望谟县', '26', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246008, '安龙县', '28', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246003, '普安县', '23', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246004, '晴隆县', '24', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100246007, '册亨县', '27', 100246000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249007, '平塘县', '27', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249006, '独山县', '26', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249001, '都匀市', '1', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249004, '贵定县', '23', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249010, '龙里县', '30', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249008, '罗甸县', '28', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249002, '福泉市', '2', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249009, '长顺县', '29', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249005, '瓮安县', '25', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249011, '惠水县', '31', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249012, '三都水族自治县', '32', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100249003, '荔波县', '22', 100249000);
-INSERT INTO region(id, name, code, city_id) VALUES(100242004, '盘　县', '22', 100242000);
-INSERT INTO region(id, name, code, city_id) VALUES(100242002, '六枝特区', '3', 100242000);
-INSERT INTO region(id, name, code, city_id) VALUES(100242001, '钟山区', '1', 100242000);
-INSERT INTO region(id, name, code, city_id) VALUES(100242003, '水城县', '21', 100242000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243001, '红花岗区', '2', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243002, '汇川区', '3', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243011, '余庆县', '29', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243003, '遵义县', '21', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243008, '务川仡佬族苗族自治县', '26', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243009, '凤冈县', '27', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243004, '桐梓县', '22', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243007, '道真仡佬族苗族自治县', '25', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243005, '绥阳县', '23', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243010, '湄潭县', '28', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243006, '正安县', '24', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243013, '赤水市', '81', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243012, '习水县', '30', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100243014, '仁怀市', '82', 100243000);
-INSERT INTO region(id, name, code, city_id) VALUES(100244003, '普定县', '22', 100244000);
-INSERT INTO region(id, name, code, city_id) VALUES(100244005, '关岭布依族苗族自治县', '24', 100244000);
-INSERT INTO region(id, name, code, city_id) VALUES(100244006, '紫云苗族布依族自治县', '25', 100244000);
-INSERT INTO region(id, name, code, city_id) VALUES(100244001, '西秀区', '2', 100244000);
-INSERT INTO region(id, name, code, city_id) VALUES(100244002, '平坝县', '21', 100244000);
-INSERT INTO region(id, name, code, city_id) VALUES(100244004, '镇宁布依族苗族自治县', '23', 100244000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248015, '麻江县', '35', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248003, '施秉县', '23', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248008, '锦屏县', '28', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248010, '台江县', '30', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248005, '镇远县', '25', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248001, '凯里市', '1', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248006, '岑巩县', '26', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248009, '剑河县', '29', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248011, '黎平县', '31', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248013, '从江县', '33', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248007, '天柱县', '27', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248016, '丹寨县', '36', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248014, '雷山县', '34', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248004, '三穗县', '24', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248002, '黄平县', '22', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100248012, '榕江县', '32', 100248000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241005, '白云区', '13', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241008, '息烽县', '22', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241002, '云岩区', '3', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241003, '花溪区', '11', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241009, '修文县', '23', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241001, '南明区', '2', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241006, '小河区', '14', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241004, '乌当区', '12', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241007, '开阳县', '21', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100241010, '清镇市', '81', 100241000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247005, '织金县', '25', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247008, '赫章县', '28', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247001, '毕节市', '1', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247006, '纳雍县', '26', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247004, '金沙县', '24', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247003, '黔西县', '23', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247002, '大方县', '22', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100247007, '威宁彝族回族苗族自治县', '27', 100247000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245006, '印江土家族苗族自治县', '26', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245001, '铜仁市', '1', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245010, '万山特区', '30', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245003, '玉屏侗族自治县', '23', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245002, '江口县', '22', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245007, '德江县', '27', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245009, '松桃苗族自治县', '29', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245004, '石阡县', '24', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245008, '沿河土家族自治县', '28', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100245005, '思南县', '25', 100245000);
-INSERT INTO region(id, name, code, city_id) VALUES(100145001, '渝水区', '2', 100145000);
-INSERT INTO region(id, name, code, city_id) VALUES(100145002, '分宜县', '21', 100145000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148005, '峡江县', '23', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148008, '泰和县', '26', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148009, '遂川县', '27', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148010, '万安县', '28', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148004, '吉水县', '22', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148001, '吉州区', '2', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148002, '青原区', '3', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148003, '吉安县', '21', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148011, '安福县', '29', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148012, '永新县', '30', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148013, '井冈山市', '81', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148007, '永丰县', '25', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100148006, '新干县', '24', 100148000);
-INSERT INTO region(id, name, code, city_id) VALUES(100142004, '乐平市', '81', 100142000);
-INSERT INTO region(id, name, code, city_id) VALUES(100142003, '浮梁县', '22', 100142000);
-INSERT INTO region(id, name, code, city_id) VALUES(100142002, '珠山区', '3', 100142000);
-INSERT INTO region(id, name, code, city_id) VALUES(100142001, '昌江区', '2', 100142000);
-INSERT INTO region(id, name, code, city_id) VALUES(100149005, '宜丰县', '24', 100149000);
-INSERT INTO region(id, name, code, city_id) VALUES(100149004, '上高县', '23', 100149000);
-INSERT INTO region(id, name, code, city_id) VALUES(100149007, '铜鼓县', '26', 100149000);
-INSERT INTO region(id, name, code, city_id) VALUES(100149001, '袁州区', '2', 100149000);
-INSERT INTO region(id, name, code, city_id) VALUES(100149009, '樟树市', '82', 100149000);
-INSERT INTO region(id, name, code, city_id) VALUES(100149002, '奉新县', '21', 100149000);
-INSERT INTO region(id, name, code, city_id) VALUES(100149010, '高安市', '83', 100149000);
-INSERT INTO region(id, name, code, city_id) VALUES(100149006, '靖安县', '25', 100149000);
-INSERT INTO region(id, name, code, city_id) VALUES(100149003, '万载县', '22', 100149000);
-INSERT INTO region(id, name, code, city_id) VALUES(100149008, '丰城市', '81', 100149000);
-INSERT INTO region(id, name, code, city_id) VALUES(100143001, '安源区', '2', 100143000);
-INSERT INTO region(id, name, code, city_id) VALUES(100143003, '莲花县', '21', 100143000);
-INSERT INTO region(id, name, code, city_id) VALUES(100143002, '湘东区', '13', 100143000);
-INSERT INTO region(id, name, code, city_id) VALUES(100143005, '芦溪县', '23', 100143000);
-INSERT INTO region(id, name, code, city_id) VALUES(100143004, '上栗县', '22', 100143000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144012, '瑞昌市', '81', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144001, '庐山区', '2', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144010, '湖口县', '29', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144011, '彭泽县', '30', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144002, '浔阳区', '3', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144009, '都昌县', '28', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144006, '永修县', '25', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144008, '星子县', '27', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144004, '武宁县', '23', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144005, '修水县', '24', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144007, '德安县', '26', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100144003, '九江县', '21', 100144000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147004, '大余县', '23', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147006, '崇义县', '25', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147010, '全南县', '29', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147011, '宁都县', '30', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147007, '安远县', '26', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147016, '石城县', '35', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147018, '南康市', '82', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147015, '寻乌县', '34', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147002, '赣　县', '21', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147013, '兴国县', '32', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147014, '会昌县', '33', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147005, '上犹县', '24', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147009, '定南县', '28', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147008, '龙南县', '27', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147003, '信丰县', '22', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147012, '于都县', '31', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147017, '瑞金市', '81', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100147001, '章贡区', '2', 100147000);
-INSERT INTO region(id, name, code, city_id) VALUES(100141003, '青云谱区', '4', 100141000);
-INSERT INTO region(id, name, code, city_id) VALUES(100141009, '进贤县', '24', 100141000);
-INSERT INTO region(id, name, code, city_id) VALUES(100141001, '东湖区', '2', 100141000);
-INSERT INTO region(id, name, code, city_id) VALUES(100141007, '新建县', '22', 100141000);
-INSERT INTO region(id, name, code, city_id) VALUES(100141002, '西湖区', '3', 100141000);
-INSERT INTO region(id, name, code, city_id) VALUES(100141004, '湾里区', '5', 100141000);
-INSERT INTO region(id, name, code, city_id) VALUES(100141005, '青山湖区', '11', 100141000);
-INSERT INTO region(id, name, code, city_id) VALUES(100141006, '南昌县', '21', 100141000);
-INSERT INTO region(id, name, code, city_id) VALUES(100141008, '安义县', '23', 100141000);
-INSERT INTO region(id, name, code, city_id) VALUES(100146002, '余江县', '22', 100146000);
-INSERT INTO region(id, name, code, city_id) VALUES(100146003, '贵溪市', '81', 100146000);
-INSERT INTO region(id, name, code, city_id) VALUES(100146001, '月湖区', '2', 100146000);
-INSERT INTO region(id, name, code, city_id) VALUES(100150001, '临川区', '2', 100150000);
-INSERT INTO region(id, name, code, city_id) VALUES(100150011, '广昌县', '30', 100150000);
-INSERT INTO region(id, name, code, city_id) VALUES(100150003, '黎川县', '22', 100150000);
-INSERT INTO region(id, name, code, city_id) VALUES(100150004, '南丰县', '23', 100150000);
-INSERT INTO region(id, name, code, city_id) VALUES(100150007, '宜黄县', '26', 100150000);
-INSERT INTO region(id, name, code, city_id) VALUES(100150009, '资溪县', '28', 100150000);
-INSERT INTO region(id, name, code, city_id) VALUES(100150005, '崇仁县', '24', 100150000);
-INSERT INTO region(id, name, code, city_id) VALUES(100150010, '东乡县', '29', 100150000);
-INSERT INTO region(id, name, code, city_id) VALUES(100150002, '南城县', '21', 100150000);
-INSERT INTO region(id, name, code, city_id) VALUES(100150006, '乐安县', '25', 100150000);
-INSERT INTO region(id, name, code, city_id) VALUES(100150008, '金溪县', '27', 100150000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151006, '横峰县', '25', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151007, '弋阳县', '26', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151009, '鄱阳县', '28', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151002, '上饶县', '21', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151001, '信州区', '2', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151008, '余干县', '27', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151011, '婺源县', '30', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151005, '铅山县', '24', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151012, '德兴市', '81', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151010, '万年县', '29', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151004, '玉山县', '23', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100151003, '广丰县', '22', 100151000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073005, '公主岭市', '81', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073006, '双辽市', '82', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073002, '铁东区', '3', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073003, '梨树县', '22', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073004, '伊通满族自治县', '23', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100073001, '铁西区', '2', 100073000);
-INSERT INTO region(id, name, code, city_id) VALUES(100079008, '安图县', '26', 100079000);
-INSERT INTO region(id, name, code, city_id) VALUES(100079002, '图们市', '2', 100079000);
-INSERT INTO region(id, name, code, city_id) VALUES(100079005, '龙井市', '5', 100079000);
-INSERT INTO region(id, name, code, city_id) VALUES(100079006, '和龙市', '6', 100079000);
-INSERT INTO region(id, name, code, city_id) VALUES(100079003, '敦化市', '3', 100079000);
-INSERT INTO region(id, name, code, city_id) VALUES(100079001, '延吉市', '1', 100079000);
-INSERT INTO region(id, name, code, city_id) VALUES(100079004, '珲春市', '4', 100079000);
-INSERT INTO region(id, name, code, city_id) VALUES(100079007, '汪清县', '24', 100079000);
-INSERT INTO region(id, name, code, city_id) VALUES(100078005, '大安市', '82', 100078000);
-INSERT INTO region(id, name, code, city_id) VALUES(100078004, '洮南市', '81', 100078000);
-INSERT INTO region(id, name, code, city_id) VALUES(100078002, '镇赉县', '21', 100078000);
-INSERT INTO region(id, name, code, city_id) VALUES(100078001, '洮北区', '2', 100078000);
-INSERT INTO region(id, name, code, city_id) VALUES(100078003, '通榆县', '22', 100078000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071010, '德惠市', '83', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071006, '双阳区', '12', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071008, '九台市', '81', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071009, '榆树市', '82', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071007, '农安县', '22', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071005, '绿园区', '6', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071001, '南关区', '2', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071004, '二道区', '5', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071002, '宽城区', '3', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100071003, '朝阳区', '4', 100071000);
-INSERT INTO region(id, name, code, city_id) VALUES(100075006, '梅河口市', '81', 100075000);
-INSERT INTO region(id, name, code, city_id) VALUES(100075004, '辉南县', '23', 100075000);
-INSERT INTO region(id, name, code, city_id) VALUES(100075007, '集安市', '82', 100075000);
-INSERT INTO region(id, name, code, city_id) VALUES(100075005, '柳河县', '24', 100075000);
-INSERT INTO region(id, name, code, city_id) VALUES(100075003, '通化县', '21', 100075000);
-INSERT INTO region(id, name, code, city_id) VALUES(100075002, '二道江区', '3', 100075000);
-INSERT INTO region(id, name, code, city_id) VALUES(100075001, '东昌区', '2', 100075000);
-INSERT INTO region(id, name, code, city_id) VALUES(100074002, '西安区', '3', 100074000);
-INSERT INTO region(id, name, code, city_id) VALUES(100074004, '东辽县', '22', 100074000);
-INSERT INTO region(id, name, code, city_id) VALUES(100074001, '龙山区', '2', 100074000);
-INSERT INTO region(id, name, code, city_id) VALUES(100074003, '东丰县', '21', 100074000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072001, '昌邑区', '2', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072006, '蛟河市', '81', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072009, '磐石市', '84', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072002, '龙潭区', '3', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072008, '舒兰市', '83', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072005, '永吉县', '21', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072003, '船营区', '4', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072004, '丰满区', '11', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100072007, '桦甸市', '82', 100072000);
-INSERT INTO region(id, name, code, city_id) VALUES(100076002, '江源区', '5', 100076000);
-INSERT INTO region(id, name, code, city_id) VALUES(100076005, '长白朝鲜族自治县', '23', 100076000);
-INSERT INTO region(id, name, code, city_id) VALUES(100076003, '抚松县', '21', 100076000);
-INSERT INTO region(id, name, code, city_id) VALUES(100076006, '临江市', '81', 100076000);
-INSERT INTO region(id, name, code, city_id) VALUES(100076004, '靖宇县', '22', 100076000);
-INSERT INTO region(id, name, code, city_id) VALUES(100076001, '八道江区', '2', 100076000);
-INSERT INTO region(id, name, code, city_id) VALUES(100077004, '乾安县', '23', 100077000);
-INSERT INTO region(id, name, code, city_id) VALUES(100077002, '前郭尔罗斯蒙古族自治县', '21', 100077000);
-INSERT INTO region(id, name, code, city_id) VALUES(100077003, '长岭县', '22', 100077000);
-INSERT INTO region(id, name, code, city_id) VALUES(100077001, '宁江区', '2', 100077000);
-INSERT INTO region(id, name, code, city_id) VALUES(100077005, '扶余县', '24', 100077000);
-INSERT INTO region(id, name, code, city_id) VALUES(100102004, '锡山区', '5', 100102000);
-INSERT INTO region(id, name, code, city_id) VALUES(100102006, '滨湖区', '11', 100102000);
-INSERT INTO region(id, name, code, city_id) VALUES(100102002, '南长区', '3', 100102000);
-INSERT INTO region(id, name, code, city_id) VALUES(100102008, '宜兴市', '82', 100102000);
-INSERT INTO region(id, name, code, city_id) VALUES(100102001, '崇安区', '2', 100102000);
-INSERT INTO region(id, name, code, city_id) VALUES(100102007, '江阴市', '81', 100102000);
-INSERT INTO region(id, name, code, city_id) VALUES(100102005, '惠山区', '6', 100102000);
-INSERT INTO region(id, name, code, city_id) VALUES(100102003, '北塘区', '4', 100102000);
-INSERT INTO region(id, name, code, city_id) VALUES(100110006, '高邮市', '84', 100110000);
-INSERT INTO region(id, name, code, city_id) VALUES(100110007, '江都市', '88', 100110000);
-INSERT INTO region(id, name, code, city_id) VALUES(100110001, '广陵区', '2', 100110000);
-INSERT INTO region(id, name, code, city_id) VALUES(100110003, '维扬区', '11', 100110000);
-INSERT INTO region(id, name, code, city_id) VALUES(100110002, '邗江区', '3', 100110000);
-INSERT INTO region(id, name, code, city_id) VALUES(100110004, '宝应县', '23', 100110000);
-INSERT INTO region(id, name, code, city_id) VALUES(100110005, '仪征市', '81', 100110000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112001, '海陵区', '2', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112002, '高港区', '3', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112004, '靖江市', '82', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112006, '姜堰市', '84', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112003, '兴化市', '81', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100112005, '泰兴市', '83', 100112000);
-INSERT INTO region(id, name, code, city_id) VALUES(100105007, '张家港市', '82', 100105000);
-INSERT INTO region(id, name, code, city_id) VALUES(100105004, '相城区', '7', 100105000);
-INSERT INTO region(id, name, code, city_id) VALUES(100105006, '常熟市', '81', 100105000);
-INSERT INTO region(id, name, code, city_id) VALUES(100105002, '虎丘区', '5', 100105000);
-INSERT INTO region(id, name, code, city_id) VALUES(100105009, '太仓市', '85', 100105000);
-INSERT INTO region(id, name, code, city_id) VALUES(100105005, '吴江区', '8', 100105000);
-INSERT INTO region(id, name, code, city_id) VALUES(100105003, '吴中区', '6', 100105000);
-INSERT INTO region(id, name, code, city_id) VALUES(100105001, '姑苏区', '4', 100105000);
-INSERT INTO region(id, name, code, city_id) VALUES(100105008, '昆山市', '83', 100105000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111002, '润州区', '11', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111004, '丹阳市', '81', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111005, '扬中市', '82', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111006, '句容市', '83', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111003, '丹徒区', '12', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100111001, '京口区', '2', 100111000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101004, '建邺区', '5', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101013, '高淳县', '25', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101012, '溧水县', '24', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101007, '浦口区', '11', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101006, '下关区', '7', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101003, '秦淮区', '4', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101005, '鼓楼区', '6', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101010, '江宁区', '15', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101008, '栖霞区', '13', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101011, '六合区', '16', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101001, '玄武区', '2', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101002, '白下区', '3', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100101009, '雨花台区', '14', 100101000);
-INSERT INTO region(id, name, code, city_id) VALUES(100106001, '崇川区', '2', 100106000);
-INSERT INTO region(id, name, code, city_id) VALUES(100106003, '海安县', '21', 100106000);
-INSERT INTO region(id, name, code, city_id) VALUES(100106002, '港闸区', '11', 100106000);
-INSERT INTO region(id, name, code, city_id) VALUES(100106004, '如东县', '23', 100106000);
-INSERT INTO region(id, name, code, city_id) VALUES(100106005, '启东市', '81', 100106000);
-INSERT INTO region(id, name, code, city_id) VALUES(100106008, '海门市', '84', 100106000);
-INSERT INTO region(id, name, code, city_id) VALUES(100106006, '如皋市', '82', 100106000);
-INSERT INTO region(id, name, code, city_id) VALUES(100106007, '通州市', '83', 100106000);
-INSERT INTO region(id, name, code, city_id) VALUES(100107002, '新浦区', '5', 100107000);
-INSERT INTO region(id, name, code, city_id) VALUES(100107005, '东海县', '22', 100107000);
-INSERT INTO region(id, name, code, city_id) VALUES(100107007, '灌南县', '24', 100107000);
-INSERT INTO region(id, name, code, city_id) VALUES(100107001, '连云区', '3', 100107000);
-INSERT INTO region(id, name, code, city_id) VALUES(100107004, '赣榆县', '21', 100107000);
-INSERT INTO region(id, name, code, city_id) VALUES(100107003, '海州区', '6', 100107000);
-INSERT INTO region(id, name, code, city_id) VALUES(100107006, '灌云县', '23', 100107000);
-INSERT INTO region(id, name, code, city_id) VALUES(100104001, '天宁区', '2', 100104000);
-INSERT INTO region(id, name, code, city_id) VALUES(100104003, '戚墅堰区', '5', 100104000);
-INSERT INTO region(id, name, code, city_id) VALUES(100104004, '新北区', '11', 100104000);
-INSERT INTO region(id, name, code, city_id) VALUES(100104007, '金坛市', '82', 100104000);
-INSERT INTO region(id, name, code, city_id) VALUES(100104002, '钟楼区', '4', 100104000);
-INSERT INTO region(id, name, code, city_id) VALUES(100104006, '溧阳市', '81', 100104000);
-INSERT INTO region(id, name, code, city_id) VALUES(100104005, '武进区', '12', 100104000);
-INSERT INTO region(id, name, code, city_id) VALUES(100108005, '涟水县', '26', 100108000);
-INSERT INTO region(id, name, code, city_id) VALUES(100108007, '盱眙县', '30', 100108000);
-INSERT INTO region(id, name, code, city_id) VALUES(100108001, '清河区', '2', 100108000);
-INSERT INTO region(id, name, code, city_id) VALUES(100108002, '淮安区', '3', 100108000);
-INSERT INTO region(id, name, code, city_id) VALUES(100108004, '清浦区', '11', 100108000);
-INSERT INTO region(id, name, code, city_id) VALUES(100108006, '洪泽县', '29', 100108000);
-INSERT INTO region(id, name, code, city_id) VALUES(100108003, '淮阴区', '4', 100108000);
-INSERT INTO region(id, name, code, city_id) VALUES(100108008, '金湖县', '31', 100108000);
-INSERT INTO region(id, name, code, city_id) VALUES(100109001, '亭湖区', '2', 100109000);
-INSERT INTO region(id, name, code, city_id) VALUES(100109007, '建湖县', '25', 100109000);
-INSERT INTO region(id, name, code, city_id) VALUES(100109009, '大丰市', '82', 100109000);
-INSERT INTO region(id, name, code, city_id) VALUES(100109003, '响水县', '21', 100109000);
-INSERT INTO region(id, name, code, city_id) VALUES(100109002, '盐都区', '3', 100109000);
-INSERT INTO region(id, name, code, city_id) VALUES(100109004, '滨海县', '22', 100109000);
-INSERT INTO region(id, name, code, city_id) VALUES(100109005, '阜宁县', '23', 100109000);
-INSERT INTO region(id, name, code, city_id) VALUES(100109006, '射阳县', '24', 100109000);
-INSERT INTO region(id, name, code, city_id) VALUES(100109008, '东台市', '81', 100109000);
-INSERT INTO region(id, name, code, city_id) VALUES(100103005, '泉山区', '11', 100103000);
-INSERT INTO region(id, name, code, city_id) VALUES(100103009, '睢宁县', '24', 100103000);
-INSERT INTO region(id, name, code, city_id) VALUES(100103011, '邳州市', '82', 100103000);
-INSERT INTO region(id, name, code, city_id) VALUES(100103004, '贾汪区', '5', 100103000);
-INSERT INTO region(id, name, code, city_id) VALUES(100103001, '鼓楼区', '2', 100103000);
-INSERT INTO region(id, name, code, city_id) VALUES(100103010, '新沂市', '81', 100103000);
-INSERT INTO region(id, name, code, city_id) VALUES(100103003, '九里区', '4', 100103000);
-INSERT INTO region(id, name, code, city_id) VALUES(100103002, '云龙区', '3', 100103000);
-INSERT INTO region(id, name, code, city_id) VALUES(100103006, '丰　县', '21', 100103000);
-INSERT INTO region(id, name, code, city_id) VALUES(100103007, '沛　县', '22', 100103000);
-INSERT INTO region(id, name, code, city_id) VALUES(100103008, '铜山县', '23', 100103000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113002, '宿豫区', '11', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113001, '宿城区', '2', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113005, '泗洪县', '24', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113003, '沭阳县', '22', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100113004, '泗阳县', '23', 100113000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174005, '夷陵区', '6', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174001, '西陵区', '2', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174007, '兴山县', '26', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174010, '五峰土家族自治县', '29', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174002, '伍家岗区', '3', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174012, '当阳市', '82', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174009, '长阳土家族自治县', '28', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174003, '点军区', '4', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174008, '秭归县', '27', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174004, '猇亭区', '5', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174011, '宜都市', '81', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174006, '远安县', '25', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174013, '枝江市', '83', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100179003, '公安县', '22', 100179000);
-INSERT INTO region(id, name, code, city_id) VALUES(100179001, '沙市区', '2', 100179000);
-INSERT INTO region(id, name, code, city_id) VALUES(100179004, '监利县', '23', 100179000);
-INSERT INTO region(id, name, code, city_id) VALUES(100179006, '石首市', '81', 100179000);
-INSERT INTO region(id, name, code, city_id) VALUES(100179002, '荆州区', '3', 100179000);
-INSERT INTO region(id, name, code, city_id) VALUES(100179005, '江陵县', '24', 100179000);
-INSERT INTO region(id, name, code, city_id) VALUES(100179007, '洪湖市', '83', 100179000);
-INSERT INTO region(id, name, code, city_id) VALUES(100179008, '松滋市', '87', 100179000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175004, '南漳县', '24', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175002, '樊城区', '6', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175005, '谷城县', '25', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175009, '宜城市', '84', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175003, '襄州区', '7', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175006, '保康县', '26', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175007, '老河口市', '82', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175008, '枣阳市', '83', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175001, '襄城区', '2', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181002, '嘉鱼县', '21', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181003, '通城县', '22', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181004, '崇阳县', '23', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181006, '赤壁市', '81', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181001, '咸安区', '2', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181005, '通山县', '24', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172005, '阳新县', '22', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172002, '西塞山区', '3', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172006, '大冶市', '81', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172001, '黄石港区', '2', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172003, '下陆区', '4', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172004, '铁山区', '5', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173001, '茅箭区', '2', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173003, '郧　县', '21', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173002, '张湾区', '3', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173006, '竹溪县', '24', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173005, '竹山县', '23', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173004, '郧西县', '22', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173007, '房　县', '25', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173008, '丹江口市', '81', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100180007, '蕲春县', '26', 100180000);
-INSERT INTO region(id, name, code, city_id) VALUES(100180001, '黄州区', '2', 100180000);
-INSERT INTO region(id, name, code, city_id) VALUES(100180009, '麻城市', '81', 100180000);
-INSERT INTO region(id, name, code, city_id) VALUES(100180003, '红安县', '22', 100180000);
-INSERT INTO region(id, name, code, city_id) VALUES(100180002, '团风县', '21', 100180000);
-INSERT INTO region(id, name, code, city_id) VALUES(100180005, '英山县', '24', 100180000);
-INSERT INTO region(id, name, code, city_id) VALUES(100180006, '浠水县', '25', 100180000);
-INSERT INTO region(id, name, code, city_id) VALUES(100180004, '罗田县', '23', 100180000);
-INSERT INTO region(id, name, code, city_id) VALUES(100180008, '黄梅县', '27', 100180000);
-INSERT INTO region(id, name, code, city_id) VALUES(100180010, '武穴市', '82', 100180000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176002, '华容区', '3', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176003, '鄂城区', '4', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176001, '梁子湖区', '2', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177001, '东宝区', '2', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177004, '沙洋县', '22', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177002, '掇刀区', '4', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177005, '钟祥市', '81', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177003, '京山县', '21', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171010, '蔡甸区', '14', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171005, '武昌区', '6', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171001, '江岸区', '2', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171012, '黄陂区', '16', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171002, '江汉区', '3', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171003, '硚口区', '4', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171011, '江夏区', '15', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171004, '汉阳区', '5', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171009, '汉南区', '13', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171013, '新洲区', '17', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171007, '洪山区', '11', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171008, '东西湖区', '12', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171006, '青山区', '7', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182001, '曾都区', '2', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182003, '广水市', '81', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182002, '随县', '21', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100178005, '应城市', '81', 100178000);
-INSERT INTO region(id, name, code, city_id) VALUES(100178001, '孝南区', '2', 100178000);
-INSERT INTO region(id, name, code, city_id) VALUES(100178003, '大悟县', '22', 100178000);
-INSERT INTO region(id, name, code, city_id) VALUES(100178004, '云梦县', '23', 100178000);
-INSERT INTO region(id, name, code, city_id) VALUES(100178007, '汉川市', '84', 100178000);
-INSERT INTO region(id, name, code, city_id) VALUES(100178002, '孝昌县', '21', 100178000);
-INSERT INTO region(id, name, code, city_id) VALUES(100178006, '安陆市', '82', 100178000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183007, '来凤县', '27', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183006, '咸丰县', '26', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183008, '鹤峰县', '28', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183002, '利川市', '2', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183005, '宣恩县', '25', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183003, '建始县', '22', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183004, '巴东县', '23', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183001, '恩施市', '1', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202005, '五华县', '24', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202001, '梅江区', '2', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202003, '大埔县', '22', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202007, '蕉岭县', '27', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202006, '平远县', '26', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202004, '丰顺县', '23', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202008, '兴宁市', '81', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202002, '梅　县', '21', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206003, '阳山县', '23', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206006, '清新县', '27', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206001, '清城区', '2', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206008, '连州市', '82', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206007, '英德市', '81', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206004, '连山壮族瑶族自治县', '25', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206002, '佛冈县', '21', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206005, '连南瑶族自治县', '26', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211002, '新兴县', '21', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211001, '云城区', '2', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211003, '郁南县', '22', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211005, '罗定市', '81', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211004, '云安县', '23', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204005, '和平县', '24', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204003, '龙川县', '22', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204001, '源城区', '2', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204002, '紫金县', '21', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204006, '东源县', '25', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204004, '连平县', '23', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100199001, '茂南区', '2', 100199000);
-INSERT INTO region(id, name, code, city_id) VALUES(100199006, '信宜市', '83', 100199000);
-INSERT INTO region(id, name, code, city_id) VALUES(100199004, '高州市', '81', 100199000);
-INSERT INTO region(id, name, code, city_id) VALUES(100199002, '茂港区', '3', 100199000);
-INSERT INTO region(id, name, code, city_id) VALUES(100199005, '化州市', '82', 100199000);
-INSERT INTO region(id, name, code, city_id) VALUES(100199003, '电白县', '23', 100199000);
-INSERT INTO region(id, name, code, city_id) VALUES(100198003, '坡头区', '4', 100198000);
-INSERT INTO region(id, name, code, city_id) VALUES(100198006, '徐闻县', '25', 100198000);
-INSERT INTO region(id, name, code, city_id) VALUES(100198008, '雷州市', '82', 100198000);
-INSERT INTO region(id, name, code, city_id) VALUES(100198004, '麻章区', '11', 100198000);
-INSERT INTO region(id, name, code, city_id) VALUES(100198007, '廉江市', '81', 100198000);
-INSERT INTO region(id, name, code, city_id) VALUES(100198005, '遂溪县', '23', 100198000);
-INSERT INTO region(id, name, code, city_id) VALUES(100198009, '吴川市', '83', 100198000);
-INSERT INTO region(id, name, code, city_id) VALUES(100198001, '赤坎区', '2', 100198000);
-INSERT INTO region(id, name, code, city_id) VALUES(100198002, '霞山区', '3', 100198000);
-INSERT INTO region(id, name, code, city_id) VALUES(100193005, '龙岗区', '7', 100193000);
-INSERT INTO region(id, name, code, city_id) VALUES(100193006, '盐田区', '8', 100193000);
-INSERT INTO region(id, name, code, city_id) VALUES(100193003, '南山区', '5', 100193000);
-INSERT INTO region(id, name, code, city_id) VALUES(100193001, '罗湖区', '3', 100193000);
-INSERT INTO region(id, name, code, city_id) VALUES(100193004, '宝安区', '6', 100193000);
-INSERT INTO region(id, name, code, city_id) VALUES(100193002, '福田区', '4', 100193000);
-INSERT INTO region(id, name, code, city_id) VALUES(100196002, '南海区', '5', 100196000);
-INSERT INTO region(id, name, code, city_id) VALUES(100196004, '三水区', '7', 100196000);
-INSERT INTO region(id, name, code, city_id) VALUES(100196001, '禅城区', '4', 100196000);
-INSERT INTO region(id, name, code, city_id) VALUES(100196003, '顺德区', '6', 100196000);
-INSERT INTO region(id, name, code, city_id) VALUES(100196005, '高明区', '8', 100196000);
-INSERT INTO region(id, name, code, city_id) VALUES(100207001, '东莞市', '0', 100207000);
-INSERT INTO region(id, name, code, city_id) VALUES(100208001, '中山市', '0', 100208000);
-INSERT INTO region(id, name, code, city_id) VALUES(100195004, '潮阳区', '13', 100195000);
-INSERT INTO region(id, name, code, city_id) VALUES(100195002, '金平区', '11', 100195000);
-INSERT INTO region(id, name, code, city_id) VALUES(100195005, '潮南区', '14', 100195000);
-INSERT INTO region(id, name, code, city_id) VALUES(100195006, '澄海区', '15', 100195000);
-INSERT INTO region(id, name, code, city_id) VALUES(100195003, '濠江区', '12', 100195000);
-INSERT INTO region(id, name, code, city_id) VALUES(100195001, '龙湖区', '7', 100195000);
-INSERT INTO region(id, name, code, city_id) VALUES(100195007, '南澳县', '23', 100195000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201002, '惠阳区', '3', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201001, '惠城区', '2', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201003, '博罗县', '22', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201004, '惠东县', '23', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201005, '龙门县', '24', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100209003, '饶平县', '22', 100209000);
-INSERT INTO region(id, name, code, city_id) VALUES(100209001, '湘桥区', '2', 100209000);
-INSERT INTO region(id, name, code, city_id) VALUES(100209002, '潮安县', '21', 100209000);
-INSERT INTO region(id, name, code, city_id) VALUES(100205003, '阳东县', '23', 100205000);
-INSERT INTO region(id, name, code, city_id) VALUES(100205004, '阳春市', '81', 100205000);
-INSERT INTO region(id, name, code, city_id) VALUES(100205001, '江城区', '2', 100205000);
-INSERT INTO region(id, name, code, city_id) VALUES(100205002, '阳西县', '21', 100205000);
-INSERT INTO region(id, name, code, city_id) VALUES(100194002, '斗门区', '3', 100194000);
-INSERT INTO region(id, name, code, city_id) VALUES(100194001, '香洲区', '2', 100194000);
-INSERT INTO region(id, name, code, city_id) VALUES(100194003, '金湾区', '4', 100194000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192003, '曲江区', '5', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192009, '乐昌市', '81', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192001, '武江区', '3', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192004, '始兴县', '22', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192007, '乳源瑶族自治县', '32', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192006, '翁源县', '29', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192002, '浈江区', '4', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192010, '南雄市', '82', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192005, '仁化县', '24', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192008, '新丰县', '33', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203001, '城　区', '2', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203003, '陆河县', '23', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203004, '陆丰市', '81', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203002, '海丰县', '21', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191008, '花都区', '14', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191002, '越秀区', '4', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191009, '南沙区', '15', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191012, '从化市', '84', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191001, '荔湾区', '3', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191007, '番禺区', '13', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191010, '萝岗区', '16', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191006, '黄埔区', '12', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191003, '海珠区', '5', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191004, '天河区', '6', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191011, '增城市', '83', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191005, '白云区', '11', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210001, '榕城区', '2', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210003, '揭西县', '22', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210004, '惠来县', '24', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210002, '揭东县', '21', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210005, '普宁市', '81', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100197001, '蓬江区', '3', 100197000);
-INSERT INTO region(id, name, code, city_id) VALUES(100197002, '江海区', '4', 100197000);
-INSERT INTO region(id, name, code, city_id) VALUES(100197005, '开平市', '83', 100197000);
-INSERT INTO region(id, name, code, city_id) VALUES(100197004, '台山市', '81', 100197000);
-INSERT INTO region(id, name, code, city_id) VALUES(100197003, '新会区', '5', 100197000);
-INSERT INTO region(id, name, code, city_id) VALUES(100197006, '鹤山市', '84', 100197000);
-INSERT INTO region(id, name, code, city_id) VALUES(100197007, '恩平市', '85', 100197000);
-INSERT INTO region(id, name, code, city_id) VALUES(100200004, '怀集县', '24', 100200000);
-INSERT INTO region(id, name, code, city_id) VALUES(100200005, '封开县', '25', 100200000);
-INSERT INTO region(id, name, code, city_id) VALUES(100200001, '端州区', '2', 100200000);
-INSERT INTO region(id, name, code, city_id) VALUES(100200003, '广宁县', '23', 100200000);
-INSERT INTO region(id, name, code, city_id) VALUES(100200008, '四会市', '84', 100200000);
-INSERT INTO region(id, name, code, city_id) VALUES(100200002, '鼎湖区', '3', 100200000);
-INSERT INTO region(id, name, code, city_id) VALUES(100200007, '高要市', '83', 100200000);
-INSERT INTO region(id, name, code, city_id) VALUES(100200006, '德庆县', '26', 100200000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201005, '良庆区', '8', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201008, '隆安县', '23', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201003, '江南区', '5', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201007, '武鸣县', '22', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201004, '西乡塘区', '7', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201006, '邕宁区', '9', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201010, '上林县', '25', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201012, '横　县', '27', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201002, '青秀区', '3', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201009, '马山县', '24', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201011, '宾阳县', '26', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100201001, '兴宁区', '2', 100201000);
-INSERT INTO region(id, name, code, city_id) VALUES(100207003, '灵山县', '21', 100207000);
-INSERT INTO region(id, name, code, city_id) VALUES(100207001, '钦南区', '2', 100207000);
-INSERT INTO region(id, name, code, city_id) VALUES(100207004, '浦北县', '22', 100207000);
-INSERT INTO region(id, name, code, city_id) VALUES(100207002, '钦北区', '3', 100207000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204003, '长洲区', '5', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204005, '藤　县', '22', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204001, '万秀区', '3', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204002, '蝶山区', '4', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204007, '岑溪市', '81', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204006, '蒙山县', '23', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100204004, '苍梧县', '21', 100204000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211004, '富川瑶族自治县', '23', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211001, '八步区', '2', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211003, '钟山县', '22', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100211002, '昭平县', '21', 100211000);
-INSERT INTO region(id, name, code, city_id) VALUES(100209002, '容　县', '21', 100209000);
-INSERT INTO region(id, name, code, city_id) VALUES(100209003, '陆川县', '22', 100209000);
-INSERT INTO region(id, name, code, city_id) VALUES(100209004, '博白县', '23', 100209000);
-INSERT INTO region(id, name, code, city_id) VALUES(100209006, '北流市', '81', 100209000);
-INSERT INTO region(id, name, code, city_id) VALUES(100209001, '玉州区', '2', 100209000);
-INSERT INTO region(id, name, code, city_id) VALUES(100209005, '兴业县', '24', 100209000);
-INSERT INTO region(id, name, code, city_id) VALUES(100212002, '南丹县', '21', 100212000);
-INSERT INTO region(id, name, code, city_id) VALUES(100212005, '东兰县', '24', 100212000);
-INSERT INTO region(id, name, code, city_id) VALUES(100212001, '金城江区', '2', 100212000);
-INSERT INTO region(id, name, code, city_id) VALUES(100212004, '凤山县', '23', 100212000);
-INSERT INTO region(id, name, code, city_id) VALUES(100212011, '宜州市', '81', 100212000);
-INSERT INTO region(id, name, code, city_id) VALUES(100212010, '大化瑶族自治县', '29', 100212000);
-INSERT INTO region(id, name, code, city_id) VALUES(100212008, '巴马瑶族自治县', '27', 100212000);
-INSERT INTO region(id, name, code, city_id) VALUES(100212006, '罗城仫佬族自治县', '25', 100212000);
-INSERT INTO region(id, name, code, city_id) VALUES(100212003, '天峨县', '22', 100212000);
-INSERT INTO region(id, name, code, city_id) VALUES(100212007, '环江毛南族自治县', '26', 100212000);
-INSERT INTO region(id, name, code, city_id) VALUES(100212009, '都安瑶族自治县', '28', 100212000);
-INSERT INTO region(id, name, code, city_id) VALUES(100214002, '扶绥县', '21', 100214000);
-INSERT INTO region(id, name, code, city_id) VALUES(100214005, '大新县', '24', 100214000);
-INSERT INTO region(id, name, code, city_id) VALUES(100214003, '宁明县', '22', 100214000);
-INSERT INTO region(id, name, code, city_id) VALUES(100214004, '龙州县', '23', 100214000);
-INSERT INTO region(id, name, code, city_id) VALUES(100214001, '江洲区', '2', 100214000);
-INSERT INTO region(id, name, code, city_id) VALUES(100214007, '凭祥市', '81', 100214000);
-INSERT INTO region(id, name, code, city_id) VALUES(100214006, '天等县', '25', 100214000);
-INSERT INTO region(id, name, code, city_id) VALUES(100213001, '兴宾区', '2', 100213000);
-INSERT INTO region(id, name, code, city_id) VALUES(100213005, '金秀瑶族自治县', '24', 100213000);
-INSERT INTO region(id, name, code, city_id) VALUES(100213004, '武宣县', '23', 100213000);
-INSERT INTO region(id, name, code, city_id) VALUES(100213006, '合山市', '81', 100213000);
-INSERT INTO region(id, name, code, city_id) VALUES(100213003, '象州县', '22', 100213000);
-INSERT INTO region(id, name, code, city_id) VALUES(100213002, '忻城县', '21', 100213000);
-INSERT INTO region(id, name, code, city_id) VALUES(100205002, '银海区', '3', 100205000);
-INSERT INTO region(id, name, code, city_id) VALUES(100205001, '海城区', '2', 100205000);
-INSERT INTO region(id, name, code, city_id) VALUES(100205003, '铁山港区', '12', 100205000);
-INSERT INTO region(id, name, code, city_id) VALUES(100205004, '合浦县', '21', 100205000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206003, '上思县', '21', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206004, '东兴市', '81', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206001, '港口区', '2', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100206002, '防城区', '3', 100206000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210001, '右江区', '2', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210002, '田阳县', '21', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210007, '那坡县', '26', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210004, '平果县', '23', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210005, '德保县', '24', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210006, '靖西县', '25', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210009, '乐业县', '28', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210003, '田东县', '22', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210008, '凌云县', '27', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210012, '隆林各族自治县', '31', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210011, '西林县', '30', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100210010, '田林县', '29', 100210000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202006, '柳城县', '22', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202010, '三江侗族自治县', '26', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202005, '柳江县', '21', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202003, '柳南区', '4', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202009, '融水苗族自治县', '25', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202001, '城中区', '2', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202002, '鱼峰区', '3', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202004, '柳北区', '5', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202007, '鹿寨县', '23', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100202008, '融安县', '24', 100202000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203017, '恭城瑶族自治县', '32', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203006, '阳朔县', '21', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203005, '雁山区', '11', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203009, '全州县', '24', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203016, '荔浦县', '31', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203002, '叠彩区', '3', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203008, '灵川县', '23', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203004, '七星区', '5', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203013, '龙胜各族自治县', '28', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203001, '秀峰区', '2', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203007, '临桂县', '22', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203015, '平乐县', '30', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203010, '兴安县', '25', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203012, '灌阳县', '27', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203014, '资源县', '29', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203003, '象山区', '4', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100203011, '永福县', '26', 100203000);
-INSERT INTO region(id, name, code, city_id) VALUES(100208003, '覃塘区', '4', 100208000);
-INSERT INTO region(id, name, code, city_id) VALUES(100208002, '港南区', '3', 100208000);
-INSERT INTO region(id, name, code, city_id) VALUES(100208004, '平南县', '21', 100208000);
-INSERT INTO region(id, name, code, city_id) VALUES(100208001, '港北区', '2', 100208000);
-INSERT INTO region(id, name, code, city_id) VALUES(100208005, '桂平市', '81', 100208000);
-INSERT INTO region(id, name, code, city_id) VALUES(100187004, '汉寿县', '22', 100187000);
-INSERT INTO region(id, name, code, city_id) VALUES(100187001, '武陵区', '2', 100187000);
-INSERT INTO region(id, name, code, city_id) VALUES(100187007, '桃源县', '25', 100187000);
-INSERT INTO region(id, name, code, city_id) VALUES(100187005, '澧　县', '23', 100187000);
-INSERT INTO region(id, name, code, city_id) VALUES(100187008, '石门县', '26', 100187000);
-INSERT INTO region(id, name, code, city_id) VALUES(100187006, '临澧县', '24', 100187000);
-INSERT INTO region(id, name, code, city_id) VALUES(100187009, '津市市', '81', 100187000);
-INSERT INTO region(id, name, code, city_id) VALUES(100187002, '鼎城区', '3', 100187000);
-INSERT INTO region(id, name, code, city_id) VALUES(100187003, '安乡县', '21', 100187000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191007, '江永县', '25', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191002, '冷水滩区', '3', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191011, '江华瑶族自治县', '29', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191004, '东安县', '22', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191010, '新田县', '28', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191003, '祁阳县', '21', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191006, '道　县', '24', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191009, '蓝山县', '27', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191001, '零陵区', '2', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191005, '双牌县', '23', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100191008, '宁远县', '26', 100191000);
-INSERT INTO region(id, name, code, city_id) VALUES(100189001, '资阳区', '2', 100189000);
-INSERT INTO region(id, name, code, city_id) VALUES(100189003, '南　县', '21', 100189000);
-INSERT INTO region(id, name, code, city_id) VALUES(100189002, '赫山区', '3', 100189000);
-INSERT INTO region(id, name, code, city_id) VALUES(100189005, '安化县', '23', 100189000);
-INSERT INTO region(id, name, code, city_id) VALUES(100189006, '沅江市', '81', 100189000);
-INSERT INTO region(id, name, code, city_id) VALUES(100189004, '桃江县', '22', 100189000);
-INSERT INTO region(id, name, code, city_id) VALUES(100188004, '桑植县', '22', 100188000);
-INSERT INTO region(id, name, code, city_id) VALUES(100188003, '慈利县', '21', 100188000);
-INSERT INTO region(id, name, code, city_id) VALUES(100188001, '永定区', '2', 100188000);
-INSERT INTO region(id, name, code, city_id) VALUES(100188002, '武陵源区', '11', 100188000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182003, '石峰区', '4', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182008, '炎陵县', '25', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182002, '芦淞区', '3', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182004, '天元区', '11', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182005, '株洲县', '21', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182001, '荷塘区', '2', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182006, '攸　县', '23', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182009, '醴陵市', '81', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100182007, '茶陵县', '24', 100182000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184010, '祁东县', '26', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184011, '耒阳市', '81', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184006, '衡阳县', '21', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184009, '衡东县', '24', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184003, '石鼓区', '7', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184004, '蒸湘区', '8', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184007, '衡南县', '22', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184012, '常宁市', '82', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184002, '雁峰区', '6', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184008, '衡山县', '23', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184005, '南岳区', '12', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100184001, '珠晖区', '5', 100184000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192006, '会同县', '25', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192008, '新晃侗族自治县', '27', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192003, '沅陵县', '22', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192012, '洪江市', '81', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192011, '通道侗族自治县', '30', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192001, '鹤城区', '2', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192002, '中方县', '21', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192010, '靖州苗族侗族自治县', '29', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192004, '辰溪县', '23', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192005, '溆浦县', '24', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192007, '麻阳苗族自治县', '26', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100192009, '芷江侗族自治县', '28', 100192000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181006, '长沙县', '21', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181001, '芙蓉区', '2', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181003, '岳麓区', '4', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181004, '开福区', '5', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181007, '望城区', '22', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181005, '雨花区', '11', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181009, '浏阳市', '81', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181002, '天心区', '3', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100181008, '宁乡县', '24', 100181000);
-INSERT INTO region(id, name, code, city_id) VALUES(100193001, '娄星区', '2', 100193000);
-INSERT INTO region(id, name, code, city_id) VALUES(100193002, '双峰县', '21', 100193000);
-INSERT INTO region(id, name, code, city_id) VALUES(100193003, '新化县', '22', 100193000);
-INSERT INTO region(id, name, code, city_id) VALUES(100193004, '冷水江市', '81', 100193000);
-INSERT INTO region(id, name, code, city_id) VALUES(100193005, '涟源市', '82', 100193000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185004, '邵东县', '21', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185012, '武冈市', '81', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185007, '隆回县', '24', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185009, '绥宁县', '27', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185005, '新邵县', '22', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185001, '双清区', '2', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185003, '北塔区', '11', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185010, '新宁县', '28', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185011, '城步苗族自治县', '29', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185002, '大祥区', '3', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185006, '邵阳县', '23', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100185008, '洞口县', '25', 100185000);
-INSERT INTO region(id, name, code, city_id) VALUES(100190003, '桂阳县', '21', 100190000);
-INSERT INTO region(id, name, code, city_id) VALUES(100190004, '宜章县', '22', 100190000);
-INSERT INTO region(id, name, code, city_id) VALUES(100190008, '汝城县', '26', 100190000);
-INSERT INTO region(id, name, code, city_id) VALUES(100190011, '资兴市', '81', 100190000);
-INSERT INTO region(id, name, code, city_id) VALUES(100190001, '北湖区', '2', 100190000);
-INSERT INTO region(id, name, code, city_id) VALUES(100190002, '苏仙区', '3', 100190000);
-INSERT INTO region(id, name, code, city_id) VALUES(100190006, '嘉禾县', '24', 100190000);
-INSERT INTO region(id, name, code, city_id) VALUES(100190007, '临武县', '25', 100190000);
-INSERT INTO region(id, name, code, city_id) VALUES(100190009, '桂东县', '27', 100190000);
-INSERT INTO region(id, name, code, city_id) VALUES(100190005, '永兴县', '23', 100190000);
-INSERT INTO region(id, name, code, city_id) VALUES(100190010, '安仁县', '28', 100190000);
-INSERT INTO region(id, name, code, city_id) VALUES(100186003, '君山区', '11', 100186000);
-INSERT INTO region(id, name, code, city_id) VALUES(100186009, '临湘市', '82', 100186000);
-INSERT INTO region(id, name, code, city_id) VALUES(100186002, '云溪区', '3', 100186000);
-INSERT INTO region(id, name, code, city_id) VALUES(100186007, '平江县', '26', 100186000);
-INSERT INTO region(id, name, code, city_id) VALUES(100186006, '湘阴县', '24', 100186000);
-INSERT INTO region(id, name, code, city_id) VALUES(100186001, '岳阳楼区', '2', 100186000);
-INSERT INTO region(id, name, code, city_id) VALUES(100186008, '汨罗市', '81', 100186000);
-INSERT INTO region(id, name, code, city_id) VALUES(100186004, '岳阳县', '21', 100186000);
-INSERT INTO region(id, name, code, city_id) VALUES(100186005, '华容县', '23', 100186000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183005, '韶山市', '82', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183002, '岳塘区', '4', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183001, '雨湖区', '2', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183003, '湘潭县', '21', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100183004, '湘乡市', '81', 100183000);
-INSERT INTO region(id, name, code, city_id) VALUES(100194001, '吉首市', '1', 100194000);
-INSERT INTO region(id, name, code, city_id) VALUES(100194006, '古丈县', '26', 100194000);
-INSERT INTO region(id, name, code, city_id) VALUES(100194008, '龙山县', '30', 100194000);
-INSERT INTO region(id, name, code, city_id) VALUES(100194007, '永顺县', '27', 100194000);
-INSERT INTO region(id, name, code, city_id) VALUES(100194002, '泸溪县', '22', 100194000);
-INSERT INTO region(id, name, code, city_id) VALUES(100194004, '花垣县', '24', 100194000);
-INSERT INTO region(id, name, code, city_id) VALUES(100194005, '保靖县', '25', 100194000);
-INSERT INTO region(id, name, code, city_id) VALUES(100194003, '凤凰县', '23', 100194000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173001, '宛城区', '2', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173002, '卧龙区', '3', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173008, '淅川县', '26', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173007, '内乡县', '25', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173013, '邓州市', '81', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173004, '方城县', '22', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173012, '桐柏县', '30', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173006, '镇平县', '24', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173003, '南召县', '21', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173005, '西峡县', '23', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173011, '新野县', '29', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173010, '唐河县', '28', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100173009, '社旗县', '27', 100173000);
-INSERT INTO region(id, name, code, city_id) VALUES(100169001, '华龙区', '2', 100169000);
-INSERT INTO region(id, name, code, city_id) VALUES(100169005, '台前县', '27', 100169000);
-INSERT INTO region(id, name, code, city_id) VALUES(100169006, '濮阳县', '28', 100169000);
-INSERT INTO region(id, name, code, city_id) VALUES(100169004, '范　县', '26', 100169000);
-INSERT INTO region(id, name, code, city_id) VALUES(100169003, '南乐县', '23', 100169000);
-INSERT INTO region(id, name, code, city_id) VALUES(100169002, '清丰县', '22', 100169000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167001, '红旗区', '2', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167012, '辉县市', '82', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167002, '卫滨区', '3', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167003, '凤泉区', '4', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167005, '新乡县', '21', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167009, '封丘县', '27', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167011, '卫辉市', '81', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167004, '牧野区', '11', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167008, '延津县', '26', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167010, '长垣县', '28', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167007, '原阳县', '25', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100167006, '获嘉县', '24', 100167000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172002, '渑池县', '21', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172001, '湖滨区', '2', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172005, '义马市', '81', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172003, '陕　县', '22', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172006, '灵宝市', '82', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100172004, '卢氏县', '24', 100172000);
-INSERT INTO region(id, name, code, city_id) VALUES(100168008, '温　县', '25', 100168000);
-INSERT INTO region(id, name, code, city_id) VALUES(100168010, '孟州市', '83', 100168000);
-INSERT INTO region(id, name, code, city_id) VALUES(100168007, '武陟县', '23', 100168000);
-INSERT INTO region(id, name, code, city_id) VALUES(100168003, '马村区', '4', 100168000);
-INSERT INTO region(id, name, code, city_id) VALUES(100168005, '修武县', '21', 100168000);
-INSERT INTO region(id, name, code, city_id) VALUES(100168002, '中站区', '3', 100168000);
-INSERT INTO region(id, name, code, city_id) VALUES(100168009, '沁阳市', '82', 100168000);
-INSERT INTO region(id, name, code, city_id) VALUES(100168006, '博爱县', '22', 100168000);
-INSERT INTO region(id, name, code, city_id) VALUES(100168001, '解放区', '2', 100168000);
-INSERT INTO region(id, name, code, city_id) VALUES(100168004, '山阳区', '11', 100168000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175003, '罗山县', '21', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175010, '息　县', '28', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175001, '浉河区', '2', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175004, '光山县', '22', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175005, '新　县', '23', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175009, '淮滨县', '27', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175008, '潢川县', '26', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175006, '商城县', '24', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175007, '固始县', '25', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100175002, '平桥区', '3', 100175000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164004, '湛河区', '11', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164003, '石龙区', '4', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164007, '鲁山县', '23', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164010, '汝州市', '82', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164006, '叶　县', '22', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164002, '卫东区', '3', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164009, '舞钢市', '81', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164005, '宝丰县', '21', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164001, '新华区', '2', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100164008, '郏　县', '25', 100164000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177003, '上蔡县', '22', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177009, '遂平县', '28', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177002, '西平县', '21', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177005, '正阳县', '24', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177007, '泌阳县', '26', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177010, '新蔡县', '29', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177006, '确山县', '25', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177004, '平舆县', '23', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177001, '驿城区', '2', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100177008, '汝南县', '27', 100177000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163011, '汝阳县', '26', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163015, '偃师市', '81', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163012, '宜阳县', '27', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163002, '西工区', '3', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163003, '瀍河回族区', '4', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163009, '栾川县', '24', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163007, '孟津县', '22', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163005, '吉利区', '6', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163006, '洛龙区', '11', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163010, '嵩　县', '25', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163004, '涧西区', '5', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163014, '伊川县', '29', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163013, '洛宁县', '28', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163001, '老城区', '2', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100163008, '新安县', '23', 100163000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161004, '金水区', '5', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161012, '登封市', '85', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161006, '惠济区', '8', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161009, '荥阳市', '82', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161007, '中牟县', '22', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161011, '新郑市', '84', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161002, '二七区', '3', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161003, '管城回族区', '4', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161010, '新密市', '83', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161005, '上街区', '6', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161008, '巩义市', '81', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100161001, '中原区', '2', 100161000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162007, '通许县', '22', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162006, '杞　县', '21', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162001, '龙亭区', '2', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162004, '禹王台区', '5', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162009, '开封县', '24', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162002, '顺河回族区', '3', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162008, '尉氏县', '23', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162005, '金明区', '11', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162003, '鼓楼区', '4', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100162010, '兰考县', '25', 100162000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176009, '鹿邑县', '28', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176005, '沈丘县', '24', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176002, '扶沟县', '21', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176007, '淮阳县', '26', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176010, '项城市', '81', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176003, '西华县', '22', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176006, '郸城县', '25', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176001, '川汇区', '2', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176004, '商水县', '23', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100176008, '太康县', '27', 100176000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166003, '淇滨区', '11', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166001, '鹤山区', '2', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166002, '山城区', '3', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166004, '浚　县', '21', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100166005, '淇　县', '22', 100166000);
-INSERT INTO region(id, name, code, city_id) VALUES(100170001, '魏都区', '2', 100170000);
-INSERT INTO region(id, name, code, city_id) VALUES(100170006, '长葛市', '82', 100170000);
-INSERT INTO region(id, name, code, city_id) VALUES(100170002, '许昌县', '23', 100170000);
-INSERT INTO region(id, name, code, city_id) VALUES(100170005, '禹州市', '81', 100170000);
-INSERT INTO region(id, name, code, city_id) VALUES(100170003, '鄢陵县', '24', 100170000);
-INSERT INTO region(id, name, code, city_id) VALUES(100170004, '襄城县', '25', 100170000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165009, '林州市', '81', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165002, '北关区', '3', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165003, '殷都区', '5', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165004, '龙安区', '6', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165001, '文峰区', '2', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165007, '滑　县', '26', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165006, '汤阴县', '23', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165008, '内黄县', '27', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100165005, '安阳县', '22', 100165000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171004, '舞阳县', '21', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171003, '召陵区', '4', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171001, '源汇区', '2', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171005, '临颍县', '22', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100171002, '郾城区', '3', 100171000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174006, '柘城县', '24', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174001, '梁园区', '2', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174007, '虞城县', '25', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174003, '民权县', '21', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174004, '睢　县', '22', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174009, '永城市', '81', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174008, '夏邑县', '26', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174002, '睢阳区', '3', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100174005, '宁陵县', '23', 100174000);
-INSERT INTO region(id, name, code, city_id) VALUES(100296006, '玛多县', '26', 100296000);
-INSERT INTO region(id, name, code, city_id) VALUES(100296005, '久治县', '25', 100296000);
-INSERT INTO region(id, name, code, city_id) VALUES(100296001, '玛沁县', '21', 100296000);
-INSERT INTO region(id, name, code, city_id) VALUES(100296002, '班玛县', '22', 100296000);
-INSERT INTO region(id, name, code, city_id) VALUES(100296004, '达日县', '24', 100296000);
-INSERT INTO region(id, name, code, city_id) VALUES(100296003, '甘德县', '23', 100296000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294004, '河南蒙古族自治县', '24', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294003, '泽库县', '23', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294001, '同仁县', '21', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100294002, '尖扎县', '22', 100294000);
-INSERT INTO region(id, name, code, city_id) VALUES(100297003, '称多县', '23', 100297000);
-INSERT INTO region(id, name, code, city_id) VALUES(100297004, '治多县', '24', 100297000);
-INSERT INTO region(id, name, code, city_id) VALUES(100297006, '曲麻莱县', '26', 100297000);
-INSERT INTO region(id, name, code, city_id) VALUES(100297002, '杂多县', '22', 100297000);
-INSERT INTO region(id, name, code, city_id) VALUES(100297001, '玉树县', '21', 100297000);
-INSERT INTO region(id, name, code, city_id) VALUES(100297005, '囊谦县', '25', 100297000);
-INSERT INTO region(id, name, code, city_id) VALUES(100298005, '天峻县', '23', 100298000);
-INSERT INTO region(id, name, code, city_id) VALUES(100298001, '格尔木市', '1', 100298000);
-INSERT INTO region(id, name, code, city_id) VALUES(100298003, '乌兰县', '21', 100298000);
-INSERT INTO region(id, name, code, city_id) VALUES(100298004, '都兰县', '22', 100298000);
-INSERT INTO region(id, name, code, city_id) VALUES(100298002, '德令哈市', '2', 100298000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292001, '平安县', '21', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292004, '互助土族自治县', '26', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292002, '民和回族土族自治县', '22', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292003, '乐都县', '23', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292006, '循化撒拉族自治县', '28', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100292005, '化隆回族自治县', '27', 100292000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293003, '海晏县', '23', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293002, '祁连县', '22', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293001, '门源回族自治县', '21', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100293004, '刚察县', '24', 100293000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291005, '大通回族土族自治县', '21', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291001, '城东区', '2', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291006, '湟中县', '22', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291004, '城北区', '5', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291003, '城西区', '4', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291002, '城中区', '3', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100291007, '湟源县', '23', 100291000);
-INSERT INTO region(id, name, code, city_id) VALUES(100295004, '兴海县', '24', 100295000);
-INSERT INTO region(id, name, code, city_id) VALUES(100295002, '同德县', '22', 100295000);
-INSERT INTO region(id, name, code, city_id) VALUES(100295003, '贵德县', '23', 100295000);
-INSERT INTO region(id, name, code, city_id) VALUES(100295005, '贵南县', '25', 100295000);
-INSERT INTO region(id, name, code, city_id) VALUES(100295001, '共和县', '21', 100295000);
+INSERT INTO region(id, name, code, city_id) VALUES(100050501, '科尔沁区', '2', 100050500),
+(100050508, '霍林郭勒市', '81', 100050500),
+(100050502, '科尔沁左翼中旗', '21', 100050500),
+(100050507, '扎鲁特旗', '26', 100050500),
+(100050504, '开鲁县', '23', 100050500),
+(100050506, '奈曼旗', '25', 100050500),
+(100050503, '科尔沁左翼后旗', '22', 100050500),
+(100050505, '库伦旗', '24', 100050500),
+(100050301, '海勃湾区', '2', 100050300),
+(100050302, '海南区', '3', 100050300),
+(100050303, '乌达区', '4', 100050300),
+(100050702, '阿荣旗', '21', 100050700),
+(100050705, '鄂温克族自治旗', '24', 100050700),
+(100050709, '满洲里市', '81', 100050700),
+(100050708, '新巴尔虎右旗', '27', 100050700),
+(100050707, '新巴尔虎左旗', '26', 100050700),
+(100050710, '牙克石市', '82', 100050700),
+(100050704, '鄂伦春自治旗', '23', 100050700),
+(100050713, '根河市', '85', 100050700),
+(100050701, '海拉尔区', '2', 100050700),
+(100050703, '莫力达瓦达斡尔族自治旗', '22', 100050700),
+(100050712, '额尔古纳市', '84', 100050700),
+(100050706, '陈巴尔虎旗', '25', 100050700),
+(100050711, '扎兰屯市', '83', 100050700),
+(100051202, '阿拉善右旗', '22', 100051200),
+(100051203, '额济纳旗', '23', 100051200),
+(100051201, '阿拉善左旗', '21', 100051200),
+(100050605, '鄂托克旗', '24', 100050600),
+(100050606, '杭锦旗', '25', 100050600),
+(100050602, '达拉特旗', '21', 100050600),
+(100050607, '乌审旗', '26', 100050600),
+(100050601, '东胜区', '2', 100050600),
+(100050608, '伊金霍洛旗', '27', 100050600),
+(100050603, '准格尔旗', '22', 100050600),
+(100050604, '鄂托克前旗', '23', 100050600),
+(100051104, '苏尼特左旗', '23', 100051100),
+(100051109, '镶黄旗', '28', 100051100),
+(100051108, '太仆寺旗', '27', 100051100),
+(100051106, '东乌珠穆沁旗', '25', 100051100),
+(100051101, '二连浩特市', '1', 100051100),
+(100051102, '锡林浩特市', '2', 100051100),
+(100051103, '阿巴嘎旗', '22', 100051100),
+(100051105, '苏尼特右旗', '24', 100051100),
+(100051112, '多伦县', '31', 100051100),
+(100051111, '正蓝旗', '30', 100051100),
+(100051110, '正镶白旗', '29', 100051100),
+(100051107, '西乌珠穆沁旗', '26', 100051100),
+(100050102, '回民区', '3', 100050100),
+(100050106, '托克托县', '22', 100050100),
+(100050105, '土默特左旗', '21', 100050100),
+(100050103, '玉泉区', '4', 100050100),
+(100050107, '和林格尔县', '23', 100050100),
+(100050101, '新城区', '2', 100050100),
+(100050104, '赛罕区', '5', 100050100),
+(100050109, '武川县', '25', 100050100),
+(100050108, '清水河县', '24', 100050100),
+(100050803, '磴口县', '22', 100050800),
+(100050804, '乌拉特前旗', '23', 100050800),
+(100050805, '乌拉特中旗', '24', 100050800),
+(100050807, '杭锦后旗', '26', 100050800),
+(100050806, '乌拉特后旗', '25', 100050800),
+(100050802, '五原县', '21', 100050800),
+(100050801, '临河区', '2', 100050800),
+(100051002, '阿尔山市', '2', 100051000),
+(100051006, '突泉县', '24', 100051000),
+(100051004, '科尔沁右翼中旗', '22', 100051000),
+(100051005, '扎赉特旗', '23', 100051000),
+(100051001, '乌兰浩特市', '1', 100051000),
+(100051003, '科尔沁右翼前旗', '21', 100051000),
+(100050205, '白云鄂博矿区', '6', 100050200),
+(100050206, '九原区', '7', 100050200),
+(100050209, '达尔罕茂明安联合旗', '23', 100050200),
+(100050203, '青山区', '4', 100050200),
+(100050202, '昆都仑区', '3', 100050200),
+(100050204, '石拐区', '5', 100050200),
+(100050208, '固阳县', '22', 100050200),
+(100050201, '东河区', '2', 100050200),
+(100050207, '土默特右旗', '21', 100050200),
+(100050908, '察哈尔右翼中旗', '27', 100050900),
+(100050907, '察哈尔右翼前旗', '26', 100050900),
+(100050909, '察哈尔右翼后旗', '28', 100050900),
+(100050904, '商都县', '23', 100050900),
+(100050901, '集宁区', '2', 100050900),
+(100050911, '丰镇市', '81', 100050900),
+(100050906, '凉城县', '25', 100050900),
+(100050905, '兴和县', '24', 100050900),
+(100050903, '化德县', '22', 100050900),
+(100050910, '四子王旗', '29', 100050900),
+(100050902, '卓资县', '21', 100050900),
+(100050410, '喀喇沁旗', '28', 100050400),
+(100050401, '红山区', '2', 100050400),
+(100050404, '阿鲁科尔沁旗', '21', 100050400),
+(100050405, '巴林左旗', '22', 100050400),
+(100050407, '林西县', '24', 100050400),
+(100050409, '翁牛特旗', '26', 100050400),
+(100050402, '元宝山区', '3', 100050400),
+(100050403, '松山区', '4', 100050400),
+(100050408, '克什克腾旗', '25', 100050400),
+(100050406, '巴林右旗', '23', 100050400),
+(100050411, '宁城县', '29', 100050400);
+INSERT INTO region(id, name, code, city_id) VALUES(100050412, '敖汉旗', '30', 100050400),
+(100260101, '城关区', '2', 100260100),
+(100260105, '曲水县', '24', 100260100),
+(100260108, '墨竹工卡县', '27', 100260100),
+(100260102, '林周县', '21', 100260100),
+(100260103, '当雄县', '22', 100260100),
+(100260104, '尼木县', '23', 100260100),
+(100260106, '堆龙德庆县', '25', 100260100),
+(100260107, '达孜县', '26', 100260100),
+(100260603, '噶尔县', '23', 100260600),
+(100260604, '日土县', '24', 100260600),
+(100260602, '札达县', '22', 100260600),
+(100260606, '改则县', '26', 100260600),
+(100260601, '普兰县', '21', 100260600),
+(100260607, '措勤县', '27', 100260600),
+(100260605, '革吉县', '25', 100260600),
+(100260707, '朗　县', '27', 100260700),
+(100260702, '工布江达县', '22', 100260700),
+(100260703, '米林县', '23', 100260700),
+(100260704, '墨脱县', '24', 100260700),
+(100260701, '林芝县', '21', 100260700),
+(100260706, '察隅县', '26', 100260700),
+(100260705, '波密县', '25', 100260700),
+(100260210, '洛隆县', '32', 100260200),
+(100260209, '芒康县', '29', 100260200),
+(100260211, '边坝县', '33', 100260200),
+(100260202, '江达县', '22', 100260200),
+(100260208, '左贡县', '28', 100260200),
+(100260206, '察雅县', '26', 100260200),
+(100260201, '昌都县', '21', 100260200),
+(100260203, '贡觉县', '23', 100260200),
+(100260207, '八宿县', '27', 100260200),
+(100260204, '类乌齐县', '24', 100260200),
+(100260205, '丁青县', '25', 100260200),
+(100260404, '定日县', '24', 100260400),
+(100260402, '南木林县', '22', 100260400),
+(100260417, '萨嘎县', '37', 100260400),
+(100260406, '拉孜县', '26', 100260400),
+(100260408, '谢通门县', '28', 100260400),
+(100260401, '日喀则市', '1', 100260400),
+(100260416, '聂拉木县', '36', 100260400),
+(100260409, '白朗县', '29', 100260400),
+(100260418, '岗巴县', '38', 100260400),
+(100260410, '仁布县', '30', 100260400),
+(100260414, '亚东县', '34', 100260400),
+(100260411, '康马县', '31', 100260400),
+(100260403, '江孜县', '23', 100260400),
+(100260405, '萨迦县', '25', 100260400),
+(100260407, '昂仁县', '27', 100260400),
+(100260413, '仲巴县', '33', 100260400),
+(100260412, '定结县', '32', 100260400),
+(100260415, '吉隆县', '35', 100260400),
+(100260510, '尼玛县', '30', 100260500),
+(100260502, '嘉黎县', '22', 100260500),
+(100260507, '索　县', '27', 100260500),
+(100260501, '那曲县', '21', 100260500),
+(100260504, '聂荣县', '24', 100260500),
+(100260509, '巴青县', '29', 100260500),
+(100260503, '比如县', '23', 100260500),
+(100260506, '申扎县', '26', 100260500),
+(100260508, '班戈县', '28', 100260500),
+(100260505, '安多县', '25', 100260500),
+(100260301, '乃东县', '21', 100260300),
+(100260303, '贡嘎县', '23', 100260300),
+(100260304, '桑日县', '24', 100260300),
+(100260305, '琼结县', '25', 100260300),
+(100260302, '扎囊县', '22', 100260300),
+(100260307, '措美县', '27', 100260300),
+(100260310, '隆子县', '31', 100260300),
+(100260308, '洛扎县', '28', 100260300),
+(100260309, '加查县', '29', 100260300),
+(100260311, '错那县', '32', 100260300),
+(100260312, '浪卡子县', '33', 100260300),
+(100260306, '曲松县', '26', 100260300),
+(100040201, '城　区', '2', 100040200),
+(100040205, '阳高县', '21', 100040200),
+(100040208, '灵丘县', '24', 100040200),
+(100040202, '矿　区', '3', 100040200),
+(100040210, '左云县', '26', 100040200),
+(100040206, '天镇县', '22', 100040200),
+(100040211, '大同县', '27', 100040200),
+(100040204, '新荣区', '12', 100040200),
+(100040203, '南郊区', '11', 100040200),
+(100040207, '广灵县', '23', 100040200),
+(100040209, '浑源县', '25', 100040200),
+(100040914, '原平市', '81', 100040900),
+(100040903, '五台县', '22', 100040900),
+(100040910, '岢岚县', '29', 100040900),
+(100040913, '偏关县', '32', 100040900),
+(100040907, '静乐县', '26', 100040900),
+(100040904, '代　县', '23', 100040900),
+(100040909, '五寨县', '28', 100040900),
+(100040902, '定襄县', '21', 100040900),
+(100040905, '繁峙县', '24', 100040900),
+(100040901, '忻府区', '2', 100040900),
+(100040908, '神池县', '27', 100040900),
+(100040906, '宁武县', '25', 100040900),
+(100040912, '保德县', '31', 100040900),
+(100040911, '河曲县', '30', 100040900),
+(100041010, '乡宁县', '29', 100041000);
+INSERT INTO region(id, name, code, city_id) VALUES(100041002, '曲沃县', '21', 100041000),
+(100041009, '吉　县', '28', 100041000),
+(100041001, '尧都区', '2', 100041000),
+(100041005, '洪洞县', '24', 100041000),
+(100041016, '侯马市', '81', 100041000),
+(100041003, '翼城县', '22', 100041000),
+(100041011, '大宁县', '30', 100041000),
+(100041008, '浮山县', '27', 100041000),
+(100041015, '汾西县', '34', 100041000),
+(100041006, '古　县', '25', 100041000),
+(100041013, '永和县', '32', 100041000),
+(100041004, '襄汾县', '23', 100041000),
+(100041007, '安泽县', '26', 100041000),
+(100041017, '霍州市', '82', 100041000),
+(100041012, '隰　县', '31', 100041000),
+(100041014, '蒲　县', '33', 100041000),
+(100040503, '阳城县', '22', 100040500),
+(100040505, '泽州县', '25', 100040500),
+(100040506, '高平市', '81', 100040500),
+(100040501, '城　区', '2', 100040500),
+(100040504, '陵川县', '24', 100040500),
+(100040502, '沁水县', '21', 100040500),
+(100040710, '灵石县', '29', 100040700),
+(100040703, '左权县', '22', 100040700),
+(100040701, '榆次区', '2', 100040700),
+(100040704, '和顺县', '23', 100040700),
+(100040711, '介休市', '81', 100040700),
+(100040702, '榆社县', '21', 100040700),
+(100040707, '太谷县', '26', 100040700),
+(100040705, '昔阳县', '24', 100040700),
+(100040709, '平遥县', '28', 100040700),
+(100040706, '寿阳县', '25', 100040700),
+(100040708, '祁　县', '27', 100040700),
+(100041102, '文水县', '21', 100041100),
+(100041112, '孝义市', '81', 100041100),
+(100041106, '柳林县', '25', 100041100),
+(100041111, '交口县', '30', 100041100),
+(100041108, '岚　县', '27', 100041100),
+(100041105, '临　县', '24', 100041100),
+(100041104, '兴　县', '23', 100041100),
+(100041110, '中阳县', '29', 100041100),
+(100041107, '石楼县', '26', 100041100),
+(100041113, '汾阳市', '82', 100041100),
+(100041101, '离石区', '2', 100041100),
+(100041109, '方山县', '28', 100041100),
+(100041103, '交城县', '22', 100041100),
+(100040602, '平鲁区', '3', 100040600),
+(100040604, '应　县', '22', 100040600),
+(100040605, '右玉县', '23', 100040600),
+(100040601, '朔城区', '2', 100040600),
+(100040603, '山阴县', '21', 100040600),
+(100040606, '怀仁县', '24', 100040600),
+(100040101, '小店区', '5', 100040100),
+(100040110, '古交市', '81', 100040100),
+(100040109, '娄烦县', '23', 100040100),
+(100040103, '杏花岭区', '7', 100040100),
+(100040108, '阳曲县', '22', 100040100),
+(100040107, '清徐县', '21', 100040100),
+(100040102, '迎泽区', '6', 100040100),
+(100040105, '万柏林区', '9', 100040100),
+(100040104, '尖草坪区', '8', 100040100),
+(100040106, '晋源区', '10', 100040100),
+(100040405, '屯留县', '24', 100040400),
+(100040406, '平顺县', '25', 100040400),
+(100040412, '沁源县', '31', 100040400),
+(100040402, '郊　区', '11', 100040400),
+(100040411, '沁　县', '30', 100040400),
+(100040407, '黎城县', '26', 100040400),
+(100040403, '长治县', '21', 100040400),
+(100040409, '长子县', '28', 100040400),
+(100040410, '武乡县', '29', 100040400),
+(100040408, '壶关县', '27', 100040400),
+(100040401, '城　区', '2', 100040400),
+(100040404, '襄垣县', '23', 100040400),
+(100040413, '潞城市', '81', 100040400),
+(100040303, '郊　区', '11', 100040300),
+(100040302, '矿　区', '3', 100040300),
+(100040301, '城　区', '2', 100040300),
+(100040305, '盂　县', '22', 100040300),
+(100040304, '平定县', '21', 100040300),
+(100040804, '闻喜县', '23', 100040800),
+(100040811, '芮城县', '30', 100040800),
+(100040810, '平陆县', '29', 100040800),
+(100040806, '新绛县', '25', 100040800),
+(100040808, '垣曲县', '27', 100040800),
+(100040801, '盐湖区', '2', 100040800),
+(100040807, '绛　县', '26', 100040800),
+(100040813, '河津市', '82', 100040800),
+(100040803, '万荣县', '22', 100040800),
+(100040802, '临猗县', '21', 100040800),
+(100040805, '稷山县', '24', 100040800),
+(100040809, '夏　县', '28', 100040800),
+(100040812, '永济市', '81', 100040800),
+(100311011, '巴楚县', '30', 100311000),
+(100311008, '麦盖提县', '27', 100311000),
+(100311005, '泽普县', '24', 100311000),
+(100311007, '叶城县', '26', 100311000),
+(100311012, '塔什库尔干塔吉克自治县', '31', 100311000),
+(100311001, '喀什市', '1', 100311000),
+(100311009, '岳普湖县', '28', 100311000);
+INSERT INTO region(id, name, code, city_id) VALUES(100311004, '英吉沙县', '23', 100311000),
+(100311006, '莎车县', '25', 100311000),
+(100311002, '疏附县', '21', 100311000),
+(100311010, '伽师县', '29', 100311000),
+(100311003, '疏勒县', '22', 100311000),
+(100310103, '新市区', '4', 100310100),
+(100310104, '水磨沟区', '5', 100310100),
+(100310108, '乌鲁木齐县', '21', 100310100),
+(100310101, '天山区', '2', 100310100),
+(100310107, '米东区', '9', 100310100),
+(100310105, '头屯河区', '6', 100310100),
+(100310106, '达坂城区', '7', 100310100),
+(100310102, '沙依巴克区', '3', 100310100),
+(100310302, '鄯善县', '22', 100310300),
+(100310303, '托克逊县', '23', 100310300),
+(100310301, '吐鲁番市', '1', 100310300),
+(100311208, '昭苏县', '26', 100311200),
+(100311204, '察布查尔锡伯自治县', '22', 100311200),
+(100311206, '巩留县', '24', 100311200),
+(100311210, '尼勒克县', '28', 100311200),
+(100311203, '伊宁县', '21', 100311200),
+(100311202, '奎屯市', '3', 100311200),
+(100311205, '霍城县', '23', 100311200),
+(100311207, '新源县', '25', 100311200),
+(100311209, '特克斯县', '27', 100311200),
+(100311201, '伊宁市', '2', 100311200),
+(100310402, '巴里坤哈萨克自治县', '22', 100310400),
+(100310403, '伊吾县', '23', 100310400),
+(100310401, '哈密市', '1', 100310400),
+(100310504, '玛纳斯县', '24', 100310500),
+(100310502, '阜康市', '2', 100310500),
+(100310506, '吉木萨尔县', '27', 100310500),
+(100310501, '昌吉市', '1', 100310500),
+(100310503, '呼图壁县', '23', 100310500),
+(100310507, '木垒哈萨克自治县', '28', 100310500),
+(100310505, '奇台县', '25', 100310500),
+(100310903, '阿合奇县', '23', 100310900),
+(100310904, '乌恰县', '24', 100310900),
+(100310902, '阿克陶县', '22', 100310900),
+(100310901, '阿图什市', '1', 100310900),
+(100310705, '且末县', '25', 100310700),
+(100310709, '博湖县', '29', 100310700),
+(100310701, '库尔勒市', '1', 100310700),
+(100310703, '尉犁县', '23', 100310700),
+(100310702, '轮台县', '22', 100310700),
+(100310706, '焉耆回族自治县', '26', 100310700),
+(100310704, '若羌县', '24', 100310700),
+(100310707, '和静县', '27', 100310700),
+(100310708, '和硕县', '28', 100310700),
+(100311101, '和田市', '1', 100311100),
+(100311106, '策勒县', '25', 100311100),
+(100311105, '洛浦县', '24', 100311100),
+(100311103, '墨玉县', '22', 100311100),
+(100311104, '皮山县', '23', 100311100),
+(100311102, '和田县', '21', 100311100),
+(100311107, '于田县', '26', 100311100),
+(100311108, '民丰县', '27', 100311100),
+(100310809, '柯坪县', '29', 100310800),
+(100310808, '阿瓦提县', '28', 100310800),
+(100310801, '阿克苏市', '1', 100310800),
+(100310804, '沙雅县', '24', 100310800),
+(100310806, '拜城县', '26', 100310800),
+(100310807, '乌什县', '27', 100310800),
+(100310805, '新和县', '25', 100310800),
+(100310802, '温宿县', '22', 100310800),
+(100310803, '库车县', '23', 100310800),
+(100311407, '吉木乃县', '26', 100311400),
+(100311403, '富蕴县', '22', 100311400),
+(100311404, '福海县', '23', 100311400),
+(100311405, '哈巴河县', '24', 100311400),
+(100311401, '阿勒泰市', '1', 100311400),
+(100311402, '布尔津县', '21', 100311400),
+(100311406, '青河县', '25', 100311400),
+(100311303, '额敏县', '21', 100311300),
+(100311304, '沙湾县', '23', 100311300),
+(100311302, '乌苏市', '2', 100311300),
+(100311305, '托里县', '24', 100311300),
+(100311307, '和布克赛尔蒙古自治县', '26', 100311300),
+(100311301, '塔城市', '1', 100311300),
+(100311306, '裕民县', '25', 100311300),
+(100310601, '博乐市', '1', 100310600),
+(100310602, '精河县', '22', 100310600),
+(100310603, '温泉县', '23', 100310600),
+(100310203, '白碱滩区', '4', 100310200),
+(100310204, '乌尔禾区', '5', 100310200),
+(100310202, '克拉玛依区', '3', 100310200),
+(100310201, '独山子区', '2', 100310200),
+(100130706, '政和县', '25', 100130700),
+(100130708, '武夷山市', '82', 100130700),
+(100130701, '延平区', '2', 100130700),
+(100130707, '邵武市', '81', 100130700),
+(100130703, '浦城县', '22', 100130700),
+(100130704, '光泽县', '23', 100130700),
+(100130710, '建阳市', '84', 100130700),
+(100130702, '顺昌县', '21', 100130700),
+(100130705, '松溪县', '24', 100130700),
+(100130709, '建瓯市', '83', 100130700),
+(100130301, '城厢区', '2', 100130300),
+(100130302, '涵江区', '3', 100130300),
+(100130304, '秀屿区', '5', 100130300);
+INSERT INTO region(id, name, code, city_id) VALUES(100130305, '仙游县', '22', 100130300),
+(100130303, '荔城区', '4', 100130300),
+(100130405, '宁化县', '24', 100130400),
+(100130409, '将乐县', '28', 100130400),
+(100130412, '永安市', '81', 100130400),
+(100130407, '尤溪县', '26', 100130400),
+(100130403, '明溪县', '21', 100130400),
+(100130411, '建宁县', '30', 100130400),
+(100130404, '清流县', '23', 100130400),
+(100130408, '沙　县', '27', 100130400),
+(100130410, '泰宁县', '29', 100130400),
+(100130401, '梅列区', '2', 100130400),
+(100130402, '三元区', '3', 100130400),
+(100130406, '大田县', '25', 100130400),
+(100130901, '蕉城区', '2', 100130900),
+(100130904, '屏南县', '23', 100130900),
+(100130907, '柘荣县', '26', 100130900),
+(100130908, '福安市', '81', 100130900),
+(100130905, '寿宁县', '24', 100130900),
+(100130906, '周宁县', '25', 100130900),
+(100130902, '霞浦县', '21', 100130900),
+(100130903, '古田县', '22', 100130900),
+(100130909, '福鼎市', '82', 100130900),
+(100130205, '同安区', '12', 100130200),
+(100130202, '海沧区', '5', 100130200),
+(100130203, '湖里区', '6', 100130200),
+(100130204, '集美区', '11', 100130200),
+(100130201, '思明区', '3', 100130200),
+(100130206, '翔安区', '13', 100130200),
+(100130606, '长泰县', '25', 100130600),
+(100130605, '诏安县', '24', 100130600),
+(100130607, '东山县', '26', 100130600),
+(100130609, '平和县', '28', 100130600),
+(100130610, '华安县', '29', 100130600),
+(100130604, '漳浦县', '23', 100130600),
+(100130601, '芗城区', '2', 100130600),
+(100130602, '龙文区', '3', 100130600),
+(100130603, '云霄县', '22', 100130600),
+(100130611, '龙海市', '81', 100130600),
+(100130608, '南靖县', '27', 100130600),
+(100130105, '晋安区', '11', 100130100),
+(100130112, '福清市', '81', 100130100),
+(100130103, '仓山区', '4', 100130100),
+(100130108, '罗源县', '23', 100130100),
+(100130101, '鼓楼区', '2', 100130100),
+(100130109, '闽清县', '24', 100130100),
+(100130104, '马尾区', '5', 100130100),
+(100130106, '闽侯县', '21', 100130100),
+(100130107, '连江县', '22', 100130100),
+(100130110, '永泰县', '25', 100130100),
+(100130111, '平潭县', '28', 100130100),
+(100130102, '台江区', '3', 100130100),
+(100130113, '长乐市', '82', 100130100),
+(100130507, '永春县', '25', 100130500),
+(100130503, '洛江区', '4', 100130500),
+(100130505, '惠安县', '21', 100130500),
+(100130512, '南安市', '83', 100130500),
+(100130501, '鲤城区', '2', 100130500),
+(100130502, '丰泽区', '3', 100130500),
+(100130504, '泉港区', '5', 100130500),
+(100130511, '晋江市', '82', 100130500),
+(100130506, '安溪县', '24', 100130500),
+(100130509, '金门县', '27', 100130500),
+(100130510, '石狮市', '81', 100130500),
+(100130508, '德化县', '26', 100130500),
+(100130806, '连城县', '25', 100130800),
+(100130807, '漳平市', '81', 100130800),
+(100130802, '长汀县', '21', 100130800),
+(100130803, '永定县', '22', 100130800),
+(100130805, '武平县', '24', 100130800),
+(100130801, '新罗区', '2', 100130800),
+(100130804, '上杭县', '23', 100130800),
+(100151202, '钢城区', '3', 100151200),
+(100151201, '莱城区', '2', 100151200),
+(100150305, '周村区', '6', 100150300),
+(100150302, '张店区', '3', 100150300),
+(100150303, '博山区', '4', 100150300),
+(100150304, '临淄区', '5', 100150300),
+(100150307, '高青县', '22', 100150300),
+(100150301, '淄川区', '2', 100150300),
+(100150306, '桓台县', '21', 100150300),
+(100150308, '沂源县', '23', 100150300),
+(100150905, '新泰市', '82', 100150900),
+(100150901, '泰山区', '2', 100150900),
+(100150904, '东平县', '23', 100150900),
+(100150902, '岱岳区', '11', 100150900),
+(100150903, '宁阳县', '21', 100150900),
+(100150906, '肥城市', '83', 100150900),
+(100151004, '乳山市', '83', 100151000),
+(100151002, '文登市', '81', 100151000),
+(100151003, '荣成市', '82', 100151000),
+(100151001, '环翠区', '2', 100151000),
+(100150812, '邹城市', '83', 100150800),
+(100150810, '曲阜市', '81', 100150800),
+(100150805, '金乡县', '28', 100150800),
+(100150803, '微山县', '26', 100150800),
+(100150808, '泗水县', '31', 100150800),
+(100150809, '梁山县', '32', 100150800),
+(100150807, '汶上县', '30', 100150800),
+(100150802, '任城区', '11', 100150800);
+INSERT INTO region(id, name, code, city_id) VALUES(100150804, '鱼台县', '27', 100150800),
+(100150811, '兖州市', '82', 100150800),
+(100150801, '市中区', '2', 100150800),
+(100150806, '嘉祥县', '29', 100150800),
+(100151606, '博兴县', '25', 100151600),
+(100151601, '滨城区', '2', 100151600),
+(100151604, '无棣县', '23', 100151600),
+(100151605, '沾化县', '24', 100151600),
+(100151602, '惠民县', '21', 100151600),
+(100151603, '阳信县', '22', 100151600),
+(100151607, '邹平县', '26', 100151600),
+(100151101, '东港区', '2', 100151100),
+(100151104, '莒　县', '22', 100151100),
+(100151103, '五莲县', '21', 100151100),
+(100151102, '岚山区', '3', 100151100),
+(100151302, '罗庄区', '11', 100151300),
+(100151309, '平邑县', '26', 100151300),
+(100151307, '苍山县', '24', 100151300),
+(100151308, '费　县', '25', 100151300),
+(100151301, '兰山区', '2', 100151300),
+(100151310, '莒南县', '27', 100151300),
+(100151312, '临沭县', '29', 100151300),
+(100151304, '沂南县', '21', 100151300),
+(100151303, '河东区', '12', 100151300),
+(100151305, '郯城县', '22', 100151300),
+(100151306, '沂水县', '23', 100151300),
+(100151311, '蒙阴县', '28', 100151300),
+(100150402, '薛城区', '3', 100150400),
+(100150403, '峄城区', '4', 100150400),
+(100150401, '市中区', '2', 100150400),
+(100150406, '滕州市', '81', 100150400),
+(100150405, '山亭区', '6', 100150400),
+(100150404, '台儿庄区', '5', 100150400),
+(100150502, '河口区', '3', 100150500),
+(100150505, '广饶县', '23', 100150500),
+(100150501, '东营区', '2', 100150500),
+(100150503, '垦利县', '21', 100150500),
+(100150504, '利津县', '22', 100150500),
+(100150706, '昌乐县', '25', 100150700),
+(100150710, '安丘市', '84', 100150700),
+(100150701, '潍城区', '2', 100150700),
+(100150707, '青州市', '81', 100150700),
+(100150703, '坊子区', '4', 100150700),
+(100150704, '奎文区', '5', 100150700),
+(100150705, '临朐县', '24', 100150700),
+(100150708, '诸城市', '82', 100150700),
+(100150711, '高密市', '85', 100150700),
+(100150712, '昌邑市', '86', 100150700),
+(100150709, '寿光市', '83', 100150700),
+(100150702, '寒亭区', '3', 100150700),
+(100150110, '章丘市', '81', 100150100),
+(100150103, '槐荫区', '4', 100150100),
+(100150109, '商河县', '26', 100150100),
+(100150107, '平阴县', '24', 100150100),
+(100150108, '济阳县', '25', 100150100),
+(100150105, '历城区', '12', 100150100),
+(100150102, '市中区', '3', 100150100),
+(100150104, '天桥区', '5', 100150100),
+(100150101, '历下区', '2', 100150100),
+(100150106, '长清区', '13', 100150100),
+(100150603, '牟平区', '12', 100150600),
+(100150612, '海阳市', '87', 100150600),
+(100150602, '福山区', '11', 100150600),
+(100150608, '莱州市', '83', 100150600),
+(100150611, '栖霞市', '86', 100150600),
+(100150607, '莱阳市', '82', 100150600),
+(100150604, '莱山区', '13', 100150600),
+(100150601, '芝罘区', '2', 100150600),
+(100150605, '长岛县', '34', 100150600),
+(100150610, '招远市', '85', 100150600),
+(100150609, '蓬莱市', '84', 100150600),
+(100150606, '龙口市', '81', 100150600),
+(100150202, '市北区', '3', 100150200),
+(100150211, '胶南市', '84', 100150200),
+(100150212, '莱西市', '85', 100150200),
+(100150203, '四方区', '5', 100150200),
+(100150208, '胶州市', '81', 100150200),
+(100150204, '黄岛区', '11', 100150200),
+(100150207, '城阳区', '14', 100150200),
+(100150209, '即墨市', '82', 100150200),
+(100150206, '李沧区', '13', 100150200),
+(100150210, '平度市', '83', 100150200),
+(100150201, '市南区', '2', 100150200),
+(100150205, '崂山区', '12', 100150200),
+(100151406, '齐河县', '25', 100151400),
+(100151408, '夏津县', '27', 100151400),
+(100151401, '德城区', '2', 100151400),
+(100151411, '禹城市', '82', 100151400),
+(100151403, '宁津县', '22', 100151400),
+(100151409, '武城县', '28', 100151400),
+(100151404, '庆云县', '23', 100151400),
+(100151405, '临邑县', '24', 100151400),
+(100151402, '陵　县', '21', 100151400),
+(100151407, '平原县', '26', 100151400),
+(100151410, '乐陵市', '81', 100151400),
+(100151504, '茌平县', '23', 100151500),
+(100151505, '东阿县', '24', 100151500),
+(100151507, '高唐县', '26', 100151500),
+(100151501, '东昌府区', '2', 100151500),
+(100151502, '阳谷县', '21', 100151500);
+INSERT INTO region(id, name, code, city_id) VALUES(100151503, '莘　县', '22', 100151500),
+(100151506, '冠　县', '25', 100151500),
+(100151508, '临清市', '81', 100151500),
+(100151703, '单　县', '22', 100151700),
+(100151709, '东明县', '28', 100151700),
+(100151706, '郓城县', '25', 100151700),
+(100151707, '鄄城县', '26', 100151700),
+(100151701, '牡丹区', '2', 100151700),
+(100151705, '巨野县', '24', 100151700),
+(100151708, '定陶县', '27', 100151700),
+(100151702, '曹　县', '21', 100151700),
+(100151704, '成武县', '23', 100151700),
+(100110801, '柯城区', '2', 100110800),
+(100110802, '衢江区', '3', 100110800),
+(100110805, '龙游县', '25', 100110800),
+(100110806, '江山市', '81', 100110800),
+(100110803, '常山县', '22', 100110800),
+(100110804, '开化县', '24', 100110800),
+(100110405, '海宁市', '81', 100110400),
+(100110402, '秀洲区', '11', 100110400),
+(100110406, '平湖市', '82', 100110400),
+(100110403, '嘉善县', '21', 100110400),
+(100110401, '南湖区', '2', 100110400),
+(100110404, '海盐县', '24', 100110400),
+(100110407, '桐乡市', '83', 100110400),
+(100111102, '青田县', '21', 100111100),
+(100111108, '景宁畲族自治县', '27', 100111100),
+(100111107, '庆元县', '26', 100111100),
+(100111101, '莲都区', '2', 100111100),
+(100111103, '缙云县', '22', 100111100),
+(100111104, '遂昌县', '23', 100111100),
+(100111105, '松阳县', '24', 100111100),
+(100111109, '龙泉市', '81', 100111100),
+(100111106, '云和县', '25', 100111100),
+(100110202, '江东区', '4', 100110200),
+(100110208, '宁海县', '26', 100110200),
+(100110210, '慈溪市', '82', 100110200),
+(100110204, '北仑区', '6', 100110200),
+(100110205, '镇海区', '11', 100110200),
+(100110211, '奉化市', '83', 100110200),
+(100110207, '象山县', '25', 100110200),
+(100110201, '海曙区', '3', 100110200),
+(100110203, '江北区', '5', 100110200),
+(100110209, '余姚市', '81', 100110200),
+(100110206, '鄞州区', '12', 100110200),
+(100110701, '婺城区', '2', 100110700),
+(100110702, '金东区', '3', 100110700),
+(100110704, '浦江县', '26', 100110700),
+(100110707, '义乌市', '82', 100110700),
+(100110705, '磐安县', '27', 100110700),
+(100110703, '武义县', '23', 100110700),
+(100110706, '兰溪市', '81', 100110700),
+(100110709, '永康市', '84', 100110700),
+(100110708, '东阳市', '83', 100110700),
+(100110301, '鹿城区', '2', 100110300),
+(100110302, '龙湾区', '3', 100110300),
+(100110307, '苍南县', '27', 100110300),
+(100110305, '永嘉县', '24', 100110300),
+(100110306, '平阳县', '26', 100110300),
+(100110303, '瓯海区', '4', 100110300),
+(100110308, '文成县', '28', 100110300),
+(100110311, '乐清市', '82', 100110300),
+(100110304, '洞头县', '22', 100110300),
+(100110309, '泰顺县', '29', 100110300),
+(100110310, '瑞安市', '81', 100110300),
+(100110505, '安吉县', '23', 100110500),
+(100110501, '吴兴区', '2', 100110500),
+(100110503, '德清县', '21', 100110500),
+(100110504, '长兴县', '22', 100110500),
+(100110502, '南浔区', '3', 100110500),
+(100110111, '建德市', '82', 100110100),
+(100110110, '淳安县', '27', 100110100),
+(100110103, '江干区', '4', 100110100),
+(100110113, '临安市', '85', 100110100),
+(100110108, '余杭区', '10', 100110100),
+(100110101, '上城区', '2', 100110100),
+(100110106, '滨江区', '8', 100110100),
+(100110102, '下城区', '3', 100110100),
+(100110104, '拱墅区', '5', 100110100),
+(100110105, '西湖区', '6', 100110100),
+(100110107, '萧山区', '9', 100110100),
+(100110109, '桐庐县', '22', 100110100),
+(100110112, '富阳市', '83', 100110100),
+(100111003, '路桥区', '4', 100111000),
+(100111004, '玉环县', '21', 100111000),
+(100111009, '临海市', '82', 100111000),
+(100111006, '天台县', '23', 100111000),
+(100111007, '仙居县', '24', 100111000),
+(100111005, '三门县', '22', 100111000),
+(100111001, '椒江区', '2', 100111000),
+(100111002, '黄岩区', '3', 100111000),
+(100111008, '温岭市', '81', 100111000),
+(100110902, '普陀区', '3', 100110900),
+(100110901, '定海区', '2', 100110900),
+(100110904, '嵊泗县', '22', 100110900),
+(100110903, '岱山县', '21', 100110900),
+(100110601, '越城区', '2', 100110600),
+(100110603, '新昌县', '24', 100110600),
+(100110604, '诸暨市', '81', 100110600),
+(100110606, '嵊州市', '83', 100110600);
+INSERT INTO region(id, name, code, city_id) VALUES(100110605, '上虞市', '82', 100110600),
+(100110602, '绍兴县', '21', 100110600),
+(100060401, '新抚区', '2', 100060400),
+(100060405, '抚顺县', '21', 100060400),
+(100060402, '东洲区', '3', 100060400),
+(100060403, '望花区', '4', 100060400),
+(100060407, '清原满族自治县', '23', 100060400),
+(100060406, '新宾满族自治县', '22', 100060400),
+(100060404, '顺城区', '11', 100060400),
+(100060210, '庄河市', '83', 100060200),
+(100060203, '沙河口区', '4', 100060200),
+(100060205, '旅顺口区', '12', 100060200),
+(100060207, '长海县', '24', 100060200),
+(100060202, '西岗区', '3', 100060200),
+(100060206, '金州区', '13', 100060200),
+(100060201, '中山区', '2', 100060200),
+(100060208, '瓦房店市', '81', 100060200),
+(100060204, '甘井子区', '11', 100060200),
+(100060209, '普兰店市', '82', 100060200),
+(100060801, '站前区', '2', 100060800),
+(100060805, '盖州市', '81', 100060800),
+(100060806, '大石桥市', '82', 100060800),
+(100060804, '老边区', '11', 100060800),
+(100060802, '西市区', '3', 100060800),
+(100060803, '鲅鱼圈区', '4', 100060800),
+(100060102, '沈河区', '3', 100060100),
+(100060107, '东陵区', '12', 100060100),
+(100060105, '铁西区', '6', 100060100),
+(100060101, '和平区', '2', 100060100),
+(100060111, '康平县', '23', 100060100),
+(100060106, '苏家屯区', '11', 100060100),
+(100060110, '辽中县', '22', 100060100),
+(100060108, '沈北新区', '13', 100060100),
+(100060103, '大东区', '4', 100060100),
+(100060104, '皇姑区', '5', 100060100),
+(100060113, '新民市', '81', 100060100),
+(100060109, '于洪区', '14', 100060100),
+(100060112, '法库县', '24', 100060100),
+(100061206, '调兵山市', '81', 100061200),
+(100061202, '清河区', '4', 100061200),
+(100061205, '昌图县', '24', 100061200),
+(100061207, '开原市', '82', 100061200),
+(100061201, '银州区', '2', 100061200),
+(100061204, '西丰县', '23', 100061200),
+(100061203, '铁岭县', '21', 100061200),
+(100061404, '绥中县', '21', 100061400),
+(100061405, '建昌县', '22', 100061400),
+(100061402, '龙港区', '3', 100061400),
+(100061406, '兴城市', '81', 100061400),
+(100061401, '连山区', '2', 100061400),
+(100061403, '南票区', '4', 100061400),
+(100060501, '平山区', '2', 100060500),
+(100060505, '本溪满族自治县', '21', 100060500),
+(100060506, '桓仁满族自治县', '22', 100060500),
+(100060504, '南芬区', '5', 100060500),
+(100060503, '明山区', '4', 100060500),
+(100060502, '溪湖区', '3', 100060500),
+(100060603, '振安区', '4', 100060600),
+(100060601, '元宝区', '2', 100060600),
+(100060606, '凤城市', '82', 100060600),
+(100060604, '宽甸满族自治县', '24', 100060600),
+(100060602, '振兴区', '3', 100060600),
+(100060605, '东港市', '81', 100060600),
+(100061002, '文圣区', '3', 100061000),
+(100061001, '白塔区', '2', 100061000),
+(100061005, '太子河区', '11', 100061000),
+(100061003, '宏伟区', '4', 100061000),
+(100061004, '弓长岭区', '5', 100061000),
+(100061006, '辽阳县', '21', 100061000),
+(100061007, '灯塔市', '81', 100061000),
+(100060303, '立山区', '4', 100060300),
+(100060307, '海城市', '81', 100060300),
+(100060304, '千山区', '11', 100060300),
+(100060305, '台安县', '21', 100060300),
+(100060301, '铁东区', '2', 100060300),
+(100060306, '岫岩满族自治县', '23', 100060300),
+(100060302, '铁西区', '3', 100060300),
+(100060701, '古塔区', '2', 100060700),
+(100060704, '黑山县', '26', 100060700),
+(100060703, '太和区', '11', 100060700),
+(100060705, '义　县', '27', 100060700),
+(100060706, '凌海市', '81', 100060700),
+(100060707, '北镇市', '82', 100060700),
+(100060702, '凌河区', '3', 100060700),
+(100061304, '建平县', '22', 100061300),
+(100061302, '龙城区', '3', 100061300),
+(100061307, '凌源市', '82', 100061300),
+(100061303, '朝阳县', '21', 100061300),
+(100061301, '双塔区', '2', 100061300),
+(100061305, '喀喇沁左翼蒙古族自治县', '24', 100061300),
+(100061306, '北票市', '81', 100061300),
+(100061103, '大洼县', '21', 100061100),
+(100061101, '双台子区', '2', 100061100),
+(100061102, '兴隆台区', '3', 100061100),
+(100061104, '盘山县', '22', 100061100),
+(100060905, '细河区', '11', 100060900),
+(100060907, '彰武县', '22', 100060900),
+(100060901, '海州区', '2', 100060900),
+(100060904, '清河门区', '5', 100060900),
+(100060903, '太平区', '4', 100060900);
+INSERT INTO region(id, name, code, city_id) VALUES(100060906, '阜新蒙古族自治县', '21', 100060900),
+(100060902, '新邱区', '3', 100060900),
+(100251105, '马关县', '25', 100251100),
+(100251106, '丘北县', '26', 100251100),
+(100251108, '富宁县', '28', 100251100),
+(100251102, '砚山县', '22', 100251100),
+(100251104, '麻栗坡县', '24', 100251100),
+(100251107, '广南县', '27', 100251100),
+(100251103, '西畴县', '23', 100251100),
+(100251101, '文山县', '21', 100251100),
+(100251603, '维西傈僳族自治县', '23', 100251600),
+(100251601, '香格里拉县', '21', 100251600),
+(100251602, '德钦县', '22', 100251600),
+(100250306, '易门县', '25', 100250300),
+(100250307, '峨山彝族自治县', '26', 100250300),
+(100250303, '澄江县', '22', 100250300),
+(100250302, '江川县', '21', 100250300),
+(100250309, '元江哈尼族彝族傣族自治县', '28', 100250300),
+(100250301, '红塔区', '2', 100250300),
+(100250304, '通海县', '23', 100250300),
+(100250305, '华宁县', '24', 100250300),
+(100250308, '新平彝族傣族自治县', '27', 100250300),
+(100250112, '禄劝彝族苗族自治县', '28', 100250100),
+(100250104, '西山区', '12', 100250100),
+(100250101, '五华区', '2', 100250100),
+(100250102, '盘龙区', '3', 100250100),
+(100250106, '呈贡县', '21', 100250100),
+(100250109, '宜良县', '25', 100250100),
+(100250108, '富民县', '24', 100250100),
+(100250110, '石林彝族自治县', '26', 100250100),
+(100250111, '嵩明县', '27', 100250100),
+(100250103, '官渡区', '11', 100250100),
+(100250113, '寻甸回族彝族自治县', '29', 100250100),
+(100250105, '东川区', '13', 100250100),
+(100250107, '晋宁县', '22', 100250100),
+(100250114, '安宁市', '81', 100250100),
+(100251301, '大理市', '1', 100251300),
+(100251307, '巍山彝族回族自治县', '27', 100251300),
+(100251306, '南涧彝族自治县', '26', 100251300),
+(100251302, '漾濞彝族自治县', '22', 100251300),
+(100251305, '弥渡县', '25', 100251300),
+(100251311, '剑川县', '31', 100251300),
+(100251304, '宾川县', '24', 100251300),
+(100251310, '洱源县', '30', 100251300),
+(100251308, '永平县', '28', 100251300),
+(100251309, '云龙县', '29', 100251300),
+(100251312, '鹤庆县', '32', 100251300),
+(100251303, '祥云县', '23', 100251300),
+(100250202, '马龙县', '21', 100250200),
+(100250203, '陆良县', '22', 100250200),
+(100250207, '会泽县', '26', 100250200),
+(100250206, '富源县', '25', 100250200),
+(100250209, '宣威市', '81', 100250200),
+(100250204, '师宗县', '23', 100250200),
+(100250205, '罗平县', '24', 100250200),
+(100250208, '沾益县', '28', 100250200),
+(100250201, '麒麟区', '2', 100250200),
+(100250906, '大姚县', '26', 100250900),
+(100250904, '南华县', '24', 100250900),
+(100250901, '楚雄市', '1', 100250900),
+(100250908, '元谋县', '28', 100250900),
+(100250907, '永仁县', '27', 100250900),
+(100250910, '禄丰县', '31', 100250900),
+(100250902, '双柏县', '22', 100250900),
+(100250909, '武定县', '29', 100250900),
+(100250903, '牟定县', '23', 100250900),
+(100250905, '姚安县', '25', 100250900),
+(100250704, '景东彝族自治县', '23', 100250700),
+(100250706, '镇沅彝族哈尼族拉祜族自治县', '25', 100250700),
+(100250709, '澜沧拉祜族自治县', '28', 100250700),
+(100250701, '思茅区', '2', 100250700),
+(100250702, '宁洱哈尼族彝族自治县', '21', 100250700),
+(100250707, '江城哈尼族彝族自治县', '26', 100250700),
+(100250710, '西盟佤族自治县', '29', 100250700),
+(100250703, '墨江哈尼族自治县', '22', 100250700),
+(100250708, '孟连傣族拉祜族佤族自治县', '27', 100250700),
+(100250705, '景谷傣族彝族自治县', '24', 100250700),
+(100251403, '梁河县', '22', 100251400),
+(100251401, '瑞丽市', '2', 100251400),
+(100251402, '潞西市', '3', 100251400),
+(100251404, '盈江县', '23', 100251400),
+(100251405, '陇川县', '24', 100251400),
+(100251503, '贡山独龙族怒族自治县', '24', 100251500),
+(100251504, '兰坪白族普米族自治县', '25', 100251500),
+(100251502, '福贡县', '23', 100251500),
+(100251501, '泸水县', '21', 100251500),
+(100251203, '勐腊县', '23', 100251200),
+(100251201, '景洪市', '1', 100251200),
+(100251202, '勐海县', '22', 100251200),
+(100250403, '腾冲县', '22', 100250400),
+(100250401, '隆阳区', '2', 100250400),
+(100250404, '龙陵县', '23', 100250400),
+(100250405, '昌宁县', '24', 100250400),
+(100250402, '施甸县', '21', 100250400),
+(100250507, '绥江县', '26', 100250500),
+(100250505, '大关县', '24', 100250500),
+(100250504, '盐津县', '23', 100250500),
+(100250509, '彝良县', '28', 100250500),
+(100250510, '威信县', '29', 100250500),
+(100250506, '永善县', '25', 100250500);
+INSERT INTO region(id, name, code, city_id) VALUES(100250511, '水富县', '30', 100250500),
+(100250503, '巧家县', '22', 100250500),
+(100250501, '昭阳区', '2', 100250500),
+(100250508, '镇雄县', '27', 100250500),
+(100250502, '鲁甸县', '21', 100250500),
+(100250602, '玉龙纳西族自治县', '21', 100250600),
+(100250601, '古城区', '2', 100250600),
+(100250604, '华坪县', '23', 100250600),
+(100250603, '永胜县', '22', 100250600),
+(100250605, '宁蒗彝族自治县', '24', 100250600),
+(100250802, '凤庆县', '21', 100250800),
+(100250804, '永德县', '23', 100250800),
+(100250803, '云　县', '22', 100250800),
+(100250805, '镇康县', '24', 100250800),
+(100250807, '耿马傣族佤族自治县', '26', 100250800),
+(100250808, '沧源佤族自治县', '27', 100250800),
+(100250806, '双江拉祜族佤族布朗族傣族自治县', '25', 100250800),
+(100250801, '临翔区', '2', 100250800),
+(100251007, '弥勒县', '26', 100251000),
+(100251004, '屏边苗族自治县', '23', 100251000),
+(100251013, '河口瑶族自治县', '32', 100251000),
+(100251008, '泸西县', '27', 100251000),
+(100251002, '开远市', '2', 100251000),
+(100251012, '绿春县', '31', 100251000),
+(100251005, '建水县', '24', 100251000),
+(100251001, '个旧市', '1', 100251000),
+(100251010, '红河县', '29', 100251000),
+(100251006, '石屏县', '25', 100251000),
+(100251011, '金平苗族瑶族傣族自治县', '30', 100251000),
+(100251009, '元阳县', '28', 100251000),
+(100251003, '蒙自县', '22', 100251000),
+(100081303, '漠河县', '23', 100081300),
+(100081302, '塔河县', '22', 100081300),
+(100081301, '呼玛县', '21', 100081300),
+(100081102, '嫩江县', '21', 100081100),
+(100081106, '五大连池市', '82', 100081100),
+(100081101, '爱辉区', '2', 100081100),
+(100081103, '逊克县', '23', 100081100),
+(100081105, '北安市', '81', 100081100),
+(100081104, '孙吴县', '24', 100081100),
+(100080901, '新兴区', '2', 100080900),
+(100080904, '勃利县', '21', 100080900),
+(100080902, '桃山区', '3', 100080900),
+(100080903, '茄子河区', '4', 100080900),
+(100080803, '东风区', '5', 100080800),
+(100080802, '前进区', '4', 100080800),
+(100080808, '抚远县', '33', 100080800),
+(100080806, '桦川县', '26', 100080800),
+(100080807, '汤原县', '28', 100080800),
+(100080809, '同江市', '81', 100080800),
+(100080801, '向阳区', '3', 100080800),
+(100080805, '桦南县', '22', 100080800),
+(100080804, '郊　区', '11', 100080800),
+(100080810, '富锦市', '82', 100080800),
+(100080502, '岭东区', '3', 100080500),
+(100080508, '饶河县', '24', 100080500),
+(100080506, '友谊县', '22', 100080500),
+(100080503, '四方台区', '5', 100080500),
+(100080501, '尖山区', '2', 100080500),
+(100080505, '集贤县', '21', 100080500),
+(100080507, '宝清县', '23', 100080500),
+(100080504, '宝山区', '6', 100080500),
+(100080107, '呼兰区', '11', 100080100),
+(100080117, '尚志市', '83', 100080100),
+(100080101, '道里区', '2', 100080100),
+(100080113, '木兰县', '27', 100080100),
+(100080110, '方正县', '24', 100080100),
+(100080104, '平房区', '8', 100080100),
+(100080106, '香坊区', '10', 100080100),
+(100080118, '五常市', '84', 100080100),
+(100080105, '松北区', '9', 100080100),
+(100080102, '南岗区', '3', 100080100),
+(100080116, '双城市', '82', 100080100),
+(100080114, '通河县', '28', 100080100),
+(100080109, '依兰县', '23', 100080100),
+(100080112, '巴彦县', '26', 100080100),
+(100080115, '延寿县', '29', 100080100),
+(100080111, '宾　县', '25', 100080100),
+(100080103, '道外区', '4', 100080100),
+(100080108, '阿城区', '12', 100080100),
+(100080304, '梨树区', '5', 100080300),
+(100080301, '鸡冠区', '2', 100080300),
+(100080303, '滴道区', '4', 100080300),
+(100080306, '麻山区', '7', 100080300),
+(100080302, '恒山区', '3', 100080300),
+(100080307, '鸡东县', '21', 100080300),
+(100080305, '城子河区', '6', 100080300),
+(100080308, '虎林市', '81', 100080300),
+(100080309, '密山市', '82', 100080300),
+(100081201, '北林区', '2', 100081200),
+(100081204, '青冈县', '23', 100081200),
+(100081207, '绥棱县', '26', 100081200),
+(100081202, '望奎县', '21', 100081200),
+(100081206, '明水县', '25', 100081200),
+(100081203, '兰西县', '22', 100081200),
+(100081205, '庆安县', '24', 100081200),
+(100081209, '肇东市', '82', 100081200),
+(100081210, '海伦市', '83', 100081200),
+(100081208, '安达市', '81', 100081200),
+(100081002, '阳明区', '3', 100081000);
+INSERT INTO region(id, name, code, city_id) VALUES(100081001, '东安区', '2', 100081000),
+(100081006, '林口县', '25', 100081000),
+(100081008, '海林市', '83', 100081000),
+(100081010, '穆棱市', '85', 100081000),
+(100081007, '绥芬河市', '81', 100081000),
+(100081003, '爱民区', '4', 100081000),
+(100081005, '东宁县', '24', 100081000),
+(100081004, '西安区', '5', 100081000),
+(100081009, '宁安市', '84', 100081000),
+(100080211, '甘南县', '25', 100080200),
+(100080215, '拜泉县', '31', 100080200),
+(100080212, '富裕县', '27', 100080200),
+(100080207, '梅里斯达斡尔族区', '8', 100080200),
+(100080208, '龙江县', '21', 100080200),
+(100080202, '建华区', '3', 100080200),
+(100080216, '讷河市', '81', 100080200),
+(100080201, '龙沙区', '2', 100080200),
+(100080213, '克山县', '29', 100080200),
+(100080206, '碾子山区', '7', 100080200),
+(100080204, '昂昂溪区', '5', 100080200),
+(100080214, '克东县', '30', 100080200),
+(100080203, '铁锋区', '4', 100080200),
+(100080205, '富拉尔基区', '6', 100080200),
+(100080209, '依安县', '23', 100080200),
+(100080210, '泰来县', '24', 100080200),
+(100080606, '肇州县', '21', 100080600),
+(100080608, '林甸县', '23', 100080600),
+(100080601, '萨尔图区', '2', 100080600),
+(100080604, '红岗区', '5', 100080600),
+(100080602, '龙凤区', '3', 100080600),
+(100080603, '让胡路区', '4', 100080600),
+(100080607, '肇源县', '22', 100080600),
+(100080605, '大同区', '6', 100080600),
+(100080609, '杜尔伯特蒙古族自治县', '24', 100080600),
+(100080707, '美溪区', '8', 100080700),
+(100080710, '乌马河区', '11', 100080700),
+(100080703, '友好区', '4', 100080700),
+(100080709, '五营区', '10', 100080700),
+(100080704, '西林区', '5', 100080700),
+(100080714, '红星区', '15', 100080700),
+(100080711, '汤旺河区', '12', 100080700),
+(100080712, '带岭区', '13', 100080700),
+(100080716, '嘉荫县', '22', 100080700),
+(100080708, '金山屯区', '9', 100080700),
+(100080706, '新青区', '7', 100080700),
+(100080715, '上甘岭区', '16', 100080700),
+(100080701, '伊春区', '2', 100080700),
+(100080702, '南岔区', '3', 100080700),
+(100080717, '铁力市', '81', 100080700),
+(100080713, '乌伊岭区', '14', 100080700),
+(100080705, '翠峦区', '6', 100080700),
+(100080404, '兴安区', '5', 100080400),
+(100080403, '南山区', '4', 100080400),
+(100080406, '兴山区', '7', 100080400),
+(100080405, '东山区', '6', 100080400),
+(100080407, '萝北县', '21', 100080400),
+(100080401, '向阳区', '2', 100080400),
+(100080408, '绥滨县', '22', 100080400),
+(100080402, '工农区', '3', 100080400),
+(100300404, '泾源县', '24', 100300400),
+(100300401, '原州区', '2', 100300400),
+(100300402, '西吉县', '22', 100300400),
+(100300403, '隆德县', '23', 100300400),
+(100300405, '彭阳县', '25', 100300400),
+(100300302, '红寺堡区', '3', 100300300),
+(100300305, '青铜峡市', '81', 100300300),
+(100300303, '盐池县', '23', 100300300),
+(100300301, '利通区', '2', 100300300),
+(100300304, '同心县', '24', 100300300),
+(100300203, '平罗县', '21', 100300200),
+(100300201, '大武口区', '2', 100300200),
+(100300202, '惠农区', '5', 100300200),
+(100300503, '海原县', '22', 100300500),
+(100300501, '沙坡头区', '2', 100300500),
+(100300502, '中宁县', '21', 100300500),
+(100300101, '兴庆区', '4', 100300100),
+(100300105, '贺兰县', '22', 100300100),
+(100300104, '永宁县', '21', 100300100),
+(100300102, '西夏区', '5', 100300100),
+(100300103, '金凤区', '6', 100300100),
+(100300106, '灵武市', '81', 100300100),
+(100030302, '山海关区', '3', 100030300),
+(100030304, '青龙满族自治县', '21', 100030300),
+(100030305, '昌黎县', '22', 100030300),
+(100030307, '卢龙县', '24', 100030300),
+(100030306, '抚宁县', '23', 100030300),
+(100030303, '北戴河区', '4', 100030300),
+(100030301, '海港区', '2', 100030300),
+(100030207, '曹妃甸区', '9', 100030200),
+(100030203, '古冶区', '4', 100030200),
+(100030209, '滦南县', '24', 100030200),
+(100030213, '遵化市', '81', 100030200),
+(100030206, '丰润区', '8', 100030200),
+(100030205, '丰南区', '7', 100030200),
+(100030211, '迁西县', '27', 100030200),
+(100030202, '路北区', '3', 100030200),
+(100030210, '乐亭县', '25', 100030200),
+(100030204, '开平区', '5', 100030200),
+(100030212, '玉田县', '29', 100030200),
+(100030214, '迁安市', '83', 100030200);
+INSERT INTO region(id, name, code, city_id) VALUES(100030201, '路南区', '2', 100030200),
+(100030208, '滦　县', '23', 100030200),
+(100030106, '裕华区', '8', 100030100),
+(100030120, '藁城市', '82', 100030100),
+(100030101, '长安区', '2', 100030100),
+(100030103, '桥西区', '4', 100030100),
+(100030105, '井陉矿区', '7', 100030100),
+(100030108, '正定县', '23', 100030100),
+(100030114, '赞皇县', '29', 100030100),
+(100030119, '辛集市', '81', 100030100),
+(100030104, '新华区', '5', 100030100),
+(100030115, '无极县', '30', 100030100),
+(100030109, '栾城县', '24', 100030100),
+(100030111, '灵寿县', '26', 100030100),
+(100030117, '元氏县', '32', 100030100),
+(100030107, '井陉县', '21', 100030100),
+(100030123, '鹿泉市', '85', 100030100),
+(100030102, '桥东区', '3', 100030100),
+(100030118, '赵县', '33', 100030100),
+(100030122, '新乐市', '84', 100030100),
+(100030110, '行唐县', '25', 100030100),
+(100030113, '深泽县', '28', 100030100),
+(100030121, '晋州市', '83', 100030100),
+(100030112, '高邑县', '27', 100030100),
+(100030116, '平山县', '31', 100030100),
+(100030624, '安国市', '83', 100030600),
+(100030601, '新市区', '2', 100030600),
+(100030620, '博野县', '37', 100030600),
+(100030608, '徐水县', '25', 100030600),
+(100030618, '蠡　县', '35', 100030600),
+(100030612, '容城县', '29', 100030600),
+(100030615, '安新县', '32', 100030600),
+(100030621, '雄　县', '38', 100030600),
+(100030606, '涞水县', '23', 100030600),
+(100030623, '定州市', '82', 100030600),
+(100030605, '清苑县', '22', 100030600),
+(100030617, '曲阳县', '34', 100030600),
+(100030609, '定兴县', '26', 100030600),
+(100030616, '易　县', '33', 100030600),
+(100030603, '南市区', '4', 100030600),
+(100030611, '高阳县', '28', 100030600),
+(100030613, '涞源县', '30', 100030600),
+(100030614, '望都县', '31', 100030600),
+(100030619, '顺平县', '36', 100030600),
+(100030602, '北市区', '3', 100030600),
+(100030604, '满城县', '21', 100030600),
+(100030607, '阜平县', '24', 100030600),
+(100030610, '唐　县', '27', 100030600),
+(100030622, '涿州市', '81', 100030600),
+(100030625, '高碑店市', '84', 100030600),
+(100031003, '固安县', '22', 100031000),
+(100031010, '三河市', '82', 100031000),
+(100031002, '广阳区', '3', 100031000),
+(100031004, '永清县', '23', 100031000),
+(100031008, '大厂回族自治县', '28', 100031000),
+(100031009, '霸州市', '81', 100031000),
+(100031005, '香河县', '24', 100031000),
+(100031007, '文安县', '26', 100031000),
+(100031001, '安次区', '2', 100031000),
+(100031006, '大城县', '25', 100031000),
+(100030518, '南宫市', '81', 100030500),
+(100030508, '任　县', '26', 100030500),
+(100030509, '南和县', '27', 100030500),
+(100030519, '沙河市', '82', 100030500),
+(100030511, '巨鹿县', '29', 100030500),
+(100030506, '柏乡县', '24', 100030500),
+(100030515, '威　县', '33', 100030500),
+(100030503, '邢台县', '21', 100030500),
+(100030512, '新河县', '30', 100030500),
+(100030513, '广宗县', '31', 100030500),
+(100030516, '清河县', '34', 100030500),
+(100030514, '平乡县', '32', 100030500),
+(100030517, '临西县', '35', 100030500),
+(100030510, '宁晋县', '28', 100030500),
+(100030507, '隆尧县', '25', 100030500),
+(100030501, '桥东区', '2', 100030500),
+(100030505, '内丘县', '23', 100030500),
+(100030504, '临城县', '22', 100030500),
+(100030502, '桥西区', '3', 100030500),
+(100030806, '平泉县', '23', 100030800),
+(100030804, '承德县', '21', 100030800),
+(100030805, '兴隆县', '22', 100030800),
+(100030801, '双桥区', '2', 100030800),
+(100030809, '丰宁满族自治县', '26', 100030800),
+(100030802, '双滦区', '3', 100030800),
+(100030803, '鹰手营子矿区', '4', 100030800),
+(100030807, '滦平县', '24', 100030800),
+(100030808, '隆化县', '25', 100030800),
+(100030811, '围场满族蒙古族自治县', '28', 100030800),
+(100030810, '宽城满族自治县', '27', 100030800),
+(100030403, '复兴区', '4', 100030400),
+(100030406, '临漳县', '23', 100030400),
+(100030417, '魏　县', '34', 100030400),
+(100030401, '邯山区', '2', 100030400),
+(100030407, '成安县', '24', 100030400),
+(100030412, '永年县', '29', 100030400),
+(100030416, '馆陶县', '33', 100030400),
+(100030405, '邯郸县', '21', 100030400),
+(100030418, '曲周县', '35', 100030400),
+(100030402, '丛台区', '3', 100030400);
+INSERT INTO region(id, name, code, city_id) VALUES(100030413, '邱　县', '30', 100030400),
+(100030415, '广平县', '32', 100030400),
+(100030419, '武安市', '81', 100030400),
+(100030410, '磁　县', '27', 100030400),
+(100030414, '鸡泽县', '31', 100030400),
+(100030408, '大名县', '25', 100030400),
+(100030411, '肥乡县', '28', 100030400),
+(100030404, '峰峰矿区', '6', 100030400),
+(100030409, '涉　县', '26', 100030400),
+(100030704, '下花园区', '6', 100030700),
+(100030711, '阳原县', '27', 100030700),
+(100030708, '沽源县', '24', 100030700),
+(100030714, '怀来县', '30', 100030700),
+(100030713, '万全县', '29', 100030700),
+(100030710, '蔚　县', '26', 100030700),
+(100030717, '崇礼县', '33', 100030700),
+(100030709, '尚义县', '25', 100030700),
+(100030706, '张北县', '22', 100030700),
+(100030701, '桥东区', '2', 100030700),
+(100030703, '宣化区', '5', 100030700),
+(100030712, '怀安县', '28', 100030700),
+(100030707, '康保县', '23', 100030700),
+(100030716, '赤城县', '32', 100030700),
+(100030715, '涿鹿县', '31', 100030700),
+(100030702, '桥西区', '3', 100030700),
+(100030705, '宣化县', '21', 100030700),
+(100030904, '青　县', '22', 100030900),
+(100030911, '献　县', '29', 100030900),
+(100030901, '新华区', '2', 100030900),
+(100030914, '任丘市', '82', 100030900),
+(100030910, '吴桥县', '28', 100030900),
+(100030903, '沧　县', '21', 100030900),
+(100030905, '东光县', '23', 100030900),
+(100030912, '孟村回族自治县', '30', 100030900),
+(100030906, '海兴县', '24', 100030900),
+(100030907, '盐山县', '25', 100030900),
+(100030915, '黄骅市', '83', 100030900),
+(100030916, '河间市', '84', 100030900),
+(100030913, '泊头市', '81', 100030900),
+(100030902, '运河区', '3', 100030900),
+(100030908, '肃宁县', '26', 100030900),
+(100030909, '南皮县', '27', 100030900),
+(100031105, '饶阳县', '24', 100031100),
+(100031109, '阜城县', '28', 100031100),
+(100031107, '故城县', '26', 100031100),
+(100031102, '枣强县', '21', 100031100),
+(100031104, '武强县', '23', 100031100),
+(100031101, '桃城区', '2', 100031100),
+(100031108, '景　县', '27', 100031100),
+(100031110, '冀州市', '81', 100031100),
+(100031103, '武邑县', '22', 100031100),
+(100031106, '安平县', '25', 100031100),
+(100031111, '深州市', '82', 100031100),
+(100270304, '凤翔县', '22', 100270300),
+(100270307, '眉　县', '26', 100270300),
+(100270311, '凤　县', '30', 100270300),
+(100270312, '太白县', '31', 100270300),
+(100270302, '金台区', '3', 100270300),
+(100270303, '陈仓区', '4', 100270300),
+(100270310, '麟游县', '29', 100270300),
+(100270308, '陇　县', '27', 100270300),
+(100270309, '千阳县', '28', 100270300),
+(100270306, '扶风县', '24', 100270300),
+(100270301, '渭滨区', '2', 100270300),
+(100270305, '岐山县', '23', 100270300),
+(100270407, '礼泉县', '25', 100270400),
+(100270402, '杨凌区', '3', 100270400),
+(100270409, '彬　县', '27', 100270400),
+(100270406, '乾　县', '24', 100270400),
+(100270412, '淳化县', '30', 100270400),
+(100270405, '泾阳县', '23', 100270400),
+(100270410, '长武县', '28', 100270400),
+(100270401, '秦都区', '2', 100270400),
+(100270403, '渭城区', '4', 100270400),
+(100270414, '兴平市', '81', 100270400),
+(100270408, '永寿县', '26', 100270400),
+(100270413, '武功县', '31', 100270400),
+(100270404, '三原县', '22', 100270400),
+(100270411, '旬邑县', '29', 100270400),
+(100270103, '莲湖区', '4', 100270100),
+(100270101, '新城区', '2', 100270100),
+(100270108, '临潼区', '15', 100270100),
+(100270105, '未央区', '12', 100270100),
+(100270111, '周至县', '24', 100270100),
+(100270107, '阎良区', '14', 100270100),
+(100270102, '碑林区', '3', 100270100),
+(100270112, '户　县', '25', 100270100),
+(100270104, '灞桥区', '11', 100270100),
+(100270106, '雁塔区', '13', 100270100),
+(100270109, '长安区', '16', 100270100),
+(100270110, '蓝田县', '22', 100270100),
+(100270113, '高陵县', '26', 100270100),
+(100270703, '城固县', '22', 100270700),
+(100270707, '宁强县', '26', 100270700),
+(100270709, '镇巴县', '28', 100270700),
+(100270704, '洋　县', '23', 100270700),
+(100270705, '西乡县', '24', 100270700),
+(100270710, '留坝县', '29', 100270700),
+(100270702, '南郑县', '21', 100270700),
+(100270708, '略阳县', '27', 100270700);
+INSERT INTO region(id, name, code, city_id) VALUES(100270711, '佛坪县', '30', 100270700),
+(100270701, '汉台区', '2', 100270700),
+(100270706, '勉　县', '25', 100270700),
+(100270806, '定边县', '25', 100270800),
+(100270805, '靖边县', '24', 100270800),
+(100270807, '绥德县', '26', 100270800),
+(100270801, '榆阳区', '2', 100270800),
+(100270804, '横山县', '23', 100270800),
+(100270809, '佳　县', '28', 100270800),
+(100270810, '吴堡县', '29', 100270800),
+(100270808, '米脂县', '27', 100270800),
+(100270811, '清涧县', '30', 100270800),
+(100270812, '子洲县', '31', 100270800),
+(100270802, '神木县', '21', 100270800),
+(100270803, '府谷县', '22', 100270800),
+(100270511, '华阴市', '82', 100270500),
+(100270502, '华　县', '21', 100270500),
+(100270508, '白水县', '27', 100270500),
+(100270501, '临渭区', '2', 100270500),
+(100270504, '大荔县', '23', 100270500),
+(100270503, '潼关县', '22', 100270500),
+(100270505, '合阳县', '24', 100270500),
+(100270506, '澄城县', '25', 100270500),
+(100270507, '蒲城县', '26', 100270500),
+(100270510, '韩城市', '81', 100270500),
+(100270509, '富平县', '28', 100270500),
+(100270601, '宝塔区', '2', 100270600),
+(100270602, '延长县', '21', 100270600),
+(100270607, '吴起县', '26', 100270600),
+(100270611, '宜川县', '30', 100270600),
+(100270606, '志丹县', '25', 100270600),
+(100270603, '延川县', '22', 100270600),
+(100270605, '安塞县', '24', 100270600),
+(100270612, '黄龙县', '31', 100270600),
+(100270610, '洛川县', '29', 100270600),
+(100270608, '甘泉县', '27', 100270600),
+(100270613, '黄陵县', '32', 100270600),
+(100270609, '富　县', '28', 100270600),
+(100270604, '子长县', '23', 100270600),
+(100270203, '耀州区', '4', 100270200),
+(100270202, '印台区', '3', 100270200),
+(100270201, '王益区', '2', 100270200),
+(100270204, '宜君县', '22', 100270200),
+(100271001, '商州区', '2', 100271000),
+(100271007, '柞水县', '26', 100271000),
+(100271003, '丹凤县', '22', 100271000),
+(100271005, '山阳县', '24', 100271000),
+(100271004, '商南县', '23', 100271000),
+(100271002, '洛南县', '21', 100271000),
+(100271006, '镇安县', '25', 100271000),
+(100270906, '岚皋县', '25', 100270900),
+(100270904, '宁陕县', '23', 100270900),
+(100270901, '汉滨区', '2', 100270900),
+(100270907, '平利县', '26', 100270900),
+(100270910, '白河县', '29', 100270900),
+(100270902, '汉阴县', '21', 100270900),
+(100270908, '镇坪县', '27', 100270900),
+(100270905, '紫阳县', '24', 100270900),
+(100270903, '石泉县', '22', 100270900),
+(100270909, '旬阳县', '28', 100270900),
+(100280201, '嘉峪关市', '0', 100280200),
+(100281107, '岷　县', '26', 100281100),
+(100281102, '通渭县', '21', 100281100),
+(100281103, '陇西县', '22', 100281100),
+(100281106, '漳　县', '25', 100281100),
+(100281105, '临洮县', '24', 100281100),
+(100281101, '安定区', '2', 100281100),
+(100281104, '渭源县', '23', 100281100),
+(100280301, '金川区', '2', 100280300),
+(100280302, '永昌县', '21', 100280300),
+(100281402, '临潭县', '21', 100281400),
+(100281404, '舟曲县', '23', 100281400),
+(100281408, '夏河县', '27', 100281400),
+(100281407, '碌曲县', '26', 100281400),
+(100281406, '玛曲县', '25', 100281400),
+(100281401, '合作市', '1', 100281400),
+(100281403, '卓尼县', '22', 100281400),
+(100281405, '迭部县', '24', 100281400),
+(100281203, '文　县', '22', 100281200),
+(100281202, '成　县', '21', 100281200),
+(100281201, '武都区', '2', 100281200),
+(100281204, '宕昌县', '23', 100281200),
+(100281205, '康　县', '24', 100281200),
+(100281208, '徽　县', '27', 100281200),
+(100281206, '西和县', '25', 100281200),
+(100281207, '礼　县', '26', 100281200),
+(100281209, '两当县', '28', 100281200),
+(100281302, '临夏县', '21', 100281300),
+(100281303, '康乐县', '22', 100281300),
+(100281306, '和政县', '25', 100281300),
+(100281301, '临夏市', '1', 100281300),
+(100281307, '东乡族自治县', '26', 100281300),
+(100281308, '积石山保安族东乡族撒拉族自治县', '27', 100281300),
+(100281305, '广河县', '24', 100281300),
+(100281304, '永靖县', '23', 100281300),
+(100280405, '景泰县', '23', 100280400),
+(100280402, '平川区', '3', 100280400),
+(100280404, '会宁县', '22', 100280400),
+(100280403, '靖远县', '21', 100280400),
+(100280401, '白银区', '2', 100280400);
+INSERT INTO region(id, name, code, city_id) VALUES(100280902, '金塔县', '21', 100280900),
+(100280907, '敦煌市', '82', 100280900),
+(100280906, '玉门市', '81', 100280900),
+(100280903, '瓜州县', '22', 100280900),
+(100280905, '阿克塞哈萨克族自治县', '24', 100280900),
+(100280901, '肃州区', '2', 100280900),
+(100280904, '肃北蒙古族自治县', '23', 100280900),
+(100280702, '肃南裕固族自治县', '21', 100280700),
+(100280706, '山丹县', '25', 100280700),
+(100280703, '民乐县', '22', 100280700),
+(100280704, '临泽县', '23', 100280700),
+(100280701, '甘州区', '2', 100280700),
+(100280705, '高台县', '24', 100280700),
+(100280803, '灵台县', '22', 100280800),
+(100280802, '泾川县', '21', 100280800),
+(100280804, '崇信县', '23', 100280800),
+(100280807, '静宁县', '26', 100280800),
+(100280801, '崆峒区', '2', 100280800),
+(100280805, '华亭县', '24', 100280800),
+(100280806, '庄浪县', '25', 100280800),
+(100280101, '城关区', '2', 100280100),
+(100280105, '红古区', '11', 100280100),
+(100280107, '皋兰县', '22', 100280100),
+(100280108, '榆中县', '23', 100280100),
+(100280104, '安宁区', '5', 100280100),
+(100280106, '永登县', '21', 100280100),
+(100280102, '七里河区', '3', 100280100),
+(100280103, '西固区', '4', 100280100),
+(100280601, '凉州区', '2', 100280600),
+(100280604, '天祝藏族自治县', '23', 100280600),
+(100280602, '民勤县', '21', 100280600),
+(100280603, '古浪县', '22', 100280600),
+(100280507, '张家川回族自治县', '25', 100280500),
+(100280503, '清水县', '21', 100280500),
+(100280504, '秦安县', '22', 100280500),
+(100280506, '武山县', '24', 100280500),
+(100280502, '麦积区', '3', 100280500),
+(100280505, '甘谷县', '23', 100280500),
+(100280501, '秦州区', '2', 100280500),
+(100281008, '镇原县', '27', 100281000),
+(100281003, '环　县', '22', 100281000),
+(100281005, '合水县', '24', 100281000),
+(100281004, '华池县', '23', 100281000),
+(100281007, '宁　县', '26', 100281000),
+(100281001, '西峰区', '2', 100281000),
+(100281006, '正宁县', '25', 100281000),
+(100281002, '庆城县', '21', 100281000),
+(100210101, '秀英区', '5', 100210100),
+(100210103, '琼山区', '7', 100210100),
+(100210102, '龙华区', '6', 100210100),
+(100210104, '美兰区', '8', 100210100),
+(100230506, '绵竹市', '83', 100230500),
+(100230503, '罗江县', '26', 100230500),
+(100230502, '中江县', '23', 100230500),
+(100230504, '广汉市', '81', 100230500),
+(100230505, '什邡市', '82', 100230500),
+(100230501, '旌阳区', '3', 100230500),
+(100231601, '雨城区', '2', 100231600),
+(100231603, '荥经县', '22', 100231600),
+(100231606, '天全县', '25', 100231600),
+(100231608, '宝兴县', '27', 100231600),
+(100231602, '名山县', '21', 100231600),
+(100231607, '芦山县', '26', 100231600),
+(100231604, '汉源县', '23', 100231600),
+(100231605, '石棉县', '24', 100231600),
+(100231202, '仁寿县', '21', 100231200),
+(100231201, '东坡区', '2', 100231200),
+(100231205, '丹棱县', '24', 100231200),
+(100231204, '洪雅县', '23', 100231200),
+(100231206, '青神县', '25', 100231200),
+(100231203, '彭山县', '22', 100231200),
+(100231003, '五通桥区', '12', 100231000),
+(100231001, '市中区', '2', 100231000),
+(100231002, '沙湾区', '11', 100231000),
+(100231009, '峨边彝族自治县', '32', 100231000),
+(100231007, '夹江县', '26', 100231000),
+(100231010, '马边彝族自治县', '33', 100231000),
+(100231005, '犍为县', '23', 100231000),
+(100231004, '金口河区', '13', 100231000),
+(100231006, '井研县', '24', 100231000),
+(100231008, '沐川县', '29', 100231000),
+(100231011, '峨眉山市', '81', 100231000),
+(100230110, '金堂县', '21', 100230100),
+(100230114, '蒲江县', '31', 100230100),
+(100230105, '成华区', '8', 100230100),
+(100230101, '锦江区', '4', 100230100),
+(100230102, '青羊区', '5', 100230100),
+(100230106, '龙泉驿区', '12', 100230100),
+(100230107, '青白江区', '13', 100230100),
+(100230113, '大邑县', '29', 100230100),
+(100230108, '新都区', '14', 100230100),
+(100230109, '温江区', '15', 100230100),
+(100230111, '双流县', '22', 100230100),
+(100230115, '新津县', '32', 100230100),
+(100230104, '武侯区', '7', 100230100),
+(100230112, '郫　县', '24', 100230100),
+(100230103, '金牛区', '6', 100230100),
+(100230118, '邛崃市', '83', 100230100),
+(100230117, '彭州市', '82', 100230100),
+(100230116, '都江堰市', '81', 100230100);
+INSERT INTO region(id, name, code, city_id) VALUES(100230119, '崇州市', '84', 100230100),
+(100232116, '美姑县', '36', 100232100),
+(100232112, '喜德县', '32', 100232100),
+(100232108, '普格县', '28', 100232100),
+(100232115, '甘洛县', '35', 100232100),
+(100232103, '盐源县', '23', 100232100),
+(100232113, '冕宁县', '33', 100232100),
+(100232117, '雷波县', '37', 100232100),
+(100232104, '德昌县', '24', 100232100),
+(100232101, '西昌市', '1', 100232100),
+(100232107, '宁南县', '27', 100232100),
+(100232105, '会理县', '25', 100232100),
+(100232111, '昭觉县', '31', 100232100),
+(100232102, '木里藏族自治县', '22', 100232100),
+(100232106, '会东县', '26', 100232100),
+(100232109, '布拖县', '29', 100232100),
+(100232114, '越西县', '34', 100232100),
+(100232110, '金阳县', '30', 100232100),
+(100230304, '米易县', '21', 100230300),
+(100230301, '东　区', '2', 100230300),
+(100230303, '仁和区', '11', 100230300),
+(100230302, '西　区', '3', 100230300),
+(100230305, '盐边县', '22', 100230300),
+(100231309, '兴文县', '28', 100231300),
+(100231302, '宜宾县', '21', 100231300),
+(100231308, '筠连县', '27', 100231300),
+(100231301, '翠屏区', '2', 100231300),
+(100231303, '南溪县', '22', 100231300),
+(100231304, '江安县', '23', 100231300),
+(100231306, '高　县', '25', 100231300),
+(100231310, '屏山县', '29', 100231300),
+(100231305, '长宁县', '24', 100231300),
+(100231307, '珙　县', '26', 100231300),
+(100231504, '开江县', '23', 100231500),
+(100231502, '达　县', '21', 100231500),
+(100231503, '宣汉县', '22', 100231500),
+(100231506, '渠　县', '25', 100231500),
+(100231505, '大竹县', '24', 100231500),
+(100231501, '通川区', '2', 100231500),
+(100231507, '万源市', '81', 100231500),
+(100230701, '市中区', '2', 100230700),
+(100230707, '苍溪县', '24', 100230700),
+(100230702, '元坝区', '11', 100230700),
+(100230703, '朝天区', '12', 100230700),
+(100230705, '青川县', '22', 100230700),
+(100230706, '剑阁县', '23', 100230700),
+(100230704, '旺苍县', '21', 100230700),
+(100231701, '巴州区', '2', 100231700),
+(100231703, '南江县', '22', 100231700),
+(100231702, '通江县', '21', 100231700),
+(100231704, '平昌县', '23', 100231700),
+(100231906, '金川县', '26', 100231900),
+(100231913, '红原县', '33', 100231900),
+(100231902, '理　县', '22', 100231900),
+(100231908, '黑水县', '28', 100231900),
+(100231911, '阿坝县', '31', 100231900),
+(100231909, '马尔康县', '29', 100231900),
+(100231905, '九寨沟县', '25', 100231900),
+(100231904, '松潘县', '24', 100231900),
+(100231912, '若尔盖县', '32', 100231900),
+(100231903, '茂　县', '23', 100231900),
+(100231901, '汶川县', '21', 100231900),
+(100231907, '小金县', '27', 100231900),
+(100231910, '壤塘县', '30', 100231900),
+(100230606, '梓潼县', '25', 100230600),
+(100230607, '北川羌族自治县', '26', 100230600),
+(100230605, '安　县', '24', 100230600),
+(100230608, '平武县', '27', 100230600),
+(100230609, '江油市', '81', 100230600),
+(100230603, '三台县', '22', 100230600),
+(100230604, '盐亭县', '23', 100230600),
+(100230602, '游仙区', '4', 100230600),
+(100230601, '涪城区', '3', 100230600),
+(100231405, '华蓥市', '81', 100231400),
+(100231404, '邻水县', '23', 100231400),
+(100231403, '武胜县', '22', 100231400),
+(100231401, '广安区', '2', 100231400),
+(100231402, '岳池县', '21', 100231400),
+(100230201, '自流井区', '2', 100230200),
+(100230202, '贡井区', '3', 100230200),
+(100230203, '大安区', '4', 100230200),
+(100230205, '荣　县', '21', 100230200),
+(100230206, '富顺县', '22', 100230200),
+(100230204, '沿滩区', '11', 100230200),
+(100230802, '安居区', '4', 100230800),
+(100230805, '大英县', '23', 100230800),
+(100230801, '船山区', '3', 100230800),
+(100230804, '射洪县', '22', 100230800),
+(100230803, '蓬溪县', '21', 100230800),
+(100230902, '东兴区', '11', 100230900),
+(100230903, '威远县', '24', 100230900),
+(100230901, '市中区', '2', 100230900),
+(100230904, '资中县', '25', 100230900),
+(100230905, '隆昌县', '28', 100230900),
+(100231801, '雁江区', '2', 100231800),
+(100231803, '乐至县', '22', 100231800),
+(100231802, '安岳县', '21', 100231800),
+(100231804, '简阳市', '81', 100231800),
+(100230401, '江阳区', '2', 100230400),
+(100230407, '古蔺县', '25', 100230400);
+INSERT INTO region(id, name, code, city_id) VALUES(100230403, '龙马潭区', '4', 100230400),
+(100230402, '纳溪区', '3', 100230400),
+(100230404, '泸　县', '21', 100230400),
+(100230405, '合江县', '22', 100230400),
+(100230406, '叙永县', '24', 100230400),
+(100231103, '嘉陵区', '4', 100231100),
+(100231106, '蓬安县', '23', 100231100),
+(100231107, '仪陇县', '24', 100231100),
+(100231104, '南部县', '21', 100231100),
+(100231108, '西充县', '25', 100231100),
+(100231109, '阆中市', '81', 100231100),
+(100231105, '营山县', '22', 100231100),
+(100231102, '高坪区', '3', 100231100),
+(100231101, '顺庆区', '2', 100231100),
+(100232008, '甘孜县', '28', 100232000),
+(100232006, '道孚县', '26', 100232000),
+(100232002, '泸定县', '22', 100232000),
+(100232005, '雅江县', '25', 100232000),
+(100232018, '得荣县', '38', 100232000),
+(100232001, '康定县', '21', 100232000),
+(100232009, '新龙县', '29', 100232000),
+(100232010, '德格县', '30', 100232000),
+(100232012, '石渠县', '32', 100232000),
+(100232013, '色达县', '33', 100232000),
+(100232011, '白玉县', '31', 100232000),
+(100232014, '理塘县', '34', 100232000),
+(100232004, '九龙县', '24', 100232000),
+(100232016, '乡城县', '36', 100232000),
+(100232015, '巴塘县', '35', 100232000),
+(100232007, '炉霍县', '27', 100232000),
+(100232017, '稻城县', '37', 100232000),
+(100232003, '丹巴县', '23', 100232000),
+(100121301, '金安区', '2', 100121300),
+(100121302, '裕安区', '3', 100121300),
+(100121303, '寿　县', '21', 100121300),
+(100121307, '霍山县', '25', 100121300),
+(100121306, '金寨县', '24', 100121300),
+(100121305, '舒城县', '23', 100121300),
+(100121304, '霍邱县', '22', 100121300),
+(100121202, '砀山县', '21', 100121200),
+(100121203, '萧　县', '22', 100121200),
+(100121205, '泗　县', '24', 100121200),
+(100121201, '埇桥区', '2', 100121200),
+(100121204, '灵璧县', '23', 100121200),
+(100120105, '长丰县', '21', 100120100),
+(100120104, '包河区', '11', 100120100),
+(100120108, '庐江县', '24', 100120100),
+(100120109, '巢湖市', '25', 100120100),
+(100120101, '瑶海区', '2', 100120100),
+(100120106, '肥东县', '22', 100120100),
+(100120103, '蜀山区', '4', 100120100),
+(100120107, '肥西县', '23', 100120100),
+(100120102, '庐阳区', '3', 100120100),
+(100120807, '太湖县', '25', 100120800),
+(100120808, '宿松县', '26', 100120800),
+(100120805, '枞阳县', '23', 100120800),
+(100120802, '大观区', '3', 100120800),
+(100120804, '怀宁县', '22', 100120800),
+(100120810, '岳西县', '28', 100120800),
+(100120811, '桐城市', '81', 100120800),
+(100120806, '潜山县', '24', 100120800),
+(100120803, '宜秀区', '11', 100120800),
+(100120801, '迎江区', '2', 100120800),
+(100120809, '望江县', '27', 100120800),
+(100120502, '雨山区', '4', 100120500),
+(100120501, '花山区', '3', 100120500),
+(100120504, '当涂县', '21', 100120500),
+(100120506, '和县', '23', 100120500),
+(100120503, '博望区', '5', 100120500),
+(100120505, '含山县', '22', 100120500),
+(100120701, '铜官山区', '2', 100120700),
+(100120703, '郊　区', '11', 100120700),
+(100120704, '铜陵县', '21', 100120700),
+(100120702, '狮子山区', '3', 100120700),
+(100121401, '谯城区', '2', 100121400),
+(100121404, '利辛县', '23', 100121400),
+(100121402, '涡阳县', '21', 100121400),
+(100121403, '蒙城县', '22', 100121400),
+(100120302, '蚌山区', '3', 100120300),
+(100120303, '禹会区', '4', 100120300),
+(100120304, '淮上区', '11', 100120300),
+(100120307, '固镇县', '23', 100120300),
+(100120306, '五河县', '22', 100120300),
+(100120301, '龙子湖区', '2', 100120300),
+(100120305, '怀远县', '21', 100120300),
+(100120206, '繁昌县', '22', 100120200),
+(100120204, '三山区', '8', 100120200),
+(100120208, '无为县', '24', 100120200),
+(100120202, '弋江区', '3', 100120200),
+(100120203, '鸠江区', '7', 100120200),
+(100120207, '南陵县', '23', 100120200),
+(100120201, '镜湖区', '2', 100120200),
+(100120205, '芜湖县', '21', 100120200),
+(100121002, '南谯区', '3', 100121000),
+(100121001, '琅琊区', '2', 100121000),
+(100121004, '全椒县', '24', 100121000),
+(100121006, '凤阳县', '26', 100121000),
+(100121008, '明光市', '82', 100121000),
+(100121003, '来安县', '22', 100121000),
+(100121005, '定远县', '25', 100121000);
+INSERT INTO region(id, name, code, city_id) VALUES(100121007, '天长市', '81', 100121000),
+(100121501, '贵池区', '2', 100121500),
+(100121502, '东至县', '21', 100121500),
+(100121503, '石台县', '22', 100121500),
+(100121504, '青阳县', '23', 100121500),
+(100121603, '广德县', '22', 100121600),
+(100121605, '绩溪县', '24', 100121600),
+(100121601, '宣州区', '2', 100121600),
+(100121607, '宁国市', '81', 100121600),
+(100121602, '郎溪县', '21', 100121600),
+(100121606, '旌德县', '25', 100121600),
+(100121604, '泾　县', '23', 100121600),
+(100120901, '屯溪区', '2', 100120900),
+(100120906, '黟　县', '23', 100120900),
+(100120907, '祁门县', '24', 100120900),
+(100120903, '徽州区', '4', 100120900),
+(100120904, '歙　县', '21', 100120900),
+(100120905, '休宁县', '22', 100120900),
+(100120902, '黄山区', '3', 100120900),
+(100121102, '颍东区', '3', 100121100),
+(100121108, '界首市', '82', 100121100),
+(100121101, '颍州区', '2', 100121100),
+(100121104, '临泉县', '21', 100121100),
+(100121103, '颍泉区', '4', 100121100),
+(100121106, '阜南县', '25', 100121100),
+(100121107, '颍上县', '26', 100121100),
+(100121105, '太和县', '22', 100121100),
+(100120401, '大通区', '2', 100120400),
+(100120402, '田家庵区', '3', 100120400),
+(100120405, '潘集区', '6', 100120400),
+(100120404, '八公山区', '5', 100120400),
+(100120406, '凤台县', '21', 100120400),
+(100120403, '谢家集区', '4', 100120400),
+(100120601, '杜集区', '2', 100120600),
+(100120603, '烈山区', '4', 100120600),
+(100120602, '相山区', '3', 100120600),
+(100120604, '濉溪县', '21', 100120600),
+(100240605, '贞丰县', '25', 100240600),
+(100240601, '兴义市', '1', 100240600),
+(100240602, '兴仁县', '22', 100240600),
+(100240606, '望谟县', '26', 100240600),
+(100240608, '安龙县', '28', 100240600),
+(100240603, '普安县', '23', 100240600),
+(100240604, '晴隆县', '24', 100240600),
+(100240607, '册亨县', '27', 100240600),
+(100240907, '平塘县', '27', 100240900),
+(100240906, '独山县', '26', 100240900),
+(100240901, '都匀市', '1', 100240900),
+(100240904, '贵定县', '23', 100240900),
+(100240910, '龙里县', '30', 100240900),
+(100240908, '罗甸县', '28', 100240900),
+(100240902, '福泉市', '2', 100240900),
+(100240909, '长顺县', '29', 100240900),
+(100240905, '瓮安县', '25', 100240900),
+(100240911, '惠水县', '31', 100240900),
+(100240912, '三都水族自治县', '32', 100240900),
+(100240903, '荔波县', '22', 100240900),
+(100240204, '盘　县', '22', 100240200),
+(100240202, '六枝特区', '3', 100240200),
+(100240201, '钟山区', '1', 100240200),
+(100240203, '水城县', '21', 100240200),
+(100240301, '红花岗区', '2', 100240300),
+(100240302, '汇川区', '3', 100240300),
+(100240311, '余庆县', '29', 100240300),
+(100240303, '遵义县', '21', 100240300),
+(100240308, '务川仡佬族苗族自治县', '26', 100240300),
+(100240309, '凤冈县', '27', 100240300),
+(100240304, '桐梓县', '22', 100240300),
+(100240307, '道真仡佬族苗族自治县', '25', 100240300),
+(100240305, '绥阳县', '23', 100240300),
+(100240310, '湄潭县', '28', 100240300),
+(100240306, '正安县', '24', 100240300),
+(100240313, '赤水市', '81', 100240300),
+(100240312, '习水县', '30', 100240300),
+(100240314, '仁怀市', '82', 100240300),
+(100240403, '普定县', '22', 100240400),
+(100240405, '关岭布依族苗族自治县', '24', 100240400),
+(100240406, '紫云苗族布依族自治县', '25', 100240400),
+(100240401, '西秀区', '2', 100240400),
+(100240402, '平坝县', '21', 100240400),
+(100240404, '镇宁布依族苗族自治县', '23', 100240400),
+(100240815, '麻江县', '35', 100240800),
+(100240803, '施秉县', '23', 100240800),
+(100240808, '锦屏县', '28', 100240800),
+(100240810, '台江县', '30', 100240800),
+(100240805, '镇远县', '25', 100240800),
+(100240801, '凯里市', '1', 100240800),
+(100240806, '岑巩县', '26', 100240800),
+(100240809, '剑河县', '29', 100240800),
+(100240811, '黎平县', '31', 100240800),
+(100240813, '从江县', '33', 100240800),
+(100240807, '天柱县', '27', 100240800),
+(100240816, '丹寨县', '36', 100240800),
+(100240814, '雷山县', '34', 100240800),
+(100240804, '三穗县', '24', 100240800),
+(100240802, '黄平县', '22', 100240800),
+(100240812, '榕江县', '32', 100240800),
+(100240105, '白云区', '13', 100240100),
+(100240108, '息烽县', '22', 100240100),
+(100240102, '云岩区', '3', 100240100);
+INSERT INTO region(id, name, code, city_id) VALUES(100240103, '花溪区', '11', 100240100),
+(100240109, '修文县', '23', 100240100),
+(100240101, '南明区', '2', 100240100),
+(100240106, '小河区', '14', 100240100),
+(100240104, '乌当区', '12', 100240100),
+(100240107, '开阳县', '21', 100240100),
+(100240110, '清镇市', '81', 100240100),
+(100240705, '织金县', '25', 100240700),
+(100240708, '赫章县', '28', 100240700),
+(100240701, '毕节市', '1', 100240700),
+(100240706, '纳雍县', '26', 100240700),
+(100240704, '金沙县', '24', 100240700),
+(100240703, '黔西县', '23', 100240700),
+(100240702, '大方县', '22', 100240700),
+(100240707, '威宁彝族回族苗族自治县', '27', 100240700),
+(100240506, '印江土家族苗族自治县', '26', 100240500),
+(100240501, '铜仁市', '1', 100240500),
+(100240510, '万山特区', '30', 100240500),
+(100240503, '玉屏侗族自治县', '23', 100240500),
+(100240502, '江口县', '22', 100240500),
+(100240507, '德江县', '27', 100240500),
+(100240509, '松桃苗族自治县', '29', 100240500),
+(100240504, '石阡县', '24', 100240500),
+(100240508, '沿河土家族自治县', '28', 100240500),
+(100240505, '思南县', '25', 100240500),
+(100140501, '渝水区', '2', 100140500),
+(100140502, '分宜县', '21', 100140500),
+(100140805, '峡江县', '23', 100140800),
+(100140808, '泰和县', '26', 100140800),
+(100140809, '遂川县', '27', 100140800),
+(100140810, '万安县', '28', 100140800),
+(100140804, '吉水县', '22', 100140800),
+(100140801, '吉州区', '2', 100140800),
+(100140802, '青原区', '3', 100140800),
+(100140803, '吉安县', '21', 100140800),
+(100140811, '安福县', '29', 100140800),
+(100140812, '永新县', '30', 100140800),
+(100140813, '井冈山市', '81', 100140800),
+(100140807, '永丰县', '25', 100140800),
+(100140806, '新干县', '24', 100140800),
+(100140204, '乐平市', '81', 100140200),
+(100140203, '浮梁县', '22', 100140200),
+(100140202, '珠山区', '3', 100140200),
+(100140201, '昌江区', '2', 100140200),
+(100140905, '宜丰县', '24', 100140900),
+(100140904, '上高县', '23', 100140900),
+(100140907, '铜鼓县', '26', 100140900),
+(100140901, '袁州区', '2', 100140900),
+(100140909, '樟树市', '82', 100140900),
+(100140902, '奉新县', '21', 100140900),
+(100140910, '高安市', '83', 100140900),
+(100140906, '靖安县', '25', 100140900),
+(100140903, '万载县', '22', 100140900),
+(100140908, '丰城市', '81', 100140900),
+(100140301, '安源区', '2', 100140300),
+(100140303, '莲花县', '21', 100140300),
+(100140302, '湘东区', '13', 100140300),
+(100140305, '芦溪县', '23', 100140300),
+(100140304, '上栗县', '22', 100140300),
+(100140412, '瑞昌市', '81', 100140400),
+(100140401, '庐山区', '2', 100140400),
+(100140410, '湖口县', '29', 100140400),
+(100140411, '彭泽县', '30', 100140400),
+(100140402, '浔阳区', '3', 100140400),
+(100140409, '都昌县', '28', 100140400),
+(100140406, '永修县', '25', 100140400),
+(100140408, '星子县', '27', 100140400),
+(100140404, '武宁县', '23', 100140400),
+(100140405, '修水县', '24', 100140400),
+(100140407, '德安县', '26', 100140400),
+(100140403, '九江县', '21', 100140400),
+(100140704, '大余县', '23', 100140700),
+(100140706, '崇义县', '25', 100140700),
+(100140710, '全南县', '29', 100140700),
+(100140711, '宁都县', '30', 100140700),
+(100140707, '安远县', '26', 100140700),
+(100140716, '石城县', '35', 100140700),
+(100140718, '南康市', '82', 100140700),
+(100140715, '寻乌县', '34', 100140700),
+(100140702, '赣　县', '21', 100140700),
+(100140713, '兴国县', '32', 100140700),
+(100140714, '会昌县', '33', 100140700),
+(100140705, '上犹县', '24', 100140700),
+(100140709, '定南县', '28', 100140700),
+(100140708, '龙南县', '27', 100140700),
+(100140703, '信丰县', '22', 100140700),
+(100140712, '于都县', '31', 100140700),
+(100140717, '瑞金市', '81', 100140700),
+(100140701, '章贡区', '2', 100140700),
+(100140103, '青云谱区', '4', 100140100),
+(100140109, '进贤县', '24', 100140100),
+(100140101, '东湖区', '2', 100140100),
+(100140107, '新建县', '22', 100140100),
+(100140102, '西湖区', '3', 100140100),
+(100140104, '湾里区', '5', 100140100),
+(100140105, '青山湖区', '11', 100140100),
+(100140106, '南昌县', '21', 100140100),
+(100140108, '安义县', '23', 100140100),
+(100140602, '余江县', '22', 100140600),
+(100140603, '贵溪市', '81', 100140600);
+INSERT INTO region(id, name, code, city_id) VALUES(100140601, '月湖区', '2', 100140600),
+(100141001, '临川区', '2', 100141000),
+(100141011, '广昌县', '30', 100141000),
+(100141003, '黎川县', '22', 100141000),
+(100141004, '南丰县', '23', 100141000),
+(100141007, '宜黄县', '26', 100141000),
+(100141009, '资溪县', '28', 100141000),
+(100141005, '崇仁县', '24', 100141000),
+(100141010, '东乡县', '29', 100141000),
+(100141002, '南城县', '21', 100141000),
+(100141006, '乐安县', '25', 100141000),
+(100141008, '金溪县', '27', 100141000),
+(100141106, '横峰县', '25', 100141100),
+(100141107, '弋阳县', '26', 100141100),
+(100141109, '鄱阳县', '28', 100141100),
+(100141102, '上饶县', '21', 100141100),
+(100141101, '信州区', '2', 100141100),
+(100141108, '余干县', '27', 100141100),
+(100141111, '婺源县', '30', 100141100),
+(100141105, '铅山县', '24', 100141100),
+(100141112, '德兴市', '81', 100141100),
+(100141110, '万年县', '29', 100141100),
+(100141104, '玉山县', '23', 100141100),
+(100141103, '广丰县', '22', 100141100),
+(100070305, '公主岭市', '81', 100070300),
+(100070306, '双辽市', '82', 100070300),
+(100070302, '铁东区', '3', 100070300),
+(100070303, '梨树县', '22', 100070300),
+(100070304, '伊通满族自治县', '23', 100070300),
+(100070301, '铁西区', '2', 100070300),
+(100070908, '安图县', '26', 100070900),
+(100070902, '图们市', '2', 100070900),
+(100070905, '龙井市', '5', 100070900),
+(100070906, '和龙市', '6', 100070900),
+(100070903, '敦化市', '3', 100070900),
+(100070901, '延吉市', '1', 100070900),
+(100070904, '珲春市', '4', 100070900),
+(100070907, '汪清县', '24', 100070900),
+(100070805, '大安市', '82', 100070800),
+(100070804, '洮南市', '81', 100070800),
+(100070802, '镇赉县', '21', 100070800),
+(100070801, '洮北区', '2', 100070800),
+(100070803, '通榆县', '22', 100070800),
+(100070110, '德惠市', '83', 100070100),
+(100070106, '双阳区', '12', 100070100),
+(100070108, '九台市', '81', 100070100),
+(100070109, '榆树市', '82', 100070100),
+(100070107, '农安县', '22', 100070100),
+(100070105, '绿园区', '6', 100070100),
+(100070101, '南关区', '2', 100070100),
+(100070104, '二道区', '5', 100070100),
+(100070102, '宽城区', '3', 100070100),
+(100070103, '朝阳区', '4', 100070100),
+(100070506, '梅河口市', '81', 100070500),
+(100070504, '辉南县', '23', 100070500),
+(100070507, '集安市', '82', 100070500),
+(100070505, '柳河县', '24', 100070500),
+(100070503, '通化县', '21', 100070500),
+(100070502, '二道江区', '3', 100070500),
+(100070501, '东昌区', '2', 100070500),
+(100070402, '西安区', '3', 100070400),
+(100070404, '东辽县', '22', 100070400),
+(100070401, '龙山区', '2', 100070400),
+(100070403, '东丰县', '21', 100070400),
+(100070201, '昌邑区', '2', 100070200),
+(100070206, '蛟河市', '81', 100070200),
+(100070209, '磐石市', '84', 100070200),
+(100070202, '龙潭区', '3', 100070200),
+(100070208, '舒兰市', '83', 100070200),
+(100070205, '永吉县', '21', 100070200),
+(100070203, '船营区', '4', 100070200),
+(100070204, '丰满区', '11', 100070200),
+(100070207, '桦甸市', '82', 100070200),
+(100070602, '江源区', '5', 100070600),
+(100070605, '长白朝鲜族自治县', '23', 100070600),
+(100070603, '抚松县', '21', 100070600),
+(100070606, '临江市', '81', 100070600),
+(100070604, '靖宇县', '22', 100070600),
+(100070601, '八道江区', '2', 100070600),
+(100070704, '乾安县', '23', 100070700),
+(100070702, '前郭尔罗斯蒙古族自治县', '21', 100070700),
+(100070703, '长岭县', '22', 100070700),
+(100070701, '宁江区', '2', 100070700),
+(100070705, '扶余县', '24', 100070700),
+(100100204, '锡山区', '5', 100100200),
+(100100206, '滨湖区', '11', 100100200),
+(100100202, '南长区', '3', 100100200),
+(100100208, '宜兴市', '82', 100100200),
+(100100201, '崇安区', '2', 100100200),
+(100100207, '江阴市', '81', 100100200),
+(100100205, '惠山区', '6', 100100200),
+(100100203, '北塘区', '4', 100100200),
+(100101006, '高邮市', '84', 100101000),
+(100101007, '江都市', '88', 100101000),
+(100101001, '广陵区', '2', 100101000),
+(100101003, '维扬区', '11', 100101000),
+(100101002, '邗江区', '3', 100101000),
+(100101004, '宝应县', '23', 100101000),
+(100101005, '仪征市', '81', 100101000),
+(100101201, '海陵区', '2', 100101200);
+INSERT INTO region(id, name, code, city_id) VALUES(100101202, '高港区', '3', 100101200),
+(100101204, '靖江市', '82', 100101200),
+(100101206, '姜堰市', '84', 100101200),
+(100101203, '兴化市', '81', 100101200),
+(100101205, '泰兴市', '83', 100101200),
+(100100507, '张家港市', '82', 100100500),
+(100100504, '相城区', '7', 100100500),
+(100100506, '常熟市', '81', 100100500),
+(100100502, '虎丘区', '5', 100100500),
+(100100509, '太仓市', '85', 100100500),
+(100100505, '吴江区', '8', 100100500),
+(100100503, '吴中区', '6', 100100500),
+(100100501, '姑苏区', '4', 100100500),
+(100100508, '昆山市', '83', 100100500),
+(100101102, '润州区', '11', 100101100),
+(100101104, '丹阳市', '81', 100101100),
+(100101105, '扬中市', '82', 100101100),
+(100101106, '句容市', '83', 100101100),
+(100101103, '丹徒区', '12', 100101100),
+(100101101, '京口区', '2', 100101100),
+(100100104, '建邺区', '5', 100100100),
+(100100113, '高淳县', '25', 100100100),
+(100100112, '溧水县', '24', 100100100),
+(100100107, '浦口区', '11', 100100100),
+(100100106, '下关区', '7', 100100100),
+(100100103, '秦淮区', '4', 100100100),
+(100100105, '鼓楼区', '6', 100100100),
+(100100110, '江宁区', '15', 100100100),
+(100100108, '栖霞区', '13', 100100100),
+(100100111, '六合区', '16', 100100100),
+(100100101, '玄武区', '2', 100100100),
+(100100102, '白下区', '3', 100100100),
+(100100109, '雨花台区', '14', 100100100),
+(100100601, '崇川区', '2', 100100600),
+(100100603, '海安县', '21', 100100600),
+(100100602, '港闸区', '11', 100100600),
+(100100604, '如东县', '23', 100100600),
+(100100605, '启东市', '81', 100100600),
+(100100608, '海门市', '84', 100100600),
+(100100606, '如皋市', '82', 100100600),
+(100100607, '通州市', '83', 100100600),
+(100100702, '新浦区', '5', 100100700),
+(100100705, '东海县', '22', 100100700),
+(100100707, '灌南县', '24', 100100700),
+(100100701, '连云区', '3', 100100700),
+(100100704, '赣榆县', '21', 100100700),
+(100100703, '海州区', '6', 100100700),
+(100100706, '灌云县', '23', 100100700),
+(100100401, '天宁区', '2', 100100400),
+(100100403, '戚墅堰区', '5', 100100400),
+(100100404, '新北区', '11', 100100400),
+(100100407, '金坛市', '82', 100100400),
+(100100402, '钟楼区', '4', 100100400),
+(100100406, '溧阳市', '81', 100100400),
+(100100405, '武进区', '12', 100100400),
+(100100805, '涟水县', '26', 100100800),
+(100100807, '盱眙县', '30', 100100800),
+(100100801, '清河区', '2', 100100800),
+(100100802, '淮安区', '3', 100100800),
+(100100804, '清浦区', '11', 100100800),
+(100100806, '洪泽县', '29', 100100800),
+(100100803, '淮阴区', '4', 100100800),
+(100100808, '金湖县', '31', 100100800),
+(100100901, '亭湖区', '2', 100100900),
+(100100907, '建湖县', '25', 100100900),
+(100100909, '大丰市', '82', 100100900),
+(100100903, '响水县', '21', 100100900),
+(100100902, '盐都区', '3', 100100900),
+(100100904, '滨海县', '22', 100100900),
+(100100905, '阜宁县', '23', 100100900),
+(100100906, '射阳县', '24', 100100900),
+(100100908, '东台市', '81', 100100900),
+(100100305, '泉山区', '11', 100100300),
+(100100309, '睢宁县', '24', 100100300),
+(100100311, '邳州市', '82', 100100300),
+(100100304, '贾汪区', '5', 100100300),
+(100100301, '鼓楼区', '2', 100100300),
+(100100310, '新沂市', '81', 100100300),
+(100100303, '九里区', '4', 100100300),
+(100100302, '云龙区', '3', 100100300),
+(100100306, '丰　县', '21', 100100300),
+(100100307, '沛　县', '22', 100100300),
+(100100308, '铜山县', '23', 100100300),
+(100101302, '宿豫区', '11', 100101300),
+(100101301, '宿城区', '2', 100101300),
+(100101305, '泗洪县', '24', 100101300),
+(100101303, '沭阳县', '22', 100101300),
+(100101304, '泗阳县', '23', 100101300),
+(100170405, '夷陵区', '6', 100170400),
+(100170401, '西陵区', '2', 100170400),
+(100170407, '兴山县', '26', 100170400),
+(100170410, '五峰土家族自治县', '29', 100170400),
+(100170402, '伍家岗区', '3', 100170400),
+(100170412, '当阳市', '82', 100170400),
+(100170409, '长阳土家族自治县', '28', 100170400),
+(100170403, '点军区', '4', 100170400),
+(100170408, '秭归县', '27', 100170400),
+(100170404, '猇亭区', '5', 100170400),
+(100170411, '宜都市', '81', 100170400),
+(100170406, '远安县', '25', 100170400);
+INSERT INTO region(id, name, code, city_id) VALUES(100170413, '枝江市', '83', 100170400),
+(100170903, '公安县', '22', 100170900),
+(100170901, '沙市区', '2', 100170900),
+(100170904, '监利县', '23', 100170900),
+(100170906, '石首市', '81', 100170900),
+(100170902, '荆州区', '3', 100170900),
+(100170905, '江陵县', '24', 100170900),
+(100170907, '洪湖市', '83', 100170900),
+(100170908, '松滋市', '87', 100170900),
+(100170504, '南漳县', '24', 100170500),
+(100170502, '樊城区', '6', 100170500),
+(100170505, '谷城县', '25', 100170500),
+(100170509, '宜城市', '84', 100170500),
+(100170503, '襄州区', '7', 100170500),
+(100170506, '保康县', '26', 100170500),
+(100170507, '老河口市', '82', 100170500),
+(100170508, '枣阳市', '83', 100170500),
+(100170501, '襄城区', '2', 100170500),
+(100171102, '嘉鱼县', '21', 100171100),
+(100171103, '通城县', '22', 100171100),
+(100171104, '崇阳县', '23', 100171100),
+(100171106, '赤壁市', '81', 100171100),
+(100171101, '咸安区', '2', 100171100),
+(100171105, '通山县', '24', 100171100),
+(100170205, '阳新县', '22', 100170200),
+(100170202, '西塞山区', '3', 100170200),
+(100170206, '大冶市', '81', 100170200),
+(100170201, '黄石港区', '2', 100170200),
+(100170203, '下陆区', '4', 100170200),
+(100170204, '铁山区', '5', 100170200),
+(100170301, '茅箭区', '2', 100170300),
+(100170303, '郧　县', '21', 100170300),
+(100170302, '张湾区', '3', 100170300),
+(100170306, '竹溪县', '24', 100170300),
+(100170305, '竹山县', '23', 100170300),
+(100170304, '郧西县', '22', 100170300),
+(100170307, '房　县', '25', 100170300),
+(100170308, '丹江口市', '81', 100170300),
+(100171007, '蕲春县', '26', 100171000),
+(100171001, '黄州区', '2', 100171000),
+(100171009, '麻城市', '81', 100171000),
+(100171003, '红安县', '22', 100171000),
+(100171002, '团风县', '21', 100171000),
+(100171005, '英山县', '24', 100171000),
+(100171006, '浠水县', '25', 100171000),
+(100171004, '罗田县', '23', 100171000),
+(100171008, '黄梅县', '27', 100171000),
+(100171010, '武穴市', '82', 100171000),
+(100170602, '华容区', '3', 100170600),
+(100170603, '鄂城区', '4', 100170600),
+(100170601, '梁子湖区', '2', 100170600),
+(100170701, '东宝区', '2', 100170700),
+(100170704, '沙洋县', '22', 100170700),
+(100170702, '掇刀区', '4', 100170700),
+(100170705, '钟祥市', '81', 100170700),
+(100170703, '京山县', '21', 100170700),
+(100170110, '蔡甸区', '14', 100170100),
+(100170105, '武昌区', '6', 100170100),
+(100170101, '江岸区', '2', 100170100),
+(100170112, '黄陂区', '16', 100170100),
+(100170102, '江汉区', '3', 100170100),
+(100170103, '硚口区', '4', 100170100),
+(100170111, '江夏区', '15', 100170100),
+(100170104, '汉阳区', '5', 100170100),
+(100170109, '汉南区', '13', 100170100),
+(100170113, '新洲区', '17', 100170100),
+(100170107, '洪山区', '11', 100170100),
+(100170108, '东西湖区', '12', 100170100),
+(100170106, '青山区', '7', 100170100),
+(100171201, '曾都区', '2', 100171200),
+(100171203, '广水市', '81', 100171200),
+(100171202, '随县', '21', 100171200),
+(100170805, '应城市', '81', 100170800),
+(100170801, '孝南区', '2', 100170800),
+(100170803, '大悟县', '22', 100170800),
+(100170804, '云梦县', '23', 100170800),
+(100170807, '汉川市', '84', 100170800),
+(100170802, '孝昌县', '21', 100170800),
+(100170806, '安陆市', '82', 100170800),
+(100171307, '来凤县', '27', 100171300),
+(100171306, '咸丰县', '26', 100171300),
+(100171308, '鹤峰县', '28', 100171300),
+(100171302, '利川市', '2', 100171300),
+(100171305, '宣恩县', '25', 100171300),
+(100171303, '建始县', '22', 100171300),
+(100171304, '巴东县', '23', 100171300),
+(100171301, '恩施市', '1', 100171300),
+(100191205, '五华县', '24', 100191200),
+(100191201, '梅江区', '2', 100191200),
+(100191203, '大埔县', '22', 100191200),
+(100191207, '蕉岭县', '27', 100191200),
+(100191206, '平远县', '26', 100191200),
+(100191204, '丰顺县', '23', 100191200),
+(100191208, '兴宁市', '81', 100191200),
+(100191202, '梅　县', '21', 100191200),
+(100191603, '阳山县', '23', 100191600),
+(100191606, '清新县', '27', 100191600),
+(100191601, '清城区', '2', 100191600),
+(100191608, '连州市', '82', 100191600),
+(100191607, '英德市', '81', 100191600);
+INSERT INTO region(id, name, code, city_id) VALUES(100191604, '连山壮族瑶族自治县', '25', 100191600),
+(100191602, '佛冈县', '21', 100191600),
+(100191605, '连南瑶族自治县', '26', 100191600),
+(100192102, '新兴县', '21', 100192100),
+(100192101, '云城区', '2', 100192100),
+(100192103, '郁南县', '22', 100192100),
+(100192105, '罗定市', '81', 100192100),
+(100192104, '云安县', '23', 100192100),
+(100191405, '和平县', '24', 100191400),
+(100191403, '龙川县', '22', 100191400),
+(100191401, '源城区', '2', 100191400),
+(100191402, '紫金县', '21', 100191400),
+(100191406, '东源县', '25', 100191400),
+(100191404, '连平县', '23', 100191400),
+(100190901, '茂南区', '2', 100190900),
+(100190906, '信宜市', '83', 100190900),
+(100190904, '高州市', '81', 100190900),
+(100190902, '茂港区', '3', 100190900),
+(100190905, '化州市', '82', 100190900),
+(100190903, '电白县', '23', 100190900),
+(100190803, '坡头区', '4', 100190800),
+(100190806, '徐闻县', '25', 100190800),
+(100190808, '雷州市', '82', 100190800),
+(100190804, '麻章区', '11', 100190800),
+(100190807, '廉江市', '81', 100190800),
+(100190805, '遂溪县', '23', 100190800),
+(100190809, '吴川市', '83', 100190800),
+(100190801, '赤坎区', '2', 100190800),
+(100190802, '霞山区', '3', 100190800),
+(100190305, '龙岗区', '7', 100190300),
+(100190306, '盐田区', '8', 100190300),
+(100190303, '南山区', '5', 100190300),
+(100190301, '罗湖区', '3', 100190300),
+(100190304, '宝安区', '6', 100190300),
+(100190302, '福田区', '4', 100190300),
+(100190602, '南海区', '5', 100190600),
+(100190604, '三水区', '7', 100190600),
+(100190601, '禅城区', '4', 100190600),
+(100190603, '顺德区', '6', 100190600),
+(100190605, '高明区', '8', 100190600),
+(100191701, '东莞市', '0', 100191700),
+(100191801, '中山市', '0', 100191800),
+(100190504, '潮阳区', '13', 100190500),
+(100190502, '金平区', '11', 100190500),
+(100190505, '潮南区', '14', 100190500),
+(100190506, '澄海区', '15', 100190500),
+(100190503, '濠江区', '12', 100190500),
+(100190501, '龙湖区', '7', 100190500),
+(100190507, '南澳县', '23', 100190500),
+(100191102, '惠阳区', '3', 100191100),
+(100191101, '惠城区', '2', 100191100),
+(100191103, '博罗县', '22', 100191100),
+(100191104, '惠东县', '23', 100191100),
+(100191105, '龙门县', '24', 100191100),
+(100191903, '饶平县', '22', 100191900),
+(100191901, '湘桥区', '2', 100191900),
+(100191902, '潮安县', '21', 100191900),
+(100191503, '阳东县', '23', 100191500),
+(100191504, '阳春市', '81', 100191500),
+(100191501, '江城区', '2', 100191500),
+(100191502, '阳西县', '21', 100191500),
+(100190402, '斗门区', '3', 100190400),
+(100190401, '香洲区', '2', 100190400),
+(100190403, '金湾区', '4', 100190400),
+(100190203, '曲江区', '5', 100190200),
+(100190209, '乐昌市', '81', 100190200),
+(100190201, '武江区', '3', 100190200),
+(100190204, '始兴县', '22', 100190200),
+(100190207, '乳源瑶族自治县', '32', 100190200),
+(100190206, '翁源县', '29', 100190200),
+(100190202, '浈江区', '4', 100190200),
+(100190210, '南雄市', '82', 100190200),
+(100190205, '仁化县', '24', 100190200),
+(100190208, '新丰县', '33', 100190200),
+(100191301, '城　区', '2', 100191300),
+(100191303, '陆河县', '23', 100191300),
+(100191304, '陆丰市', '81', 100191300),
+(100191302, '海丰县', '21', 100191300),
+(100190108, '花都区', '14', 100190100),
+(100190102, '越秀区', '4', 100190100),
+(100190109, '南沙区', '15', 100190100),
+(100190112, '从化市', '84', 100190100),
+(100190101, '荔湾区', '3', 100190100),
+(100190107, '番禺区', '13', 100190100),
+(100190110, '萝岗区', '16', 100190100),
+(100190106, '黄埔区', '12', 100190100),
+(100190103, '海珠区', '5', 100190100),
+(100190104, '天河区', '6', 100190100),
+(100190111, '增城市', '83', 100190100),
+(100190105, '白云区', '11', 100190100),
+(100192001, '榕城区', '2', 100192000),
+(100192003, '揭西县', '22', 100192000),
+(100192004, '惠来县', '24', 100192000),
+(100192002, '揭东县', '21', 100192000),
+(100192005, '普宁市', '81', 100192000),
+(100190701, '蓬江区', '3', 100190700),
+(100190702, '江海区', '4', 100190700),
+(100190705, '开平市', '83', 100190700),
+(100190704, '台山市', '81', 100190700),
+(100190703, '新会区', '5', 100190700);
+INSERT INTO region(id, name, code, city_id) VALUES(100190706, '鹤山市', '84', 100190700),
+(100190707, '恩平市', '85', 100190700),
+(100191004, '怀集县', '24', 100191000),
+(100191005, '封开县', '25', 100191000),
+(100191001, '端州区', '2', 100191000),
+(100191003, '广宁县', '23', 100191000),
+(100191008, '四会市', '84', 100191000),
+(100191002, '鼎湖区', '3', 100191000),
+(100191007, '高要市', '83', 100191000),
+(100191006, '德庆县', '26', 100191000),
+(100200105, '良庆区', '8', 100200100),
+(100200108, '隆安县', '23', 100200100),
+(100200103, '江南区', '5', 100200100),
+(100200107, '武鸣县', '22', 100200100),
+(100200104, '西乡塘区', '7', 100200100),
+(100200106, '邕宁区', '9', 100200100),
+(100200110, '上林县', '25', 100200100),
+(100200112, '横　县', '27', 100200100),
+(100200102, '青秀区', '3', 100200100),
+(100200109, '马山县', '24', 100200100),
+(100200111, '宾阳县', '26', 100200100),
+(100200101, '兴宁区', '2', 100200100),
+(100200703, '灵山县', '21', 100200700),
+(100200701, '钦南区', '2', 100200700),
+(100200704, '浦北县', '22', 100200700),
+(100200702, '钦北区', '3', 100200700),
+(100200403, '长洲区', '5', 100200400),
+(100200405, '藤　县', '22', 100200400),
+(100200401, '万秀区', '3', 100200400),
+(100200402, '蝶山区', '4', 100200400),
+(100200407, '岑溪市', '81', 100200400),
+(100200406, '蒙山县', '23', 100200400),
+(100200404, '苍梧县', '21', 100200400),
+(100201104, '富川瑶族自治县', '23', 100201100),
+(100201101, '八步区', '2', 100201100),
+(100201103, '钟山县', '22', 100201100),
+(100201102, '昭平县', '21', 100201100),
+(100200902, '容　县', '21', 100200900),
+(100200903, '陆川县', '22', 100200900),
+(100200904, '博白县', '23', 100200900),
+(100200906, '北流市', '81', 100200900),
+(100200901, '玉州区', '2', 100200900),
+(100200905, '兴业县', '24', 100200900),
+(100201202, '南丹县', '21', 100201200),
+(100201205, '东兰县', '24', 100201200),
+(100201201, '金城江区', '2', 100201200),
+(100201204, '凤山县', '23', 100201200),
+(100201211, '宜州市', '81', 100201200),
+(100201210, '大化瑶族自治县', '29', 100201200),
+(100201208, '巴马瑶族自治县', '27', 100201200),
+(100201206, '罗城仫佬族自治县', '25', 100201200),
+(100201203, '天峨县', '22', 100201200),
+(100201207, '环江毛南族自治县', '26', 100201200),
+(100201209, '都安瑶族自治县', '28', 100201200),
+(100201402, '扶绥县', '21', 100201400),
+(100201405, '大新县', '24', 100201400),
+(100201403, '宁明县', '22', 100201400),
+(100201404, '龙州县', '23', 100201400),
+(100201401, '江洲区', '2', 100201400),
+(100201407, '凭祥市', '81', 100201400),
+(100201406, '天等县', '25', 100201400),
+(100201301, '兴宾区', '2', 100201300),
+(100201305, '金秀瑶族自治县', '24', 100201300),
+(100201304, '武宣县', '23', 100201300),
+(100201306, '合山市', '81', 100201300),
+(100201303, '象州县', '22', 100201300),
+(100201302, '忻城县', '21', 100201300),
+(100200502, '银海区', '3', 100200500),
+(100200501, '海城区', '2', 100200500),
+(100200503, '铁山港区', '12', 100200500),
+(100200504, '合浦县', '21', 100200500),
+(100200603, '上思县', '21', 100200600),
+(100200604, '东兴市', '81', 100200600),
+(100200601, '港口区', '2', 100200600),
+(100200602, '防城区', '3', 100200600),
+(100201001, '右江区', '2', 100201000),
+(100201002, '田阳县', '21', 100201000),
+(100201007, '那坡县', '26', 100201000),
+(100201004, '平果县', '23', 100201000),
+(100201005, '德保县', '24', 100201000),
+(100201006, '靖西县', '25', 100201000),
+(100201009, '乐业县', '28', 100201000),
+(100201003, '田东县', '22', 100201000),
+(100201008, '凌云县', '27', 100201000),
+(100201012, '隆林各族自治县', '31', 100201000),
+(100201011, '西林县', '30', 100201000),
+(100201010, '田林县', '29', 100201000),
+(100200206, '柳城县', '22', 100200200),
+(100200210, '三江侗族自治县', '26', 100200200),
+(100200205, '柳江县', '21', 100200200),
+(100200203, '柳南区', '4', 100200200),
+(100200209, '融水苗族自治县', '25', 100200200),
+(100200201, '城中区', '2', 100200200),
+(100200202, '鱼峰区', '3', 100200200),
+(100200204, '柳北区', '5', 100200200),
+(100200207, '鹿寨县', '23', 100200200),
+(100200208, '融安县', '24', 100200200),
+(100200317, '恭城瑶族自治县', '32', 100200300),
+(100200306, '阳朔县', '21', 100200300),
+(100200305, '雁山区', '11', 100200300);
+INSERT INTO region(id, name, code, city_id) VALUES(100200309, '全州县', '24', 100200300),
+(100200316, '荔浦县', '31', 100200300),
+(100200302, '叠彩区', '3', 100200300),
+(100200308, '灵川县', '23', 100200300),
+(100200304, '七星区', '5', 100200300),
+(100200313, '龙胜各族自治县', '28', 100200300),
+(100200301, '秀峰区', '2', 100200300),
+(100200307, '临桂县', '22', 100200300),
+(100200315, '平乐县', '30', 100200300),
+(100200310, '兴安县', '25', 100200300),
+(100200312, '灌阳县', '27', 100200300),
+(100200314, '资源县', '29', 100200300),
+(100200303, '象山区', '4', 100200300),
+(100200311, '永福县', '26', 100200300),
+(100200803, '覃塘区', '4', 100200800),
+(100200802, '港南区', '3', 100200800),
+(100200804, '平南县', '21', 100200800),
+(100200801, '港北区', '2', 100200800),
+(100200805, '桂平市', '81', 100200800),
+(100180704, '汉寿县', '22', 100180700),
+(100180701, '武陵区', '2', 100180700),
+(100180707, '桃源县', '25', 100180700),
+(100180705, '澧　县', '23', 100180700),
+(100180708, '石门县', '26', 100180700),
+(100180706, '临澧县', '24', 100180700),
+(100180709, '津市市', '81', 100180700),
+(100180702, '鼎城区', '3', 100180700),
+(100180703, '安乡县', '21', 100180700),
+(100181107, '江永县', '25', 100181100),
+(100181102, '冷水滩区', '3', 100181100),
+(100181111, '江华瑶族自治县', '29', 100181100),
+(100181104, '东安县', '22', 100181100),
+(100181110, '新田县', '28', 100181100),
+(100181103, '祁阳县', '21', 100181100),
+(100181106, '道　县', '24', 100181100),
+(100181109, '蓝山县', '27', 100181100),
+(100181101, '零陵区', '2', 100181100),
+(100181105, '双牌县', '23', 100181100),
+(100181108, '宁远县', '26', 100181100),
+(100180901, '资阳区', '2', 100180900),
+(100180903, '南　县', '21', 100180900),
+(100180902, '赫山区', '3', 100180900),
+(100180905, '安化县', '23', 100180900),
+(100180906, '沅江市', '81', 100180900),
+(100180904, '桃江县', '22', 100180900),
+(100180804, '桑植县', '22', 100180800),
+(100180803, '慈利县', '21', 100180800),
+(100180801, '永定区', '2', 100180800),
+(100180802, '武陵源区', '11', 100180800),
+(100180203, '石峰区', '4', 100180200),
+(100180208, '炎陵县', '25', 100180200),
+(100180202, '芦淞区', '3', 100180200),
+(100180204, '天元区', '11', 100180200),
+(100180205, '株洲县', '21', 100180200),
+(100180201, '荷塘区', '2', 100180200),
+(100180206, '攸　县', '23', 100180200),
+(100180209, '醴陵市', '81', 100180200),
+(100180207, '茶陵县', '24', 100180200),
+(100180410, '祁东县', '26', 100180400),
+(100180411, '耒阳市', '81', 100180400),
+(100180406, '衡阳县', '21', 100180400),
+(100180409, '衡东县', '24', 100180400),
+(100180403, '石鼓区', '7', 100180400),
+(100180404, '蒸湘区', '8', 100180400),
+(100180407, '衡南县', '22', 100180400),
+(100180412, '常宁市', '82', 100180400),
+(100180402, '雁峰区', '6', 100180400),
+(100180408, '衡山县', '23', 100180400),
+(100180405, '南岳区', '12', 100180400),
+(100180401, '珠晖区', '5', 100180400),
+(100181206, '会同县', '25', 100181200),
+(100181208, '新晃侗族自治县', '27', 100181200),
+(100181203, '沅陵县', '22', 100181200),
+(100181212, '洪江市', '81', 100181200),
+(100181211, '通道侗族自治县', '30', 100181200),
+(100181201, '鹤城区', '2', 100181200),
+(100181202, '中方县', '21', 100181200),
+(100181210, '靖州苗族侗族自治县', '29', 100181200),
+(100181204, '辰溪县', '23', 100181200),
+(100181205, '溆浦县', '24', 100181200),
+(100181207, '麻阳苗族自治县', '26', 100181200),
+(100181209, '芷江侗族自治县', '28', 100181200),
+(100180106, '长沙县', '21', 100180100),
+(100180101, '芙蓉区', '2', 100180100),
+(100180103, '岳麓区', '4', 100180100),
+(100180104, '开福区', '5', 100180100),
+(100180107, '望城区', '22', 100180100),
+(100180105, '雨花区', '11', 100180100),
+(100180109, '浏阳市', '81', 100180100),
+(100180102, '天心区', '3', 100180100),
+(100180108, '宁乡县', '24', 100180100),
+(100181301, '娄星区', '2', 100181300),
+(100181302, '双峰县', '21', 100181300),
+(100181303, '新化县', '22', 100181300),
+(100181304, '冷水江市', '81', 100181300),
+(100181305, '涟源市', '82', 100181300),
+(100180504, '邵东县', '21', 100180500),
+(100180512, '武冈市', '81', 100180500),
+(100180507, '隆回县', '24', 100180500),
+(100180509, '绥宁县', '27', 100180500);
+INSERT INTO region(id, name, code, city_id) VALUES(100180505, '新邵县', '22', 100180500),
+(100180501, '双清区', '2', 100180500),
+(100180503, '北塔区', '11', 100180500),
+(100180510, '新宁县', '28', 100180500),
+(100180511, '城步苗族自治县', '29', 100180500),
+(100180502, '大祥区', '3', 100180500),
+(100180506, '邵阳县', '23', 100180500),
+(100180508, '洞口县', '25', 100180500),
+(100181003, '桂阳县', '21', 100181000),
+(100181004, '宜章县', '22', 100181000),
+(100181008, '汝城县', '26', 100181000),
+(100181011, '资兴市', '81', 100181000),
+(100181001, '北湖区', '2', 100181000),
+(100181002, '苏仙区', '3', 100181000),
+(100181006, '嘉禾县', '24', 100181000),
+(100181007, '临武县', '25', 100181000),
+(100181009, '桂东县', '27', 100181000),
+(100181005, '永兴县', '23', 100181000),
+(100181010, '安仁县', '28', 100181000),
+(100180603, '君山区', '11', 100180600),
+(100180609, '临湘市', '82', 100180600),
+(100180602, '云溪区', '3', 100180600),
+(100180607, '平江县', '26', 100180600),
+(100180606, '湘阴县', '24', 100180600),
+(100180601, '岳阳楼区', '2', 100180600),
+(100180608, '汨罗市', '81', 100180600),
+(100180604, '岳阳县', '21', 100180600),
+(100180605, '华容县', '23', 100180600),
+(100180305, '韶山市', '82', 100180300),
+(100180302, '岳塘区', '4', 100180300),
+(100180301, '雨湖区', '2', 100180300),
+(100180303, '湘潭县', '21', 100180300),
+(100180304, '湘乡市', '81', 100180300),
+(100181401, '吉首市', '1', 100181400),
+(100181406, '古丈县', '26', 100181400),
+(100181408, '龙山县', '30', 100181400),
+(100181407, '永顺县', '27', 100181400),
+(100181402, '泸溪县', '22', 100181400),
+(100181404, '花垣县', '24', 100181400),
+(100181405, '保靖县', '25', 100181400),
+(100181403, '凤凰县', '23', 100181400),
+(100161301, '宛城区', '2', 100161300),
+(100161302, '卧龙区', '3', 100161300),
+(100161308, '淅川县', '26', 100161300),
+(100161307, '内乡县', '25', 100161300),
+(100161313, '邓州市', '81', 100161300),
+(100161304, '方城县', '22', 100161300),
+(100161312, '桐柏县', '30', 100161300),
+(100161306, '镇平县', '24', 100161300),
+(100161303, '南召县', '21', 100161300),
+(100161305, '西峡县', '23', 100161300),
+(100161311, '新野县', '29', 100161300),
+(100161310, '唐河县', '28', 100161300),
+(100161309, '社旗县', '27', 100161300),
+(100160901, '华龙区', '2', 100160900),
+(100160905, '台前县', '27', 100160900),
+(100160906, '濮阳县', '28', 100160900),
+(100160904, '范　县', '26', 100160900),
+(100160903, '南乐县', '23', 100160900),
+(100160902, '清丰县', '22', 100160900),
+(100160701, '红旗区', '2', 100160700),
+(100160712, '辉县市', '82', 100160700),
+(100160702, '卫滨区', '3', 100160700),
+(100160703, '凤泉区', '4', 100160700),
+(100160705, '新乡县', '21', 100160700),
+(100160709, '封丘县', '27', 100160700),
+(100160711, '卫辉市', '81', 100160700),
+(100160704, '牧野区', '11', 100160700),
+(100160708, '延津县', '26', 100160700),
+(100160710, '长垣县', '28', 100160700),
+(100160707, '原阳县', '25', 100160700),
+(100160706, '获嘉县', '24', 100160700),
+(100161202, '渑池县', '21', 100161200),
+(100161201, '湖滨区', '2', 100161200),
+(100161205, '义马市', '81', 100161200),
+(100161203, '陕　县', '22', 100161200),
+(100161206, '灵宝市', '82', 100161200),
+(100161204, '卢氏县', '24', 100161200),
+(100160808, '温　县', '25', 100160800),
+(100160810, '孟州市', '83', 100160800),
+(100160807, '武陟县', '23', 100160800),
+(100160803, '马村区', '4', 100160800),
+(100160805, '修武县', '21', 100160800),
+(100160802, '中站区', '3', 100160800),
+(100160809, '沁阳市', '82', 100160800),
+(100160806, '博爱县', '22', 100160800),
+(100160801, '解放区', '2', 100160800),
+(100160804, '山阳区', '11', 100160800),
+(100161503, '罗山县', '21', 100161500),
+(100161510, '息　县', '28', 100161500),
+(100161501, '浉河区', '2', 100161500),
+(100161504, '光山县', '22', 100161500),
+(100161505, '新　县', '23', 100161500),
+(100161509, '淮滨县', '27', 100161500),
+(100161508, '潢川县', '26', 100161500),
+(100161506, '商城县', '24', 100161500),
+(100161507, '固始县', '25', 100161500),
+(100161502, '平桥区', '3', 100161500),
+(100160404, '湛河区', '11', 100160400),
+(100160403, '石龙区', '4', 100160400);
+INSERT INTO region(id, name, code, city_id) VALUES(100160407, '鲁山县', '23', 100160400),
+(100160410, '汝州市', '82', 100160400),
+(100160406, '叶　县', '22', 100160400),
+(100160402, '卫东区', '3', 100160400),
+(100160409, '舞钢市', '81', 100160400),
+(100160405, '宝丰县', '21', 100160400),
+(100160401, '新华区', '2', 100160400),
+(100160408, '郏　县', '25', 100160400),
+(100161703, '上蔡县', '22', 100161700),
+(100161709, '遂平县', '28', 100161700),
+(100161702, '西平县', '21', 100161700),
+(100161705, '正阳县', '24', 100161700),
+(100161707, '泌阳县', '26', 100161700),
+(100161710, '新蔡县', '29', 100161700),
+(100161706, '确山县', '25', 100161700),
+(100161704, '平舆县', '23', 100161700),
+(100161701, '驿城区', '2', 100161700),
+(100161708, '汝南县', '27', 100161700),
+(100160311, '汝阳县', '26', 100160300),
+(100160315, '偃师市', '81', 100160300),
+(100160312, '宜阳县', '27', 100160300),
+(100160302, '西工区', '3', 100160300),
+(100160303, '瀍河回族区', '4', 100160300),
+(100160309, '栾川县', '24', 100160300),
+(100160307, '孟津县', '22', 100160300),
+(100160305, '吉利区', '6', 100160300),
+(100160306, '洛龙区', '11', 100160300),
+(100160310, '嵩　县', '25', 100160300),
+(100160304, '涧西区', '5', 100160300),
+(100160314, '伊川县', '29', 100160300),
+(100160313, '洛宁县', '28', 100160300),
+(100160301, '老城区', '2', 100160300),
+(100160308, '新安县', '23', 100160300),
+(100160104, '金水区', '5', 100160100),
+(100160112, '登封市', '85', 100160100),
+(100160106, '惠济区', '8', 100160100),
+(100160109, '荥阳市', '82', 100160100),
+(100160107, '中牟县', '22', 100160100),
+(100160111, '新郑市', '84', 100160100),
+(100160102, '二七区', '3', 100160100),
+(100160103, '管城回族区', '4', 100160100),
+(100160110, '新密市', '83', 100160100),
+(100160105, '上街区', '6', 100160100),
+(100160108, '巩义市', '81', 100160100),
+(100160101, '中原区', '2', 100160100),
+(100160207, '通许县', '22', 100160200),
+(100160206, '杞　县', '21', 100160200),
+(100160201, '龙亭区', '2', 100160200),
+(100160204, '禹王台区', '5', 100160200),
+(100160209, '开封县', '24', 100160200),
+(100160202, '顺河回族区', '3', 100160200),
+(100160208, '尉氏县', '23', 100160200),
+(100160205, '金明区', '11', 100160200),
+(100160203, '鼓楼区', '4', 100160200),
+(100160210, '兰考县', '25', 100160200),
+(100161609, '鹿邑县', '28', 100161600),
+(100161605, '沈丘县', '24', 100161600),
+(100161602, '扶沟县', '21', 100161600),
+(100161607, '淮阳县', '26', 100161600),
+(100161610, '项城市', '81', 100161600),
+(100161603, '西华县', '22', 100161600),
+(100161606, '郸城县', '25', 100161600),
+(100161601, '川汇区', '2', 100161600),
+(100161604, '商水县', '23', 100161600),
+(100161608, '太康县', '27', 100161600),
+(100160603, '淇滨区', '11', 100160600),
+(100160601, '鹤山区', '2', 100160600),
+(100160602, '山城区', '3', 100160600),
+(100160604, '浚　县', '21', 100160600),
+(100160605, '淇　县', '22', 100160600),
+(100161001, '魏都区', '2', 100161000),
+(100161006, '长葛市', '82', 100161000),
+(100161002, '许昌县', '23', 100161000),
+(100161005, '禹州市', '81', 100161000),
+(100161003, '鄢陵县', '24', 100161000),
+(100161004, '襄城县', '25', 100161000),
+(100160509, '林州市', '81', 100160500),
+(100160502, '北关区', '3', 100160500),
+(100160503, '殷都区', '5', 100160500),
+(100160504, '龙安区', '6', 100160500),
+(100160501, '文峰区', '2', 100160500),
+(100160507, '滑　县', '26', 100160500),
+(100160506, '汤阴县', '23', 100160500),
+(100160508, '内黄县', '27', 100160500),
+(100160505, '安阳县', '22', 100160500),
+(100161104, '舞阳县', '21', 100161100),
+(100161103, '召陵区', '4', 100161100),
+(100161101, '源汇区', '2', 100161100),
+(100161105, '临颍县', '22', 100161100),
+(100161102, '郾城区', '3', 100161100),
+(100161406, '柘城县', '24', 100161400),
+(100161401, '梁园区', '2', 100161400),
+(100161407, '虞城县', '25', 100161400),
+(100161403, '民权县', '21', 100161400),
+(100161404, '睢　县', '22', 100161400),
+(100161409, '永城市', '81', 100161400),
+(100161408, '夏邑县', '26', 100161400),
+(100161402, '睢阳区', '3', 100161400),
+(100161405, '宁陵县', '23', 100161400),
+(100290606, '玛多县', '26', 100290600);
+INSERT INTO region(id, name, code, city_id) VALUES(100290605, '久治县', '25', 100290600),
+(100290601, '玛沁县', '21', 100290600),
+(100290602, '班玛县', '22', 100290600),
+(100290604, '达日县', '24', 100290600),
+(100290603, '甘德县', '23', 100290600),
+(100290404, '河南蒙古族自治县', '24', 100290400),
+(100290403, '泽库县', '23', 100290400),
+(100290401, '同仁县', '21', 100290400),
+(100290402, '尖扎县', '22', 100290400),
+(100290703, '称多县', '23', 100290700),
+(100290704, '治多县', '24', 100290700),
+(100290706, '曲麻莱县', '26', 100290700),
+(100290702, '杂多县', '22', 100290700),
+(100290701, '玉树县', '21', 100290700),
+(100290705, '囊谦县', '25', 100290700),
+(100290805, '天峻县', '23', 100290800),
+(100290801, '格尔木市', '1', 100290800),
+(100290803, '乌兰县', '21', 100290800),
+(100290804, '都兰县', '22', 100290800),
+(100290802, '德令哈市', '2', 100290800),
+(100290201, '平安县', '21', 100290200),
+(100290204, '互助土族自治县', '26', 100290200),
+(100290202, '民和回族土族自治县', '22', 100290200),
+(100290203, '乐都县', '23', 100290200),
+(100290206, '循化撒拉族自治县', '28', 100290200),
+(100290205, '化隆回族自治县', '27', 100290200),
+(100290303, '海晏县', '23', 100290300),
+(100290302, '祁连县', '22', 100290300),
+(100290301, '门源回族自治县', '21', 100290300),
+(100290304, '刚察县', '24', 100290300),
+(100290105, '大通回族土族自治县', '21', 100290100),
+(100290101, '城东区', '2', 100290100),
+(100290106, '湟中县', '22', 100290100),
+(100290104, '城北区', '5', 100290100),
+(100290103, '城西区', '4', 100290100),
+(100290102, '城中区', '3', 100290100),
+(100290107, '湟源县', '23', 100290100),
+(100290504, '兴海县', '24', 100290500),
+(100290502, '同德县', '22', 100290500),
+(100290503, '贵德县', '23', 100290500),
+(100290505, '贵南县', '25', 100290500),
+(100290501, '共和县', '21', 100290500);
