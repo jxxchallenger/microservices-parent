@@ -54,7 +54,7 @@ public class UserMapperTest extends BaseMapperTest {
 		}
 	}
 	
-	@Test(priority = 4)
+	//@Test(priority = 4)
 	public void testInsert(){
 		SqlSession session = getSqlSession();
 		
@@ -78,7 +78,7 @@ public class UserMapperTest extends BaseMapperTest {
 		}
 	}
 	
-	@Test(priority = 5)
+	//@Test(priority = 5)
 	public void testInsert3(){
 		SqlSession session = getSqlSession();
 		
@@ -100,5 +100,43 @@ public class UserMapperTest extends BaseMapperTest {
 		} finally {
 			session.close();
 		}
+	}
+	
+	//@Test(priority = 6)
+	public void testUpdateById(){
+		SqlSession session = getSqlSession();
+		
+		try {
+			UserMapper mapper = session.getMapper(UserMapper.class);
+			SysUser user = new SysUser();
+			user.setId(10002L);
+			user.setUserName("username");
+			user.setUserPassword("123456789");
+			user.setUserEmail("763615181@qq.com");
+			user.setUserInfo("hello");
+			user.setHeadImg(new byte[] { 1, 2, 3 });
+			user.setCreateTime(new Date());
+			int count = mapper.updateById(user);
+			session.commit();
+			Assert.assertEquals(count, 1);
+		} finally {
+			session.close();
+		}
+		
+	}
+	
+	@Test(priority = 7)
+	public void testDeleteById(){
+		SqlSession session = getSqlSession();
+		
+		try {
+			UserMapper mapper = session.getMapper(UserMapper.class);
+			int result = mapper.deleteById(10002L);
+			Assert.assertEquals(result, 1);
+			session.commit();
+		} finally {
+			session.close();
+		}
+		
 	}
 }

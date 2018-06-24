@@ -89,4 +89,20 @@
 			SELECT LAST_INSERT_ID()
 		</selectKey>
 	</insert>
+	
+	<update id="updateById">
+		UPDATE sys_user SET
+			user_name = #{userName},
+			user_password = #{userPassword},
+			user_email = #{userEmail},
+			user_info = #{userInfo},
+			head_img = #{headImg, jdbcType=BLOB },
+			create_time = #{createTime, jdbcType=TIMESTAMP}
+		WHERE
+			id = #{id}
+	</update>
+	
+	<delete id="deleteById">
+		DELETE FROM sys_user WHERE id = #{id}
+	</delete>
 </mapper>
