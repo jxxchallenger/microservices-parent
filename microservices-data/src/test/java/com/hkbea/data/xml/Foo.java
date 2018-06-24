@@ -41,6 +41,7 @@ public class Foo {
 				
 				e.printStackTrace();
 			}
+			reader2.close();
 		} catch (FileNotFoundException e) {
 			
 			e.printStackTrace();
