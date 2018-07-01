@@ -22,4 +22,33 @@ public class RoleMapperTest extends BaseMapperTest {
 			session.commit();
 		}
 	}
+	
+	@Test(priority = 2)
+	public void testSelectById(){
+		SqlSession session = getSqlSession();
+		
+		try {
+			RoleMapper mapper = session.getMapper(RoleMapper.class);
+			SysRole role = mapper.selectById(10000L);
+			Assert.assertNotNull(role);
+		} finally {
+			session.commit();
+		}
+		
+	}
+	
+	@Test(priority = 3)
+	public void testSelectById2(){
+		SqlSession session = getSqlSession();
+		
+		try {
+			RoleMapper mapper = session.getMapper(RoleMapper.class);
+			SysRole role = mapper.selectById2(10000L);
+			Assert.assertNotNull(role);
+		} finally {
+			session.commit();
+		}
+		
+	}
+	
 }
