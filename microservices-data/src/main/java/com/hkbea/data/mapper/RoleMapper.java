@@ -2,6 +2,7 @@ package com.hkbea.data.mapper;
 
 import java.util.List;
 
+import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Options;
 import org.apache.ibatis.annotations.Param;
@@ -44,5 +45,6 @@ public interface RoleMapper {
 	@Update(value = { "UPDATE sys_role set role_name = #{roleName}, enabled = #{enabled}, create_by = #{createBy}, create_time = #{createTime} WHERE id = #{id, jdbcType=TIMESTAMP}" })
 	int updateById(SysRole sysRole);
 	
-	
+	@Delete(value = { "DELETE FROM sys_role WHERE id = #{id}" })
+	int deleteById(Long id);
 }
