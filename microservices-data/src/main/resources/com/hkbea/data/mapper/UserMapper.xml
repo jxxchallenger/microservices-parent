@@ -105,4 +105,71 @@
 	<delete id="deleteById">
 		DELETE FROM sys_user WHERE id = #{id}
 	</delete>
+	
+	<select id="selectByUser" resultType="com.hkbea.data.model.SysUser">
+		SELECT 
+			id, 
+			user_name as userName, 
+			user_password as userPassword, 
+			user_email as userEmail, 
+			user_info as userInfo, 
+			head_img as headImg, 
+			create_time as createTime 
+		FROM sys_user 
+		WHERE 1 = 1
+		<if test="userName != null and userName != ''">
+			AND user_name like concat('%', #{userName}, '%')
+		</if>
+		<if test="userEmail != null and userEmail != ''">
+			AND user_email = #{userEmail}
+		</if>
+	</select>
+	
+	<update id="updateByIdSelective">
+		UPDATE sys_user SET
+		<if test="userName != null and userName != ''">
+			user_name = #{userName},
+		</if>
+		<if test="userPassword != null and userPassword != ''">
+			user_password = #{userPassword},
+		</if>
+		<if test="userEmail != null and userEmail != ''">
+			user_email = #{userEmail},
+		</if>
+		<if test="userInfo != null and userInfo != ''">
+			user_info = #{userInfo},
+		</if>
+		<if test="headImg != null">
+			head_img = #{headImg, jdbcType=BLOB },
+		</if>
+		<if test="createTime != null">
+			create_time = #{createTime, jdbcType=TIMESTAMP},
+		</if>
+		id = #{id}
+		WHERE id = #{id}
+	</update>
+	
+	<select id="selectByIdOrUserName" resultType="com.hkbea.data.model.SysUser">
+		SELECT 
+			id, 
+			user_name as userName, 
+			user_password as userPassword, 
+			user_email as userEmail, 
+			user_info as userInfo, 
+			head_img as headImg, 
+			create_time as createTime 
+		FROM sys_user 
+		WHERE 1 = 1
+		<choose>
+			<when test="id != null">
+				AND id = #{id}
+			</when>
+			<when test="userName != null and userName != ''">
+				AND user_name = #{userName}
+			</when>
+			<otherwise>
+				AND 1 = 2
+			</otherwise>
+		</choose>
+	</select>
 </mapper>

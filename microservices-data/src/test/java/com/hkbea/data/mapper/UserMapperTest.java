@@ -125,7 +125,7 @@ public class UserMapperTest extends BaseMapperTest {
 		
 	}
 	
-	@Test(priority = 7)
+	//@Test(priority = 7)
 	public void testDeleteById(){
 		SqlSession session = getSqlSession();
 		
@@ -138,5 +138,37 @@ public class UserMapperTest extends BaseMapperTest {
 			session.close();
 		}
 		
+	}
+	
+	@Test(priority = 8)
+	public void testSelectByUser(){
+		SqlSession session = getSqlSession();
+		
+		SysUser sysUser = new SysUser();
+		sysUser.setUserName("admin");
+		sysUser.setUserEmail("admin@qq.com");
+		
+		try {
+			UserMapper mapper = session.getMapper(UserMapper.class);
+			List<SysUser> users = mapper.selectByUser(sysUser);
+			Assert.assertTrue(users.size() > 0);
+		} finally {
+			session.close();
+		}
+	}
+	
+	@Test(priority = 11)
+	public void testSelectByIdOrUserName(){
+		SqlSession session = getSqlSession();
+		
+		SysUser sysUser = new SysUser();
+		
+		try {
+			UserMapper mapper = session.getMapper(UserMapper.class);
+			SysUser sysUser2 = mapper.selectByIdOrUserName(sysUser);
+			Assert.assertNull(sysUser2);
+		} finally {
+			session.close();
+		}
 	}
 }
