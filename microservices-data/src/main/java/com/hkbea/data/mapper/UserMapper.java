@@ -26,4 +26,8 @@ public interface UserMapper {
 	int updateByIdSelective(SysUser sysUser);
 	
 	SysUser selectByIdOrUserName(SysUser sysUser);
+	
+	List<SysUser> selectByIdList(List<Long> ids);
+	
+	int batchInsert(List<SysUser> users);
 }

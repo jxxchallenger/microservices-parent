@@ -172,4 +172,42 @@
 			</otherwise>
 		</choose>
 	</select>
+	
+	<select id="selectByIdList" resultType="com.hkbea.data.model.SysUser">
+		SELECT
+			id,
+			user_name as userName,
+			user_password as userPassword,
+			user_email as userEmail,
+			user_info as userInfo,
+			head_img as headImg,
+			create_time as createTime
+		FROM sys_user
+		WHERE id IN 
+		<foreach collection="list" item="id" index="i" open="(" close=")" separator=",">
+			#{id}
+		</foreach>
+	
+	</select>
+	
+	<insert id="batchInsert" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO sys_user(
+				user_name,
+				user_password,
+				user_email,
+				user_info,
+				head_img,
+				create_time
+			) VALUES
+			<foreach collection="list" index="index" separator="," item="user">
+				(
+					#{user.userName},
+					#{user.userPassword},
+					#{user.userEmail},
+					#{user.userInfo},
+					#{user.headImg, jdbcType=BLOB },
+					#{user.createTime, jdbcType=TIMESTAMP}
+				)
+			</foreach>
+	</insert>
 </mapper>

@@ -1,5 +1,6 @@
 package com.hkbea.data.mapper;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
@@ -170,5 +171,49 @@ public class UserMapperTest extends BaseMapperTest {
 		} finally {
 			session.close();
 		}
+	}
+	
+	@Test(priority = 12)
+	public void testSelectByIdList(){
+		SqlSession session = getSqlSession();
+		
+		List<Long> ids = new ArrayList<Long>();
+		ids.add(10000L);
+		ids.add(10001L);
+		
+		try {
+			UserMapper mapper = session.getMapper(UserMapper.class);
+			List<SysUser> sysUsers = mapper.selectByIdList(ids);
+			Assert.assertEquals(sysUsers.size(), 2);
+		} finally {
+			session.close();
+		}
+	}
+	
+	@Test(priority = 13)
+	public void testBatchInsert(){
+		SqlSession session = getSqlSession();
+		
+		List<SysUser> sysUsers = new ArrayList<SysUser>();
+		for(int i = 0; i < 2; i++){
+			SysUser sysUser = new SysUser();
+			sysUser.setUserName("test batch insert " + i);
+			sysUser.setUserPassword("123456");
+			sysUser.setUserEmail("batch@qq.com");
+			sysUser.setUserInfo("batch123456");
+			sysUser.setHeadImg(new byte[]{1, 2, 3});
+			sysUser.setCreateTime(new Date());
+			sysUsers.add(sysUser);
+		}
+		
+		try {
+			UserMapper mapper = session.getMapper(UserMapper.class);
+			int count = mapper.batchInsert(sysUsers);
+			session.commit();
+			Assert.assertEquals(count, 2);
+		} finally {
+			session.close();
+		}
+		
 	}
 }
