@@ -190,7 +190,7 @@ public class UserMapperTest extends BaseMapperTest {
 		}
 	}
 	
-	@Test(priority = 13)
+	//@Test(priority = 13)
 	public void testBatchInsert(){
 		SqlSession session = getSqlSession();
 		
@@ -215,5 +215,44 @@ public class UserMapperTest extends BaseMapperTest {
 			session.close();
 		}
 		
+	}
+	
+	@Test(priority = 14)
+	public void testSelectUserAndRoleById(){
+		SqlSession session = getSqlSession();
+		
+		try {
+			UserMapper mapper = session.getMapper(UserMapper.class);
+			SysUser sysUser = mapper.selectUserAndRoleById(10000L);
+			Assert.assertNotNull(sysUser.getRole());
+		} finally {
+			session.close();
+		}
+	}
+	
+	@Test(priority = 15)
+	public void testSelectUserAndRoleById2(){
+		SqlSession session = getSqlSession();
+		
+		try {
+			UserMapper mapper = session.getMapper(UserMapper.class);
+			SysUser sysUser = mapper.selectUserAndRoleById2(10000L);
+			Assert.assertNotNull(sysUser.getRole());
+		} finally {
+			session.close();
+		}
+	}
+	
+	@Test(priority = 16)
+	public void testselectAllUserAndRoles(){
+		SqlSession session = getSqlSession();
+		
+		try {
+			UserMapper mapper = session.getMapper(UserMapper.class);
+			List<SysUser> users = mapper.selectAllUserAndRoles();
+			Assert.assertNotNull(users);
+		} finally {
+			session.close();
+		}
 	}
 }

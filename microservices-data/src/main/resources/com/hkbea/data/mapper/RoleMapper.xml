@@ -16,4 +16,12 @@
 		WHERE
 			u.id = #{userId} AND r.enabled = #{enabled} 
 	</select>
+	
+	<resultMap type="com.hkbea.data.model.SysRole" id="roleMap">
+		<result property="id" column="id"/>
+		<result property="roleName" column="role_name"/>
+		<result property="enabled" column="enabled"/>
+		<result property="createBy" column="create_by"/>
+		<result property="createTime" column="create_time"/>
+	</resultMap>
 </mapper>

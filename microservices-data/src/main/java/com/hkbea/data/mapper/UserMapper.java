@@ -30,4 +30,10 @@ public interface UserMapper {
 	List<SysUser> selectByIdList(List<Long> ids);
 	
 	int batchInsert(List<SysUser> users);
+	
+	SysUser selectUserAndRoleById(Long id);
+	
+	SysUser selectUserAndRoleById2(Long id);
+	
+	List<SysUser> selectAllUserAndRoles();
 }

@@ -1,6 +1,7 @@
 package com.hkbea.data.model;
 
 import java.util.Date;
+import java.util.List;
 
 public class SysUser {
 
@@ -17,6 +18,13 @@ public class SysUser {
 	private byte[] headImg;
 	
 	private Date createTime;
+	
+	/**
+	 * 练习1对1关系
+	 */
+	private SysRole role;
+	
+	private List<SysRole> roles;
 
 	public Long getId() {
 		return id;
@@ -72,6 +80,22 @@ public class SysUser {
 
 	public void setCreateTime(Date createTime) {
 		this.createTime = createTime;
+	}
+
+	public SysRole getRole() {
+		return role;
+	}
+
+	public void setRole(SysRole role) {
+		this.role = role;
+	}
+
+	public List<SysRole> getRoles() {
+		return roles;
+	}
+
+	public void setRoles(List<SysRole> roles) {
+		this.roles = roles;
 	}
 	
 }

@@ -210,4 +210,77 @@
 				)
 			</foreach>
 	</insert>
+	
+	<select id="selectUserAndRoleById" resultType="com.hkbea.data.model.SysUser">
+		SELECT 
+			u.id,
+			u.user_name as userName,
+			u.user_password as userPassword,
+			u.user_email as userEmail,
+			u.user_info as userInfo,
+			u.head_img as headImg,
+			u.create_time as createTime,
+			r.id as 'role.id',
+			r.role_name as 'role.roleName',
+			r.enabled as 'role.enabled',
+			r.create_by as 'role.createBy',
+			r.create_time as 'role.createTime'
+		FROM sys_user u
+			INNER JOIN sys_user_role ur ON u.id = ur.user_id
+			INNER JOIN sys_role r ON ur.role_id = r.id
+		WHERE u.id = #{id} 
+	</select>
+	
+	<resultMap type="com.hkbea.data.model.SysUser" id="userRoleMap" extends="userMap">
+		<association property="role" javaType="com.hkbea.data.model.SysRole">
+			<result property="id" column="role_id"/>
+			<result property="roleName" column="role_name"/>
+			<result property="enabled" column="enabled"/>
+			<result property="createTime" column="role_create_time" jdbcType="TIMESTAMP" />
+			<result property="createBy" column="create_by"/>
+		</association>
+	</resultMap>
+	
+	<select id="selectUserAndRoleById2" resultMap="userRoleMap">
+		SELECT 
+			u.id,
+			u.user_name,
+			u.user_password,
+			u.user_email,
+			u.user_info,
+			u.head_img,
+			u.create_time,
+			r.id as role_id,
+			r.role_name,
+			r.enabled,
+			r.create_by,
+			r.create_time as role_create_time
+		FROM sys_user u
+			INNER JOIN sys_user_role ur ON u.id = ur.user_id
+			INNER JOIN sys_role r ON ur.role_id = r.id
+		WHERE u.id = #{id} 
+	</select>
+	
+	<resultMap type="com.hkbea.data.model.SysUser" id="userRolesListMap" extends="userMap">
+		<collection property="roles" columnPrefix="role_" resultMap="com.hkbea.data.mapper.RoleMapper.roleMap"></collection>
+	</resultMap>
+	
+	<select id="selectAllUserAndRoles" resultMap="userRolesListMap">
+		SELECT
+			u.id,
+			u.user_name,
+			u.user_password,
+			u.user_email,
+			u.user_info,
+			u.head_img,
+			u.create_time,
+			r.id as role_id,
+			r.role_name as role_role_name,
+			r.enabled as role_enabled,
+			r.create_by as role_create_by,
+			r.create_time as role_create_time
+		FROM sys_user u
+			INNER JOIN sys_user_role ur ON u.id = ur.user_id
+			INNER JOIN sys_role r ON ur.role_id = r.id
+	</select>
 </mapper>
