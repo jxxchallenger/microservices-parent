@@ -16,11 +16,11 @@
   <dependencies>
   	<dependency>
   		<groupId>org.springframework</groupId>
-  		<artifactId>spring-core</artifactId>
+  		<artifactId>spring-context</artifactId>
   	</dependency>
     <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
       <scope>test</scope>
     </dependency>
   </dependencies>
