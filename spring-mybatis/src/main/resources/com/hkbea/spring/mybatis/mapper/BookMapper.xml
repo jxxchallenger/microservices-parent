@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hkbea.spring.mybatis.mapper.BookMapper">
+    <insert id="add" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO book (name, press_id) VALUE (#{name}, #{press.id})
+    </insert>
+    
+    <insert id="addBookCategory">
+        INSERT INTO book_category VALUES
+            <foreach collection="categories" item="category" separator=",">
+                (#{bookId}, #{category.id})
+            </foreach>
+    </insert>
+    
+    <insert id="addBookAuthor">
+        INSERT INTO book_author VALUES
+            <foreach collection="authors" item="author" separator=",">
+                (#{bookId}, #{author.id})
+            </foreach>
+    </insert>
+    
+    <resultMap type="com.hkbea.spring.mybatis.entity.Book" id="books">
+        <id column="id" property="id"/>
+        <result column="name" property="name"/>
+        <association property="press">
+            <result column="pressId" property="id"/>
+            
+        </association>
+        <!-- collection必须指定ofType属性 -->
+        <collection property="authors" ofType="com.hkbea.spring.mybatis.entity.Author">
+            <result column="authorsId" property="id"/>
+        </collection>
+    </resultMap>
+    
+    <select id="findBooksWithAuthorNameBookName" resultMap="books" >
+        SELECT b.id as id, b.name as name, b.press_id as pressId, a.id as authorsId FROM book b, author a, book_author ba
+         WHERE 
+            b.id = ba.book_id AND a.id = ba.author_id
+            <if test="authorName != null and authorName != ''">
+                AND a.name = #{authorName}
+            </if>
+            <if test="bookName != null and bookName != ''">
+                AND b.name = #{bookName}
+            </if>
+        
+    </select>
+</mapper>
