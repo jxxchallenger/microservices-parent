@@ -67,5 +67,7 @@
 	<!-- 方式二扫描Mapper接口 -->
 	<!-- <mybatis:scan base-package="com.hkbea.data.mapper"/> -->
 	
+    <!-- xml方式声明事务：transactionManager bean + tx:annotation-driven -->
+    <!-- java confing方式声明事务: config类里创建 transactionManager bean + @EnableTransactionManagement 注解-->
 	<tx:annotation-driven/>
 </beans>
