@@ -16,17 +16,18 @@
 	   					   http://www.springframework.org/schema/util
 	   					   http://www.springframework.org/schema/util/spring-util.xsd">
 	
-	<context:component-scan base-package=""></context:component-scan>
+	<context:component-scan base-package="io.jxxchallenger.web"></context:component-scan>
 	
 	<mvc:annotation-driven></mvc:annotation-driven>
-	<mvc:default-servlet-handler/>
-	<!-- <mvc:resources location="/resources/" mapping="/resources/**"></mvc:resources> -->
+	<!-- <mvc:default-servlet-handler/> -->
+	<mvc:resources location="/resources/" mapping="/resources/**"></mvc:resources>
 	
-	<!-- <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+	
+	<bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 		<property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
 		<property name="prefix" value="/WEB-INF/jsp/"/>
 	   	<property name="suffix" value=".jsp"/>
-	</bean> -->
+	</bean>
     
     <!-- ch10 i18n message -->
     <!-- <bean id="messageSource" class="org.springframework.context.support.ReloadableResourceBundleMessageSource">

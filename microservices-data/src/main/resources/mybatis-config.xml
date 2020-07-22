@@ -5,6 +5,12 @@
 		<setting name="logImpl" value="LOG4J2"/>
 	</settings>
 	
+	<plugins>
+		<plugin interceptor="com.github.pagehelper.PageInterceptor">
+			
+		</plugin>
+	</plugins>
+	
 	<environments default="development">
 		<environment id="development">
 			<transactionManager type="JDBC"></transactionManager>
@@ -12,19 +18,19 @@
 				<property name="driver" value="org.mariadb.jdbc.Driver"/>
 				<property name="url" value="jdbc:mariadb://localhost:3306/development"/>
 				<property name="username" value="root"/>
-				<property name="password" value="**********"/>
+				<property name="password" value="*****************"/>
 				<property name="driver.encoding" value="UTF-8"/>
 			</dataSource>
 		</environment>
 	</environments>
 	
 	<mappers>
-		<mapper resource="com/hkbea/data/mapper/CountryMapper.xml"/>
+		<mapper resource="io/jxxchallenger/data/mapper/CountryMapper.xml"/>
 		<!-- <mapper resource="com/hkbea/data/mapper/UserMapper.xml"/>
 		<mapper resource="com/hkbea/data/mapper/RoleMapper.xml"/>
 		<mapper resource="com/hkbea/data/mapper/PrivilegeMapper.xml"/>
 		<mapper resource="com/hkbea/data/mapper/UserRoleMapper.xml"/>
 		<mapper resource="com/hkbea/data/mapper/RolePrivilegeMapper.xml"/> -->
-		<package name="com.hkbea.data.mapper"/>
+		<package name="io.jxxchallenger.data.mapper"/>
 	</mappers>
 </configuration>

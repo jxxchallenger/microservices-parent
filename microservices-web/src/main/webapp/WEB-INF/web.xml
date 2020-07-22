@@ -4,7 +4,7 @@
 	
 	<display-name>Archetype Created Web Application</display-name>
 
-	<context-param>
+	<!-- <context-param>
 		<param-name>spring.profiles.active</param-name>
 		<param-value>dev</param-value>
 	</context-param>
@@ -24,7 +24,7 @@
 
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
-	</listener>
+	</listener> -->
 
 	<servlet>
 		<servlet-name>dispatcher</servlet-name>

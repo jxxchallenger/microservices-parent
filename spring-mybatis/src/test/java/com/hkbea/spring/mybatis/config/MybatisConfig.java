@@ -12,8 +12,8 @@ import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @Configuration
-@MapperScan(basePackages = {"com.hkbea.spring.mybatis.mapper"})
-@ComponentScan(basePackages = {"com.hkbea.spring.mybatis.service"})
+@MapperScan(basePackages = {"io.jxxchallenger.spring.mybatis.mapper"})
+@ComponentScan(basePackages = {"io.jxxchallenger.spring.mybatis.service"})
 @EnableTransactionManagement
 public class MybatisConfig {
 

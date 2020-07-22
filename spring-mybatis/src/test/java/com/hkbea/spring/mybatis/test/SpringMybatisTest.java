@@ -9,11 +9,12 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import com.hkbea.spring.mybatis.config.MybatisConfig;
-import com.hkbea.spring.mybatis.entity.Author;
-import com.hkbea.spring.mybatis.entity.Book;
-import com.hkbea.spring.mybatis.entity.Category;
-import com.hkbea.spring.mybatis.entity.Press;
-import com.hkbea.spring.mybatis.service.BookService;
+
+import io.jxxchallenger.spring.mybatis.entity.Author;
+import io.jxxchallenger.spring.mybatis.entity.Book;
+import io.jxxchallenger.spring.mybatis.entity.Category;
+import io.jxxchallenger.spring.mybatis.entity.Press;
+import io.jxxchallenger.spring.mybatis.service.BookService;
 
 public class SpringMybatisTest {
 

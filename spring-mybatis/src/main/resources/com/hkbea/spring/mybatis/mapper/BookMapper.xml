@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.hkbea.spring.mybatis.mapper.BookMapper">
+<mapper namespace="io.jxxchallenger.spring.mybatis.mapper.BookMapper">
     <insert id="add" useGeneratedKeys="true" keyProperty="id">
         INSERT INTO book (name, press_id) VALUE (#{name}, #{press.id})
     </insert>
@@ -19,7 +19,7 @@
             </foreach>
     </insert>
     
-    <resultMap type="com.hkbea.spring.mybatis.entity.Book" id="books">
+    <resultMap type="io.jxxchallenger.spring.mybatis.entity.Book" id="books">
         <id column="id" property="id"/>
         <result column="name" property="name"/>
         <association property="press">
@@ -27,7 +27,7 @@
             
         </association>
         <!-- collection必须指定ofType属性 -->
-        <collection property="authors" ofType="com.hkbea.spring.mybatis.entity.Author">
+        <collection property="authors" ofType="io.jxxchallenger.spring.mybatis.entity.Author">
             <result column="authorsId" property="id"/>
         </collection>
     </resultMap>

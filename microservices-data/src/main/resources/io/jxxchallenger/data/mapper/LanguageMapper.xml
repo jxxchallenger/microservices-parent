@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="io.jxxchallenger.data.mapper.LanguageMapper">
+	
+	<update id="createTable">
+		CREATE TABLE IF NOT EXISTS `language`(  
+		  `id` INT NOT NULL,
+		  `name` VARCHAR(20),
+		  `code` VARCHAR(10),
+		  PRIMARY KEY (`id`)
+		) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='语言表'
+	</update>
+	
+	<insert id="batchInsert">
+		REPLACE INTO language(
+				id, 
+				name, 
+				code
+			) VALUES
+			<foreach collection="list" index="index" item="language" separator=",">
+				(
+					#{language.lcId},
+					#{language.name},
+					#{language.code}
+				)
+			</foreach>
+			
+	</insert>
+</mapper>
