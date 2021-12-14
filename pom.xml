@@ -8,7 +8,7 @@
   <properties>
   	<spring.version>5.1.7.RELEASE</spring.version>
   	<mybatis.version>3.5.1</mybatis.version>
-  	<log4j2.version>2.11.0</log4j2.version>
+  	<log4j2.version>2.16.0</log4j2.version>
   	<slf4j.version>1.7.25</slf4j.version>
   	<jackson.version>2.9.8</jackson.version>
   	<mariadb.version>2.2.3</mariadb.version>
